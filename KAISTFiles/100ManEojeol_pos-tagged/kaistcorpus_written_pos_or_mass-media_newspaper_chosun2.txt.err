@@ -1,0 +1,35 @@
+notag:1	1	1	0	수정	hwp	-
+notag:2	12	2	0	*		+
+notag:45	4	1	0	이렇게	이렇pad	+
+replace tag:45	4	1	0	이렇게	이렇	pad	+
+notag:45	4	2	0	*		.
+notag:62	24	2	0	*		+
+notag:183	12	1	0	국산화시켜	국산ncn	+
+replace tag:183	12	1	0	국산화시켜	국산	ncn	+
+notag:183	12	2	0	*		.
+notag:192	9	8	0	*	방어	.
+notag:198	12	2	0	*	이jp	+
+notag:330	25	5	0	*		+
+notag:382	6	2	0	*	sp	.
+replace tag:382	6	2	0	*		sp	.
+notag:386	9	4	0	*		+
+notag:449	3	1	0	시각)		+
+notag:498	7	9	0	*		.
+notag:540	14	7	0	*		+
+notag:683	5	2	0	*	후보ncn	+
+replace tag:683	5	2	0	*	후보	ncn	+
+notag:683	5	3	0	*		.
+notag:740	13	7	0	*	세	.
+notag:740	14	9	0	*	며	.
+notag:1032	16	4	0	*	를	.
+notag:1116	5	4	0	*		+
+notag:1119	3	3	0	*		.
+notag:1264	7	1	0	건전한	C	+
+notag:1264	7	2	0	*	에서부터	.
+notag:1301	9	1	0	이번	이mmd	+
+replace tag:1301	9	1	0	이번	이	mmd	+
+notag:1301	9	2	0	*		.
+notag:1303	13	1	0	앞으로	앞ncn	+
+replace tag:1303	13	1	0	앞으로	앞	ncn	+
+notag:1303	13	2	0	*		.
+notag:1341	2	3	0	*		+

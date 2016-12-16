@@ -1,0 +1,9 @@
+notag:10	2	3	0	*	으로jca	+
+replace tag:10	2	3	0	*	으로	jca	+
+notag:10	2	4	0	*		.
+notag:122	11	2	0	*	으로jca	+
+replace tag:122	11	2	0	*	으로	jca	+
+notag:122	11	3	0	*		.
+notag:472	20	1	0	가속도가	가속도ncn	+
+replace tag:472	20	1	0	가속도가	가속도	ncn	+
+notag:472	20	2	0	*		.

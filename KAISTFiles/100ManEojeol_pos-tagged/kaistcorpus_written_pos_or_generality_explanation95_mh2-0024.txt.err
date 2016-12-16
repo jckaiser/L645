@@ -1,0 +1,9 @@
+notag:43	1	2	0	*	라ef	+
+replace tag:43	1	2	0	*	라	ef	+
+notag:43	1	3	0	*		.
+notag:75	7	1	0	012999500	ep	+
+replace tag:75	7	1	0	012999500		ep	+
+notag:75	7	2	0	*		.
+notag:280	19	1	0	의미있는	의미ncn	+
+replace tag:280	19	1	0	의미있는	의미	ncn	+
+notag:280	19	2	0	*		.

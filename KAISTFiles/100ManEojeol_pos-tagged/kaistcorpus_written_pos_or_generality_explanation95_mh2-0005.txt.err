@@ -1,0 +1,52 @@
+notag:75	29	1	0			-
+notag:97	5	3	0	*	었ep	+
+replace tag:97	5	3	0	*	었	ep	+
+notag:97	5	4	0	*		.
+notag:99	28	1	0	기원전	기원ncn	+
+replace tag:99	28	1	0	기원전	기원	ncn	+
+notag:99	28	2	0	*		.
+notag:112	1	1	0	금문의	금문ncn	+
+replace tag:112	1	1	0	금문의	금문	ncn	+
+notag:112	1	2	0	*		.
+notag:280	18	3	0	*	어ecs	.
+replace tag:280	18	3	0	*	어	ecs	.
+notag:294	2	3	0	*	이jp	+
+notag:298	9	1	0	가자	가px	+
+replace tag:298	9	1	0	가자	가	px	+
+notag:298	9	2	0	*		.
+notag:314	29	1	0	의심되는	의심ncpa	+
+replace tag:314	29	1	0	의심되는	의심	ncpa	+
+notag:314	29	2	0	*		.
+notag:332	1	1	0	춘추는	춘추nq	+
+replace tag:332	1	1	0	춘추는	춘추	nq	+
+notag:332	1	2	0	*		.
+notag:370	25	1	0	시호는	시호ncn	+
+replace tag:370	25	1	0	시호는	시호	ncn	+
+notag:370	25	2	0	*		.
+notag:384	11	1	0	아니겠느냐	아니paa	+
+replace tag:384	11	1	0	아니겠느냐	아니	paa	+
+notag:384	11	2	0	*		.
+notag:428	23	1	0	초나라의	초나라nq	+
+replace tag:428	23	1	0	초나라의	초나라	nq	+
+notag:428	23	2	0	*		.
+notag:454	27	1	0	)'	)sr	+
+replace tag:454	27	1	0	)'	)	sr	+
+notag:454	27	2	0	*		.
+notag:454	44	4	0	*	는jxc	.
+replace tag:454	44	4	0	*	는	jxc	.
+notag:534	11	1	0	노담도	노담nq	+
+replace tag:534	11	1	0	노담도	노담	nq	+
+notag:534	11	2	0	*		.
+notag:647	11	1	0	실존을	실존ncn	+
+replace tag:647	11	1	0	실존을	실존	ncn	+
+notag:647	11	2	0	*		.
+notag:648	65	1	0	실존을	실존ncn	+
+replace tag:648	65	1	0	실존을	실존	ncn	+
+notag:648	65	2	0	*		.
+notag:649	14	1	0	후세의	후세ncn	+
+replace tag:649	14	1	0	후세의	후세	ncn	+
+notag:649	14	2	0	*		.
+notag:649	18	1	0	실존에	실존ncn	+
+replace tag:649	18	1	0	실존에	실존	ncn	+
+notag:649	18	2	0	*		.
+notag:653	22	3	0	*		.

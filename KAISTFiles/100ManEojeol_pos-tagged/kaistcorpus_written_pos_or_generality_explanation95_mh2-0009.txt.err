@@ -1,0 +1,6 @@
+notag:23	9	3	0	*		+
+notag:30	2	2	0	*		+
+notag:86	10	2	0	*		+
+notag:287	8	2	0	*	го.xsv	+
+replace tag:287	8	2	0	*	го.	xsv	+
+notag:287	8	3	0	*		.

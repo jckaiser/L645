@@ -1,0 +1,70 @@
+notag:1	1	1	0	KORTERM(r)	chosun4.hwp	-
+notag:30	10	3	0	*		+
+notag:53	18	2	0	*		+
+notag:99	2	1	0	구청장협의회는	구청ncn	+
+replace tag:99	2	1	0	구청장협의회는	구청	ncn	+
+notag:99	2	2	0	*		.
+notag:127	5	3	0	*		+
+notag:223	5	3	0	*	토론	.
+notag:234	13	2	0	*		+
+notag:243	5	3	0	*		+
+notag:270	26	3	0	*		+
+notag:276	22	3	0	*		+
+notag:280	12	3	0	*		+
+notag:286	10	3	0	*		.
+notag:315	6	1	0	재협상은	재xp	+
+replace tag:315	6	1	0	재협상은	재	xp	+
+notag:315	6	2	0	*		.
+notag:335	1	2	0	*		.
+notag:335	11	2	0	*		+
+notag:351	17	2	0	*		+
+notag:398	14	5	0	*		+
+notag:402	2	4	0	*		+
+notag:416	1	2	0	*		+
+notag:484	5	2	0	*		+
+notag:496	10	3	0	*		.
+notag:511	5	4	0	*		+
+notag:513	2	3	0	*		+
+notag:515	4	2	0	*		+
+notag:526	10	2	0	*		+
+notag:563	13	2	0	*	어ecx	+
+replace tag:563	13	2	0	*	어	ecx	+
+notag:563	13	3	0	*		.
+notag:597	4	3	0	*		+
+notag:627	13	5	0	*		+
+notag:637	8	1	0	덴대학에서	덴대학nq	+
+replace tag:637	8	1	0	덴대학에서	덴대학	nq	+
+notag:637	8	2	0	*		.
+notag:651	24	3	0	*		+
+notag:651	26	3	0	*		+
+notag:653	8	3	0	*		+
+notag:665	18	2	0	*		+
+notag:666	17	4	0	*		+
+notag:683	18	3	0	*		+
+notag:711	7	2	0	*	어	+
+notag:711	7	3	0	*	ecx	+
+replace tag:711	7	3	0	*		ecx	+
+notag:711	7	4	0	*		.
+notag:788	6	4	0	*		+
+notag:813	7	2	0	*	어ecx	+
+replace tag:813	7	2	0	*	어	ecx	+
+notag:813	7	3	0	*		.
+notag:829	12	2	0	*		+
+notag:837	8	2	0	*		+
+notag:883	12	2	0	*		+
+notag:914	51	2	0	*		+
+notag:916	14	2	0	*		+
+notag:974	6	2	0	*		+
+notag:974	9	4	0	*		+
+notag:1037	10	4	0	*		+
+notag:1043	13	2	0	*	어.ecs	+
+replace tag:1043	13	2	0	*	어.	ecs	+
+notag:1043	13	3	0	*		.
+notag:1055	13	4	0	*		+
+notag:1155	7	2	0	*		.
+notag:1173	5	2	0	*	어ecx	+
+replace tag:1173	5	2	0	*	어	ecx	+
+notag:1173	5	3	0	*		.
+notag:1294	10	2	0	*		+
+notag:1310	5	3	0	*		+
+notag:1365	2	1	0			-

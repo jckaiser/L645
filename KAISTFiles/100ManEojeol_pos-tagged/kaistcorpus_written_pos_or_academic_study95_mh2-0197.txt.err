@@ -1,0 +1,26 @@
+notag:1	2	1	0			-
+notag:9	14	1	0	자세히	자세ncn	+
+replace tag:9	14	1	0	자세히	자세	ncn	+
+notag:9	14	2	0	*		.
+notag:30	2	1	0	엄밀히	엄밀ncn	+
+replace tag:30	2	1	0	엄밀히	엄밀	ncn	+
+notag:30	2	2	0	*		.
+notag:54	16	1	0	충분히	충분ncn	+
+replace tag:54	16	1	0	충분히	충분	ncn	+
+notag:54	16	2	0	*		.
+notag:87	9	1	0	완전히	완전ncn	+
+replace tag:87	9	1	0	완전히	완전	ncn	+
+notag:87	9	2	0	*		.
+notag:132	1	1	0			-
+notag:243	14	1	0	완연히	완연ncn	+
+replace tag:243	14	1	0	완연히	완연	ncn	+
+notag:243	14	2	0	*		.
+notag:246	18	1	0	강력히	강력ncn	+
+replace tag:246	18	1	0	강력히	강력	ncn	+
+notag:246	18	2	0	*		.
+notag:301	20	1	0	강력히	강력ncn	+
+replace tag:301	20	1	0	강력히	강력	ncn	+
+notag:301	20	2	0	*		.
+notag:337	3	1	0	간략히	간략ncn	+
+replace tag:337	3	1	0	간략히	간략	ncn	+
+notag:337	3	2	0	*		.

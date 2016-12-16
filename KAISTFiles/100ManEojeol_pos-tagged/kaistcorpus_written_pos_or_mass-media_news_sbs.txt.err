@@ -1,0 +1,17 @@
+notag:78	20	2	0	*	어ecx	+
+replace tag:78	20	2	0	*	어	ecx	+
+notag:78	20	3	0	*		.
+notag:170	27	1	0	자살했다고	자살ncpa	+
+replace tag:170	27	1	0	자살했다고	자살	ncpa	+
+notag:170	27	2	0	*		.
+notag:214	4	3	0	*		.
+notag:332	11	1	0	들이	들이	-
+notag:709	2	1	0	차병준입니다.	차병	+
+notag:782	5	2	0	*	기술원	+
+notag:968	1	1	0	code	error	-
+notag:983	6	2	0	*	는	.
+notag:987	1	1	0	code	error	-
+notag:988	1	1	0	code	error	-
+notag:1287	53	3	0	*		+
+notag:1320	9	7	0	*	를	.
+notag:1539	2	3	0	*		+

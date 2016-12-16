@@ -1,0 +1,19 @@
+notag:9	8	2	0	*		.
+notag:79	9	1	0	사용자	사용ncn	+
+replace tag:79	9	1	0	사용자	사용	ncn	+
+notag:79	9	2	0	*		.
+notag:80	7	1	0	사용자들은	사용ncn	+
+replace tag:80	7	1	0	사용자들은	사용	ncn	+
+notag:80	7	2	0	*		.
+notag:439	8	2	0	*	하xsv	+
+replace tag:439	8	2	0	*	하	xsv	+
+notag:439	8	3	0	*		.
+notag:658	14	1	0	사용자	사용ncn	+
+replace tag:658	14	1	0	사용자	사용	ncn	+
+notag:658	14	2	0	*		.
+notag:710	3	1	0	사용자와	사용ncn	+
+replace tag:710	3	1	0	사용자와	사용	ncn	+
+notag:710	3	2	0	*		.
+notag:711	1	1	0	사용자는	사용ncn	+
+replace tag:711	1	1	0	사용자는	사용	ncn	+
+notag:711	1	2	0	*		.

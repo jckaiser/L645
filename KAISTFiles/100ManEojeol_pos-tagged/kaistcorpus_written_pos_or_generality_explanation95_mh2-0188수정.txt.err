@@ -1,0 +1,8 @@
+notag:1	1	1	0			-
+notag:1	2	1	0			-
+notag:1	3	1	0			-
+notag:1	4	1	0			-
+notag:1	5	1	0			-
+notag:53	20	2	0	*	¾¾xsn	+
+replace tag:53	20	2	0	*	¾¾	xsn	+
+notag:53	20	3	0	*		.

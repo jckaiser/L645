@@ -1,0 +1,8 @@
+notag:2323	8	1	0			-
+notag:3610	13	8	0	*	는데	.
+notag:4380	6	4	0	*		+
+notag:4885	4	5	0	*	다며	.
+notag:5861	3	3	0	*		+
+notag:6116	8	4	0	*	시ep	+
+replace tag:6116	8	4	0	*	시	ep	+
+notag:6116	8	5	0	*		.

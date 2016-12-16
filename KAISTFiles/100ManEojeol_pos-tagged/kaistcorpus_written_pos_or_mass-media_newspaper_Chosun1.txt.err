@@ -1,0 +1,25 @@
+notag:146	8	7	0	*	박태준	.
+notag:154	16	8	0	*	거	.
+notag:184	9	3	0	*		+
+notag:186	6	3	0	*	으로	+
+notag:186	6	4	0	*	jca	+
+replace tag:186	6	4	0	*		jca	+
+notag:186	6	5	0	*		.
+notag:193	3	2	0	*	자xsn	+
+replace tag:193	3	2	0	*	자	xsn	+
+notag:193	3	3	0	*		.
+notag:198	9	1	0	현대중공업등	현대중공업nq	+
+replace tag:198	9	1	0	현대중공업등	현대중공업	nq	+
+notag:198	9	2	0	*		.
+notag:216	17	3	0	*	들.xsn	+
+replace tag:216	17	3	0	*	들.	xsn	+
+notag:216	17	4	0	*		.
+notag:429	25	4	0	*	"'sr	+
+replace tag:429	25	4	0	*	"'	sr	+
+notag:429	25	5	0	*		.
+notag:590	2	5	0	*	5470	+
+notag:602	11	1	0	사회개발연구소의	사회ncn	+
+replace tag:602	11	1	0	사회개발연구소의	사회	ncn	+
+notag:602	11	2	0	*		.
+notag:639	8	4	0	*		+
+notag:646	2	3	0	*		+

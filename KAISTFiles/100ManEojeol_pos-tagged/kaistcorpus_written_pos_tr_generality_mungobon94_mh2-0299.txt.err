@@ -1,0 +1,24 @@
+notag:1	2	1	0			-
+notag:2	1	1	0			-
+notag:3	1	1	0			-
+notag:4	1	1	0			-
+notag:5	1	1	0			-
+notag:6	1	1	0			-
+notag:9	1	1	0			-
+notag:47	1	1	0			-
+notag:82	4	2	0	*		+
+notag:98	17	2	0	*	己xsn	+
+replace tag:98	17	2	0	*	己	xsn	+
+notag:98	17	3	0	*		.
+notag:118	17	3	0	*	捞jp	+
+notag:133	9	2	0	*	篮etm	.
+replace tag:133	9	2	0	*	篮	etm	.
+notag:159	1	1	0			-
+notag:193	1	1	0			-
+notag:212	1	1	0			-
+notag:224	1	3	0	*	利xsn	+
+replace tag:224	1	3	0	*	利	xsn	+
+notag:224	1	4	0	*		.
+notag:238	1	1	0			-
+notag:259	1	1	0			-
+notag:280	1	1	0			-

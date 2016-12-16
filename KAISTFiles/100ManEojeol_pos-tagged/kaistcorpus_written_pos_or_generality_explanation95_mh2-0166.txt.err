@@ -1,0 +1,12 @@
+notag:221	2	6	0	*		.
+notag:256	21	7	0	*	고	.
+notag:263	3	1	0	112959500	명치	-
+notag:276	11	1	0			-
+notag:284	6	6	0	*	의	.
+notag:508	20	7	0	*		.
+notag:614	8	4	0	*	지px	+
+replace tag:614	8	4	0	*	지	px	+
+notag:614	8	5	0	*		.
+notag:614	10	1	0	아닐까	아니paa	+
+replace tag:614	10	1	0	아닐까	아니	paa	+
+notag:614	10	2	0	*		.

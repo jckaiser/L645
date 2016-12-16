@@ -1,0 +1,5314 @@
+<tdmsfile>
+
+
+; 경리부는 무슨 일을 하는 부서인가. 
+(S
+  (VP (NP 경리부/ncn+는/jxc)
+       (V (AP (NP (AP 무슨/mmd)
+                    (NP 일/ncn+을/jco))
+               (AP 하/pvg+는/etm))
+           (V 부서/ncn+이/jp+ㄴ가/ef)))+./sf)
+
+
+; 대부분의 사람들이 경리업무를 별로 대수롭지 않은 업무로만 여길 뿐 정확히 무엇을 하는 업무인지 제대로 알지 못하고 있다.
+(S
+   (VP
+        (VP
+            (NP
+                (AP
+                     (NP (AP 대부분/ncn+의/jcm)
+                          (NP 사람/ncn+들/xsn+이/jcs))
+                     (NP 경리/ncn+업무/ncn+를/jco)
+                     (ADVP 별로/mag)
+                     (PP (AP (V 대수/ncps+롭/xsm+지/ecx)
+                              (AP 않/px+ㄴ/etm))
+                          (PP 업무/ncn+로/jca+만/jxc))
+                     (AP 여기/pvg+ㄹ/etm))
+                  (NP 뿐/nbn))
+            (VP (ADVP 정확/ncn+히/xsa)
+                 (VP (AP (NP 무엇/npd+을/jco)
+                          (AP 하/pvg+는/etm))
+                      (V 업무/ncn+이/jp+ㄴ지/ecs))))
+        (VP
+             (ADVP 제대로/mag)
+             (V (V 알/pvg+ㄹ지/ecx)
+                 (AUXP 못하/px+고/ecx)
+                 (AUXP 있/px+다/ef))))+./sf)
+
+
+; 경리부는 회사의 숨은 일꾼. 경리부에서 일하는 사람은 하루 종일  어려운 용어가 가득한 장부에 숫자를 써 넣는다거나 계산기를 두드리며 늘 뭔가를 계산하고 있기 때문에 다른 부서에서 일하는 사람들은 대부분 이들이 아주 따분하고 골치 아픈 일을  한다고 생각한다 .
+(S
+  (VP
+      (NP 경리부/ncn+는/jxc)
+      (NP (AP 회사/ncn+의/jcm)
+           (AP 숨/pvg+ㄴ/etm)
+           (NP 일꾼/ncn)))+./sf)
+
+(S
+   (VP
+       (VP
+           (NP (AP (PP 경리부/ncn+에서/jca)
+                     (AP 일/ncpa+하/xsv+는/etm))
+                (NP 사람/ncn+은/jxc))
+           (ADVP (AP 하루/ncn)
+                   (ADVP 종일/ncn))
+           (PP (AP (NP (AP 어렵/paa+ㄴ/etm)
+                        (NP 용어/ncn+가/jcs))
+                   (AP 가득/ncps+하/xsm+ㄴ/etm))
+              (PP 장부/ncn+에/jca))
+           (NP 숫자/ncn+를/jco)
+           (V (V 쓰/pvg+어/ecx)
+               (AUXP 넣/px+는다/ef+거나/ecc)))
+       (VP (NP 계산기/ncn+를/jco)
+            (V 두드리/pvg+며/ecc))
+       (VP (ADVP 늘/mag)
+            (PP (NP (NP 뭐/npd+ㄴ가/ef+를/jco)
+                     (NP (V 계산/ncpa+하/xsv+고/ecx)
+                          (NP 있/px+기/etn)))
+                 (PP 때문/nbn+에/jca))
+            (NP (AP (PP (AP 다르/paa+ㄴ/etm)
+                          (PP 부서/ncn+에서/jca))
+                     (AP 일/ncpa+하/xsv+는/etm))
+                 (NP 사람/ncn+들/xsn+은/jxc))
+            (NP (ADVP 대부분/ncn)
+                 (NP 이/npp+들/xsn+이/jcs))
+            (ADVP 아주/mag)
+            (V 따분/ncps+하/xsm+고/ecc))
+       (VP (NP (AP (NP 골치/ncn)
+                     (AP 아프/paa+ㄴ/etm))
+                 (NP (NP 일/ncn+을/jco)
+                      (NP 하/pvg+ㄴ다/ef+고/jcr)))
+            (V 생각/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 같은 회사 내에서도 영업부는 판매목표를 세운다거나 그래프를 만들기도 하면서 활발하게 움직이며  일을 하기 때문에 누가 봐도 분명 일을 하고 있다는 인상을 준다 .
+(S
+   (VP
+       (VP
+           (PP (AP 같/paa+ㄴ/etm)
+                (AP 회사/ncn)
+                (PP 내/nbn+에서/jca+도/jxc))
+           (NP 영업부/ncn+는/jxc)
+           (NP 판매/ncn+목표/ncn+를/jco)
+           (V 세운/pvg+ㄴ다/ef+거나/ecc))
+       (VP (NP (NP 그래프/ncn+를/jco)
+                (NP 만들/pvg+기/etn+도/jxc))
+           (V (V 하/pvg+면서/ecc)
+               (V 활발/ncps+하/xsm+게/ecc)
+               (V 움직이/pvg+며/ecc)))
+       (VP
+           (PP (NP (NP 일/ncn+을/jco)
+                    (NP 하/pvg+기/etn))
+               (PP 때문/nbn+에/jca))
+           (NP 누/npp+가/jcs)
+           (V 보/pvg+아도/ecs))
+       (VP
+           (ADVP 분명/mag)
+           (NP (AP (NP 일/ncn+을/jco)
+                     (AP (V 하/pvg+고/ecx)
+                          (AP 있/px+다/ef+는/etm)))
+                 (NP 인상/ncn+을/jco))
+            (V 주/pvg+ㄴ다/ef)))+./sf)
+
+
+; 또 , 제조부에서는 실제로 제품이 만들어져 입출고되기 때문에 물건을 만드는 현장을 직접 보지 않더라도 그들이 일하고 있다고 생각한다 .
+(S
+   (VP
+        (VP
+            (IP 또/maj)+,/sp
+            (PP 제조부/ncn+에서/jca+는/jxc)
+            (ADVP 실제로/mag)
+            (PP (NP (NP 제품/ncn+이/jcs)
+                     (NP (V 만들/pvg+어/ecx+지/px+어/ecs)
+                          (NP 입출고/ncpa+되/xsv+기/etn)))
+                 (PP 때문/nbn+에/jca))
+            (NP (AP (NP 물건/ncn+을/jco)
+                      (AP 만들/pvg+는/etm))
+                 (NP현장/ncn+을/jco))
+             (ADVP 직접/mag)
+             (V (V 보/pvg+지/ecx)
+                (AUXP 않/px+더라도/ecs)))
+        (VP (NP (NP 그/npp+들/xsn+이/jcs)
+                 (NP (V 일/ncpa+하/xsv+고/ecx)
+                      (NP 있/px+다/ef+고/jcr)))
+             (V 생각/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 그러나 많은 사람들에게 있어 경리부는 골치 아픈 인상만을 줄 뿐 구체적으로 무엇을 하고 있는지 알 수 없는 부서이다 .
+(S
+   (VP
+        (VP
+            (IP 그러나/maj)
+            (PP (AP 많/paa+ㄴ/etm)
+                 (PP 사람/ncn+들/xsn+에게/jca))
+            (V 있/paa+어/ecs))
+        (VP
+            (NP 경리부/ncn+는/jxc)
+            (NP (AP (NP (AP (AP 골치/ncn)
+                              (AP 아프/paa+ㄴ/etm))
+                          (NP 인상/ncn+만/jxc+을/jco))
+                     (AP 주/pvg+ㄹ/etm))
+                 (NP 뿐/nbn))
+            (PP 구체/ncn+적/xsn+으로/jca)
+            (VP (AP (NP (AP (NP 무엇/npd+을/jco)
+                              (AP (V 하/pvg+고/ecx)
+                                   (AUXP 있/px+는지/ef)
+                                   (AP 알/pvg+ㄹ/etm)))
+                          (NP 수/nbn))
+                      (AP 없/paa+는/etm))
+                 (V 부서/ncn+이/jp+다/ef))))+./sf)
+
+
+; 그러면 경리부란 도대체 무슨 일을 하는 부서일까? 회사라는 조직 속에서 모든 사람들은  이익을 창출하기 위해서 일하고 있다 .
+(S
+   (VP (IP 그러면/maj)
+        (NP 경리부/ncn+란/jxc)
+        (IP 도대체/mag)
+        (VP (AP (NP (AP 무슨/mmd)
+                      (NP 일/ncn+을/jco))
+                 (AP 하/pvg+는/etm))
+            (V 부서/ncn+이/jp+ㄹ까/ef)))+?/sy)
+
+(S
+   (VP (PP (AP 회사/ncn+라/ef+는/etm)
+            (AP 조직/ncn)
+            (PP 속/ncn+에서/jca))
+        (NP (AP 모든/mma)
+             (NP 사람/ncn+들/xsn+은/jxc))
+        (NP (NP 이익/ncn+을/jco)
+             (NP 창출/ncpa+하/xsv+기/etn))
+        (V (V 위하/pvg+어서/ecs)
+            (V 일/ncpa+하/xsv+고/ecx)
+            (AUXP 있/px+다/ef)))+./sf)
+
+
+; 제조회사의 경우 구매부는 제품제조를 위한 원재료를 매입하고, 제조부는 그 원재료를  가지고 제품을 만들고, 영업부는 완성된 제품을 판매하는 것이 그들의 업무이다 .
+(S
+   (VP
+        (VP
+            (PP (AP 제조/ncn+회사/ncn+의/jcm)
+                (PP 경우/ncn))
+            (NP 구매부/ncn+는/jxc)
+            (NP (AP (NP 제품/ncn+제조/ncn+를/jco)
+                      (AP 위하/pvg+ㄴ/etm))
+                 (NP 원재료/ncn+를/jco))
+            (V 매입/ncpa+하/xsv+고/ecc))+,/sp
+        (VP
+            (NP 제조부/ncn+는/jxc)
+            (NP (AP 그/mmd)
+                 (NP 원재료/ncn+를/jco))
+            (V 가지/pvg+고/ecs))
+        (VP (NP 제품/ncn+을/jco)
+             (V 만들/pvg+고/ecc))+,/sp
+        (VP (NP 영업부/ncn+는/jxc)
+            (NP (AP (NP (AP 완성/ncpa+되/xsv+ㄴ/etm)
+                          (NP 제품/ncn+을/jco))
+                     (AP 판매/ncpa+하/xsv+는/etm))
+                (NP 것/nbn+이/jcs))
+            (VP (AP 그/npp+들/xsn+의/jcm)
+                 (V 업무/ncn+이/jp+다/ef))))+./sf)
+
+
+; 또 , 모든 회사는 보통 1 년 단위의 사업연도를 정해 놓고 있는데 경리부는 그 사업연도말에 1 년 동안 기장 계산해 온 매출이나 매입 , 그 밖의 여러 가지 일의 업적을 집계해서 결산서라는 표를 만든다 .
+(S
+   (VP
+        (VP
+             (IP 또/maj)+,/sp
+             (NP (AP 모든/mma)
+                  (NP 회사/ncn+는/jxc))
+             (ADVP 보통/ncn)
+             (NP (AP 1/nnc)
+                 (AP 년/nbu)
+                 (AP 단위/ncn+의/jcm)
+                 (NP 사업/ncn+연도/ncn+를/jco))
+             (V (V 정하/pvg+어/ecx)
+                (AUXP 놓/px+고/ecx)
+                (AUXP 있/px+는데/ecs)))
+        (VP
+             (NP 경리부/ncn+는/jxc)
+             (PP (AP 그/mmd)
+                  (PP 사업/ncn+연도/ncn+말/xsn+에/jca))
+             (NP (AP (PP (AP 1/nnc)
+                           (AP 년/nbu)
+                           (PP 동안/ncn))
+                      (AP (V 기장계산/ncpa+하/xsv+어/ecx)
+                           (AP 오/px+ㄴ/etm)))
+                  (NP (NP 매출/ncn+이나/jcj)
+                       (NP 매입/ncn)))+,/sp
+             (NP (AP 그/mmd)
+                 (AP 밖/nbn+의/jcm)
+                 (AP 여러/mma)
+                 (AP 가지/nbu)
+                 (AP 일/ncn+의/jcm)
+                 (NP 업적/ncn+을/jco))
+             (V 집계/ncpa+하/xsv+어서/ecs))
+        (VP
+             (NP (AP 결산서/ncn+라/ef+는/ecm)
+                  (NP 표/ncn+를/jco))
+             (V 만들/pvg+ㄴ다/ef)))+./sf)
+
+
+; 결산서에는 회사의 재산이 어느 정도 있는지, 한 사업연도 내에 어느 정도 이익이 있었는지를 정리하여 알기 쉽게 기록한다.
+(S
+   (VP
+        (VP
+            (PP 결산서/ncn+에/jca+는/jxc)
+            (NP (AP 회사/ncn+의/jcm)
+                 (NP 재산/ncn+이/jcs))
+            (VP (AP 어느/mmd)
+                 (AP 정도/ncn)
+                 (V 있/paa+는지/ecs)))+,/sp
+        (VP (PP (AP 한/nnc)
+                 (AP 사업/ncn+연도/ncn)
+                 (PP 내/nbn+에/jca))
+            (NP (NP (AP 어느/mmd)
+                      (AP 정도/ncn)
+                      (NP 이익/ncn+이/jcs))
+                 (NP 있/paa+었/ep+는지/ef+를/jco))
+            (V 정리/ncpa+하/xsv+어/ecs))
+        (VP
+            (ADVP (NP 알/pvg+기/etn)
+                    (ADVP 쉽/paa+게/ecs))
+            (V 기록/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 그리고 이 결산서를 기초로 해서 지금까지의 매출이나 매입에 대해 분석하고, 앞으로 어떻게  해야 하는지, 어느 정도의 이익을 내야 하는지 등에 대한 차기 계획을 세우고 그에 따른 예산을 짜 둔다.
+(S
+   (VP
+       (VP (IP 그리고/maj)
+           (NP (AP 이/mmd)
+                (NP 결산서/ncn+를/jco))
+           (PP기초/ncn+로/jca)
+           (V 하/pvg+어서/ecs))
+        (VP (PP (AP 지금/ncn+까지/jxc+의/jcm)
+                 (PP (NP 매출/ncn+이나/jcj)
+                      (PP 매입/ncn+에/jca)))
+             (V (V 대하/pvg+어/ecs)
+                (V 분석/ncpa+하/xsv+고/ecc)))+,/sp
+        (VP
+            (NP (AP (PP (VP (VP (PP 앞/ncn+으로/jca)
+                                   (V (V 어떻/pad+게/ecx)
+                                       (AUXP 하/px+어야/ecs)
+                                       (V 하/pvg+는지/ecs)))+,/sp
+                              (VP (NP (AP 어느/mmd)
+                                       (AP 정도/ncn+의/jcm)
+                                       (NP 이익/ncn+을/jco))
+                                   (V (V 내/pvg+야/ecs)
+                                       (V 하/pvg+는지/ef))))
+                          (PP 등/nbn+에/jca))
+                     (AP 대하/pvg+ㄴ/etm))
+                (NP (AP 차기/ncn)
+                     (NP 계획/ncn+을/jco)))
+            (V 세우/pvg+고/ecc))
+        (VP
+            (NP (AP (PP 그/npd+에/jca)
+                      (AP 따르/pvg+ㄴ/etm))
+                 (NP 예산/ncn+을/jco))
+             (V (V 짜/pvg+아/ecx)
+                 (AUXP 두/px+ㄴ다/ef))))+./sf)
+
+
+; 이처럼 경리업무는 그 자체로는 직접 이익을 산출해내지 못하지만 이익을 산출하는 그 밖의 부서를 보이지 않는 곳에서 지원하는, 즉 회사의 숨은 일꾼과 같은 존재이다.
+(S
+   (VP
+       (VP
+            (PP 이/npd+처럼/jca)
+            (NP 경리/ncn+업무/ncn+는/jxc)
+            (PP (AP 그/mmd)
+                 (PP 자체/ncn+로/jca+는/jxc))
+            (ADVP 직접/mag)
+            (NP 이익/ncn+을/jco)
+            (V (V 산출/ncpa+하/xsv+어/ecx+내/px+지/ecx)
+                (AUXP 못하/px+지만/ecs)))
+        (VP (AP (PP (AP (PP (AP (NP (AP (NP 이익/ncn+을/jco)
+                                             (AP 산출/ncpa+하/xsv+는/etm))
+                                        (NP (AP 그/mmd)
+                                             (AP 밖/nbn+의/jcm)
+                                             (NP 부서/ncn+를/jco)))
+                                   (AP (V 보이/pvg+지/ecx)
+                                        (AP 않/px+는/etm)))
+                               (PP 곳/ncn+에서/jca))
+                           (AP 지원/ncpa+하/xsv+는/etm))+/sy
+                      (PP (IP 즉/maj)
+                          (AP 회사/ncn+의/jcm)
+                          (AP 숨/pvg+ㄴ/etm)
+                          (PP 일꾼/ncn+과/jct)))
+                  (AP 같/paa+ㄴ/etm))
+             (V 존재/ncn+이/jp+다/ef)))+./sf)
+
+
+; 큰 회사와 작은 회사의 기본적인 경리업무는 어느 회사나 마찬가지이지만 회사의 규모에  따라 구체적인 업무내용에는 큰 차이가 있다 .
+(S
+   (VP 
+        (VP
+             (NP (AP (NP (AP 크/paa+ㄴ/etm)
+                           (NP 회사/ncn+와/jcj))
+                       (NP (AP 작/paa+ㄴ/etm)
+                            (AP 회사/ncn+의/jcm)))
+                  (NP (AP 기본/ncn+적/xsn+이/jp+ㄴ/etm)
+                       (NP 경리/ncn+업무/ncn+는/jxc)))
+           (PP (AP 어느/mmd)
+                (PP 회사/ncn+나/jxc))
+           (V 마찬가지/ncn+이/jp+지만/ecs))
+        (VP
+            (PP (AP 회사/ncn+의/jcm)
+                 (PP 규모/ncn+에/jca))
+            (V 따르/pvg+아/ecs))
+        (VP (PP (AP 구체/ncn+적/xsn+이/jp+ㄴ/etm)
+                 (PP업무/ncn+내용/ncn+에/jca+는/jxc))
+            (NP (AP 크/paa+ㄴ/etm)
+                 (NP 차이/ncn+가/jcs))
+            (V 있/paa+다/ef)))+./sf)
+
+
+; 경리업무도 마찬가지로 큰 회사의 경리부에서는 상품의 매입을 담당하는 사람은 그것을 전문으로 기장 계산하고 , 현금 관련의 일을 하는 사람은 현금 입출금의 기장 계산을 전문적으로 담당하는 등으로 분업화되어 있다 .
+(S
+   (VP
+        (VP
+            (PP (PP 경리/ncn+업무/ncn+도/jxc)
+                (PP 마찬가지/ncn+로/jca))
+            (PP (AP 크/paa+ㄴ/etm)
+                (AP 회사/ncn+의/jcm)
+                (PP 경리부/ncn+에서/jca+는/jxc))
+            (NP (AP (NP (AP 상품/ncn+의/jcm)
+                          (NP 매입/ncn+을/jco))
+                      (AP 담당/ncpa+하/xsv+는/etm))
+                 (NP 사람/ncn+은/jxc))
+             (NP 그것/npd+을/jco)
+             (PP 전문/ncn+으로/jca)
+             (VP (ADVP 기장/ncn)
+                  (V 계산/ncpa+하/xsv+고/ecc)))+,/sp
+        (VP 
+            (NP (AP (NP (AP 현금/ncn)
+                          (AP 관련/ncn+의/jcm)
+                          (NP 일/ncn+을/jco))
+                     (AP 하/pvg+는/etm))
+                (NP 사람/ncn+은/jxc))
+            (NP (AP 현금/ncn)
+                 (AP 입출금/ncn+의/jcm)
+                 (AP 기장/ncn)
+                 (NP 계산/ncn+을/jco))
+            (PP (AP (PP 전문/ncn+적/xsn+으로/jca)
+                     (AP 담당/ncpa+하/xsv+는/etm))
+                 (PP 등/nbn+으로/jca))
+            (V (V 분업화/ncpa+되/xsv+어/ecx)
+                (AUXP 있/px+다/ef))))+./sf)
+
+
+; 경리담당자의 수는 회사의 규모나 업종 등 여러 가지 조건에 따라 다르지만 직원이 10 명 정도로 구성된 회사라면 한 사람으로 충분하다 .
+(S 
+   (VP
+        (VP
+             (NP (AP 경리/ncn+담당자/ncn+의/jcm)
+                  (NP 수/ncn+는/jxc))
+             (NP (NP (NP (AP 회사/ncn+의/jcm)
+                           (NP 규모/ncn+나/jcj))
+                      (NP 업종/ncn))
+                 (NP 등/nbn))
+             (PP (AP 여러/mma)
+                 (AP 가지/nbu)
+                 (PP 조건/ncn+에/jca))
+             (V (V 따르/pvg+아/ecs)
+                (V 다르/paa+지만/ecs)))
+        (VP (NP 직원/ncn+이/jcs)
+             (VP (AP (PP (AP 10/nnc)
+                           (AP 명/nbu)
+                           (PP 정도/ncn+로/jca))
+                      (AP 구성/ncpa+되/xsv+ㄴ/etm))
+                  (V 회사/ncn+라/ef+면/ecs)))
+        (VP (PP (AP 한/nnc)
+                 (PP 사람/ncn+으로/jca))
+             (V 충분/ncps+하/xsm+다/ef)))+./sf)
+
+
+; 업종에 따라 업무가 달라진다. 규모가 아무리  커져도 기본적인 업무는 달라지지 않는  것처럼 업종이 달라도 기본적인 업무는 달라지지 않는다.
+(S 
+   (VP (VP (PP 업종/ncn+에/jca)
+            (V 따르/pvg+아/ecs))
+        (VP (NP 업무/ncn+가/jcs)
+            (V (V 다르/paa+아/ecx)+(AUXP 지/px+ㄴ다/ef))))+./sf)
+
+(S
+   (VP (VP (NP 규모/ncn+가/jcs)
+            (ADVP 아무리/mag)
+            (V 크/paa+어/ecx+지/px+어도/ecs))
+        (VP (PP (AP (NP (AP 기본/ncn+적/xsn+이/jp+ㄴ/etm)
+                          (NP 업무/ncn+는/jxc))
+                     (AP (V 다르/paa+아/ecx+지/px+지/ecx)
+                          (AP 않/px+는/etm)))
+                 (PP 것/nbn+처럼/jca))
+             (NP 업종/ncn+이/jcs)
+             (V 다르/paa+아도/ecs))
+        (VP (NP (AP 기본/ncn+적/xsn+이/jp+ㄴ/etm)
+                 (NP 업무/ncn+는/jxc))
+             (V (V 다르/paa+아/ecx+지/px+지/ecx)
+                 (AUXP 않/px+는다/ef))))+./sf)
+
+
+; 예를 들어 제과점은 빵을 만들어 팔기 때문에 제조업에 속하고 , 화장품 가게는 상품을 매입해서 파는 것이기 때문에 판매업에 속한다 .
+(S 
+   (VP
+       (VP
+            (IP (NP 예/ncn+를/jco)
+                (V 들/pvg+어/ecs))
+            (NP 제과점/ncn+은/jxc)
+            (PP (NP (NP 빵/ncn+을/jco)
+                     (NP (V 만들/pvg+어/ecs)
+                          (NP 팔/pvg+기/etn)))
+                (PP 때문/nbn+에/jca))
+            (PP 제조업/ncn+에/jca)
+            (V 속하/pvg+고/ecc))+,/sf
+       (VP
+            (NP (AP 화장품/ncn)
+                 (NP 가게/ncn+는/jxc))
+            (PP (NP (AP (NP 상품/ncn+을/jco)
+                          (AP (V 매입/ncpa+하/xsv+어서/ecs)
+                               (AP 팔/pvg+는/etm)))
+                     (NP 것/nbn+이/jp+기/etn))
+                (PP 때문/nbn+에/jca))
+             (PP 판매업/ncn+에/jca)
+             (V 속하/pvg+ㄴ다/ef)))+./sf)
+
+
+; 그리고 빵집이든 화장품 가게든 양쪽 다 매일매일 장부를 기록하고 계산을 하며 연말에는 반드시 결산서를 작성해야 한다는 점은 같지만 제조업과 판매업의 결산서에는 다소 차이가 있다.
+(S 
+   (VP
+        (VP
+            (IP 그리고/maj)
+            (PP (PP 빵집/ncn+이든/jxc)
+                (PP (AP 화장품/ncn)
+                     (PP 가게/ncn+든/jxc)))
+            (ADVP (AP 양쪽/ncn)
+                    (ADVP 다/mag))
+            (ADVP 매일매일/mag)
+            (NP 장부/ncn+를/jco)
+            (V 기록/ncpa+하/xsv+고/ecc))
+        (VP (NP 계산/ncn+을/jco)
+                (V 하/pvg+며/ecc))
+        (VP (PP 연말/ncn+에/jca+는/jxc)
+            (ADVP 반드시/mag)
+            (NP (AP (NP 결산서/ncn+를/jco)
+                     (AP (V 작성/ncpa+하/xsv+어야/ecs)
+                          (AP 하/pvg+ㄴ다/ef+는/etm)))
+                 (NP 점/ncn+은/jxc))
+            (V 같/paa+지만/ecs))
+        (VP (PP (AP (NP 제조업/ncn+과/jcj)
+                      (AP 판매업/ncn+의/jcm))
+                 (PP 결산서/ncn+에/jca+는/jxc))
+             (ADVP 다소/ncn)
+             (NP 차이/ncn+가/jcs)
+             (V 있/paa+다/ef)))+./sf)
+
+
+; 이것은 제조에 필요한 원가를 계산한 것으로서 예를 들어 빵을 만들 때 밀가루나 우유, 버터 등의 재료를 얼마나 사용했는지에 대한 명세와 빵을 만들기 위해 소요된 인건비나 경비가 얼마인지가 계산되어 있다.
+(S
+   (VP
+       (NP 이것/npd+은/jc)
+       (PP (AP (NP (AP (PP 제조/ncn+에/jca)
+                         (AP 필요/ncps+하/xsm+ㄴ/etm))
+                    (NP 원가/ncn+를/jco))
+                (AP 계산/ncpa+하/xsv+ㄴ/etm))
+           (PP 것/nbn+으로서/jca))
+       (IP (NP 예/ncn+를/jco)
+           (V 들/pvg+어/ecs))
+       (PP (AP (NP 빵/ncn+을/jco)
+                 (AP 만들/pvg+ㄹ/etm))
+            (PP 때/ncn))
+       (NP (AP (NP (NP 밀가루/ncn+나/jcj)
+                     (NP 우유/ncn)+,/sp
+                     (NP 버터/ncn))
+                (AP 등/nbn+의/jcm))
+           (NP 재료/ncn+를/jco))
+       (NP (AP (PP (ADVP 얼마나/mag)
+                     (PP사용/ncpa+하/xsv+었/ep+는지/ef+에/jca))
+                (AP 대하/pvg+ㄴ/etm))
+            (NP 명세/ncn+와/jct))
+       (NP (AP (NP (NP 빵/ncn+을/jco)
+                     (NP 만들/pvg+기/etn))
+                (AP (V 위하/pvg+어/ecs)
+                     (AP 소요/ncpa+되/xsv+ㄴ/etm)))
+            (NP (NP 인건비/ncn+나/jcj)
+                 (NP 경비/ncn+가/jcs)))
+       (NP 얼마/ncn+이/jp+ㄴ지/ef+가/jcs)
+       (V (V 계산/ncpa+되/xsv+어/ecx)
+           (AUXP 있/px+다/ef)))+./sf)
+
+
+; 여러 가지 종류의 다양한 제품을 매입해서 매출하는 판매업에서는 매입과 매출 장부의 기입이 큰 비중을 차지하는 반면, 제조업에서는 그날그날 만들고 있는 제품의 원가를 계산하는 것이 주된 업무가 된다.
+(S
+   (VP
+        (PP (AP (NP (AP 여러/mma)
+                      (AP 가지/nbu)
+                      (AP 종류/ncn+의/jcm)
+                      (AP 다양/ncps+하/xsm+ㄴ/etm)
+                      (NP 제품/ncn+을/jco))
+                 (AP (V 매입/ncpa+하/xsv+어서/ecs)
+                      (AP 매출/ncpa+하/xsv+는/etm)))
+            (PP 판매업/ncn+에서/jca+는/jxc))
+        (NP (AP (NP 매입/ncn+과/jcj)
+                 (AP 매출/ncn))
+             (AP 장부/ncn+의/jcm)
+             (NP 기입/ncn+이/jcs))
+        (PP (AP (NP (AP 크/paa+ㄴ/etm)
+                      (NP 비중/ncn+을/jco))
+                 (AP 차지/ncpa+하/xsv+는/etm))
+             (PP 반면/ncn))+,/sp
+        (PP 제조업/ncn+에서/jca+는/jxc)
+        (ADVP 그날그날/mag)
+        (VP (NP (AP (NP (AP (NP (AP (V 만들/pvg+고/ecx)
+                                        (AP 있/px+는/etm))
+                                    (AP 제품/ncn+의/jcm)
+                                    (NP 원가/ncn+를/jco))
+                               (AP 계산/ncpa+하/xsv+는/etm))
+                          (NP 것/nbn+이/jcs))
+                      (AP 주되/pvg+ㄴ/etm))
+                  (NP 업무/ncn+가/jcc))
+              (V 되/pvg+ㄴ다/ef)))+./sf)
+
+
+; 분류하고 정리하는 일은 경리의 기본업무이다. 세밀하게 분류하고 잘 정리해 두어야 모든 업무가 제대로 돌아간다.
+(S
+   (VP (NP (AP (V 분류/ncpa+하/xsv+고/ecc)
+                 (AP 정리/ncpa+하/xsv+는/etm))
+            (NP 일/ncn+은/jxc))
+        (VP (AP 경리/ncn+의/jcm)
+            (V 기본/ncn+업무/ncn+이/jp+다/ef)))+./sf)
+
+(S
+   (VP (VP (V 세밀/ncps+하/xsm+게/ecs)
+             (V 분류/ncpa+하/xsv+고/ecc))
+        (VP (ADVP 잘/mag)
+             (V (V 정리/ncpa+하/xsv+어/ecx)
+                 (AUXP 두/px+어야/ecs)))
+        (VP (NP (AP 모든/mma)
+                  (NP 업무/ncn+가/jcs))
+             (ADVP 제대로/mag)
+             (V 돌아가/pvg+ㄴ다/ef)))+./sf)
+
+
+; 경리업무에서 자주 등장하는 분개라는 말도 '나눈다'는 의미로 거래를 세밀하게 분류하고 잘 정리해 두기 위함이다.
+(S
+   (VP
+        (VP (PP 경리/ncn+업무/ncn+에서/jca)
+             (NP (AP (ADVP 자주/mag)
+                       (AP 등장/ncpa+하/xsv+는/etm))
+                  (NP (AP 분개/ncn+라/ef+는/etm)
+                       (NP 말/ncn+도/jxc)))
+             (PP (AP '/sl+나누/pvg+ㄴ다/ef+'/sr+는/etm)
+                 (PP 의미/ncn+로/jca))
+             (NP 거래/ncn+를/jco)
+             (V (V 세밀/ncps+하/xsm+게/ecs)
+                 (V 분류/ncpa+하/xsv+고/ecc)))
+        (VP (NP (ADVP 잘/mag)
+                 (NP (V 정리/ncpa+하/xsv+어/ecx)
+                      (NP 두/px+기/etn)))
+             (V 위하/pvg+ㅁ/etn+이/jp+다/ef)))+./sf)
+
+
+; 경리업무는 분류에서부터 출발, 예를 들어 여기저기 옷가지들이 아무렇게나 흩어져 있는 방을 생각해 보자.
+(S 
+   (VP (PP (AP 경리/ncn+업무/ncn+는/jxc)
+            (PP 분류/ncn+에서/jca+부터/jxc))
+        (NP 출발/ncn)+,/sp
+        (IP (NP 예/ncn+를/jco)
+            (V 들/pvg+어/ecs))
+        (PP 여기저기/npd)
+        (NP 옷가지/ncn+들/xsn+이/jcs)
+        (NP (AP (ADVP 아무렇/pad+게/ecs+나/jxc)
+                 (AP (V 흩어지/pvg+어/ecx)
+                      (AP 있/px+는/etm)))
+             (NP 방/ncn+을/jco))
+        (V (V 생각/ncpa+하/xsv+어/ecx)
+            (AUXP 보/px+자/ef)))+./sf)
+
+
+; 보기에도 단정치 못할 뿐만 아니라 어디에 웃저고리가 있는지, 어디에 바지가 있는지, 양말은 어디에 있는지 찾을 수 없고, 게다가 이미 세탁한 것과 세탁해야 할 것이 어느 것인지도 구별하기 어렵다.
+(S
+   (VP (VP (NP (AP (PP 보/pvg+기/etn+에/jca+도/jxc)
+                     (AP (V 단정/ncps+하/xsm+지/ecx)
+                          (AP 못하/px+ㄹ/etm)))
+                 (NP 뿐/nbn+만/jxc))
+             (V 아니/paa+라/ecs))
+        (VP (PP 어디/npd+에/jca)
+             (NP 웃저고리/ncn+가/jcs)
+             (V 있/paa+는지/ecs))+,/sp
+        (VP (PP 어디/npd+에/jca)
+             (NP 바지/ncn+가/jcs)
+             (V 있/paa+는지/ecs))+,/sp
+        (VP (NP 양말/ncn+은/jxc)
+             (NP (AP (PP 어디/npd+에/jca)
+                      (AP (V 있/paa+는지/ecs)
+                           (AP 찾/pvg+ㄹ/etm)))
+                  (NP 수/nbn))
+             (V 없/paa+고/ecc))+,/sp
+        (VP (ADVP 게다가/mag)
+             (NP (AP (NP (AP (ADVP 이미/mag)
+                                (AP 세탁/ncpa+하/xsv+ㄴ/etm))
+                           (PP 것/nbn+과/jct))
+                      (AP (V 세탁/ncpa+하/xsv+어야/ecs)
+                           (AP 하/pvg+ㄹ/etm)))
+                  (NP 것/nbn+이/jcs))
+             (VP (NP (AP 어느/md)
+                       (NP (V 것/nbn+이/jp+ㄴ지도/ecs)
+                            (NP 구별/ncpa+하/xsv+기/etn)))
+                 (V 어렵/paa+다/ef))))+./sf)
+
+
+; 그러나 세탁한 것을 서랍장에 따로 분류해 두면 어디에 무엇이 있는지 쉽게 알 수 있고 곧바로 찾을 수가 있다.
+(S
+   (VP
+        (VP (IP 그러나/maj)
+             (NP (AP 세탁/ncpa+하/xsv+ㄴ/etm)
+                  (NP 것/nbn+을/jco))
+             (PP 서랍장/ncn+에/jca)
+             (VP (ADVP 따로/mag)
+                  (V (V 분류/ncpa+하/xsv+어/ecx)
+                      (AUXP 두/px+면/ecs))))
+        (VP (PP 어디/npd+에/jca)
+             (NP (AP (NP무엇/npd+이/jcs)
+                      (AP (V 있/paa+는지/ecs)
+                           (V 쉽/paa+게/ecc)
+                           (AP 알/pvg+ㄹ/etm)))
+                  (NP 수/nbn))
+             (V 있/paa+고/ecc))
+        (VP (NP (AP (ADVP 곧바로/mag)
+                      (AP 찾/pvg+ㄹ/etm))
+                  (NP 수/nbn+가/jcs))
+             (V 있/paa+다/ef)))+./sf)
+
+
+; 이와 마찬가지로 경리업무에 있어서도 세밀히 분류해서 나중에 보기 쉽도록 하는 것이 매우 중요하다.
+(S
+   (VP (VP (IP (PP 이/npd+와/jct)
+                (PP 마찬가지/ncn+로/jca))
+             (NP (PP 경리/ncn+업무/ncn+에/jca)
+                  (NP 있/paa+어서/ecs+도/jxc))
+             (VP (ADVP 세밀/ncn+히/xsa)
+                  (V 분류/ncpa+하/xsv+어서/ecs)))
+        (VP (NP (AP (NP (PP 나중/ncn+에/jca)
+                           (NP 보/pvg+기/etn))
+                      (AP (V 쉽/paa+도록/ecs)
+                           (AP 하/pvg+는/etm)))
+                  (NP 것/nbn+이/jcs))
+             (VP (ADVP 매우/mag)
+                  (V 중요/ncps+하/xsm+다/ef))))+./sf)
+
+
+; 분개는 차변과 대변으로 나누는 것. 경리업무를 하다 보면 분개라는 단어를 자주 사용하게  되는데 , 이것은 경리의 전문용어로서 , 사전에서는 " 부기에서 거래 내용을 차변과 대변으로 나누어 기입함 ." 이라고 정의하고 있다 .
+(S
+   (VP (NP 분개/ncn+는/jxc)
+        (NP (AP (PP (NP 차변/ncn+과/jcj)
+                      (PP 대변/ncn+으로/jca))
+                 (AP 나누/pvg+는/etm))
+            (NP 것/nbn)))+./sf)
+
+(S 
+   (VP (VP (NP 경리/ncn+업무/ncn+를/jco)
+             (V (V 하/pvg+다/ecx)
+                 (AUXP 보/pvg+면/ecs)))
+        (VP (NP (AP 분개/ncn+라/ef+는/etm)
+                  (NP 단어/ncn+를/jco))
+             (ADVP 자주/mag)
+             (V (V 사용/ncpa+하/xsv+게/ecx)
+                 (AUXP 되/px+는데/ecs)))+,/sp
+        (VP (NP 이것/npd+은/jxc)
+             (PP (AP 경리/ncn+의/jcm)
+                 (PP 전문/ncn+용어/ncn+로서/jca))+,/sp
+             (PP 사전/ncn+에서/jca+는/jxc)+"/sl
+             (PP 부기/ncn+에서/jca)
+             (NP (AP 거래/ncn)
+                  (NP 내용/ncn+을/jco))
+             (NP (PP (NP 차변/ncn+과/jcj)
+                      (PP 대변/ncn+으로/jca))
+                  (NP (V 나누/pvg+어/ecs)
+                       (NP 기입/ncpa+하/xsv+ㅁ/etn+."/sr+이/jp+라/ef+고/jcr)))
+             (V (V 정의/ncpa+하/xsv+고/ecx)
+                 (AUXP 있/px+다/ef))))+./sf)
+
+
+; 여기서 말하는 '나눈다' 라는 것은 매출은 매출이라는 서랍에 , 매입은 매입이라는 서랍에 넣기 위해서 분류하는 것을 말한다.
+(S
+   (VP (NP (AP (PP 여기/npd+서/jca)
+                 (AP 말/ncpa+하/xsv+는/etm))
+             (NP (AP '/sl+나누/pvg+ㄴ다/ef+'/sr+라/ef+는/etm)
+                  (NP 것/nbn+은/jxc)))
+        (NP (AP (VP (PP (AP (NP 매출/ncn+은/jxc)
+                               (AP 매출/ncn+이/jp+라/ef+는/etm))
+                          (PP 서랍/ncn+에/jca))+,/sp
+                      (PP (AP (NP 매입/ncn+은/jxc)
+                               (AP 매입/ncn+이/jp+라/ef+는/etm))
+                           (PP 서랍/ncn+에/jca))
+                      (VP (NP 넣/pvg+기/etn)
+                           (V 위하/pvg+어서/ecs)))
+                  (AP 분류/ncpa+하/xsv+는/etm))
+             (NP 것/nbn+을/jco))
+        (V 말/ncpa+하/xsv+ㄴ다/ef))+./sf)
+
+
+; 그러나 이것은 단순한 분류가 아니라 나중에 어느 정도 재산이 있으며, 어느 정도 이익이 있는가를 계산하기 쉽게 하기 위한 특별한 분류이며, 이것이 곧 대차된다.
+(S
+   (VP
+        (VP (IP 그러나/maj)
+             (NP 이것/npd+은/jxc)
+             (NP (AP 단순/ncps+하/xsm+ㄴ/etm)
+                  (NP 분류/ncn+가/jcc))
+             (V 아니/paa+라/ecs))
+        (VP (PP 나중/ncn+에/jca)
+             (NP (AP 어느/md)
+                  (AP 정도/ncn)
+                  (NP 재산/ncn+이/jcs))
+             (V 있/paa+으며/ecc))+,/sp
+        (VP (AP (NP (NP (NP (NP (AP 어느/md)
+                                    (AP 정도/ncn)
+                                    (NP 이익/ncn+이/jcs))
+                               (NP 있/paa+는가/ef+를/jco))
+                          (NP 계산/ncpa+하/xsv+기/etn))
+                      (NP (V 쉽/paa+게/ecx)
+                           (NP하/px+기/etn)))
+                  (AP 위하/pvg+ㄴ/etm))
+             (VP (AP 특별/ncps+하/xsm+ㄴ/etm)
+                  (V 분류/ncn+이/jp+며/ecc)))+,/sp
+        (VP (NP 이것/npd+이/jcs)
+             (ADVP 곧/mag)
+             (V 대차/ncpa+되/xsv+ㄴ다/ef)))+./sf)
+
+
+; 대차는 경리에 있어서 독특하게 사용되는 말로서 보통 우리가 사용하는 '빌려주다', '빌리다'라는 의미와는 다르다.
+(S
+   (VP (NP 대차/ncn+는/jxc)
+       (PP (AP (PP 경리/ncn+에/jca)
+                (AP (V 있/paa+어서/ecs)
+                     (V 독특/ncps+하/xsm+게/ecc)
+                     (AP 사용/ncpa+되/xsv+는/etm)))
+            (PP 말/ncn+로서/jca))
+       (ADVP 보통/ncn)
+       (NP (AP (NP 우리/npp+가/jcs)
+                (AP사용/ncpa+하/xsv+는/etm))
+            (NP (AP (V '/sl+빌리/pvg+어/ecx+주/px+다/ef+'/sr)+,/sp
+                     (AP '/sl+빌리/pvg+다/ef+'/s'+라/ef+는/etm))
+                 (NP 의미/ncn+와/jct+는/jxc)))
+       (V 다르/paa+다/ef))+./sf)
+
+
+; 대차라는 것은 저울의 왼쪽 , 오른쪽 접시와 같은 것으로서 대차에 각각 ' 변 ' 이라는 말을 붙여서 저울의 왼쪽 접시를 차변 , 오른쪽 접시를 대변이라 할 수 있다 .
+(S
+   (VP 
+        (VP (NP (AP 대차/ncn+라/ef+는/etm)
+                 (NP 것/nbn+은/jxc))
+             (PP (AP (PP (AP 저울/ncn+의/jcm)
+                           (PP (AP (AP 왼쪽/ncn)+,/sp
+                                    (AP 오른쪽/ncn))
+                               (PP 접시/ncn+와/jct)))
+                      (AP 같/paa+ㄴ/etm))
+                 (PP 것/nbn+으로서/jca))
+             (PP 대차/ncn+에/jca)
+             (NP (AP 각각/mma)
+                  (NP (AP '/sr+변/ncn+'/sy+이/jp+라/ef+는/etm)
+                       (NP 말/ncn+을/jco)))
+              (V 붙이/pvg+어서/ecs))
+        (VP
+             (NP (AP 저울/ncn+의/jcm)
+                  (NP (AP 왼쪽/ncn)
+                       (NP 접시/ncn+를/jco)))
+             (NP 차변/ncn)+,/sp
+             (NP (AP (NP (AP 오른쪽/ncn)
+                           (NP 접시/ncn+를/jco))
+                       (AP (V 대변/ncn+이/jp+라/ef)
+                            (AP 하/pvg+ㄹ/etm)))
+                  (NP 수/nbn))
+             (V 있/paa+다/ef)))+./sf)
+
+
+; 저울은 어느 한쪽에 무게를 잴 물건을 얹고 , 다른 한쪽에는 저울추를 얹어서 그 균형으로 물건의 무게를 잰다 .
+(S
+   (VP
+        (VP (NP 저울/ncn+은/jxc)
+            (PP (AP 어느/mmd)
+                (PP 한쪽/ncn+에/jca))
+            (NP (AP (NP 무게/ncn+를/jco)
+                     (AP 재/pvg+ㄹ/etm))
+                 (NP 물건/ncn+을/jco))
+             (V 얹/pvg+고/ecc))+,/sp
+        (VP (PP (AP 다르/paa+ㄴ/etm)
+                 (PP 한쪽/ncn+에/jca+는/jxc))
+             (NP 저울추/ncn+를/jco)
+             (V 얹/pvg+어서/ecs))
+        (VP (PP (AP 그/mmd)
+                 (PP 균형/ncn+으로/jca))
+             (NP (AP 물건/ncn+의/jcm)
+                  (NP 무게/ncn+를/jco))
+             (V 재/pvg+ㄴ다/ef)))+./sf)
+
+
+; 상품을 현금으로 판매한 경우의 분개시 차변은 현금 , 대변은 매출이 되는데 이를 저울로  말하자면 왼쪽 접시에는 현금을 , 오른쪽 접시에는 매출을 얹어서 균형을 맞추는 것이 된다 .
+(S
+   (VP
+        (VP (NP 상품/ncn+을/jco)
+             (NP (AP (AP (PP 현금/ncn+으로/jca)
+                           (AP 판매/ncpa+하/xsv+ㄴ/etm))
+                      (AP 경우/ncn+의/jcm))
+                  (NP (AP 분개시/ncn)
+                       (NP 차변/ncn+은/jxc)))
+             (NP 현금/ncn)+,/sp
+             (NP 대변/ncn+은/jxc)
+             (NP 매출/ncn+이/jcc)
+             (V 되/pvg+는데/ecs))
+        (VP (NP 이/npd+를/jco)
+             (PP 저울/ncn+로/jca)
+             (V 말/ncpa+하/xsv+자면/ecs))
+        (VP (PP (AP 왼쪽/ncn)
+                 (PP 접시/ncn+에/jca+는/jxc))
+             (NP 현금/ncn+을/jco)+,/sp
+             (PP (AP 오른쪽/ncn)
+                  (PP 접시/ncn+에/jca+는/jxc))
+             (NP 매출/ncn+을/jco)
+             (V 얹/pvg+어서/ecs))
+        (VP (NP (AP (NP 균형/ncn+을/jco)
+                      (AP 맞추/pvg+는/etm))
+                 (NP 것/nbn+이/jcc))
+             (V 되/pvg+ㄴ다/ef)))+./sf)
+
+
+; ' 물건 ' 과 ' 돈 ' 은 원인과 결과 상품을 팔아서 현금을 손에 넣거나 , 상품을 사고서 현금을 지급한 경우 , 경리는 이를 차변과 대변으로 나누어 ' 물건 ' 과 ' 돈 ' 을 각기 관리한다 .
+(S
+   (VP 
+        (VP (NP (NP '/sl+물건/ncn+'/sr+과/jcj)
+                 (NP '/sl+돈/ncn+'/sr+은/jxc))
+             (NP (AP (NP 원인/ncn+과/jcj)
+                      (AP 결과/ncn))
+                  (NP 상품/ncn+을/jco))
+             (V 팔/pvg+아서/ecs))
+        (VP (NP 현금/ncn+을/jco)
+             (PP 손/ncn+에/jca)
+             (V 넣/pvg+거나/ecc))+,/sp
+        (VP (NP 상품/ncn+을/jco)
+             (V 사/pvg+고서/ecs))
+        (VP (PP (AP (NP 현금/ncn+을/jco)
+                      (AP 지급/ncpa+하/xsv+ㄴ/etm))
+                 (PP 경우/ncn))+,/sp
+             (NP 경리/ncn+는/jxc)
+             (NP 이/npd+를/jco)
+             (PP (NP 차변/ncn+과/jcj)
+                  (PP 대변/ncn+으로/jca))
+             (V 나누/pvg+어/ecs))
+        (VP (NP (NP '/sl+물건/ncn+'/sr+과/jcj)
+                 (NP '/sl+돈/ncn+'/sr+을/jco))
+             (ADVP 각기/ncn)
+             (V 관리/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 다시 말해서 경리의 세계에 있어서는 물건의 흐름과 돈의 흐름이 별개인 것이다 .
+(S
+   (VP (IP (ADVP 다시/mag)
+           (V 말/ncpa+하/xsv+어서/ecs))
+       (NP (PP (AP 경리/ncn+의/jcm)
+                (PP 세계/ncn+에/jca))
+            (NP 있/paa+어서/ecs+는/jxc))
+       (VP (AP (NP (NP (AP 물건/ncn+의/jcm)
+                          (NP 흐르/pvg+ㅁ/etn+과/jcj))
+                     (NP (AP 돈/ncn+의/jcm)
+                          (NP 흐름/ncn+이/jcs)))
+                (AP 별개/ncn+이/jp+ㄴ/etm))
+            (V 것/nbn+이/jp+다/ef)))+./sf)
+
+
+; 예를 들어 상품을 팔아서 돈이 들어온 경우에는 상품을 팔았기 때문에 돈이 들어왔으므로 상품은 돈을 얻게 한 원인이 되고 돈은 결과가 된다 .
+(S
+   (VP (VP (IP (NP 예/ncn+를/jco)
+                (V 들/pvg+어/ecs))
+            (NP 상품/ncn+을/jco)
+            (V 팔/pvg+아서/ecs))
+        (VP (PP (AP (NP 돈/ncn+이/jcs)
+                      (AP 들어오/pvg+ㄴ/etm))
+                 (PP 경우/ncn+에/jca+는/jxc))
+             (PP (NP (NP 상품/ncn+을/jco)
+                      (NP 팔/pvg+았/ep+기/etn))
+                  (PP 때문/nbn+에/jca))
+             (NP 돈/ncn+이/jcs)
+             (V 들어오/pvg+았/ep+으므로/ecs))
+        (VP (NP 상품/ncn+은/jxc)
+             (NP (AP (NP 돈/ncn+을/jco)
+                      (AP (V 얻/pvg+게/ecx)
+                           (AP 하/px+ㄴ/etm)))
+                  (NP 원인/ncn+이/jcc))
+             (V 되/pvg+고/ecc))
+        (VP (NP 돈/ncn+은/jxc)
+            (NP 결과/ncn+가/jcc)
+            (V 되/pvg+ㄴ다/ef)))+./sf)
+
+
+; 돈을 얻게 되는 원인에는 여러 가지가 있지만 , 이처럼 원인과 결과의  두 가지로 기입해 두면 언제라도 그 원인을 쉽게 알 수 있다 .
+(S
+   (VP 
+        (VP (PP (AP (NP 돈/ncn+을/jco)
+                     (AP (V 얻/pvg+게/ecx)
+                          (AP 되/px+는/etm)))
+                 (PP 원인/ncn+에/jca+는/jxc))
+             (NP (AP 여러/mma)
+                  (NP 가지/nbu+가/jcs))
+             (V 있/paa+지만/ecs))+,/sp
+        (VP (PP 이/npd+처럼/jca)
+             (PP (AP (NP 원인/ncn+과/jcj)
+                      (AP 결과/ncn+의/jcm))
+                 (PP (AP 두/nnc)
+                      (PP 가지/nbu+로/jca)))
+             (V (V 기입/ncpa+하/xsv+어/ecx)
+                 (AUXP 두/px+면/ecs)))
+        (VP (ADVP 언제/npd+라/ef+도/jxc)
+             (NP (AP (NP (AP 그/mmd)
+                           (NP 원인/ncn+을/jco))
+                       (AP (V 쉽/paa+게/ecc)
+                            (AP 알/pvg+ㄹ/etm)))
+                  (NP 수/nbn))
+             (V 있/paa+다/ef)))+./sf)
+
+
+; 이를 위해서는 매일의 업무를 뒤로 미루지 않고 꾸준히 계속해 나가는 것이 무엇보다 중요하다 .
+(S
+   (VP (VP (NP (NP 이/npd+를/jco)
+                 (NP 위하/pvg+어서/ecs+는/jxc))
+             (NP (AP 매일/ncn+의/jcm)
+                  (NP 업무/ncn+를/jco))
+             (PP 뒤/ncn+로/jca)
+             (V (V 미루/pvg+지/ecx)
+                 (AUXP 않/px+고/ecc)))
+        (VP (NP (AP (ADVP 꾸준/ncn+히/xsa)
+                      (AP (V 계속/ncpa+하/xsv+어/ecx)
+                           (AP 나가/px+는/etm)))
+                  (NP 것/nbn+이/jcs))
+             (PP 무엇/npd+보다/jca)
+             (V 중요/ncps+하/xsm+다/ef)))+./sf)
+
+
+; 분개를 했으면 총계정원장에 경리부에서는 매일의 업무를 분류 , 정리 , 정돈을 하게 된다 .
+(S
+   (VP (VP (NP 분개/ncn+를/jco)
+             (V 하/pvg+었/ep+으면/ecs))
+        (VP (PP 총계정/ncn+원장/ncn+에/jca)
+             (PP 경리부/ncn+에서/jca+는/jxc)
+             (NP (AP 매일/ncn+의/jcm)
+                  (NP 업무/ncn+를/jco))
+             (NP (NP 분류/ncn)+,/sp
+                  (NP 정리/ncn)+,/sp
+                  (NP 정돈/ncn+을/jco))
+             (V (V 하/pvg+게/ecx)
+                 (AUXP 되/px+ㄴ다/ef))))+./sf)
+
+
+; 분개라는 것은 물건을 팔아서 돈이 들어왔을 때 그 거래내역을 왼쪽과 오른쪽 , 즉 차변과 대변에 분류하는 것으로서 분개장이라는 장부나 대체전표 , 입금전표 , 출금전표 등의 전표에 기입하는 작업을 말한다 .
+(S
+   (VP (VP (NP (AP 분개/ncn+라/ef+는/etm)
+                 (NP 것/nbn+은/jxc))
+             (NP 물건/ncn+을/jco)
+             (V 팔/pvg+아서/ecs))
+        (VP (PP (AP (NP 돈/ncn+이/jcs)
+                      (AP 들어오/pvg+았/ep+ㄹ/etm))
+                 (PP 때/ncn))
+             (NP (AP 그/mmd)
+                  (NP 거래/ncn+내역/ncn+을/jco))
+             (NP (NP 왼쪽/ncn+과/jcj)
+                  (PP 오른쪽/ncn))+,/sp
+             (IP 즉/mag)
+             (PP (AP (PP (NP 차변/ncn+과/jcj)
+                           (PP 대변/ncn+에/jca))
+                      (AP 분류/ncpa+하/xsv+는/etm))
+                 (PP 것/nbn+으로서/jca))
+             (NP (AP (PP (AP (NP (NP (AP 분개장/ncn+이/jp+라/ef+는/etm)
+                                         (NP 장부/ncn+나/jcj))
+                                    (NP 대체/ncn+전표/ncn)+,/sp
+                                    (NP 입금/ncn+전표/ncn)+,/sp
+                                    (NP 출금/ncn+전표/ncn))
+                                (AP 등/nbn+의/jcm))
+                            (PP 전표/ncn+에/jca))
+                       (AP 기입/ncpa+하/xsv+는/etm))
+                  (NP 작업/ncn+을/jco))
+             (V 말/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 그리고 기입이 끝나면 이번에는 총계정원장 장부에 분개한 내용을 옮겨 적는데 , 이를 경리에서는 전기한다 .
+(S
+   (VP
+        (VP (IP 그리고/maj)
+             (NP 기입/ncn+이/jcs)
+             (V 끝나/pvg+면/ecs))
+        (VP (PP 이번/npd+에/jca+는/jxc)
+             (NP (AP (PP (AP 총계정/ncn+원장/ncn)
+                           (PP 장부/ncn+에/jca))
+                       (AP 분개/ncpa+하/xsv+ㄴ/etm))
+                  (NP 내용/ncn+을/jco))
+              (V (V 옮기/pvg+어/ecs)
+                 (V 적/pvg+는데/ecs)))+,/sp
+        (VP (NP 이/npd+를/jco)
+             (PP 경리/ncn+에서/jca+는/jxc)
+             (V 전기/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 전기를 하는 이유는 , 분개는 단순한 분류이므로 그 분류한 것을 해당하는 장소에 보관해야 하기 때문이다 .
+(S
+   (VP (VP (NP (AP (NP 전기/ncn+를/jco)
+                     (AP 하/pvg+는/etm))
+                 (NP 이유/ncn+는/jxc))+,/sp
+             (NP 분개/ncn+는/jxc)
+             (VP (AP 단순/ncps+하/xsm+ㄴ/etm)
+                  (V 분류/ncn+이/jp+므로/ecs)))
+        (VP 
+             (NP (AP 그/mmd)
+                  (AP 분류/ncpa+하/xsv+ㄴ/etm)
+                  (NP 것/nbn+을/jco))
+             (VP (NP (PP (AP 해당/ncpa+하/xsv+는/etm)
+                           (PP 장소/ncn+에/jca))
+                      (NP (V 보관/ncpa+하/xsv+어야/ecs)
+                           (NP 하/pvg+기/etn)))
+                  (V 때문/nbn+이/jp+다/ef))))+./sf)
+
+
+; 분개를 해서 차변으로 분류한 것은 총계정원장의 차변란에 , 대변으로 분류한 것은 대변란에 기입한다 .
+(S 
+   (VP (VP (NP 분개/ncn+를/jco)
+             (V 하/pvg+어서/ecs))
+        (VP (NP (AP (PP 차변/ncn+으로/jca)
+                      (AP 분류/ncpa+하/xsv+ㄴ/etm))
+                 (NP 것/nbn+은/jxc))
+             (PP (AP 총계정/ncn+원장/ncn+의/jcm)
+                  (PP 차변란/ncn+에/jca))+,/sp
+             (NP (AP (PP 대변/ncn+으로/jca)
+                      (AP 분류/ncpa+하/xsv+ㄴ/etm))
+                  (NP 것/nbn+은/jxc))
+             (PP 대변란/ncn+에/jca)
+             (V 기입/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 총계정원장에는 매출 , 매입 , 현금 등의 많은 계정이 있는데 모든 계정마다 좌우 , 즉 차변과 대변으로 나누어져 있다 .
+(S 
+   (VP (VP (PP 총계정/ncn+원장/ncn+에/jca+는/jxc)
+             (NP (AP (NP (NP 매출/ncn)+,/sp
+                           (NP 매입/ncn)+,/sp
+                           (NP 현금/ncn))
+                       (AP 등/nbn+의/jcm))
+                  (NP (AP 많/paa+ㄴ/etm)
+                       (NP 계정/ncn+이/jcs)))
+             (V 있/paa+는데/ecs))
+        (VP (PP (AP 모든/mma)
+                 (PP 계정/ncn+마다/jxc))
+             (NP 좌우/ncn)+,/sp
+             (IP 즉/mag)
+             (PP (NP 차변/ncn+과/jcj)
+                  (PP 대변/ncn+으로/jca))
+             (V (V 나누/pvg+어/ecx+지/px+어/ecx)
+                 (AUXP 있/px+다/ef))))+./sf)
+
+
+; 자주 발생하는 것은 보조부에 하루 동안의 매출이나 매입 또는 현금의 입출이 빈번하지 않은 경우에는 분개를 해서 총계정원장에 기입하기가 그리 불편하지 않으나 , 그렇지 않고 매출이나 매입 또는 현금의  인출이 빈번한 경우에는 총계정원장 한 권만을 사용하게 되면 여러 가지 불편한 점들이 생기게 된다 .
+(S
+   (VP (VP (NP (AP (ADVP 자주/mag)
+                      (AP 발생/ncpa+하/xsv+는/etm))
+                  (NP 것/nbn+은/jxc))
+             (PP 보조부/ncn+에/jca)
+             (NP (AP 하루/ncn)
+                  (AP 동안/ncn+의/jcm)
+                  (NP (NP 매출/ncn+이나/jcj)
+                       (NP 매입/ncn)))
+             (IP 또는/maj)
+             (PP (AP (NP (AP 현금/ncn+의/jcm)
+                           (NP 입출/ncn+이/jcs))
+                      (AP (V 빈번/ncps+하/xsm+지/ecx)
+                           (AP 않/px+ㄴ/etm)))
+                 (PP 경우/ncn+에/jca+는/jxc))
+            (NP 분개/ncn+를/jco)
+            (V 하/pvg+어서/ecs))
+        (VP (NP (PP 총계정/ncn+원장/ncn+에/jca)
+                 (NP 기입/ncpa+하/xsv+기/etn+가/jcs))
+             (ADVP 그리/mag)
+             (V (V 불편/ncps+하/xsm+지/ecx)
+                 (AUXP 않/px+으나/ecs)))+,/sp
+        (VP (IP (V 그렇/pad+지/ecx)
+                (AUXP 않/px+고/ecc))
+             (NP (NP 매출/ncn+이나/jcj)
+                  (NP 매입/ncn))
+             (IP 또는/maj)
+             (PP (AP (NP (AP 현금/ncn+의/jcm)
+                           (NP 인출/ncn+이/jcs))
+                      (AP 빈번/ncps+하/xsm+ㄴ/etm))
+                 (PP 경우/ncn+에/jca+는/jxc))
+             (NP (AP 총계정/ncn+원장/ncn)
+                  (AP 한/nnc)
+                  (NP 권/nbu+만/jxc+을/jco))
+             (V (V 사용/ncpa+하/xsv+게/ecx)
+                 (AUXP 되/px+면/ecs)))
+        (VP 
+             (NP (AP 여러/mma)
+                  (AP 가지/nbu)
+                  (AP 불편/ncps+하/xsm+ㄴ/etm)
+                  (NP 점/ncn+들/xsn+이/jcs))
+             (V (V 생기/pvg+게/ecx)
+                 (AUXP 되/px+ㄴ다/ef))))+./sf)
+
+
+; 총계정원장은 한 권에 모든 계정이 모여 있는 두껍고 무거운 장부이기 때문에 빈번하게 현금의 입출이 있다거나 , 바로 전 달의 어떤 계정의 수치를 보고 싶을 때는 두꺼운 장부를 펴고 그 안에서 현금 페이지를 찾아내야만 한다 .
+(S
+   (VP
+        (VP (NP 총계정/ncn+원장/ncn+은/jxc)
+             (PP (AP 한/nnc)
+                  (PP 권/nbu+에/jca))
+             (PP (NP (AP (NP (AP 모든/mma)
+                                (NP 계정/ncn+이/jcs))
+                           (AP (V 모이/pvg+어/ecx)
+                                (AP 있/px+는/etm)))
+                      (NP (AP 두껍/paa+고/ecc)
+                           (AP 무겁/paa+ㄴ/etm)
+                           (NP 장부/ncn+이/jp+기/etn)))
+                 (PP 때문/nbn+에/jca))
+            (VP (ADVP 빈번/ncps+하/xsm+게/ecs)
+                 (NP (AP 현금/ncn+의/jcm)
+                      (NP 입출/ncn+이/jcs))
+                 (V 있/paa+다/ef+거나/ecc)))+,/sp
+            (VP (ADVP 바로/mag)
+                 (PP (AP (NP (AP 전/mma)
+                               (AP 달/ncn+의/jcm)
+                               (NP (AP 어떤/mmd)
+                                    (AP 계정/ncn+의/jcm)
+                                    (NP 수치/ncn+를/jco)))
+                           (AP (V 보/pvg+고/ecx)
+                                (AP 싶/px+ㄹ/etm)))
+                      (PP 때/ncn+는/jxc))
+                (NP (AP 두껍/paa+ㄴ/etm)
+                     (NP 장부/ncn+를/jco))
+                (V 펴/pvg+고/ecc))
+        (VP (PP (AP 그/mmd)
+                 (PP 안/ncn+에서/jca))
+             (NP (AP 현금/ncn)
+                 (NP 페이지/ncn+를/jco))
+             (V (V 찾/pvg+아/ecx+내/px+야만/ecs)
+                (V 하/pvg+ㄴ다/ef))))+./sf)
+
+
+; 외상매출금을 다시 볼 경우에도 거래처가 한두 군데라면 별문제가 없지만 거래처가 여럿인 경우에는 외상매출금 전체의 잔액은 알 수 있어도 각 매출처별 잔액은 알 수 없다는 문제가 생긴다 .
+(S
+   (VP 
+        (VP (NP 외상/ncn+매출금/ncn+을/jco)
+            (PP (AP (ADVP 다시/mag)
+                     (AP 보/pvg+ㄹ/etm))
+                (PP 경우/ncn+에/jca+도/jxc))
+            (NP 거래처/ncn+가/jcs)
+            (VP (AP 한두/nnc)
+                 (V 군데/nbu+라/ef+면/ecs)))
+        (VP (NP 별문제/ncn+가/jcs)
+            (V 없/paa+지만/ecs))
+        (VP (PP (AP (NP 거래처/ncn+가/jcs)
+                     (AP 여럿/nnc+이/jp+ㄴ/etm))
+                 (PP 경우/ncn+에/jca+는/jxc))
+             (NP (AP (NP (AP 외상/ncn+매출금/ncn)
+                           (AP 전체/ncn+의/jcm)
+                           (NP 잔액/ncn+은/jxc))
+                      (AP 알/pvg+ㄹ/etm))
+                 (NP 수/nbn))
+             (V 있/paa+어도/ecs))
+        (VP 
+             (NP (AP (NP (AP (NP (AP 각/mma)
+                                     (AP 매출처/ncn+별/xsn)
+                                     (NP 잔액/ncn+은/jxc))
+                                 (AP 알/pvg+ㄹ/etm))
+                            (NP 수/nbn))
+                       (AP 없/paa+다/ef+는/etm))
+                  (NP 문제/ncn+가/jcs))
+             (V 생기/pvg+ㄴ다/ef)))+./sf)
+
+
+; 현금의 관리는 장부에 의한 관리뿐만 아니라 현금 그 자체에 대한 관리이므로 실제로 남아  있는 잔액과 장부잔액을 매일 맞추어 보아야 한다 .
+(S
+   (VP (VP (NP (AP 현금/ncn+의/jcm)
+                 (NP 관리/ncn+는/jxc))
+            (NP (AP (PP 장부/ncn+에/jca)
+                      (AP 의하/pvg+ㄴ/etm))
+                 (NP 관리/ncn+뿐/jxc+만/jxc))
+            (V 아니/paa+라/ecs))
+         (VP (AP (PP (AP 현금/ncn)
+                       (AP 그/mmd)
+                       (PP 자체/ncn+에/jca))
+                  (AP 대하/pvg+ㄴ/etm))
+             (V 관리/ncn+이/jp+므로/ecs))
+        (VP (NP (NP (AP (ADVP 실제로/mag)
+                           (AP (V 남/pvg+아/ecx)
+                                (AP 있/px+는/etm)))
+                      (NP 잔액/ncn+과/jcj))
+                  (NP 장부/ncn+잔액/ncn+을/jco))
+             (ADVP 매일/mag)
+             (V (V 맞추/pvg+어/ecx)
+                 (AUXP 보/px+아야/ecs)
+                 (V 하/pvg+ㄴ다/ef))))+./sf)
+
+
+; 그 외에 납품서나 주문서의 작성 등도 업종에 따라서는 매일 빈번하게 있는 일이다 .
+(S
+   (VP (PP (AP 그/mmd)
+            (PP 외/ncn+에/jca))
+        (NP (NP (AP (NP 납품서/ncn+나/jcj)
+                      (AP 주문서/ncn+의/jcm))
+                  (NP 작성/ncn))
+             (NP 등/nbn+도/jxc))
+        (NP (PP 업종/ncn+에/jca)
+             (NP 따르/pvg+아서/ecs+는/jxc))
+        (VP (AP (ADVP 매일/ncn)
+                 (AP (V 빈번/ncps+하/xsm+게/ecx)
+                      (AP 있/px+는/etm)))
+                (V 일/ncn+이/jp+다/ef)))+./sf)
+
+
+; 1 개월 단위의 계획을 면밀하게 세워 실수로 해야 할 업무를 빠뜨리는 일이 없도록 하자 .
+(S
+   (VP (VP (NP (AP 1/nnc)
+                  (AP 개월/nbu)
+                  (AP 단위/ncn+의/jcm)
+                  (NP 계획/ncn+을/jco))
+             (V (V 면밀/ncps+하/xsm+게/ecs)
+                 (V 세우/pvg+어/ecs)))
+        (VP (NP (AP (NP (AP (PP 실수/ncn+로/jca)
+                               (AP (V 하/pvg+어야/ecs)
+                                    (AP 하/pvg+ㄹ/etm)))
+                           (NP 업무/ncn+를/jco))
+                      (AP 빠뜨리/pvg+는/etm))
+                 (NP 일/ncn+이/jcs))
+             (V (V 없/paa+도록/ecs)
+                 (V 하/pvg+자/ef))))+./sf)
+
+
+; 장부의 마감 1 개월 단위의 업무에는 여러 가지가 있는데 , 그 중에서 가장 대표적인 것이 장부의 마감이다 .
+(S 
+   (VP (VP (PP (AP 장부/ncn+의/jcm)
+                 (AP 마감/ncn)
+                 (AP 1/nnc)
+                 (AP 개월/nbu)
+                 (AP 단위/ncn+의/jcm)
+                 (PP 업무/ncn+에/jca+는/jxc))
+             (NP (AP 여러/mma)
+                  (NP 가지/nbu+가/jcs))
+             (V 있/paa+는데/ecs))+,/sp
+        (VP (PP (AP 그/mmd)
+                 (PP 중/nbn+에서/jca))
+             (NP (AP (ADVP 가장/mag)
+                      (AP 대표/ncn+적/xsn+이/jp+ㄴ/etm))
+                  (NP것/nbn+이/jcs))
+             (VP (AP 장부/ncn+의/jcm)
+                 (V 마감/ncn+이/jp+다/ef))))+./sf)
+
+
+; 종종 ' 20 일 마감 ' 또는 ' 말일 마감 ' 이라는 말을 하는데 , 20 일 마감은 회사의 사이클이 21 일부터 다음달 20 일까지라는 뜻이고 , 말일 마감은 1 일부터 월말까지라는 뜻이다 .
+(S 
+   (VP
+        (VP (ADVP 종종/mag)
+             (NP (AP '/sl+20/nnc)
+                  (AP 일/nbu)
+                  (NP 마감/ncn+'/sr))
+             (IP 또는/maj)
+             (NP (AP '/sl+말일/ncn)
+                  (AP 마감/ncn+'/sr+이/jp+라/ef+는/etm)
+                  (NP 말/ncn+을/jco))
+             (V 하/pvg+는데/ecs))+,/sp
+        (VP (NP (AP 20/nnc)
+                  (AP 일/nbu)
+                  (NP 마감/ncn+은/jxc))
+             (NP (AP 회사/ncn+의/jcm)
+                  (NP 사이클/ncn+이/jcs))
+             (PP (AP 21/nnc)
+                  (PP 일/nbu+부터/jxc))
+             (VP (AP 다음달/ncn)
+                  (AP 20/nnc)
+                  (AP 일/nbu+까지/jxc+라/ef+는/etm)
+                  (V 뜻/ncn+이/jp+고/ecc)))+,/sp
+        (VP (NP (AP 말일/ncn)
+                 (NP 마감/ncn+은/jxc))
+             (VP (AP (PP (AP 1/nnc)
+                           (PP 일/nbu+부터/jxc))
+                      (AP 월말/ncn+까지/jxc+라/ef+는/etm))
+                 (V 뜻/ncn+이/jp+다/ef))))+./sf)
+
+
+; 여기서 1 개월 단위의 가장 마지막 날을 마감일이라고 하는데 , 마감일이 되면 각 장부를 마감해서 합계를 내고 그달의 합계와 잔액을 산출한다 .
+(S 
+   (VP (VP (PP 여기/npd+서/jca)
+            (NP (NP (AP 1/nnc)
+                     (AP 개월/nbu)
+                     (AP 단위/ncn+의/jcm)
+                     (NP (AP (ADVP 가장/mag)
+                               (AP 마지막/ncn))
+                          (NP 날/ncn+을/jco)))
+                (NP 마감일/ncn+이/jp+라/ef+고/jcr))
+             (V 하/pvg+는데/ecs))+,/sp
+        (VP (NP 마감일/ncn+이/jcc)
+            (V 되/pvg+면/ecs))
+        (VP (NP (AP 각/mma)
+                 (NP 장부/ncn+를/jco))
+            (V 마감/ncpa+하/xsv+어서/ecs))
+        (VP (NP 합계/ncn+를/jco)
+             (V 내/pvg+고/ecc))
+        (VP (NP (AP 그달/ncn+의/jcm)
+                 (NP (NP 합계/ncn+와/jcj)
+                      (NP 잔액/ncn+을/jco)))
+             (V 산출/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 그리고 은행의 잔액과 장부의 잔액이 일치하지 않는 경우도 있으므로  은행에서 잔액증명서를 가져다가 정기적으로 대조하도록 한다 .
+(S 
+   (VP
+        (VP (IP 그리고/maj)
+            (NP (AP (NP (NP (AP 은행/ncn+의/jcm)
+                               (NP 잔액/ncn+과/jcj))
+                           (NP (AP 장부/ncn+의/jcm)
+                                (NP 잔액/ncn+이/jcs)))
+                      (AP (V 일치/ncpa+하/xsv+지/ecx)
+                           (AP 않/px+는/etm)))
+                 (NP 경우/ncn+도/jxc))
+             (V 있/paa+으므로/ecs))
+        (VP (PP 은행/ncn+에서/jca)
+             (NP 잔액/ncn+증명서/ncn+를/jco)
+             (V 가지/pvg+어다가/ecs))
+        (VP (PP 정기/ncn+적/xsn+으로/jca)
+            (V (V 대조/ncpa+하/xsv+도록/ecs)
+               (V 하/pvg+ㄴ다/ef))))+./sf)
+
+
+; 청구서의 작성 상품을 구입할 때에는 일반적으로 대금을 지급하고 상품을 구입하게 되지만 , 거래가 잦은 가게에서는 상품을 구입할 때 그 대금을 즉시 지급하지 않더라도 상품을 살 수 있는 경우가 있다 .
+(S
+   (VP 
+        (VP (PP (AP (NP (AP 청구서/ncn+의/jcm)
+                          (AP 작성/ncn)
+                          (NP 상품/ncn+을/jco))
+                      (AP 구입/ncpa+하/xsv+ㄹ/etm))
+                  (PP 때/ncn+에/jca+는/jxc))
+             (PP 일반/ncn+적/xsn+으로/jca)
+             (NP 대금/ncn+을/jco)
+             (V 지급/ncpa+하/xsv+고/ecc))
+        (VP (NP 상품/ncn+을/jco)
+            (V (V 구입/ncpa+하/xsv+게/ecx)
+               (AUXP 되/px+지만/ecs)))+,/sp
+        (VP 
+             (PP (AP (NP 거래/ncn+가/jcs)
+                      (AP 잦/paa+은/etm))
+                 (PP 가게/ncn+에서/jca+는/jxc))
+             (PP (AP (NP 상품/ncn+을/jco)
+                      (AP 구입/ncpa+하/xsv+ㄹ/etm))
+                 (PP 때/ncn))
+             (NP (AP 그/mmd)
+                  (NP 대금/ncn+을/jco))
+             (IP 즉시/mag)
+             (V (V 지급/ncpa+하/xsv+지/ecx)
+                 (AUXP 않/px+더라도/ecs)))
+        (VP (NP (AP (NP (AP (NP 상품/ncn+을/jco)
+                               (AP 사/pvg+ㄹ/etm))
+                          (NP 수/nbn))
+                     (AP 있/paa+는/etm))
+                (NP 경우/ncn+가/jcs))
+            (V 있/paa+다/ef)))+./sf)
+
+
+; 이를 외상이라고 하며 , 이때에는 대개의 경우 상품을 사고 월말 등 한꺼번에 상품 값을 지급하게 된다 .
+(S
+   (VP (VP (NP 이/npd+를/jco) 
+            (NP 외상/ncn+이/jp+라/ef+고/jcr)
+            (V 하/pvg+며/ecc))+,/sp
+        (VP (PP 이때/npd+에/jca+는/jxc)
+             (PP (AP 대개/ncn+의/jcm)
+                  (PP 경우/ncn))
+             (NP 상품/ncn+을/jco)
+             (V 사/pvg+고/ecc))
+        (VP (PP (NP 월말/ncn)
+                 (PP 등/nbn))
+             (ADVP 한꺼번에/mag)
+             (NP (AP 상품/ncn)
+                  (NP 값/ncn+을/jco))
+             (V (V 지급/ncpa+하/xsv+게/ecx)
+                 (AUXP 되/px+ㄴ다/ef))))+./sf)
+
+
+; 경리에서는 이처럼 상품을 외상으로 산 경우의 매입금액을 외상매입금이라 하고 , 반대로 외상으로 판 경우의 매출금액을 외상매출금이라고 한다 .
+(S 
+   (VP
+        (VP (PP 경리/ncn+에서/jca+는/jxc)
+             (PP 이/npd+처럼/jca)
+             (NP 상품/ncn+을/jco)
+             (NP (AP (AP (PP 외상/ncn+으로/jca)
+                           (AP 사/pvg+ㄴ/etm))
+                      (AP 경우/ncn+의/jcm))
+                  (NP 매입/ncn+금액/ncn+을/jco))
+             (V (V 외상/ncn+매입금/ncn+이/jp+라/ef)
+                 (V 하/pvg+고/ecc)))+,/sp
+        (VP (IP 반대로/mag)
+             (NP (NP (AP (AP (PP 외상/ncn+으로/jca)
+                                (AP 팔/pvg+ㄴ/etm))
+                           (AP 경우/ncn+의/jcm))
+                      (NP 매출/ncn+금액/ncn+을/jco))
+                 (NP 외상/ncn+매출금/ncn+이/jp+라/ef+고/jcr))
+            (V하/pvg+ㄴ다/ef)))+./sf)
+
+
+; ' 외상 ' 의 경우 가게 주인은 그달의 청구분을 모아서 한꺼번에 청구한다 .
+(S
+   (VP (VP (PP (AP '/sl+외상/ncn+'/sr+의/jcm)
+                 (PP 경우/ncn))
+            (NP (AP 가게/ncn)
+                 (NP 주인/ncn+은/jxc))
+            (NP (AP 그달/ncn+의/jcm)
+                 (NP 청구분/ncn+을/jco))
+            (V 모으/pvg+아서/ecs))
+        (VP (ADVP 한꺼번에/mag)
+             (V 청구/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 경리의 경우도 이와 마찬가지로 1 개월분의 납품서를 모아서 그달의 청구서를 작성한다 .
+(S
+   (VP (VP (PP (AP 경리/ncn+의/jcm)
+                 (PP 경우/ncn+도/jxc))
+            (PP (PP 이/npd+와/jct)
+                 (PP 마찬가지/ncn+로/jca))
+            (NP (AP 1/nnc)
+                 (AP 개월분/nbu+의/jcm)
+                 (NP 납품서/ncn+를/jco))
+             (V 모으/pvg+아서/ecs))
+        (VP (NP (AP 그달/ncn+의/jcm)
+                 (NP 청구서/ncn+를/jco))
+             (V 작성/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 하지만 외상판매의 경우 마감일은 매출처의 사정에 맞춰 설정되기 때문에 언제나 월말이라고는 할 수 없다 .
+(S
+   (VP (IP 하지만/maj)
+       (PP (AP 외상/ncn+판매/ncn+의/jcm)
+            (PP 경우/ncn))
+       (NP 마감일/ncn+은/jxc)
+       (PP (NP (PP (AP 매출처/ncn+의/jcm)
+                    (PP 사정/ncn+에/jca))
+                (NP (V  맞추/pvg+어/ecs)
+                     (NP 설정/ncpa+되/xsv+기/etn)))
+           (PP 때문/nbn+에/jca))
+       (NP (AP (NP (ADVP 언제나/mag)
+                     (NP 월말/ncn+이/jp+라/ef+고/jcr+는/jxc))
+            (AP 하/pvg+ㄹ/etm))
+        (NP 수/nbn))
+        (V 없/paa+다/ef))+./sf)
+
+
+; 일반적으로 외상매입금은 한 달에 한 번으로 지급날짜를 정해서 지급하며 , 자금융통상 지급날짜는 마감일보다 20 일에서 1 개월 정도 뒤로 되어 있다 .
+(S
+   (VP (VP (PP 일반/ncn+적/xsn+으로/jca)
+             (NP 외상/ncn+매입금/ncn+은/jxc)
+             (PP (AP 한/nnc)
+                  (PP 달/nbu+에/jca))
+             (PP (AP 한/nnc)
+                 (PP 번/nbu+으로/jca))
+              (NP 지급/ncn+날짜/ncn+를/jco)
+              (V (V 정하/pvg+어서/ecs)
+                 (V 지급/ncpa+하/xsv+며/ecc)))+,/sp
+        (VP (NP (AP 자금/ncn+융통상/ncn)
+                  (NP 지급/ncn+날짜/ncn+는/jxc))
+             (PP 마감일/ncn+보다/jca)
+             (PP (AP 20/nnc)
+                 (PP 일/nbu+에서/jca))
+             (PP (AP 1/nnc)
+                 (AP 개월/nbu)
+                 (AP 정도/ncn)
+                 (PP 뒤/ncn+로/jca))
+             (V (V 되/pvg+어/ecx)
+                 (AUXP 있/px+다/ef))))+./sf)
+
+
+; 매입처에 대한 지급방법은 수표나 어음을 이용하거나 은행에 납입하는 등의 여러 가지가 있는데 , 은행에 납입하는 경우에는 지급날짜에 상대방에게 도착되도록 미리 은행에 의뢰해 두어야 한다.
+(S
+   (VP
+        (VP (NP (AP (PP 매입처/ncn+에/jca)
+                       (AP 대하/pvg+ㄴ/etm))
+                  (NP지급/ncn+방법/ncn+은/jxc))
+             (NP (NP 수표/ncn+나/jcj)
+                  (NP 어음/ncn+을/jco))
+             (V 이용/ncpa+하/xsv+거나/ecc))
+        (VP (NP (AP (AP (PP 은행/ncn+에/jca)
+                           (AP 납입/ncpa+하/xsv+는/etm))
+                      (AP 등/nbn+의/jcm))
+                 (NP (AP 여러/mma)
+                      (NP 가지/nbu+가/jcs)))
+             (V 있/paa+는데/ecs))+,/sp
+        (VP 
+             (PP (AP (PP 은행/ncn+에/jca)
+                      (AP 납입/ncpa+하/xsv+는/etm))
+                 (PP 경우/ncn+에/jca+는/jxc))
+             (PP 지급/ncn+날짜/ncn+에/jca)
+             (PP 상대방/ncn+에게/jca)
+             (V 도착/ncpa+되/xsv+도록/ecs))
+        (VP (ADVP 미리/mag)
+             (PP 은행/ncn+에/jca)
+             (V (V 의뢰/ncpa+하/xsv+어/ecx)
+                 (AUXP 두/px+어야/ecs)
+                 (V 하/pvg+ㄴ다/ef))))+./sf)
+
+
+; 급여의 지급은 직접 현금으로 주는 경우가 많았는데 , 최근에는 각 개인의 은행계좌에 넣어 주는 것으로 바뀌어 가고 있다 .
+(S
+   (VP (VP (NP (AP 급여/ncn+의/jcm)
+                 (NP 지급/ncn+은/jxc))
+             (ADVP 직접/mag)
+             (NP (AP (PP 현금/ncn+으로/jca)
+                      (AP 주/pvg+는/etm))
+                  (NP 경우/ncn+가/jcs))
+             (V 많/paa+았/ep+는데/ecs))+,/sp
+        (VP (PP 최근/ncn+에/jca+는/jxc)
+             (PP (AP (PP (AP 각/mma)
+                          (AP 개인/ncn+의/jcm)
+                          (PP 은행/ncn+계좌/ncn+에/jca))
+                      (AP (V 넣/pvg+어/ecx)
+                           (AP 주/px+는/etm)))
+                 (PP 것/nbn+으로/jca))
+              (V (V 바뀌/pvg+어/ecx)
+                  (AUXP 가/px+고/ecx)
+                  (AUXP 있/px+다/ef))))+./sf)
+
+
+; 현금으로 지급하는 경우에는 잔돈까지 준비해서 일일이 나누어 주어야 하는 번거로움이 있고 , 급여를 지급하기 위해 은행에서 현금을 인출해 올 때 도난당할 위험도 있기 때문이다 .
+(S
+   (VP 
+        (VP (PP (AP (PP 현금/ncn+으로/jca)
+                      (AP 지급/ncpa+하/xsv+는/etm))
+                  (PP 경우/ncn+에/jca+는/jxc))
+             (PP 잔돈/ncn+까지/jxc)
+             (V 준비/ncpa+하/xsv+어서/ecs))
+        (VP (NP (AP (ADVP 일일이/mag)
+                      (AP (V 나누/pvg+어/ecx)
+                           (AUXP 주/px+어야/ecs)
+                           (AP 하/pvg+는/etm)))
+                  (NP 번거롭/paa+ㅁ/etn+이/jcs))
+             (V 있/paa+고/ecc))+,/sp
+        (VP (NP (NP 급여/ncn+를/jco)
+                 (NP 지급/ncpa+하/xsv+기/etn))
+             (V 위하/pvg+어/ecs))
+        (VP
+             (PP 은행/ncn+에서/jca)
+             (VP (NP (NP (AP (PP (AP (NP 현금/ncn+을/jco)
+                                         (AP (V 인출/ncpa+하/xsv+어/ecx)
+                                              (AP 오/px+ㄹ/etm)))
+                                    (PP 때/ncn))
+                                (AP 도난/ncpa+당하/xsv+ㄹ/etm))
+                            (NP 위험/ncn+도/jxc))
+                       (NP 있/paa+기/etn))
+                   (V 때문/nbn+이/jp+다/ef))))+./sf)
+
+
+; 시산표 작성 1 개월이 지나면 총계정원장의 각 계정과목을 모아 시산표를 작성하게 된다 .
+(S
+   (VP (VP (NP (AP 시산표/ncn)
+                 (AP 작성/ncn)
+                 (AP 1/nnc)
+                 (NP 개월/nbu+이/jcs))
+             (V 지나/pvg+면/ecs))
+        (VP (NP (AP 총계정/ncn+원장/ncn+의/jcm)
+                 (AP 각/mma)
+                 (NP 계정과목/ncn+을/jco))
+             (V 모으/pvg+아/ecs))
+        (VP (NP 시산표/ncn+를/jco)
+             (V (V 작성/ncpa+하/xsv+게/ecx)
+                (AUXP 되/px+ㄴ다/ef))))+./sf)
+
+
+; 시산표는 분개가 정확히 되었는지 , 총계정원장의 각 계정잔액을 합한 차변합계와 대변합계가 일치하는지 , 그리고 만일 일치하지 않는다면 무엇이 틀렸는지 등을 검증하기 위해 작성하는 것이지만 결과적으로는 이를 통해 회사의 재무상태와 경영성적을 알 수 있게 된다 .
+(S
+   (VP
+        (VP (AP (NP (NP
+                          (VP
+                               (NP 시산표/ncn+는/jxc)
+                               (NP 분개/ncn+가/jcs)
+                               (ADVP 정확/ncn+히/xsa)
+                               (V 되/pvg+었/ep+는지/ecs))+,/sp
+                          (VP
+                               (NP (AP (NP (AP 총계정/ncn+원장/ncn+의/jcm)
+                                             (AP 각/mma)
+                                             (NP 계정/ncn+잔액/ncn+을/jco))
+                                         (AP 합하/pvg+ㄴ/etm))
+                                    (NP (NP 차변/ncn+합계/ncn+와/jcj)
+                                         (NP 대변/ncn+합계/ncn+가/jcs)))
+                               (V 일치/ncpa+하/xsv+는지/ecs))+,/sp
+                          (VP
+                               (IP 그리고/maj)
+                               (ADVP 만일/mag)
+                               (V (V 일치/ncpa+하/xsv+지/ecx)
+                                   (AUXP 않/px+는다/ef+면/ecs)))
+                          (VP
+                               (NP 무엇/npd+이/jcs)
+                               (V 틀리/pvg+었/ep+는지/ecs))
+                          (NP 등/nbn+을/jco))
+                     (NP 검증/ncpa+하/xsv+기/etn))
+                (AP (V 위하/pvg+어/ecs)
+                     (AP 작성/ncpa+하/xsv+는/etm)))
+            (V 것/nbn+이/jp+지만/ecs))
+        (VP (PP 결과/ncn+적/xsn+으로/jca+는/jxc)
+             (NP 이/npd+를/jco)
+             (V 통하/pvg+어/ecs))
+        (VP (NP (AP (NP (AP 회사/ncn+의/jcm) 
+                           (NP (NP 재무/ncn+상태/ncn+와/jcj)
+                                (NP 경영/ncn+성적/ncn+을/jco)))
+                      (AP 알/pvg+ㄹ/etm))
+                  (NP 수/nbn))
+             (V (V 있/paa+게/ecx)
+                 (AUXP 되/px+ㄴ다/ef))))+./sf)
+
+
+; 그러나 결산서는 사업연도의 재무상태와 경영성적의 보고서로서 외부공개용이지만 , 시산표는 어디까지나 1 개월 동안의 회사의 사업내용을 ' 시험적으로 계산 ' 하는 내부용 서류라는 점에서 차이가 난다 .
+(S
+   (VP
+        (VP (IP 그러나/maj)
+             (NP 결산서/ncn+는/jxc)
+             (PP (AP (AP 사업/ncn+연도/ncn+의/jcm)
+                      (AP (NP 재무/ncn+상태/ncn+와/jcj)
+                           (AP 경영/ncn+성적/ncn+의/jcm)))
+                  (PP 보고서/ncn+로서/jca))
+             (V 외부/ncn+공개용/ncn+이/jp+지만/ecs))+,/sp
+        (VP (NP 시산표/ncn+는/jxc)
+             (ADVP 어디/npd+까지/jxc+나/jxc)
+             (NP (AP 1/nnc)
+                  (AP 개월/nbu)
+                  (AP 동안/ncn+의/jcm)
+                  (NP (AP 회사/ncn+의/jcm)
+                       (NP 사업/ncn+내용/ncn+을/jco)))
+             (PP (AP (PP '/sl+시험/ncn+적/xsn+으로/jca)
+                      (AP 계산/ncpa+'/sr+하/xsv+는/etm))
+                 (PP (AP 내부용/ncn)
+                     (AP 서류/ncn+라/ef+는/etm)
+                     (PP 점/ncn+에서/jca)))
+             (NP 차이/ncn+가/jcs)
+             (V 나/pvg+ㄴ다/ef)))+./sf)
+
+
+; 자금조달계획은 면밀하게 외상매출금을 다달이 현금으로 회수할 수 있다면 아주  이상적이겠지만 실제 상거래에 있어서는 현금보다는 어음이 융통되는 경우가 많다 .
+(S
+   (VP (VP (NP 자금/ncn+조달/ncn+계획/ncn+은/jxc)
+            (V 면밀/ncps+하/xsm+게/ecc))
+        (VP (NP 외상/nn+매출금/ncn+을/jco)
+            (ADVP 다달이/mag)
+            (NP (AP (PP 현금/ncn+으로/jca)
+                     (AP 회수/ncpa+하/xsv+ㄹ/etm))
+                 (NP 수/nbn))
+            (V 있/paa+다면/ecs))
+        (VP (ADVP 아주/mag)
+            (V 이상/ncn+적/xsn+이/jp+겠/ep+지만/ecs))
+        (VP (NP (PP (AP 실제/ncn)
+                      (PP 상거래/ncn+에/jca))
+                  (NP 있/paa+어서/ecs+는/jxc))
+             (PP 현금/ncn+보다/jca+는/jxc)
+             (NP (AP (NP 어음/ncn+이/jcs)
+                       (AP 융통/ncpa+되/xsv+는/etm))
+                  (NP 경우/ncn+가/jcs))
+             (V 많/paa+다/ef)))+./sf)
+
+
+; 어음을 받게 되면 짧게는 1 개월 내지 2 개월 후에 , 길게는 5 개월 내지 6 개월 이후에 결제를 받게 된다 .
+(S
+   (VP (VP (NP 어음/ncn+을/jco)
+             (V (V 받/pvg+게/ecx)
+                 (AUXP 되/px+면/ecs)))
+        (VP (NP 짧/paa+게/ecs+는/jxc)
+             (PP (AP 1/nnc)
+                 (PP 개월/nbu))
+             (IP 내지/maj)
+             (PP (AP 2/nnc)
+                 (AP 개월/nbu)
+                 (PP 후/ncn+에/jca))+,/sp
+             (NP 길/paa+게/ecs+는/jxc)
+             (PP (AP 5/nnc)
+                 (PP 개월/nbu))
+             (IP 내지/maj)
+             (PP (AP 6/nnc)
+                 (AP 개월/nbu)
+                 (PP 이후/ncn+에/jca))
+             (NP 결제/ncn+를/jco)
+             (V (V 받/pvg+게/ecx)
+                (AUXP 되/px+ㄴ다/ef))))+./sf)
+
+
+; 그리고 계획을 세워 봐도 다음달 매입에 필요한 자금이 아무래도 부족하다고 판단되는  경우에는 은행에서 대출할 계획을 세운다거나 , 어음을 할인하는 방법 등을 이용하여 미리 대비를 해야만 한다 .
+(S 
+   (VP
+        (VP (IP 그리고/maj)
+             (NP 계획/ncn+을/jco)
+             (V (V 세우/pvg+어/ecx)
+                 (AUXP 보/px+아도/ecs)))
+        (VP
+             (NP (AP (PP (AP 다음달/ncn)
+                           (PP 매입/ncn+에/jca))
+                       (AP 필요/ncps+하/xsm+ㄴ/etm))
+                  (NP 자금/ncn+이/jcs))
+             (PP (AP (NP (ADVP 아무래도/mag)
+                           (NP 부족/ncps+하/xsm+다/ef+고/jcr))
+                      (AP 판단/ncpa+되/xsv+는/etm))
+                 (PP 경우/ncn+에/jca+는/jxc))
+             (NP (AP (PP 은행/ncn+에서/jca)
+                      (AP 대출/ncpa+하/xsv+ㄹ/etm))
+                  (NP 계획/ncn+을/jco))
+             (V 세우/pvg+ㄴ다/ef+거나/ecc))+,/sp
+        (VP 
+             (NP (NP (AP (NP 어음/ncn+을/jco)
+                           (AP 할인/ncpa+하/xsv+는/etm))
+                      (NP 방법/ncn))
+                  (NP 등/nbn+을/jco))
+             (V 이용/ncpa+하/xsv+어/ecs))
+        (VP (ADVP 미리/mag)
+             (NP 대비/ncn+를/jco)
+             (V (V 하/pvg+어야/ecs+만/jxc)
+                (V 하/pvg+ㄴ다/ef))))+./sf)
+
+
+; 제조업에서는 위에서 말한 것 외에도 제품을 제조하는 데 드는 비용을 계산하는 원가계산을 해야 한다 .
+(S
+   (VP (PP 제조업/ncn+에서/jca+는/jxc)
+        (PP (NP (AP (PP 위/ncn+에서/jca)
+                      (AP 말/ncpa+하/xsv+ㄴ/etm))
+                 (NP 것/nbn))
+            (PP 외/ncn+에도/jca))
+        (NP (AP (NP (AP (PP (AP (NP 제품/ncn+을/jco)
+                                    (AP  제조/ncpa+하/xsv+는/etm))
+                               (PP 데/nbn))
+                           (AP 들/pvg+는/etm))
+                      (NP 비용/ncn+을/jco))
+                  (AP 계산/ncpa+하/xsv+는/etm))
+             (NP 원가/ncn+계산/ncn+을/jco))
+        (V (V 하/pvg+어야/ecs)
+           (V 하/pvg+ㄴ다/ef)))+.sf)
+
+
+; 1 년의 마지막 - 결산서와 연말정산. 각 사업연도말에는 결산서를 작성하고 , 연말에는 연말정산을 하게  되는데 이 두 가지 일이 1 년에 한 번씩 치르는 큰 일이며 , 이 시기가 경리부에 있어서는 가장 중요한 때이다 .
+(S
+   (VP (NP (NP (AP 1/nnc)
+                 (AP년/nbu+의/jcm)
+                 (AP 마지막/ncn)+-/sy
+                 (NP 결산서/ncn+와/jcj))
+             (NP 연말/ncn+정산/ncn.)))+./sf)
+
+(S
+   (VP (VP (PP (AP 각/mma)
+                 (PP 사업/ncn+연도/ncn+말/xsn+에/jca+는/jxc))
+             (NP 결산서/ncn+를/jco)
+             (V 작성/ncpa+하/xsv+고/ecc))+,/sp
+        (VP (PP 연말/ncn+에/jca+는/jxc)
+             (NP 연말/ncn+정산/ncn+을/jco)
+             (V (V 하/pvg+게/ecx)
+                 (AUXP 되/px+는데/ecs)))
+        (VP (NP (AP 이/mmd)
+                  (AP 두/nnc)
+                  (AP 가지/nbu)
+                  (NP 일/ncn+이/jcs))
+             (PP (AP 1/nnc)
+                 (PP 년/nbu+에/jca))
+             (VP (AP (NP (AP 한/nnc)
+                           (NP 번/nbu+씩/xn))
+                      (AP 치르/pvg+는/etm))
+                 (VP (AP 크/paa+ㄴ/etm)
+                      (V 일/ncn+이/jp+며/ecc))))+,/sp
+        (VP (NP (AP 이/mmd)
+                  (NP 시기/ncn+가/jcs))
+             (NP (PP 경리부/ncn+에/jca)
+                  (NP 있/paa+어서/ecs+는/jxc))
+             (VP (AP (ADVP 가장/mag)
+                      (AP 중요/ncps+하/xsm+ㄴ/etm))
+                 (V 때/ncn+이/jp+다/ef))))+./sf)
+
+
+; 사업연도말에 작성하는 결산서. 각 회사에는 결산을 하기 위해 정해진 사업연도라는 것이 있다 .
+(S
+   (VP (NP (AP (PP 사업/ncn+연도/ncn+말/xsn+에/jca)
+                 (AP 작성/ncpa+하/xsv+는/etm))
+            (NP 결산서/ncn)))+./sf)
+
+(S
+   (VP (PP (AP 각/mma)
+            (PP 회사/ncn+에/jca+는/jxc))
+        (NP (AP (NP (NP 결산/ncn+을/jco)
+                      (NP 하/pvg+기/etn))
+                  (AP (V 위하/pvg+어/ecs)
+                       (AP 정하/pvg+어/ecx+지/px+ㄴ/etm)))
+            (NP (AP 사업/ncn+연도/ncn+라/ef+는/etm)
+                 (NP 것/nbn+이/jcs)))
+        (V 있/paa+다/ef))+./sf)
+
+
+; 이는 각 회사마다 자사의 실정에 맞도록 자유로이 정할 수는 있지만 , 상법의 규정에 따라 매년 1 회 이상 결산을 해야 하므로 사업연도의 기간이 1 년을 초과할 수는 없다.
+(S
+   (VP (VP (NP 이/npd+는/jxc)
+            (NP (AP 각/mma)
+                 (NP 회사/ncn+마다/jxc))
+            (PP (AP 자사/ncn+의/jcm)
+                 (PP 실정/ncn+에/jca))
+            (V 맞/pvg+도록/ecs))
+       (VP (NP (AP (ADVP 자유/ncps+롭/xsm+이/xsa)
+                     (AP 정하/pvg+ㄹ/etm))
+                 (NP 수/nbn+는/jxc))
+             (V 있/paa+지만/ecs))+,/sp
+       (VP (PP (AP 상법/ncn+의/jcm)
+                (PP 규정/ncn+에/jca))
+            (V 따르/pvg+아/ecs))
+       (VP (ADVP 매년/ncn)
+            (NP (AP 1/nnc)
+                 (AP 회/nbu)
+                 (AP 이상/ncn)
+                 (NP 결산/ncn+을/jco))
+            (V (V 하/pvg+어야/ecs)
+               (V 하/pvg+므로/ecs)))
+        (VP
+            (NP (AP 사업/ncn+연도/ncn+의/jcm)
+                 (NP 기간/ncn+이/jcs))
+            (NP (AP (NP (AP 1/nnc)
+                          (NP 년/nbu+을/jco))
+                     (AP 초과/ncpa+하/xsv+ㄹ/etm))
+                 (NP 수/nbn+는/jxc))
+             (V 없/paa+다/ef)))+./sf)
+
+
+; 사업연도는 3 개월, 6개월 단위로 정할 수도 있으나 짧게 나누어 놓으면 결산하는 횟수가 많아져 번거롭기 때문에 일반적으로 1년을 단위로 정하고 있다.
+(S
+   (VP
+        (VP
+            (NP 사업/ncn+연도/ncn+는/jxc)
+            (NP (AP (PP (AP 3/nnc)
+                          (AP 개월/nbu)+,/sp
+                          (AP 6/nnc)
+                          (AP 개월/nbu)
+                          (PP 단위/ncn+로/jca))
+                      (AP 정하/pvg+ㄹ/etm))
+                  (NP 수/nbn+도/jxc))
+             (V (V 있/paa+으나/ecs)
+                (V 짧/paa+게/ecs)
+                (V 나누/pvg+어/ecx)
+                (AUXP 놓/px+으면/ecs)))
+        (VP 
+             (PP (NP (NP (AP 결산/ncpa+하/xsv+는/etm)
+                           (NP 횟수/ncn+가/jcs))
+                       (NP (V 많/paa+아/ecx+지/px+어/ecs)
+                            (NP 번거롭/paa+기/etm)))
+                  (PP 때문/nbn+에/jca))
+             (PP 일반/ncn+적/xsn+으로/jca)
+             (NP (AP 1/nnc)
+                  (NP 년/nbu+을/jco))
+             (PP 단위/ncn+로/jca)
+             (V (V 정하/pvg+고/ecx)
+                 (AUXP 있/px+다/ef))))+./sf)
+
+
+; 우리나라 회사의 대부분이 12 월에 결산을 하며 , 3 월이나 6 월에 결산을 하는 회사도 있다.
+(S 
+   (VP (VP (NP (AP 우리나라/ncn)
+                 (AP 회사/ncn+의/jcm)
+                 (NP 대부분/ncn+이/jcs))
+             (PP (AP 12/nnc)
+                 (PP 월/nbu+에/jca))
+             (NP 결산/ncn+을/jco)
+             (V 하/pvg+며/ecc))+,/sp
+        (VP (PP (NP (AP 3/nnc)
+                      (NP 월/nbu+이나/jcj))
+                 (PP (AP 6/nnc)
+                     (PP 월/nbu+에/jca)))
+             (NP (AP (NP 결산/ncn+을/jco)
+                      (AP 하/pvg+는/etm))
+                 (NP 회사/ncn+도/jxc))
+             (V 있/paa+다/ef)))+./sf)
+
+
+; 예를 들어 3 월 결산이라 할 때에는 4월이 사업연도의 첫 달이 되고 다음해 3 월이 사업연도의 마지막 달이 된다 .
+(S
+   (VP (VP (IP (NP 예/ncn+를/jco)
+                (V 들/pvg+어/ecs))
+            (PP (AP (PP (AP 3/nnc)
+                         (PP 월/nbu))
+                     (AP (V결산/ncn+이/jp+라/ef)
+                          (AP 하/pvg+ㄹ/etm)))
+                 (PP 때/ncn+에/jca+는/jxc))
+            (NP (AP 4/nnc)
+                 (NP 월/nbu+이/jcs))
+            (NP (AP 사업/ncn+연도/ncn+의/jcm)
+                 (AP 첫/nno)
+                 (NP 달/nbu+이/jcc))
+            (V 되/pvg+고/ecc))
+        (VP (NP (AP 다음해/ncn)
+                 (AP 3/nnc)
+                 (NP 월/nbu+이/jcs))
+            (NP (AP 사업/ncn+연도/ncn+의/jcm)
+                 (AP 마지막/ncn)
+                 (NP 달/ncn+이/jcc))
+            (V 되/pvg+ㄴ다/ef)))+./sf)
+
+
+; 사업연도말에는 결산서의 작성과 더불어 일상적인 업무처리도 해야 하므로 경리부는 매우 바빠진다 .
+(S
+    (VP 
+         (VP (PP 사업/ncn+연도/ncn+말/xsn+에/jca+는/jxc)
+              (PP (AP 결산서/ncn+의/jcm)
+                   (PP 작성/ncn+과/jct))
+              (V 더불/pvg+어/ecs))
+         (VP (NP (AP 일상/ncn+적/xsn+이/jp+ㄴ/etm)
+                  (NP 업무/ncn+처리/ncn+도/jxc))
+              (V (V 하/pvg+어야/ecs)
+                  (V 하/pvg+므로/ecs)))
+         (VP (NP 경리부/ncn+는/jxc)
+             (ADVP 매우/mag)
+             (V 바쁘/paa+아/ecx+지/px+ㄴ다/ef)))+./sf)
+
+
+; 결산서를 작성할 때에는 1 년분 총계정원장의 계정과목을 모두 집계하고 , 연간 합계를 내어야 할 뿐만 아니라 결산을 위한 감가상각 등과 같은 특별 회계처리도 해야만 한다 .
+(S 
+   (VP (VP
+            (PP (AP (NP 결산서/ncn+를/jco)
+                     (AP 작성/ncpa+하/xsv+ㄹ/etm))
+                 (PP 때/ncn+에/jca+는/jxc))
+            (NP (AP 1/nnc)
+                 (AP 년분/nbu)
+                 (AP 총계정/ncn+원장/ncn+의/jcm)
+                 (NP 계정과목/ncn+을/jco))
+            (ADVP 모두/mag)
+            (V 집계/ncpa+하/xsv+고/ecc))+,/sp
+         (VP 
+              (NP (AP (NP (AP 연간/ncn)
+                             (NP 합계/ncn+를/jco))
+                        (AP (V 내/pvg+어야/ecs)
+                             (AP 하/pvg+ㄹ/etm)))
+                   (NP 뿐/nbn+만/jxc))
+              (V 아니/paa+라/ecs))
+         (VP 
+              (NP (NP (AP (PP (NP (AP (NP 결산/ncn+을/jco)
+                                         (AP 위하/pvg+ㄴ/etm))
+                                     (NP 감가/ncn+상각/ncn))
+                                 (PP 등/nbn+과/jct))
+                             (AP 같/paa+ㄴ/etm))
+                         (NP (AP 특별/ncn)
+                              (NP 회계/ncn+처리/ncn+도/jxc)))
+                   (NP 하/pvg+어야/ecs+만/jxc))
+               (V 하/pvg+ㄴ다/ef)))+./sf)
+
+
+; 감가상각이란 고정자산의 사용에 따른 가치의 감소  상당분을 고정자산의 사용기간 중 각 기간에  비용으로서 배분하는 절차를 말하며 , 결산서에는 감가상각의 내용을 빠짐없이 정리해서 회사의 재무상태와 경영성적을 표시해야 한다 .
+(S
+   (VP (VP (NP 감가/ncn+상각/ncn+이/jp+라/ef+ㄴ/jxc)
+            (NP (AP (PP (AP 고정/ncn+자산/ncn+의/jcm)
+                          (PP 사용/ncn+에/jca))
+                     (AP 따르/pvg+ㄴ/etm))
+                (NP (AP 가치/ncn+의/jcm)
+                     (AP 감소/ncn)
+                     (NP 상당분/ncn+을/jco)))
+            (PP (AP 고정/ncn+자산/ncn+의/jcm)
+                 (AP 사용/ncn+기간/ncn)
+                 (PP 중/nbn))
+            (PP (AP 각/mma)
+                (PP 기간/ncn+에/jca))
+            (NP (AP (PP 비용/ncn+으로서/jca)
+                     (AP 배분/ncpa+하/xsv+는/etm))
+                 (NP 절차/ncn+를/jco))
+            (V 말/ncpa+하/xsv+며/ecc))+,/sp
+        (VP (PP 결산서/ncn+에/jca+는/jxc)
+             (NP (AP 감가/ncn+상각/ncn+의/jcm)
+                  (NP 내용/ncn+을/jco))
+             (VP (ADVP 빠짐없/paa+이/xsa)
+                  (V 정리/ncpa+하/xsv+어서/ecs)))
+        (VP (NP (AP 회사/ncn+의/jcm)
+                  (NP (NP 재무/ncn+상태/ncn+와/jcj)
+                       (NP 경영/ncn+성적/ncn+을/jco)))
+             (V (V 표시/ncpa+하/xsv+어야/ecs)
+                 (V 하/pvg+ㄴ다/ef))))+./sf)
+
+
+; 12 월이 되면 급여계산 담당자는 지금까지 1 년 동안 지급한 각 개인의 급료 회사보험료 등을 집계하고 , 생명보험료공제 손해보험료공제 배우자공제 부양가족공제 기초공제 등의 금액을 계산해서 1 년 동안의 정확한 원천징수세액을 계산한다 .
+(S
+   (VP (VP (NP (AP 12/nnc)
+                 (NP 월/nbu+이/jcc))
+             (V 되/pvg+면/ecs))
+        (VP (NP (AP 급여/ncn+계산/ncn)
+                 (NP 담당자/ncn+는/jxc))
+             (PP 지금/ncn+까지/jxc)
+             (NP (NP (AP (NP (AP 1/nnc)
+                                (AP 년/nbu)
+                                (NP 동안/ncn))
+                           (AP 지급/ncpa+하/xsv+ㄴ/etm))
+                      (NP (AP 각/mma)
+                           (AP 개인/ncn+의/jcm)
+                           (NP (NP 급료/ncn)
+                                (NP 회사/ncn+보험료/ncn))))
+                  (NP 등/nbn+을/jco))
+             (V 집계/ncpa+하/xsv+고/ecc))+,/sp
+        (VP (NP (AP (NP (NP 생명/ncn+보험료/ncn+공제/ncn)
+                           (NP 손해/ncn+보험료/ncn+공제/ncn)
+                           (NP 배우자/ncn+공제/ncn)
+                           (NP 부양/ncn+가족/ncn+공제/ncn)
+                           (NP 기초/ncn+공제/ncn))
+                      (AP 등/nbn+의/jcm))
+                  (NP 금액/ncn+을/jco))
+             (V 계산/ncpa+하/xsv+어서/ecs))
+        (VP (NP (AP 1/nnc)
+                 (AP 년/nbu)
+                 (AP 동안/ncn+의/jcm)
+                 (NP (AP 정확/ncps+하/xsm+ㄴ/etm)
+                      (NP 원천/ncn+징수/ncn+세액/ncn+을/jco)))
+            (V 계산/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 그리고 그 금액과 매월 징수해 둔 소득세액과의 차액을 계산해서 징수금액이 많을 때는 반환하고 , 부족할 때는 그 부족분만큼을 다시 징수한다 .( 원천소득세에 대해서는 6 장의 재급여  부분 참조 ) 이처럼 연말정산은 언제나 연말로 정해져 있기  때문에 상여금 계산이나 매월 급여계산 시기와 겹쳐져 급여계산 담당자에게 있어서 12 월은 가장 바쁜 시기가 된다 .
+(S
+   (VP
+        (VP (IP 그리고/maj)
+             (PP (AP 그/mmd)
+                  (PP 금액/ncn+과/jct))
+             (NP (AP (ADVP 매월/ncn)
+                       (AP (V 징수/ncpa+하/xsv+어/ecx)
+                             (AP 두/px+ㄴ/etm)))
+                  (NP (AP 소득/ncn+세액/ncn+과/jct+의/jcm)
+                       (NP 차액/ncn+을/jco)))
+             (V 계산/ncpa+하/xsv+어서/ecs))
+        (VP (PP (AP (NP 징수/ncn+금액/ncn+이/jcs)
+                      (AP 많/paa+ㄹ/etm))
+                 (PP 때/ncn+는/jxc))
+             (V 반환/ncpa+하/xsv+고/ecc))+,/sp
+        (VP (PP (AP 부족/ncps+하/xsm+ㄹ/etm)
+                 (PP 때/ncn+는/jxc))
+             (NP (AP 그/mmd)
+                  (NP 부족분/ncn+만큼/jxc+을/jco))
+             (ADVP 다시/mag)
+             (V 징수/ncpa+하/xsv+ㄴ다/ef)))+.sf)
+                        (VP (NP (PP (/sl+원천/ncn+소득세/ncn+에/jca)
+                                  (NP 대하/pvg+어서/ecs+는/jxc))
+                             (NP (AP 6/nnc)
+                                  (AP 장/nbu+의/jcm)
+                                  (AP 재급여/ncn)
+                                  (AP 부분/ncn)
+                                  (NP 참조/ncn+)/sr)))
+
+(S
+   (VP (VP (PP 이/npd+처럼/jca)
+             (NP 연말/ncn+정산/ncn+은/jxc)
+             (ADVP 언제나/mag)
+             (PP (NP (PP 연말/ncn+로/jca)
+                      (NP (V 정하/pvg+어/ecx+지/px+어/ecx)
+                           (NP 있/px+기/etn)))
+                  (PP 때문/nbn+에/jca))
+             (PP (NP (AP 상여금/ncn)
+                      (NP 계산/ncn+이나/jcj))
+                 (PP (AP 매월/ncn)
+                      (AP 급여/ncn+계산/ncn)
+                      (NP 시기/ncn+와/jct)))
+             (V 겹치/pvg+어/ecx+지/px+어/ecs))
+        (VP (PP (AP 급여/ncn+계산/ncn)
+                 (PP 담당자/ncn+에게/jca))
+             (V 있/paa+어서/ecs))
+        (VP (NP (AP 12/nnc)
+                 (NP 월/nbu+은/jxc))
+             (NP (AP (ADVP 가장/mag)
+                       (AP 바쁘/paa+ㄴ/etm))
+                  (NP 시기/ncn+가/jcc))
+             (V 되/pvg+ㄴ다/ef)))+./sf)
+
+
+; 결산과 차년도의 준비 결산이 끝났다 해도 여유를 부릴 수는 없다 .
+(S
+   (VP (VP (NP (NP 결산/ncn+과/jcj)
+                 (NP (AP 차년도/ncn+의/jcm)
+                      (AP 준비/ncn)
+                      (NP 결산/ncn+이/jcs)))
+            (V (V 끝나/pvg+ㅆ/ep+다/ef)
+               (V 하/pvg+어도/ecs)))
+        (VP (NP (AP (NP 여유/ncn+를/jco)
+                      (AP 부리/pvg+ㄹ/etm))
+                 (NP 수/nbn+는/jxc))
+             (V 없/paa+다/ef)))+./sf)
+
+
+; 한마디로 결산서라고 말하지만 여기에는 대차대조표 , 손익계산서 , 그리고  이익잉여금처분계산서 , 재무상태변동표 , 부속명세서 등의 여러 가지 보고서가 있다 .
+(S 
+   (VP (VP (PP  한마디/ncn+로/jca)
+             (NP 결산서/ncn+라고/jcr)
+             (V 말/ncpa+하/xsv+지만/ecs))
+        (VP
+             (PP 여기/npd+에/jca+는/jxc)
+             (NP (NP 대차/ncn+대조표/ncn)+,/sp
+                  (NP 손익/ncn+계산서/ncn))+,/sp
+             (IP 그리고/maj)
+             (NP (AP (NP (NP 이익/ncn+잉여금/ncn+처분/ncn+계산서/ncn)+,/sp
+                           (NP 재무/ncn+상태/ncn+변동표/ncn)+,/sp
+                           (NP 부속/ncn+명세서/ncn))
+                      (AP 등/nbn+의/jcm))
+                  (NP (AP 여러/mma)
+                       (AP 가지/nbu)
+                       (NP 보고서/ncn+가/jcs)))
+             (V 있/paa+다/ef)))+./sf)
+
+
+; 결산서에 있어 가장 중요한 보고서는 대차대조표와 손익계산서인데 , 이 중 대차대조표는 일정 시점에 있어서의 회사의 자산 부채 자본을 표시함으로써 회사의 재무상태를 알 수 있게 해주는 표이며 , 손익계산서는  한 회계기간에 속한 모든 수익과 비용을 기재하여 기업의 경영성과를 나타내기 위해 작성되는 표이다 .
+(S 
+   (VP (VP (PP 결산서/ncn+에/jca)
+             (V 있/paa+어/ecs))
+        (VP (NP (AP (ADVP 가장/mag)
+                      (AP 중요/ncps+하/xsm+ㄴ/etm))
+                 (NP 보고서/ncn+는/jxc))
+             (VP (NP 대차/ncn+대조표/ncn+와/jcj)
+                 (V 손익/ncn+계산서/ncn+이/jp+ㄴ데/ecs)))+,/sp
+        (VP (PP (AP 이/mmd)
+                 (PP 중/nbn))
+             (NP 대차/ncn+대조표/ncn+는/jxc))
+             (PP (NP (AP (PP (AP 일정/ncn)
+                               (PP 시점/ncn+에/jca))
+                          (AP 있/paa+어서/ecs+의/jcm))
+                      (NP (AP 회사/ncn+의/jcm)
+                           (AP 자산/ncn)
+                           (AP 부채/ncn)
+                           (NP 자본/ncn+을/jco)))
+                 (PP 표시/ncpa+하/xsv+ㅁ/etn+으로써/jca))
+             (VP (AP (NP (AP (NP (AP 회사/ncn+의/jcm)
+                                     (NP 재무/ncn+상태/ncn+를/jco))
+                                 (AP 알/pvg+ㄹ/etm))
+                            (NP 수/nbn))
+                       (AP (V 있/paa+게/ecx)
+                            (AP 하/px+어/ecx+주/px+는/etm)))
+                  (V 표/ncn+이/jp+며/ecc))+,/sp
+        (VP (NP 손익/ncn+계산서/ncn+는/jxc)
+             (NP (AP (PP (AP 한/nnc)
+                           (PP 회계/ncn+기간/ncn+에/jca))
+                       (AP 속하/pvg+ㄴ/etm))
+                  (NP (AP 모든/mma)
+                       (NP (NP 수익/ncn+과/jcj)
+                            (NP 비용/ncn+을/jco))))
+             (V 기재/ncpa+하/xsv+어/ecs))
+        (VP
+            (AP (NP (NP (AP 기업/ncn+의/jcm)
+                          (NP 경영/ncn+성과/ncn+를/jco))
+                      (NP 나타내/pvg+기/etn))
+                 (AP (V 위하/pvg+어/ecs)
+                      (AP 작성/ncpa+되/xsv+는/etm)))
+            (V 표/ncn+이/jp+다/ef)))+./sf)
+
+
+; 그리고 이익잉여금처분계산서는 회계기간 중의 이익을 어떻게 처분하는가에 대한 내역을 일목요연하게 표시한 문서로서 , 이사는 이것을 정기주주총회에 제출해서 승인을 받아야만 한다 .
+(S
+   (VP
+        (VP (IP 그리고/maj)
+             (NP 이익/ncn+잉여금/ncn+처분/ncn+계산서/ncn+는/jxc)
+             (PP (AP (NP (AP (PP (NP (AP 회계/ncn+기간/ncn)
+                                        (AP 중/nbn+의/jcm)
+                                        (NP 이익/ncn+을/jco))
+                                    (PP (V 어떻/pad+게/ecs)
+                                        (PP 처분/ncpa+하/xsv+는가/ef+에/jca)))
+                               (AP 대하/pvg+ㄴ/etm))
+                           (NP 내역/ncn+을/jco))
+                      (AP (V 일목요연/ncps+하/xsm+게/ecs)
+                           (AP 표시/ncpa+하/xsv+ㄴ/etm)))
+                 (PP 문서/ncn+로서/jca))+,/sp
+             (NP 이사/ncn+는/jxc)
+             (NP 이것/npd+을/jco)
+             (PP 정기/ncn+주주/ncn+총회/ncn+에/jca)
+             (V 제출/ncpa+하/xsv+어서/ecs))
+        (VP (NP (NP 승인/ncn+을/jco)
+                 (NP 받/pvg+아야/ecs+만/jxc))
+             (V 하/pvg+ㄴ다/ef)))+./sf)
+
+
+; 반대로 그 회계기간 중에 이익이 생기지 않고 적자가 났을 경우에는 결손금처리계산서가 된다 .
+(S
+   (VP
+        (VP (PP 반대/ncn+로/jca)
+             (PP (AP 그/mmd)
+                 (AP 회계/ncn+기간/ncn)
+                 (PP 중/nbn+에/jca))
+             (NP 이익/ncn+이/jcs)
+             (V (V 생기/pvg+지/ecx)
+                 (AUXP 않/px+고/ecc)))
+        (VP (PP (AP (NP 적자/ncn+가/jcs)
+                      (AP 나/pvg+ㅆ/ep+ㄹ/etm))
+                 (PP 경우/ncn+에/jca+는/jxc))
+             (NP 결손금/ncn+처리/ncn+계산서/ncn+가/jcc)
+             (V 되/pvg+ㄴ다/ef)))+./sf)
+
+
+; 재무상태변동표는 한 회계기간 동안의 자금의 흐름 , 즉 자금을 어떻게 조달해서 이것을 어디에 어떻게 사용했는지가 표시되어 있으며 , 부속명세서에는 대차대조표와 손익계산서의 중요한 항목에 대한 보충적인 내용이 표시되어 있다 .
+(S
+   (VP (VP (NP 재무/ncn+상태/ncn+변동표/ncn+는/jxc)
+            (NP (AP 한/nnc)
+                 (AP 회계/ncn+기간/ncn)
+                 (AP 동안/ncn+의/jcm)
+                 (AP 자금/ncn+의/jcm)
+                 (NP 흐름/ncn))+,/sp
+            (IP 즉/mag)
+            (NP 자금/ncn+을/jco)
+            (V (V 어떻/pad+게/ecs)
+                (V 조달/ncpa+하/xsv+어서/ecs)))
+        (VP (NP 이것/npd+을/jco)
+             (NP (PP 어디/npd+에/jca)
+                  (NP (V 어떻/pad+게/ecs)
+                       (NP 사용/ncpa+하/xsv+었/ep+는지/ep+가/jcs)))
+                 (V (V 표시/ncpa+되/xsv+어/ecx)
+                     (AUXP 있/px+으며/ecc)))+,/sp
+        (VP (PP 부속/ncn+명세서/ncn+에/jca+는/jxc)
+             (NP (AP (PP (AP (NP 대차/ncn+대조표/ncn+와/jcj)
+                                (AP 손익/ncn+계산서/ncn+의/jcm))
+                           (PP (AP 중요/ncps+하/xsm+ㄴ/etm)
+                                (PP 항목/ncn+에/jca)))
+                       (AP 대하/pvg+ㄴ/etm))
+                  (NP (AP 보충/ncn+적/xsn+이/jp+ㄴ/etm)
+                       (NP 내용/ncn+이/jcs)))
+             (V (V 표시/ncpa+되/xsv+어/ecx)
+                 (AUXP 있/px+다/ef))))+./sf)
+
+
+; 경영분석과 차년도 계획 결산서 작성을 마치면 그 다음에는 경영분석을 한다 .
+(S
+   (VP (VP (NP (NP 경영/ncn+분석/ncn+과/jcj)
+                 (NP (AP 차년도/ncn)
+                      (AP 계획/ncn)
+                      (AP 결산서/ncn)
+                      (NP 작성/ncn+을/jco)))
+             (V 마치/pvg+면/ecs))
+        (VP (PP (AP 그/mmd)
+                 (PP 다음/ncn+에/jca+는/jxc))
+             (NP 경영/ncn+분석/ncn+을/jco)
+             (V 하/pvg+ㄴ다/ef)))+./sf)
+
+
+; 관리 등 경영활동 전반에 대한 분석을 의미하며 , 주로  당기, 전기, 그리고 전전기 안정성, 비용효율 등을 다루고 ,  재무상태나 경영성적을 비교 분석한다 .
+(S
+   (VP 
+        (VP
+             (NP (AP 관리/ncn)
+                  (NP 등/nbn))
+             (NP (AP (PP (AP 경영/ncn+활동/ncn)
+                          (PP 전반/ncn+에/jca))
+                      (AP 대하/pvg+ㄴ/etm))
+                  (NP 분석/ncn+을/jco))
+             (V 의미/ncpa+하/xsv+며/ecc))+,/sp
+        (VP (ADVP 주로/mag)
+             (NP (NP 당기/ncn)+,/sp
+                  (NP 전기/ncn))+,/sp
+             (IP 그리고/maj)
+             (NP (NP (NP 전전기/ncn)+,/sp
+                      (NP 안정성/ncn)+,/sp
+                      (NP 비용/ncn+효율/ncn))
+                  (NP 등/nbn+을/jco))
+             (V 다루/pvg+고/ecc))+,/sp
+        (VP (NP (NP 재무/ncn+상태/ncn+나/jcj)
+                 (NP 경영/ncn+성적/ncn+을/jco))
+             (VP (AP 비교/ncn)
+                  (V 분석/ncpa+하/xsv+ㄴ다/ef))))+./sf)
+
+
+; 예를 들면 , " 여러 가지 보고서를 비교해서 당기는 전기보다 판매량이 많았고 비용효율도 좋았는데 , 이것은 새로운 기계를 도입해서 생산성이 높았기 때문이다 ." 라는 식의 분석을 한다 .
+(S
+   (VP (IP (NP 예/ncn+를/jco)
+           (V 들/pvg+면/ecs))+,/sp
+        (NP (AP (AP (VP (VP (NP (AP "/sl+여러/mma)
+                                   (AP 가지/nbu)
+                                   (NP 보고서/ncn+를/jco))
+                               (V 비교/ncpa+하/xsv+어서/ecs))
+                          (VP (NP 당기/ncn+는/jxc)
+                               (PP 전기/ncn+보다/jca)
+                               (NP 판매량/ncn+이/jcs)
+                               (V 많/paa+았/ep+고/ecc))
+                          (VP (NP 비용/ncn+효율/ncn+도/jxc)
+                               (V 좋/paa+았/ep+는데/ecs))+,/sp
+                          (VP (NP 이것/npd+은/jxc)
+                               (NP (AP 새롭/paa+ㄴ/etm)
+                                    (NP 기계/ncn+를/jco))
+                               (V 도입/ncpa+하/xsv+어서/ecs))
+                          (VP (NP (NP 생산성/ncn+이/jcs)
+                                   (NP 높/paa+았/ep+기/etn))
+                               (V 때문/nbn+이/jp+다/ef+.sf+"/sr)))+라/ef+는/etm)
+                 (AP 식/ncn+의/jcm))
+            (NP 분석/ncn+을/jco))
+        (V 하/pvg+ㄴ다/ef))+./sf)
+
+
+; 그래서 차기에 또 한 대의 기계를 도입하는 것이 좋겠다는 결론이 내려지면 은행에서 대출을 받아야만 하기 때문에 자금예산을 통해 차년도의 자금조달계획을 세우게 된다 .
+(S
+   (VP
+        (VP (IP 그래서/maj)
+             (PP 차기/ncn+에/jca)
+             (IP 또/maj)
+             (NP (AP (NP (AP (NP (AP 한/nnc)
+                                    (AP 대/nbu+의/jcm)
+                                    (NP 기계/ncn+를/jco))
+                                (AP 도입/ncpa+하/xsv+는/etm))
+                            (NP 것/nbn+이/jcs))
+                        (AP 좋/paa+겠/ep+다/ef+는/etm))
+                  (NP 결론/ncn+이/jcs))
+             (V 내리/pvg+어/ecx+지/px+면/ecs))
+        (VP (PP 은행/ncn+에서/jca)
+             (PP (NP (NP (NP 대출/ncn+을/jco)
+                           (NP 받/pvg+아야/ecs+만/jxc))
+                      (NP 하/pvg+기/etn))
+                 (PP 때문/nbn+에/jca))
+             (NP 자금/ncn+예산/ncn+을/jco)
+             (V 통하/pvg+어/ecs))
+        (VP (NP (AP 차년도/ncn+의/jcm)
+                 (NP 자금/ncn+조달/ncn+계획/ncn+을/jco))
+             (V (V 세우/pvg+게/ecx)
+                 (AUXP 되/px+ㄴ다/ef))))+./sf)
+
+
+; 차년도의 준비. 새로운 사업연도가 되면 1 년 동안 사용하던 낡은 장부들은 새로운 것으로 대체하게 된다 .
+(S
+   (VP (NP (AP 차년도/ncn+의/jcm)
+             (NP 준비/ncn)))+./sf)
+
+(S
+   (VP (VP (NP (AP 새롭/paa+ㄴ/etm)
+                 (NP 사업/ncn+연도/ncn+가/jcc))
+            (V 되/pvg+면/ecs))
+        (VP
+             (NP (AP (PP (AP 1/nnc)
+                           (AP 년/nbu)
+                           (PP 동안/ncn))
+                      (AP 사용/ncpa+하/xsv+던/etm))
+                  (NP (AP 낡/paa+ㄴ/etm)
+                       (NP 장부/ncn+들/xsn+은/jxc)))
+              (PP (AP 새롭/paa+ㄴ/etm)
+                   (PP 것/nbn+으로/jca))
+              (V (V 대체/ncpa+하/xsv+게/ecx)
+                  (AUXP 되/px+ㄴ다/ef))))+./sf)
+
+
+; 이때 전기로부터 이월할 것이 있으면 그 금액을 새로운 장부에 기입하는 것이 가장 먼저 할 일이다.
+(S
+   (VP (VP (PP 이때/npd)
+             (NP (AP (PP 전기/ncn+로/jca+부터/jxc)
+                      (AP 이월/ncpa+하/xsv+ㄹ/etm))
+                  (NP 것/nbn+이/jcs))
+             (V 있/paa+으면/ecs))
+        (VP
+             (NP (AP (PP (AP (NP (AP 그/mmd)
+                                    (NP 금액/ncn+을/jco))
+                               (AP 새롭/paa+ㄴ/etm))
+                          (PP 장부/ncn+에/jca))
+                      (AP 기입/ncpa+하/xsv+는/etm))
+                  (NP 것/nbn+이/jcs))
+             (VP (AP (ADVP 가장/mag)
+                      (ADVP 먼저/mag)
+                      (AP 하/pvg+ㄹ/etm))
+                  (V 일/ncn+이/jp+다/ef))))+./sf)
+
+
+; 이전의 장부는 나중에 다시 살펴볼 일도 생기고 , 세무서에서 행하는 세무조사 때에도 필요하므로 잘 보관해 두어야 한다 .
+(S
+   (VP (VP (NP (AP 이전/ncn+의/jcm)
+                 (NP 장부/ncn+는/jxc))
+             (PP 나중/ncn+에/jca)
+             (NP (AP (ADVP 다시/mag)
+                       (AP 살펴보/pvg+ㄹ/etm))
+                 (NP 일/ncn+도/jxc))
+             (V 생기/pvg+고/ecc))+,/sp
+        (VP (PP (AP (PP 세무서/ncn+에서/jca)
+                      (AP 행하/pvg+는/etm))
+                 (PP (AP 세무/ncn+조사/ncn)
+                     (PP 때/ncn+에도/jca)))
+             (V 필요/ncps+하/xsm+므로/ecs))
+        (VP (ADVP 잘/mag)
+             (V (V 보관/ncpa+하/xsv+어/ecx)
+                 (AUXP 두/px+어야/ecs)
+                 (V 하/pvg+ㄴ다/ef))))+./sf)
+
+
+; 회사가 소득이나 세액을 정확하게 신고했는지의 여부를 조사받는 것이 세무조사인데 일반적으로 세무조사를 받게 되면 미리 통지를 받는다 .
+(S
+   (VP
+        (VP (NP 회사/ncn+가/jcs)
+             (NP (AP (NP (AP (NP (NP 소득/ncn+이나/jcj)
+                                    (NP 세액/ncn+을/jco))
+                                (AP (V 정확/ncps+하/xsm+게/ecs)
+                                     (AP 신고/ncpa+하/xsv+었/ep+는지/ecs+의/jcm)))
+                           (NP 여부/ncn+를/jco))
+                      (AP 조사/ncpa+받/xsv+는/etm))
+                  (NP 것/nbn+이/jcs))
+             (V 세무/ncn+조사/ncn+이/jp+ㄴ데/ecs))
+        (VP (PP 일반/ncn+적/xsn+으로/jca)
+             (NP 세무/ncn+조사/ncn+를/jco)
+             (V (V 받/pvg+게/ecx)
+                 (AUXP 되/px+면/ecs)))
+        (VP (ADVP 미리/mag)
+             (NP 통지/ncn+를/jco)
+             (V 받/pvg+는다/ef)))+./sf)
+
+
+; 통지를 받으면 고문세무사에게 연락해 두고 , 또 장부나 서류가 모두 구비되어 있는지 확인해 둔다 .
+(S
+   (VP (VP (NP 통지/ncn+를/jco)
+             (V 받/pvg+으면/ecs))
+        (VP (PP 고문/ncn+세무사/ncn+에게/jca)
+             (V (V 연락/ncpa+하/xsv+어/ecx)
+                (AUXP 두/px+고/ecc)))+,/sp
+        (VP (IP 또/maj)
+             (NP (NP 장부/ncn+나/jcj)
+                  (NP 서류/ncn+가/jcs))
+             (VP (ADVP 모두/mag)
+                 (V (V 구비/ncpa+되/xsv+어/ecx)
+                     (AUXP 있/px+는지/ecs)
+                     (V 확인/ncpa+하/xsv+어/ecx)
+                     (AUXP 두/px+ㄴ다/ef)))))+./sf)
+
+
+; 영수증에 이르기까지 세밀하게 다루어지며 , 거래관계가 있는 매출처나 매입처 .
+(S
+   (VP (VP (PP (PP 영수증/ncn+에/jca)
+                 (PP 이르/pvg+기/etn+까지/jxc))
+             (V (V 세밀/ncps+하/xsm+게/ecs)
+                 (V 다루/pvg+어/ecx+지/px+며/ecc)))+,/sp
+        (VP (NP (AP (NP 거래/ncn+관계/ncn+가/jcs)
+                      (AP 있/paa+는/etm))
+                  (NP (NP 매출처/ncn+나/jcj)
+                       (NP 매입처/ncn)))))+./sf)
+
+
+; 하지만 부정없이 올바르게 신고하고 있는 회사라고 세무서에서 인정을 받게 되면 3 년 정도는 조사를 받지 않는 경우가 많지만 언제 조사가 있을지 모르기 때문에 장부는 누구나 쉽게 찾아볼 수 있도록 보존해 두는 것이 좋다 .
+(S
+   (VP
+        (VP (IP 하지만/maj)
+             (NP (AP (ADVP 부정/ncn+없/paa+이/xsa)
+                      (AP (V 올바르/paa+게/ecs)
+                           (V 신고/ncpa+하/xsv+고/ecx)
+                           (AP 있/px+는/etm)))
+                  (NP 회사/ncn+라고/jcr))
+            (PP 세무서/ncn+에서/jca)
+            (NP 인정/ncn+을/jco)
+            (V (V 받/pvg+게/ecx)
+                (AUXP 되/px+면/ecs)))
+        (VP (NP (AP 3/nnc)
+                  (AP 년/nbu)
+                  (NP 정도/ncn+는/jxc))
+             (NP (AP (NP 조사/ncn+를/jco)
+                      (AP (V 받/pvg+지/ecx)
+                           (AP 않/px+는/etm)))
+                  (NP 경우/ncn+가/jcs))
+             (V 많/paa+지만/ecs))
+        (VP (ADVP 언제/mag)
+             (PP (NP (NP 조사/ncn+가/jcs)
+                      (NP (V 있/paa+ㄹ지/ecs)
+                          (NP 모르/pvg+기/etn)))
+                 (PP 때문/nbn+에/jca))
+             (NP 장부/ncn+는/jxc)
+             (NP (AP (NP (AP (PP 누구/npp+나/jxc)
+                               (AP (V 쉽/paa+게/ecs)
+                                    (AP 찾아보/pvg+ㄹ/etm)))
+                           (NP 수/nbn))
+                      (AP (V 있/paa+도록/ecs)
+                           (V 보존/ncpa+하/xsv+어/ecx)
+                           (AP 두/px+는/etm)))
+                  (NP 것/nbn+이/jcs))
+             (V 좋/paa+다/ef)))+./sf)
+
+
+; 지급할 단계에서 당황하지 않도록 자금계획을 면밀히 세워 두자 .
+(S
+   (VP (VP (PP (AP 지급/ncpa+하/xsv+ㄹ/etm)
+                 (PP 단계/ncn+에서/jca))
+             (V (V 당황/ncpa+하/xsv+지/ecx)
+                 (AUXP 않/px+도록/ecs)))
+        (VP (NP 자금/ncn+계획/ncn+을/jco)
+             (ADVP 면밀/ncn+히/xsa)
+             (V (V 세우/pvg+어/ecx)
+                 (AUXP 두/px+자/ef))))+./sf)
+
+
+; 결산 후에 내는 법인세 , 주민세 , 사업소세 결산서의 작성에 따라 사업연도는 완결되지만 아직 납세가 남아 있다 .
+(S
+   (VP 
+        (VP (PP (AP (PP (AP 결산/ncn)
+                          (PP 후/ncn+에/jca))
+                     (AP 내/pvg+는/etm))
+                 (PP (AP (NP (NP 법인세/ncn)+,/sp
+                               (NP 주민세/ncn)+,/sp
+                               (NP 사업소세/ncn))
+                           (AP 결산서/ncn+의/jcm))
+                      (PP 작성/ncn+에/jca)))
+             (V 따르/pvg+아/ecs))
+        (VP (NP 사업/ncn+연도/ncn+는/jxc)
+             (V 완결/ncpa+되/xsv+지만/ecs))
+        (VP (ADVP 아직/mag)
+             (NP 납세/ncn+가/jcs)
+             (V (V 남/pvg+아/ecx)
+                 (AUXP 있/px+다/ef))))+./sf)
+
+
+; 첫째 , 법인세는 회사의 소득에 대해서 내는 세금으로서 자본금과 회사의 종류에 따라 세율이 달라진다 .
+(S 
+   (VP (VP (IP 첫째/nno)+,/sp
+            (NP 법인세/ncn+는/jxc)
+            (PP (AP (PP (AP 회사/ncn+의/jcm)
+                          (PP 소득/ncn+에/jca))
+                      (AP (V 대하/pvg+어서/ecs)
+                           (AP 내/pvg+는/etm)))
+                 (PP 세금/ncn+으로서/jca))
+             (PP (NP 자본금/ncn+과/jcj)
+                 (PP (AP 회사/ncn+의/jcm)
+                     (PP 종류/ncn+에/jca)))
+             (V 따르/pvg+아/ecs))
+        (VP (NP 세율/ncn+이/jcs)
+             (V 다르/paa+아/ecx+지/px+ㄴ다/ef)))+./sf)
+
+
+; 법인세는 부가가치세와 마찬가지로 국세의 하나이며 , 관할 지역의 세무서에 납부하면 된다 .
+(S
+   (VP
+        (VP (NP 법인세/ncn+는/jxc)
+             (PP (PP 부가가치세/ncn+와/jct)
+                 (PP 마찬가지/ncn+로/jca))
+             (VP (AP 국세/ncn+의/jcm)
+                 (V 하나/nnc+이/jp+며/ecc)))+,/sp
+        (VP (PP (AP 관할/ncn)
+                 (AP 지역/ncn+의/jcm)
+                 (PP 세무서/ncn+에/jca))
+             (V (V 납부/ncpa+하/xsv+면/ecs)
+                 (V 되/pvg+ㄴ다/ef))))+./sf)
+
+
+; 주민세는 소득세법에 의한 원천징수 , 법인세법에 의한 국내 사업장이 없는 외국법인에 대한  원천징수 , 농지세 등의 특별징수를 제외하고는 대부분 보통징수방법에 의해 징수한다 .
+(S
+   (VP
+        (NP 주민세/ncn+는/jxc)
+        (NP (NP (AP (PP 소득세법/ncn+에/jca)
+                      (AP 의하/pvg+ㄴ/etm))
+                  (NP 원천/ncn+징수/ncn))+,/sp
+             (NP (AP (PP (AP (PP 법인세법/ncn+에/jca)
+                               (AP 의하/pvg+ㄴ/etm))
+                           (PP (AP (NP (AP 국내/ncn)
+                                         (NP 사업장/ncn+이/jcs))
+                                     (AP 없/paa+는/etm))
+                                (PP 외국/ncn+법인/ncn+에/jca)))
+                      (AP 대하/pvg+ㄴ/etm))
+                  (NP 원천/ncn+징수/ncn))+,/sp
+             (NP (AP (NP 농지세/ncn)
+                      (AP 등/nbn+의/jcm))
+                 (NP 특별/ncn+징수/ncn+를/jco))
+             (NP 제외/ncpa+하/xsv+고/ecc+는/jxc))
+        (ADVP 대부분/mag)
+        (PP 보통/ncn+징수/ncn+방법/ncn+에/jca)
+        (V (V 의하/pvg+어/ecs)
+           (V 징수/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 이것은 도시 등의 환경개선 및 정비에 필요한 비용을 충당하기 위해 수도권과 모든 시 지역 , 정부가 지정한 공업단지 또는 공장 .
+(S
+   (VP
+        (VP (NP 이것/npd+은/jxc)
+             (PP (AP (NP 도시/ncn)
+                      (AP 등/nbn+의/jcm))
+                   (PP 환경/ncn+개선/ncn))
+             (IP 및/maj)
+             (NP (NP (AP (PP 정비/ncn+에/jca)
+                           (AP 필요/ncps+하/xsm+ㄴ/etm))
+                      (NP 비용/ncn+을/jco))
+                  (NP 충당/ncpa+하/xsv+기/etn))
+             (V 위하/pvg+어/ecs))
+        (VP
+             (NP (AP (NP (NP 수도권/ncn+과/jcj)
+                           (NP (AP 모든/mma)
+                                (AP 시/ncn)
+                                (AP 지역/ncn)+,/sp
+                                (NP 정부/ncn+가/jcs)))
+                       (AP 필요/ncpa+하/xsv+ㄴ/etm))
+                  (NP 공업/ncn+단지/ncn))
+             (IP 또는/maj)
+             (NP 공장/ncn)))+./sf)
+
+
+; 사업소세는 주민세와 마찬가지로 지방세이며 , 관할 지역  세무서나 시청 또는 구청에서 취급한다 .(  9 장의 납세 부분 참조 ) 법인세 , 사업소세 , 주민세의 납세기한  세금의 납부는 은행에서도 가능하며 , 법인세의  납부기한은 결산확정일로부터 15 일 ( 외부조정신고법인은 30 일 ) 이내이다 .
+(S
+   (VP
+        (VP (NP 사업소세/ncn+는/jxc)
+            (PP (NP 주민세/ncn+와/jct)
+                 (PP 마찬가지/ncn+로/jca))
+             (V 지방세/ncn+이/jp+며/ecc))+,/sp
+        (VP (NP (NP (AP 관할/ncn)
+                      (AP 지역/ncn)
+                      (NP 세무서/ncn+나/jcj))
+                 (NP 시청/ncn))
+             (IP 또는/maj)
+             (PP 구청/ncn+에서/jca)
+             (V 취급/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+                (NP (AP (/sl+9/nnc)
+                    (AP 장/nbu+의/jcm)
+                    (AP 납세/ncn)
+                    (AP 부분/ncn)
+                    (NP 참조/ncn+)/sl))
+
+(S
+   (VP (VP (NP (AP (NP (NP 법인세/ncn)+,/sp
+                          (NP 사업소세/ncn))+,/sp
+                      (AP 주민세/ncn+의/jcm))
+                 (NP 납세/ncn+기한/ncn))
+            (NP (AP 세금/ncn+의/jcm)
+                 (NP 납부/ncn+는/jxc))
+            (PP 은행/ncn+에서/jca+도/jxc)
+            (V 가능/ncps+하/xsm+며/ecc))+,/sp
+        (VP (NP (AP 법인세/ncn+의/jcm)
+                 (NP 납부/ncn+기한/ncn+은/jxc))
+             (PP 결산/ncn+확정일/ncn+로/jca+부터/jca)
+             (VP (AP15/nnc)
+                  (AP 일/nbu)
+                      (NP (NP (/sl+외부/ncn+조정/ncn+신고/ncn+법인/ncn+은/jxc)
+                           (NP (AP 30/nnc)
+                                (NP 일/nbu+)/sr)))
+                  (V 이내/ncn+이/jp+다/ef))))+./sf)
+
+
+; 주민세의 납부는 보통징수의 경우는 조례에 정하는 기간 ( 서울의 경우는 매년 7 월 16 일부터 7 월 31 일까지)이고 , 특별징수의 경우는 징수일이 속하는 달의 다음달 10 일까지 관할 시장 .
+(S
+   (VP (VP (NP (AP 주민세/ncn+의/jcm)
+                 (NP 납부/ncn+는/jxc))
+            (NP (AP 보통/ncn+징수/ncn+의/jcm)
+                 (NP 경우/ncn+는/jxc))
+            (VP (AP (PP 조례/ncn+에/jca)
+                     (AP 정하/pvg+는/etm))
+                (V 기간/ncn
+                    (NP (AP (/sl+서울/nq+의/jcm)
+                         (NP 경우/ncn+는/jxc))
+                    (PP (AP 매년/ncn)
+                         (AP 7/nnc)
+                         (AP 월/nbu)
+                         (AP 16/nnc)
+                         (PP 일/nbu+부터/jxc))
+                    (PP (AP 7/nnc)
+                         (AP 월/nbu)
+                         (AP 31/nnc)
+                         (PP 일/nbu+까지/jxc+)/sr))+이/jp+고/ecc)))+,/sp
+        (VP (NP (AP 특별/ncn+징수/ncn+의/jcm)
+                 (NP 경우/ncn+는/jxc))
+             (PP (AP (AP (NP 징수일/ncn+이/jcs)
+                           (AP 속하/pvg+는/etm))
+                      (AP 달/ncn+의/jcm))
+                 (PP (AP 다음달/ncn)
+                     (AP 10/nnc)
+                     (PP 일/nbu+까지/jca)))
+             (NP (AP 관할/ncn)
+                  (NP 시장/ncn))))+./sf)
+
+
+; 또한 사업소세의 납부는 재산할의 경우 매년 7 월 1 일부터  7 월 10 일까지이고 , 종업원할의 경우에는 징수일의 속하는 달의 다음달 10 일까지 관할 시장 .
+(S
+   (VP (VP (IP 또한/mag)
+            (NP (AP 사업소세/ncn+의/jcm)
+                 (NP 납부/ncn+는/jxc))
+            (PP (AP 재산할/ncn+의/jcm)
+                 (PP 경우/ncn))
+            (PP (AP 매년/ncn)
+                 (AP 7/nnc)
+                 (AP 월/nbu)
+                 (AP 1/nnc)
+                 (PP 일/nbu+부터/jca))
+            (VP (AP 7/nnc)
+                 (AP 월/nbu)
+                 (AP 10/nnc)
+                 (V 일/nbu+까지/jxc+이/jp+고/ecc)))+,/sp
+        (VP (PP (AP 종업원할/ncn+의/jcm)
+                 (PP 경우/ncn+에/jca+는/jxc))
+             (PP (AP 징수일/ncn+의/jcm)
+                 (AP 속하/pvg+는/etm)
+                 (AP 달/ncn+의/jcm)
+                 (AP 다음달/nc)
+                 (AP 10/nnc)
+                 (PP 일/nbu+까지/jca))
+             (NP (AP 관할/ncn)
+                  (NP 시장/ncn))))+./sf)
+
+
+; 경리담당자는 납세를 위한 자금이 부족한 경우가 생기지 않도록 지급 기한까지 자금계획을 세워 두어야 한다 .
+(S
+   (VP
+        (VP (NP 경리/ncn+담당자/ncn+는/jxc)
+             (NP (AP (NP (AP (NP 납세/ncn+를/jco)
+                                (AP 위하/pvg+ㄴ/etm))
+                            (NP 자금/ncn+이/jcs))
+                       (AP 부족/ncps+하/xsm+ㄴ/etm))
+                  (NP 경우/ncn+가/jcs))
+             (V (V 생기/pvg+지/ecx)
+                (AUXP 않/px+도록/ecs)))
+        (VP (PP (AP 지급/ncn)
+                 (PP 기한/ncn+까지/jca)
+             (NP 자금/ncn+계획/ncn+을/jco)
+             (V (V 세우/pvg+어/ecx)
+                 (AUXP 두/px+어야/ecs))
+                 (V 하/pvg+ㄴ다/ef))))+./sf)
+
+
+; 미리 납세기간에 맞춰서 적립예금 같은 것을 해두면 당황하지 않고 지급할 수 있다 .
+(S
+   (VP (VP (ADVP 미리/mag)
+             (PP 납세/ncn+기간/ncn+에/jca)
+             (V 맞추/pvg+어서/ecs))
+        (VP (NP (AP (NP 적립/ncn+예금/ncn)
+                      (AP 같/paa+ㄴ/etm))
+                  (NP 것/nbn+을/jco))
+            (V (V 하/pvg+어/ecx)+(AUXP 두/px+면/ecs)))
+        (VP (NP (AP (V 당황/ncpa+하/xsv+지/ecx)
+                      (AUXP 않/px+고/ecc)
+                      (AP 지급/ncpa+하/xsv+ㄹ/etm))
+                  (NP 수/nbn))
+             (V 있/paa+다/ef)))+./sf)
+
+
+; 확정신고 회사는 각 사업연도의 마지막 날로부터 60 일 이내에 결산을 확정하고 , 이것을 15  일 ( 외부조정신고법인은 30 일 ) 이내에 관할지역의 세무서에 결산에 의거하여 산출한 소득금액  또는 결손금액 ( 적자의 경우는 결손이 된다  ) 과 규정에 따라 계산한 법인세액을 신고해야 한다 .
+(S
+   (VP (VP (NP (AP 확정/ncn+신고/ncn)
+                  (NP 회사/ncn+는/jxc))
+             (PP (AP 각/mma)
+                  (AP 사업/ncn+연도/ncn+의/jcm)
+                  (AP 마지막/ncn)
+                  (PP 날/ncn+로/jca+부터/jxc))
+             (PP (AP 60/nnc)
+                  (AP 일/nbu)
+                  (PP 이내/ncn+에/jca))
+             (NP 결산/ncn+을/jco)
+             (V 확정/ncpa+하/xsv+고/ecc))+,/sp
+        (VP (NP 이것/npd+을/jco)
+             (PP (AP 15/nnc)
+                  (AP 일/nbu)
+                       (NP (NP (/sl+외부/ncn+조정/ncn+신고/ncn+법인/ncn+은/jxc)
+                            (NP (AP 30/nnc)
+                                 (NP 일/nbu+)/sr)))
+                  (PP 이내/ncn+에/jca))
+             (PP (AP 관할/ncn+지역/ncn+의/jcm)
+                  (PP 세무서/ncn+에/jca))
+             (PP 결산/ncn+에/jca)
+             (V 의거/ncpa+하/xsv+어/ecs))
+        (VP (NP (AP 산출/ncpa+하/xsv+ㄴ/etm)
+                 (NP 소득/ncn+금액/ncn))
+             (IP 또는/maj)
+             (NP (AP (PP (NP 결손/ncn+금액/ncn
+                                (VP (NP (AP (/sl+적자/ncn+의/jcm)
+                                         (NP 경우/ncn+는/jxc))
+                                     (NP 결손/ncn+이/jcc)
+                                     (V 되/pvg+ㄴ다/ef+)/sr))+과/jcj)
+                           (PP 규정/ncn+에/jca))
+                      (AP (V 따르/pvg+아/ecs)
+                           (AP 계산/ncpa+하/xsv+ㄴ/etm)))
+                 (NP 법인세액/ncn+을/jco))
+             (V (V 신고/ncpa+하/xsv+어야/ecs)
+                (V 하/pvg+ㄴ다/ef))))+./sf)
+
+
+; 그때 중간예납신고를 해서 세액을 납부한 경우는 중간예납세액을 공제하고 신고 납부하는데 , 이것을 확정신고라고 한다 .
+(S
+   (VP (VP (PP 그때/npd)
+             (NP 중간/ncn+예납/ncn+신고/ncn+를/jco)
+             (V 하/pvg+어서/ecs))
+        (VP 
+             (NP (AP (NP 세액/ncn+을/jco)
+                      (AP 납부/ncpa+하/xsv+ㄴ/etm))
+                  (NP 경우/ncn+는/jxc))
+             (NP 중간/ncn+예납세액/ncn+을/jco)
+             (V 공제/ncpa+하/xsv+고/ecc))
+        (VP (AP 신고/ncn)
+             (V 납부/ncpa+하/xsv+는데/ecs))+,/sp
+        (VP (NP (NP 이것/npd+을/jco)
+                 (NP 확정/ncn+신고/ncn+라고/jcr))
+             (V 하/pvg+ㄴ다/ef)))+./sf)
+
+
+; 중간예납신고. 1 년 결산의 회사에서는 전기의  확정신고기한으로부터 6 개월 후에 전기에  지급한 세액의 반 정도에 해당하는 금액을 사업연도 도중에 신고하는 예정신고를 해야 한다 .
+(S
+   (VP (NP 중간/ncn+예납/ncn+신고/ncn))+./sf)
+
+(S
+   (VP (PP (AP 1/nnc)
+            (AP 년/nbu)
+            (AP 결산/ncn+의/jcm)
+            (PP 회사/ncn+에서/jca+는/jxc))
+       (PP (AP 전기/ncn+의/jcm)
+           (PP 확정/ncn+신고/ncn+기한/ncn+으로/jca+부터))
+       (PP (AP 6/nnc)
+           (AP 개월/nbu)
+           (PP 후/ncn+에/jca))
+       (NP (AP (PP (AP (PP 전기/ncn+에/jca)
+                          (AP 지급/ncpa+하/xsv+ㄴ/etm))
+                     (PP (AP 세액/ncn+의/jcm)
+                          (AP 반/ncn)
+                          (PP 정도/ncn+에/jca)))
+                 (AP 해당/ncpa+하/xsv+는/etm))
+            (NP 금액/ncn+을/jco))
+        (NP (AP (PP (AP 사업/ncn+연도/ncn)
+                      (PP 도중/ncn+에/jca))
+                 (AP 신고/ncpa+하/xsv+는/etm))
+             (NP 예정/ncn+신고/ncn+를/jco))
+        (V (V 하/pvg+어야/ecs)
+           (V 하/pvg+ㄴ다/ef)))+./sf)
+
+
+; 즉 , 사업연도가 6 개월을 초과하는 법인은 가결산을 해서 6 개월분을 신고해야 하며 , 이것을 중간예납이라고 한다 .
+(S
+   (VP
+        (VP (IP 즉/mag)+,/sp
+             (NP 사업/ncn+연도/ncn+가/jcs)
+             (NP (AP (NP (AP 6/nnc)
+                           (NP 개월/nbu+을/jco))
+                       (AP 초과/ncpa+하/xsv+는/etm))
+                  (NP 법인/ncn+은/jxc))
+             (NP 가결산/ncn+을/jco)
+             (V 하/pvg+어서/ecs))
+        (VP (NP (AP 6/nnc)
+                  (NP 개월분/nbu+을/jco))
+             (V (V 신고/ncpa+하/xsv+어야/ecs)
+                (V 하/pvg+며/ecc)))+,/sp
+        (VP (NP (NP 이것/npd+을/jco)
+                 (NP 중간/ncn+예납/ncn+이/jp+라/ef+고/jcr))
+             (V 하/pvg+ㄴ다/ef)))+./sf)
+
+
+; 그리고 세무서에 직접 신고서를 제출하지 않고  신고서를 우편으로 발송한 경우에는 엽서로 퀴즈에  응모하는 것과 마찬가지로 우편물에 찍힌 소인 날짜가 제출 날짜가 된다 .
+(S
+   (VP
+        (VP (IP 그리고/maj)
+             (PP 세무서/ncn+에/jca)
+             (ADVP 직접/mag)
+             (NP 신고서/ncn+를/jco)
+             (V (V 제출/ncpa+하/xsv+지/ecx)
+                 (AUXP 않/px+고/ecc)))
+        (VP
+             (NP 신고서/ncn+를/jco)
+             (PP (AP (PP 우편/ncn+으로/jca)
+                      (AP 발송/ncpa+하/xsv+ㄴ/etm))
+                  (PP 경우/ncn+에/jca+는/jxc))
+             (PP 엽서/ncn+로/jca)
+             (PP (PP (AP (PP 퀴즈/ncn+에/jca)
+                           (AP 응모/ncpa+하/xsv+는/etm))
+                      (PP 것/nbn+과/jct))
+                 (PP 마찬가지/ncn+로/jca))
+             (NP (AP (PP 우편물/ncn+에/jca)
+                      (AP 찍히/pvg+ㄴ/etm))
+                  (NP (AP 소인/ncn)
+                       (NP 날짜/ncn+가/jcs)))
+             (NP (AP 제출/ncn)
+                  (NP 날짜/ncn+가/jcc))
+             (V 되/pvg+ㄴ다/ef)))+./sf)
+
+
+; 하지만 어떠한 이유로 인하여 우편물에 소인이 표시되어 있지 않거나 소인이 불확실한  경우는 세무서에 신고서가 도착한 날부터 그 우편물이 배달되는 데 소요되는 일반적인 날짜를 계산해서 우체통에 넣은 날이라고 생각되는 날을 제출일로 한다 .
+(S
+   (VP
+        (VP (IP 하지만/maj)
+            (PP (AP 어떠하/pad+ㄴ/etm)
+                 (PP 이유/ncn+로/jca))
+            (V 인하/pvg+어/ecs))
+        (VP (PP 우편물/ncn+에/jca)
+             (NP 소인/npp+이/jcs)
+             (V (V 표시/ncpa+되/xsv+어/ecx)
+                 (AUXP 있/px+지/ecx)
+                 (AUXP 않/px+거나/ecc)))
+        (VP (NP (AP (NP 소인/npp+이/jcs)
+                      (AP 불확실/ncps+하/xsm+ㄴ/etm))
+                 (NP 경우/ncn+는/jxc))
+             (PP 세무서/ncn+에/jca)
+             (PP (AP (NP 신고서/ncn+가/jcs)
+                      (AP 도착/ncpa+하/xsv+ㄴ/etm))
+                  (PP 날/ncn+부터/jca))
+             (NP (AP (PP (AP (NP (AP 그/mmd)
+                                    (NP 우편물/ncn+이/jcs))
+                                (AP 배달/ncpa+되/xsv+는/etm))
+                           (PP 데/nbn))
+                       (AP 소요/ncpa+되/xsv+는/etm))
+                  (NP (AP 일반/ncn+적/xsn+이/jp+ㄴ/etm)
+                       (NP 날짜/ncn+를/jco)))
+             (V 계산/ncpa+하/xsv+어서/ecs))
+        (VP 
+             (NP (AP (NP (AP (PP우체통/ncn+에/jca)
+                               (AP 넣/pvg+ㄴ/etm))
+                           (NP 날/ncn+이/jp+라/ef+고/jcr))
+                      (AP 생각/ncpa+되/xsv+는/etm))
+                  (NP 날/ncn+을/jco))
+             (PP 제출일/ncn+로/jca)
+             (V 하/pvg+ㄴ다/ef)))+./sf)
+
+
+; 점차 발전되는 경리업무 시대의 변화에 따라 경리업무에도 많은 변화가 생겼다 .
+(S
+   (VP (VP (PP (AP (ADVP 점차/mag)
+                     (AP 발전/ncpa+되/xsv+는/etm))
+                  (PP (AP 경리/ncn+업무/ncn)
+                      (AP 시대/ncn+의/jcm)
+                      (PP 변화/ncn+에/jca)))
+             (V 따르/pvg+아/ecs))
+        (VP (PP 경리/ncn+업무/ncn+에/jca+도/jxc)
+             (NP (AP 많/paa+ㄴ/etm)
+                  (NP 변화/ncn+가/jcs))
+             (V 생기/pvg+었/ep+다/ef)))+./sf)
+
+
+; 경리업무와 컴퓨터 경리업무도 시대의 변화에 따라 계속적인 발전을 거듭하고 있다 .
+(S
+   (VP (VP (NP (NP 경리/ncn+업무/ncn+와/jcj)
+                 (NP (AP 컴퓨터/ncn)
+                      (NP 경리/ncn+업무/ncn+도/jxc)))
+            (PP (AP 시대/ncn+의/jcm)
+                 (PP 변화/ncn+에/jca))
+            (V 따르/pvg+아/ecs))
+        (VP (NP (AP 계속/ncn+적/xsn+이/jp+ㄴ/etm)
+                  (NP 발전/ncn+을/jco))
+             (V (V 거듭/ncpa+하/xsv+고/ecx)
+                (AUXP 있/px+다/ef))))+./sf)
+
+
+; 주판을 놓을 줄 모르면 경리로서 제대로 대접을 받지 못하던 시대도 있었지만 , 전자계산기의 등장으로 주판에 아주 서투른 사람도 경리부에서 어려움 없이 일하고 있는 것이다 .
+(S
+   (VP (VP (NP (AP (NP 주판/ncn+을/jco)
+                      (AP 놓/pvg+ㄹ/etm))
+                  (NP 줄/nbn))
+             (V 모르/pvg+면/ecs))
+        (VP (PP 경리/ncn+로서/jca)
+             (ADVP 제대로/mag)
+             (NP (AP (NP 대접/ncn+을/jco)
+                      (AP (V 받/pvg+지/ecx)
+                           (AP 못하/px+던/etm)))
+                  (NP 시대/ncn+도/jxc))
+             (V 있/paa+었/ep+지만/ecs))+,/sp
+        (VP (PP (AP 전자계산기/ncn+의/jcm)
+                 (PP 등장/ncn+으로/jca))
+             (PP 주판/ncn+에/jca)
+             (NP (AP (ADVP 아주/mag)
+                       (AP 서투르/paa+ㄴ/etm))
+                  (NP 사람/ncn+도/jxc))
+             (PP 경리부/ncn+에서/jca)
+             (VP (AP (ADVP (NP 어렵/paa+ㅁ/etn)
+                              (ADVP 없/paa+이/xsa))
+                       (AP (V 일/ncpa+하/xsv+고/ecx)
+                            (AP 있/px+는/etm)))
+                 (V 것/nbn+이/jp+다/ef))))+./sf)
+
+
+; 그리고 요즘은 컴퓨터의 발달로 인하여 계산속도가 느리거나 필적이 나쁘다 할지라도 컴퓨터만  잘 다룰 수 있다면 경리업무를 처리할 수 있게 되었다 .
+(S
+   (VP
+        (VP (IP 그리고/maj)
+             (NP 요즘/ncn+은/jxc)
+             (PP (NP 컴퓨터/ncn+의/jcm)
+                  (PP 발달/ncn+로/jca))
+             (V 인하/pvg+어/ecs))
+        (VP (NP 계산/ncn+속도/ncn+가/jcs)
+             (V 느리/pvg+거나/ecc))
+        (VP (NP 필적/ncn+이/jcs)
+             (V (V 나쁘/paa+다/ef)
+                (V 하/pvg+ㄹ지라도/ecs)))
+        (VP (NP 컴퓨터/ncn+만/jxc)
+             (NP (AP (ADVP 잘/mag)
+                      (AP 다루/pvg+ㄹ/etm))
+                  (NP 수/nbn))
+             (V 있/paa+다/ef+면/ecs))
+        (VP (NP (AP (NP 경리/ncn+업무/ncn+를/jco)
+                      (AP 처리/ncpa+하/xsv+ㄹ/etm))
+                 (NP 수/nbn))
+             (V (V 있/paa+게/ecx)
+                 (AUXP 되/px+었/ep+다/ef))))+./sf)
+
+
+; 게다가 컴퓨터와 전화회선을 연결한 모뎀을 사용해서 대량의 문서를 멀리 떨어진 곳에 있는 다른  컴퓨터에 보낼 수도 있게 되었다 .
+(S
+   (VP
+        (VP (IP 게다가/mag)
+             (NP (AP (NP (NP 컴퓨터/ncn+와/jcj)
+                           (NP 전화/ncn+회선/ncn+을/jco))
+                      (AP 연결/ncpa+하/xsv+ㄴ/etm))
+                  (NP 모뎀/ncn+을/jco))
+              (V 사용/ncpa+하/xsv+어서/ecs))
+        (VP (NP (AP 대량/ncn+의/jcm)
+                  (NP 문서/ncn+를/jco))
+             (NP (AP (PP (AP (PP (AP (ADVP 멀리/mag)
+                                          (AP 떨어지/pvg+ㄴ/etm))
+                                     (PP 곳/ncn+에/jca))
+                                 (AP 있/paa+는/etm))
+                            (PP (AP 다르/paa+ㄴ/etm)
+                                 (PP 컴퓨터/ncn+에/jca)))
+                       (AP 보내/pvg+ㄹ/etm))
+                  (NP 수/nbn+도/jxc))
+             (V (V 있/paa+게/ecx)
+                 (AUXP 되/px+었/ep+다/ef))))+./sf)
+
+
+; 그리고 사용하는 기계나 소프트웨어에 따라 , 회사의 규모나 종류에 따라 처리방법 또한 여러 가지이다 .
+(S
+   (VP
+        (VP (IP 그리고/maj)
+             (PP (AP 사용/ncpa+하/xsv+는/etm)
+                 (PP (NP 기계/ncn+나/jcj)
+                      (PP 소프트웨어/ncn+에/jca)))
+             (V 따르/pvg+아/ecs))+,/sp
+        (VP (PP (AP 회사/ncn+의/jcm)
+                 (PP (NP 규모/ncn+나/jcj)
+                     (PP 종류/ncn+에/jca)))
+             (V 따르/pvg+아/ecs))
+        (VP (NP 처리/ncn+방법/ncn)
+             (IP 또한/mag)
+             (VP (AP 여러/mma)
+                 (V 가지/nbu+이/jp+다/ef))))+./sf)
+
+
+; 예를 들어 가격이 낮은 상품을 주로 취급하는 도매업에서는 매입과 매출을 처리하는 전문 컴퓨터 소프트웨어를 이용하고 , 공장을 갖고 있는 제조업에서는 공장 내의 종업원이나 시간제 사원의 급여계산이 매우 복잡하므로 급여계산 소프트웨어를 주로 이용한다 .
+(S
+   (VP (VP (IP (NP 예/ncn+를/jco)
+                 (V 들/pvg+어/ecs))
+            (NP (AP (NP 가격/ncn+이/jcs)
+                      (AP 낮/paa+ㄴ/etm))
+                 (NP 상품/ncn+을/jco))
+            (PP (AP (ADVP 주로/mag)
+                     (AP 취급/ncpa+하/xsv+는/etm))
+                 (PP 도매업/ncn+에서/jca+는/jxc))
+            (NP (AP (NP (NP 매입/ncn+과/jcj)
+                          (NP 매출/ncn+을/jco))
+                     (AP 처리/ncpa+하/xsv+는/etm))
+                 (NP (AP 전문/ncn)
+                     (AP 컴퓨터/ncn)
+                     (NP 소프트웨어/ncn+를/jco)))
+            (V 이용/ncpa+하/xsv+고/ecc))+,/s,
+        (VP 
+             (PP (AP (NP 공장/ncn+을/jco)
+                      (AP (V 갖/pvg+고/ecx)
+                          (AP 있/px+는/etm)))
+                  (PP 제조업/ncn+에서/jca+는/jxc))
+             (NP (NP (AP 공장/ncn)
+                       (AP 내/nbn+의/jcm)
+                       (NP 종업원/ncn+이나/jcj))
+                  (NP (AP 시간제/ncn)
+                       (AP 사원/ncn+의/jcm)
+                       (NP 급여/ncn+계산/ncn+이/jcs)))
+             (ADVP 매우/mag)
+             (V 복잡/ncps+하/xsm+므로/ecs))
+        (VP (NP (AP 급여/ncn+계산/ncn)
+                 (NP 소프트웨어/ncn+를/jco))
+             (ADVP 주로/mag)
+             (V 이용/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 컴퓨터를 이용할 경우에는 전표의 내용만 입력하면 총계정원장에 옮겨 적는 것에서부터 결산서 작성에 이르기까지의 모든 과정을 컴퓨터가 처리해 주기 때문에 하나하나 손으로 모든 표를 작성하는 것보다 훨씬 더 깨끗하고 빨리 처리할 수 있다는  이점이 있다 .
+(S
+   (VP (VP (PP (AP (NP 컴퓨터/ncn+를/jco)
+                      (AP 이용/ncpa+하/xsv+ㄹ/etm))
+                  (PP 경우/ncn+에/jca+는/jxc))
+             (NP (AP 전표/ncn+의/jcm)
+                  (NP 내용/ncn+만/jxc))
+             (V 입력/ncpa+하/xsv+면/ecs))
+        (VP
+             (PP (AP (PP 총계정/ncn+원장/ncn+에/jca)
+                      (AP (V 옮기/pvg+어/ecs)
+                           (AP 적/pvg+는/etm)))
+                  (PP 것/nbn+에서/jca+부터/jxc))
+             (NP (AP (PP (AP 결산서/ncn)
+                           (PP 작성/ncn+에/jca))
+                       (AP 이르/pvg+기/etn+까지/jxc+의/jcm))
+                  (NP (AP 모든/mma)
+                       (NP 과정/ncn+을/jco)))
+             (PP (NP (NP 컴퓨터/ncn+가/jcs)
+                       (NP (V 처리/ncpa+하/xsv+어/ecx)
+                            (NP 주/px+기/etn)))
+                  (PP 때문/nbn+에/jca))
+             (ADVP 하나하나/mag)
+             (PP 손/ncn+으로/jca)
+             (PP (AP (NP (AP 모든/mma)
+                           (NP 표/ncn+를/jco))
+                      (AP 작성/ncpa+하/xsv+는/etm))
+                  (PP 것/nbn+보다/jca))
+             (VP 
+                  (ADVP 훨씬/mag)
+                  (ADVP 더/mag)
+                  (V 깨끗/ncps+하/xsm+고/ecc)))
+        (VP
+             (NP (AP (NP (AP (ADVP 빨리/mag)
+                               (AP 처리/ncpa+하/xsv+ㄹ/etm))
+                           (NP 수/nbn))
+                       (AP 있/paa+다/ef+는/etm))
+                  (NP 이점/ncn+이/jcs))
+             (V 있/paa+다/ef)))+./sf)
+
+
+; 공인회계사나 세무사에게 의뢰한 회사에 따라서는 분개에서 결산서 작성까지의 일련의  과정 중에서 전표의 작성이나 현금출납장 등 장부의 기장과 계산은 회사내에서 하고 , 총계정원장으로의 전기나 시산표 작성 , 그리고 연말 계산서  작성은 공인회계사나 세무사에게 맡겨 버리는 경우가 있다 .
+(S
+   (VP 
+        (VP (NP (PP (AP (PP (NP 공인회계사/ncn+나/jcj)
+                              (PP 세무사/ncn+에게/jca))
+                          (AP 의뢰/ncpa+하/xsv+ㄴ/etm))
+                      (PP 회사/ncn+에/jca))
+                 (NP 따르/pvg+아서/ecs+는/jxc))
+             (PP 분개/ncn+에서/jca)
+             (PP (AP 결산서/ncn)
+                  (AP 작성/ncn+까지/jxc+의/jcm)
+                  (PP (AP 일련/ncn+의/jcm)
+                      (AP 과정/ncn)
+                      (PP 중/nbn+에서/jca)))
+             (NP (AP (NP (NP (AP 전표/ncn+의/jcm)
+                                (NP 작성/ncn+이나/jcj))
+                           (NP 현금/ncn+출납장/ncn))
+                       (AP 등/nbn))
+                  (NP (AP 장부/ncn+의/jcm)
+                       (NP (NP 기장/ncn+과/jcj)
+                            (NP 계산/ncn+은/jxc))))
+             (PP 회사/ncn+내/nbn+에서/jca)
+             (V 하/pvg+고/ecc))+,/sp
+        (VP (NP (NP (AP 총계정/ncn+원장/ncn+으로/jca+의/jcm)
+                      (NP 전기/ncn+나/jcj))
+                  (NP (AP 시산표/ncn)
+                       (NP 작성/ncn)))+,/sp
+             (IP 그리고/maj)
+             (NP (AP 연말/ncn)
+                  (AP 계산서/ncn)
+                  (NP 작성/ncn+은/jxc))
+             (NP (AP (PP (NP 공인회계사/ncn+나/jcj)
+                           (PP 세무사/ncn+에게/jca))
+                       (AP (V 맡기/pvg+어/ecx)
+                            (AP 버리/px+는/etm)))
+                  (NP 경우/ncn+가/jcs))
+             (V 있/paa+다/ef)))+./sf)
+
+
+; 경리담당자가 경리에 대한 충분한 지식이 없다면 공인회계사나 세무사에게 의뢰하는 방법도 고려해 보도록 한다 .
+(S
+   (VP (VP (NP 경리/ncn+담당자/ncn+가/jcs)
+             (NP (AP (PP 경리/ncn+에/jca)
+                       (AP 대하/pvg+ㄴ/etm))
+                  (NP (AP 충분/ncps+하/xsm+ㄴ/etm)
+                       (NP 지식/ncn+이/jcs)))
+             (V 없/paa+다/ef+면/ecs))
+        (VP 
+             (NP (AP (PP (NP 공인회계사/ncn+나/jcj)
+                           (PP 세무사/ncn+에게/jca))
+                       (AP 의뢰/ncpa+하/xsv+는/etm))
+                  (NP 방법/ncn+도/jxc))
+             (V (V 고려/ncpa+하/xsv+어/ecx)
+                (AUXP 보/px+도록/ecs)
+                (V 하/pvg+ㄴ다/ef))))+./sf)
+
+
+; 그러나 근무시간은 한정되어 있으므로 업무는 근무시간 내에 처리해야만 한다 .
+(S
+   (VP
+        (VP (IP 그러나/maj)
+             (NP 근무/ncn+시간/ncn+은/jxc)
+             (V (V 한정/ncpa+되/xsv+어/ecx)
+                 (AUXP 있/px+으므로/ecs)))
+        (VP (NP 업무/ncn+는/jxc)
+             (NP (PP (AP 근무/ncn+시간/ncn)
+                      (PP 내/nbn+에/jca))
+                  (NP 처리/ncpa+하/xsv+어야/ecs+만/jxc))
+             (V 하/pvg+ㄴ다/ef)))+./sf)
+
+
+; 오늘 잡다한 일이 많았기 때문에 전표나 장부의 기입을 내일로 미룬다면  처리하지 못한 전표가 쌓이게 될 것이고 , 이로 인해 업무에 차질이 생길 뿐만 아니라 본인도 일에 싫증을 느끼게되어 계속적으로 전표가 쌓이게 될 것이다 .
+(S
+   (VP (VP (ADVP 오늘/ncn)
+             (PP (NP (NP (AP 잡다/ncps+하/xsm+ㄴ/etm)
+                           (NP 일/ncn+이/jcs))
+                      (NP 많/paa+았/ep+기/etn))
+                  (PP 때문/nbn+에/jca))
+             (NP (AP (NP 전표/ncn+나/jcj)
+                      (AP 장부/ncn+의/jcm))
+                  (NP 기입/ncn+을/jco))
+             (PP 내일/ncn+로/jca)
+             (V 미루/pvg+ㄴ다/ef+면/ecs))
+        (VP 
+             (AP (NP (AP (V 처리/ncpa+하/xsv+지/ecx)
+                            (AP 못하/px+ㄴ/etm))
+                       (NP 전표/ncn+가/jcs))
+                  (AP (V 쌓이/pvg+게/ecx)
+                      (AP 되/px+ㄹ/etm)))
+             (V 것/nbn+이/jp+고/ecc))+,/sp
+        (VP (PP 이/npd+로/jca)
+             (V 인하/pvg+어/ecs))
+        (VP 
+             (PP 업무/ncn+에/jca)
+             (NP (AP (NP 차질/ncn+이/jcs)
+                      (AP 생기/pvg+ㄹ/etm))
+                  (NP 뿐/nbn+만/jxc))
+             (V 아니/paa+라/ecs))
+        (VP (NP 본인/ncn+도/jxc)
+             (PP 일/ncn+에/jca)
+             (NP 싫증/ncn+을/jco)
+             (V (V 느끼/pvg+게/ecx)+(AUXP 되/px+어/ecs)))
+        (VP (PP 계속/ncn+적/xsn+으로/jca)
+             (VP (AP (NP 전표/ncn+가/jcs)
+                      (AP (V 쌓이/pvg+게/ecx)
+                          (AP 되/px+ㄹ/etm)))
+                 (V 것/nbn+이/jp+다/ef))))+./sf)
+
+
+; 매일매일 처리하면 짧은 시간 내에 할 수 있는 일을 뒤로  미루면, 양이 많아지게 되어 시간에 쫓기면서 처리하게 되고 실수도 많아지게 된다 .
+(S
+   (VP (VP (ADVP 매일매일/mag)
+            (V 처리/ncpa+하/xsv+면/ecs))
+        (VP 
+             (NP (AP (NP (AP (PP (AP 짧/paa+ㄴ/etm)
+                                     (AP 시간/ncn)
+                                     (PP 내/nbn+에/jca))
+                                 (AP 하/pvg+ㄹ/etm))
+                            (NP 수/nbn))
+                       (AP 있/paa+는/etm))
+                  (NP 일/ncn+을/jco))
+             (PP 뒤/ncn+로/jca)
+             (V 미루/pvg+면/ecs))+,/sp
+        (VP (NP 양/ncn+이/jcs)
+             (V (V 많/paa+아/ecx+지/px+게/ecx)
+                 (AUXP 되/px+어/ecs)))
+        (VP (PP 시간/ncn+에/jca)
+             (V (V 쫓기/pvg+면서/ecc)
+                 (V 처리/ncpa+하/xsv+게/ecx)
+                 (AUXP 되/px+고/ecc)))
+        (VP (NP 실수/ncn+도/jxc)
+             (V (V 많/paa+아/ecx+지/px+게/ecx)
+                 (AUXP 되/px+ㄴ다/ef))))+./sf)
+
+
+; 제 2 장. 현금 , 예금 , 수표 , 어음의 정확한 현금관리를 위한 현금출납장. 현금의 수입과 지출을 기입해서 잔액을 계산하는 것이 현급출납장이다 .
+(S 
+   (VP (IP (AP 제/xp+2/nno)
+            (NP 장/nbu))).+/sf)
+
+(S
+   (VP 
+        (NP (AP (NP (AP (NP (NP 현금/ncn)+,/sp
+                               (NP 예금/ncn)+,/sp
+                               (NP 수표/ncn))+,/sp
+                           (AP 어음/ncn+의/jcm))
+                       (NP (AP 정확/ncps+하/xsm+ㄴ/etm)
+                            (NP 현금/ncn+관리/ncn+를/jco)))
+                  (AP 위하/pvg+ㄴ/etm))
+             (NP 현금/ncn+출납장/ncn)))+./sf)
+
+(S
+   (VP (VP (NP (AP 현금/ncn+의/jcm)
+                 (NP (NP 수입/ncn+과/jcj)
+                      (NP 지출/ncn+을/jco)))
+            (V 기입/ncpa+하/xsv+어서/ecs))
+        (VP (NP (AP (NP 잔액/ncn+을/jco)
+                      (AP 계산/ncpa+하/xsv+는/etm))
+                  (NP 것/nbn+이/jcs))
+             (V 현급/ncn+출납장/ncn+이/jp+다/ef)))+./sf)
+
+
+; 현금관리는 현금출납장에서 현금을 정확히 관리할 수 있으면 그 회사의 경리는 합격이라고 말할 수 있을 정도로 현금관리는 대단히 중요한 것이다.
+(S
+   (VP (VP (NP 현금/ncn+관리/ncn+는/jxc)
+             (PP 현금/ncn+출납장/ncn+에서/jca)
+             (NP 현금/ncn+을/jco)
+             (NP (AP (ADVP 정확/ncn+히/xsa)
+                      (AP 관리/ncpa+하/xsv+ㄹ/etm))
+                  (NP 수/nbn))
+             (V 있/paa+으면/ecs))
+        (VP 
+             (PP (AP (NP (AP (NP (NP (AP 그/mmd)
+                                          (AP 회사/ncn+의/jcm)
+                                          (NP 경리/ncn+는/jxc))
+                                      (NP 합격/ncn+이/jp+라/ef+고/jcr))
+                                 (AP 말/ncpa+하/xsv+ㄹ/etm))
+                            (NP 수/nbn))
+                       (AP 있/paa+ㄹ/etm))
+                  (PP 정도/ncn+로/jca))
+             (NP 현금/ncn+관리/ncn+는/jxc)
+             (VP (AP (ADVP 대단/ncn+히/xsa)
+                      (AP 중요/ncps+하/xsm+ㄴ/etm))
+                  (V 것/nbn+이/jp+다/ef))))+./sf)
+
+
+; 매출이나 매입과 마찬가지로 매일의 현금 입출은 장부로 관리하며 , 이때 이용되는 장부를 현금출납장이라고 한다 .
+(S
+   (VP (VP (PP (PP (NP 매출/ncn+이나/jcj)
+                     (PP 매입/ncn+과/jct))
+                 (PP 마찬가지/ncn+로/jca))
+             (NP (AP 매일/ncn+의/jcm)
+                  (NP (AP 현금/ncn)
+                       (NP 입출/ncn+은/jxc)))
+             (PP 장부/ncn+로/jca)
+             (V 관리/ncpa+하/xsv+며/ecc))+,/sp
+        (VP (NP (NP (AP (PP 이때/npd)
+                          (AP 이용/ncpa+되/xsv+는/etm))
+                      (NP 장부/ncn+를/jco))
+                 (NP 현금/ncn+출납장/ncn+이/jp+라/ef+고/jcr))
+             (V 하/pvg+ㄴ다/ef)))+./sf)
+
+
+; 들어온 돈과 나간 돈의 명세를 기입하고 월말에 합계와 차감 잔액을 계산하는 것이 용돈출납장이다 .
+(S 
+   (VP (VP (NP (AP (NP (AP 들어오/pvg+ㄴ/etm)
+                          (NP 돈/ncn+과/jcj))
+                      (AP (AP 나가/pvg+ㄴ/etm)
+                           (AP 돈/ncn+의/jcm)))
+                 (NP 명세/ncn+를/jco))
+             (V 기입/ncpa+하/xsv+고/ecc))
+        (VP 
+             (PP 월말/ncn+에/jca)
+             (NP (AP (NP (NP 합계/ncn+와/jcj)
+                           (NP (AP 차감/ncn)
+                                (NP 잔액/ncn+을/jco)))
+                      (AP 계산/ncpa+하/xsv+는/etm))
+                 (NP 것/nbn+이/jcs))
+             (V 용돈/ncn+출납장/ncn+이/jp+다/ef)))+./sf)
+
+
+; 단지 용돈출납장보다 조금 어려운 단어를 쓰고 복잡해진 것뿐이다 .
+(S
+   (VP
+        (VP (IP 단지/mag)
+             (PP 용돈/ncn+출납장/ncn+보다/jca)
+             (NP (AP (ADVP 조금/mag)
+                      (AP 어렵/paa+ㄴ/etm))
+                 (NP 단어/ncn+를/jco))
+            (V 쓰/pvg+고/ecc))
+        (VP (AP 복잡/ncps+하/xsm+어/ecx+지/px+ㄴ/etm)
+             (V 것/nbn+뿐/jxc+이/jp+다/ef)))+./sf)
+
+
+; 현금출납장에는 연월일과 적요 ( 무엇에 돈을 썼는가 , 어떻게 돈이 들어왔는가에 대해서 ), 수입금액 , 지출금액 , 잔액의  다섯가지 항목을 반드시 기록해야 한다 .
+(S
+   (VP (PP 현금/ncn+출납장/ncn+에/jca+는/jxc)
+        (NP (AP (NP (NP (NP 연월일/ncn+과/jcj)
+                           (NP 적요/ncn))
+                                   (VP (VP (PP (/sl+무엇/npd+에/jca)
+                                            (NP 돈/ncn+을/jco)
+                                            (V 쓰/pvg+었/ep+는가/ef))+,/sp
+                                        (VP (ADVP 어떻/pad+게/ecs)
+                                             (PP (NP 돈/ncn+이/jcs)
+                                                  (PP 들어오/pvg+았/ep+는가/ef+에/jca))
+                                             (V 대하/pvg+어서/ecs+)sr)))+,/sp
+                      (NP 수입/ncn+금액/ncn)+,/sp
+                      (NP 지출/ncn+금액/ncn))+,/sp
+                  (AP 잔액/ncn+의/jcm))
+             (NP (AP 다섯/nnc+가지/nbu)
+                  (NP 항목/ncn+을/jco)))
+        (ADVP 반드시/mag)
+        (V (V 기록/ncpa+하/xsv+어야/ecs)
+            (V 하/pvg+ㄴ다/ef)))+./sf)
+
+
+; 일반적으로 현금출납장은 매일 마감해서 일계표를 작성하지만 입출금이 적은 경우에는 월말에 마감하는 경우도 있다 .
+(S
+   (VP (VP (PP 일반/ncn+적/xsn+으로/jca)
+            (NP 현금/ncn+출납장/ncn+은/jxc)
+            (ADVP 매일/mag)
+            (V 마감/ncpa+하/xsv+어서/ecs))
+        (VP (NP 일계표/ncn+를/jco)
+             (V 작성/ncpa+하/xsv+지만/ecs))
+        (VP (PP (AP (NP 입출금/ncn+이/jcs)
+                      (AP 적/paa+ㄴ/etm))
+                  (PP 경우/ncn+에/jca+는/jxc))
+             (NP (AP (PP 월말/ncn+에/jca)
+                       (AP 마감/ncpa+하/xsv+는/etm))
+                  (NP 경우/ncn+도/jxc))
+             (V 있/paa+다/ef)))+./sf)
+
+
+; 이 경우는 전일이월이 되고 , 월말에 마감하는 경우는 전월이월 , 전기에서 이월한 것은 전기이월이 된다 .
+(S
+   (VP (VP (NP (AP 이/mmd)
+                 (NP 경우/ncn+는/jxc))
+            (NP 전일/ncn+이월/ncn+이/jcc)
+            (V 되/pvg+고/ecc))+,/sp
+        (VP (NP (AP (PP 월말/ncn+에/jca)
+                      (AP 마감/ncpa+하/xsv+는/etm))
+                  (NP 경우/ncn+는/jxc))
+             (NP 전월/ncn+이월/ncn)+,/sp
+             (NP (AP (PP 전기/ncn+에서/jca)
+                      (AP 이월/ncpa+하/xsv+ㄴ/etm))
+                  (NP 것/nbn+은/jxc))
+             (NP 전기/ncn+이월/ncn+이/jcc)
+             (V 되/pvg+ㄴ다/ef)))+./sf)
+
+
+; 잔액 대조는 매일매일 금고 속의 현금과 현금출납장의 잔액을 매일 대조해서 정확히 기입했는가를 확인해야 한다 .
+(S
+   (VP (VP (NP (AP 잔액/ncn)
+                 (NP 대조/ncn+는/jxc))
+            (ADVP 매일매일/mma)
+            (NP (NP (AP 금고/ncn)
+                     (AP 속/ncn+의/jcm)
+                     (NP 현금/ncn+과/jcj))
+                 (NP (AP 현금/ncn+출납장/ncn+의/jcm)
+                      (NP 잔액/ncn+을/jco)))
+            (ADVP 매일/mag)
+            (V 대조/ncpa+하/xsv+어서/ecs))
+        (VP (NP (ADVP 정확/ncn+히/xsa)
+                 (NP 기입/ncpa+하/xsv+었/ep+는가/ef+를/jco))
+             (V (V 확인/ncpa+하/xsv+어야/ecs)
+                (V 하/pvg+ㄴ다/ef))))+./sf)
+
+
+; 현금출납장 등의 합계 계산이 잘못 되지 않았는가를 조사하고 , 금고 속의 현금도 다시 한번 확인한다 .
+(S
+   (VP (VP (NP (AP 현금/ncn+출납장/ncn)
+                 (AP 등/nbn+의/jcm)
+                 (AP 합계/ncn)
+                 (NP 계산/ncn+이/jcs))
+            (NP (ADVP 잘못/mag)
+                 (NP (V 되/pvg+지/ecx)
+                      (NP 않/px+았/ep+는가/ef+를/jco)))
+            (V 조사/ncpa+하/xsv+고/ecc))+,/sp
+        (VP (NP (AP 금고/ncn)
+                  (AP 속/ncn+의/jcm)
+                  (NP 현금/ncn+도/jxc))
+             (VP (AP (ADVP 다시/mag)
+                      (AP 한/nnc+번/nbu))
+                  (V 확인/ncpa+하/xsv+ㄴ다/ef))))+./sf)
+
+
+; 정정방법. 잘못 기입했을 때에는 그 문자나 숫자 위에 붉은 색 펜으로 두 줄로 선을 그어 정정한다 .
+(S
+   (VP (NP 정정/ncn+방법/ncn))+./sf)
+
+(S
+   (VP (PP (AP (ADVP 잘못/mag)
+                 (AP 기입/ncpa+하/xsv+었/ep+ㄹ/etm))
+             (PP 때/ncn+에/jca+는/jxc))
+        (PP (AP 그/mmd)
+            (AP (NP 문자/ncn+나/jcj)
+                (AP 숫자/ncn))
+             (PP 위/ncn+에/jca))
+        (PP (AP 붉/paa+ㄴ/etm)
+             (AP 색/ncn)
+             (PP 펜/ncn+으로/jca))
+        (PP (AP 두/nnc)
+             (PP 줄/nbu+로/jca))
+        (NP 선/ncn+을/jco)
+        (V (V 긋/pvg+어/ecs)
+            (V 정정/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 두 줄로 지운 부분에는 정정 도장을 찍고 , 윗부분에 올바른 문자 또는 숫자를 다시 써 넣어야 한다 .
+(S
+   (VP 
+        (VP (PP (AP (PP (AP 두/nnc)
+                          (PP 줄/nbu+로/jca))
+                      (AP 지우/pvg+ㄴ/etm))
+                  (PP 부분/ncn+에/jca+는/jxc))
+             (NP (AP 정정/ncn)
+                  (NP 도장/ncn+을/jco))
+             (V 찍/pvg+고/ecc))+,/sp
+        (VP (PP 윗부분/ncn+에/jca)
+             (NP (AP 올바르/paa+ㄴ/etm)
+                  (NP 문자/ncn))
+             (IP 또는/maj)
+             (NP 숫자/ncn+를/jco)
+             (ADVP 다시/mag)
+             (V (V 쓰/pvg+어/ecx)
+                (AUXP 넣/px+어야/ecs)
+                (V 하/pvg+ㄴ다/ef))))+./sf)
+
+
+; 이때 문자는 오자만 정정하면 되지만 , 숫자는 한 자가 틀려도 전부 정정해야 한다 .
+(S
+   (VP (VP (PP 이때/npd)
+             (NP 문자/ncn+는/jxc)
+             (NP 오자/ncn+만/jxc)
+             (V (V 정정/ncpa+하/xsv+면/ecs)
+                 (V 되/pvg+지만/ecs)))+,/sp
+        (VP (NP 숫자/ncn+는/jxc)
+             (NP (AP 한/nnc)
+                  (NP 자/nbu+가/jcs))
+             (V 틀리/pvg+어도/ecs))
+        (VP (ADVP 전부/mag)
+             (V (V 정정/ncpa+하/xsv+어야/ecs)
+                 (V 하/pvg+ㄴ다/ef))))+./sf)
+
+
+; 경리에서 말하는 현금이란 일반적으로 현금이라 말하면 지폐나 동전만을 생각하지만 경리에서는 통화라 불리는 지폐나 동전 외에도 현금으로 취급하는 것이 있는데 , 이를 통화대용증권이라 한다 .
+(S
+   (VP (VP (NP (AP (PP 경리/ncn+에서/jca)
+                      (AP 말/ncpa+하/xsv+는/etm))
+                  (NP 현금/ncn+이/jp+라/ef+ㄴ/jxc))
+             (PP 일반/ncn+적/xsn+으로/jca)
+             (V (V 현금/ncn+이/jp+라/ef)
+                 (V 말/ncpa+하/xsv+면/ecs)))
+        (VP
+             (NP (NP 지폐/ncn+나/jcj)
+                  (NP 동전/ncn+만/jxc+을/jco))
+             (V 생각/ncpa+하/xsv+지만/ecs))
+        (VP (PP (NP (AP (PP 경리/ncn+에서/jca+는/jxc)
+                          (AP (V 통화/ncn+라/ef)
+                               (AP 불리/pvg+는/etm)))
+                      (NP (NP 지폐/ncn+나/jcj)
+                           (NP 동전/ncn)))
+                 (PP 외/ncn+에/jca+도/jxc))
+             (NP (AP (PP 현금/ncn+으로/jca)
+                       (AP 취급/ncpa+하/xsv+는/etm))
+                  (NP 것/nbn+이/jcs))
+             (V 있/paa+는데/ecs))+,/sp
+        (VP (NP 이/npd+를/jco)
+             (V (V 통화/ncn+대용/ncn+증권/ncn+이/jp+라/ef)
+                 (V 하/pvg+ㄴ다/ef))))+./sf)
+
+
+; 타인이 발행한 수표 ( 자신이 발행한 경우는 당좌예금 ). 송금수표 우편환증서 기한이 도래한 공사채의 이자나 배당지급의 상환증서 배당금 영수증 돈이 들어올 때는 입금전표에  , 나갈 때는 출금전표에 입금전표와 출금전표에  입출금의 기록을 남겨 두면 돈이 들어오고 나갈 때마다 현금출납장에 기장하는 번거로움을 줄일 수 있다 .
+(S
+   (VP 
+        (NP (AP (NP 타인/ncn+이/jcs)
+                 (AP 발행/ncpa+하/xsv+ㄴ/etm))
+             (NP 수표/ncn)))
+             (VP (PP (AP (NP (/sl+자신/ncn+이/jcs)
+                           (AP 발행/ncpa+하/xsv+ㄴ/etm))
+                      (PP 경우/ncn+는/jxc))
+                  (NP 당좌/ncn+예금/ncn+)/sr))+.sf)
+
+(S
+   (VP
+        (VP
+             (NP (NP (NP 송금/ncn+수표/ncn)
+                       (NP 우편환/ncn+증서/ncn))
+                  (NP (AP (NP 기한/ncn+이/jcs)
+                           (AP 도래/ncpa+하/xsv+ㄴ/etm))
+                      (NP (NP (AP 공사채/ncn+의/jcm)
+                               (NP 이자/ncn+나/jcj))
+                           (NP (AP 배당/ncn+지급/ncn+의/jcm)
+                                (NP 상환/ncn+증서/ncn))))
+                  (NP 배당금/ncn)
+                  (NP 영수증/ncn))
+             (NP (AP (NP 돈/ncn+이/jcs)
+                      (AP 들어오/pvg+ㄹ/etm))
+                 (NP 때/ncn+는/jxc))
+             (PP 입금/ncn+전표/ncn+에/jca)+,/sp
+             (NP (AP 나가/pvg+ㄹ/etm)
+                  (NP 때/ncn+는/jxc))
+             (PP 출금/ncn+전표/ncn+에/jca)
+             (PP (NP 입금/ncn+전표/ncn+와/jcj)
+                  (PP 출금/ncn+전표/ncn+에/jca))
+             (NP (AP 입출금/ncn+의/jcm)
+                  (NP 기록/ncn+을/jco))
+             (V (V 남기/pvg+어/ecx)
+                 (AUXP 두/px+면/ecs)))
+        (VP (PP (AP (NP 돈/ncn+이/jcs)
+                      (AP (V 들어오/pvg+고/ecc)
+                           (AP 나가/pvg+ㄹ/etm)))
+                 (PP 때/ncn+마다/jxc))
+             (NP (AP (NP (AP (PP 현금/ncn+출납장/ncn+에/jca)
+                                (AP 기장/ncpa+하/xsv+는/etm))
+                           (NP 번거롭/paa+ㅁ/etn+을/jco))
+                      (AP 줄이/pvg+ㄹ/etm))
+                  (NP 수/nbn))
+             (V 있/paa+다/ef)))+./sf)
+
+
+; 그러나 현금의 입출이 하루에 여러 번 반복해서 자주 있게 되면 그때마다 기장한다는 것은  시간도 많이 걸리고 대단히 번잡하게 된다 .
+(S
+   (VP
+        (VP (IP 그러나/maj)
+             (NP (AP 현금/ncn+의/jcm)
+                 (NP 입출/ncn+이/jcs))
+             (PP 하루/ncn+에/jca)
+             (NP (AP 여러/mma)
+                  (NP 번/nbu))
+             (V 반복/ncpa+하/xsv+어서/ecs))
+        (VP
+             (ADVP 자주/mag)
+             (V (V 있/paa+게/ecx)
+                 (AUXP 되/px+면/ecs)))
+        (VP (NP (AP (PP 그때/npd+마다/jxc)
+                      (AP 기장/ncpa+하/xsv+ㄴ다/ef+는/etm))
+                  (NP 것/nbn+은/jxc))
+             (NP 시간/ncn+도/jxc)
+             (ADVP 많/paa+이/xsa)
+             (V 걸리/pvg+고/ecc))
+        (VP (ADVP 대단/ncn+히/xsa)
+             (V (V 번잡/ncps+하/xsm+게/ecx)
+                 (AUXP 되/px+ㄴ다/ef))))+./sf)
+
+
+; 그래서 우선 입금전표와 출금전표에 입출금의 기록을 남겨 두고 나중에 그것을 모아서 현금출납장에 기장하는 것이다 .
+(S
+   (VP
+        (VP (IP 그래서/maj)
+             (ADVP 우선/mag)
+             (PP (NP 입금/ncn+전표/ncn+와/jcj)
+                  (PP 출금/ncn+전표/ncn+에/jca))
+             (NP (AP 입출금/ncn+의/jcm)
+                  (NP 기록/ncn+을/jco))
+             (V (V 남기/pvg+어/ecx)
+                (AUXP 두/px+고/ecc)))
+        (VP (PP 나중/ncn+에/jca)
+             (NP 그것/npd+을/jco)
+             (V 모으/pvg+아서/ecs))
+        (VP (AP (PP 현금/ncn+출납장/ncn+에/jca)
+                  (AP 기장/ncpa+하/xsv+는/etm))
+             (V 것/nbn+이/jp+다/ef)))+./sf)
+
+
+; 그렇게 하면 돈이 들어오고 나갈 때마다 현금출납장에 기장하는 번거로움을 줄일 수 있게 된다 .
+(S
+   (VP (IP (V 그렇/pad+게/ecx)
+           (AUXP 하/px+면/ecs))
+        (PP (AP (NP 돈/ncn+이/jcs)
+                 (AP (V 들어오/pvg+고/ecc)
+                      (AP 나가/pvg+ㄹ/etm)))
+             (PP 때/ncn+마다/jxc))
+        (NP (AP (NP (AP (PP 현금/ncn+출납장/ncn+에/jca)
+                           (AP 기장/ncpa+하/xsv+는/etm))
+                      (NP 번거롭/paa+ㅁ/etn+을/jco))
+                 (AP 줄이/pvg+ㄹ/etm))
+             (NP 수/nbn))
+        (V (V 있/paa+게/ecx)
+           (AUXP 되/px+ㄴ다/ef)))+./sf)
+
+
+; 대체전표는 분류해서 좌우 , 즉 ' 차변 ' 과 ' 대변 ' 으로 나누어 기입하는데 같은 원장에 전기하는 경우라도 입금전표와 출금전표를 이용할 때에는 차이가 나타난다 .
+(S
+   (VP (VP (NP 대체/ncn+전표/ncn+는/jxc)
+            (V 분류/ncpa+하/xsv+어서/ecs))
+        (VP (PP 좌우/ncn)+,/sp
+             (IP 즉/maj)
+             (PP (NP '/sl+차변/ncn+'/sr+과/jcj)
+                  (PP '/sl+대변/ncn+'/sr+으로/jca))
+             (V (V 나누/pvg+어/ecs)
+                 (V 기입/ncpa+하/xsv+는데/ecs)))
+        (VP (PP (AP (PP (AP 같/paa+ㄴ/etm)
+                          (PP 원장/ncn+에/jca))
+                      (AP 전기/ncpa+하/xsv+는/etm))
+                 (PP 경우/ncn+라/ef+도/jxc))
+             (PP (AP (NP (NP 입금/ncn+전표/ncn+와/jcj)
+                           (NP 출금/ncn+전표/ncn+를/jco))
+                      (AP 이용/ncpa+하/xsv+ㄹ/etm))
+                 (PP 때/ncn+에/jca+는/jxc))
+             (NP 차이/ncn+가/jcs)
+             (V 나타나/pvg+ㄴ다/ef)))+./sf)
+
+
+; 입금전표와 출금전표는 대차 한쪽의 계정과목이 현금으로 되어 있기 때문에  그때마다 현금이라는 계정과목을 반복하여 기록하는 번거로움을 피할 수 있다 .
+(S
+   (VP (NP (NP 입금/ncn+전표/ncn+와/jcj)
+            (NP 출금/ncn+전표/ncn+는/jxc))
+        (NP (AP 대차/ncn)
+             (AP 한/nnc+쪽/nbn+의/jcm)
+             (NP 계정/ncn+과목/ncn+이/jcs))
+        (PP (NP (PP 현금/ncn+으로/jca)
+                 (NP (V 되/pvg+어/ecx)
+                      (NP 있/px+기/etn)))
+            (PP 때문/nbn+에/jca))
+        (PP 그때/npd+마다/jxc)
+        (NP (AP (NP (AP 현금/ncn+이/jp+라/ef+는/etm)
+                      (NP 계정/ncn+과목/ncn+을/jco))
+                  (AP (V 반복/ncpa+하/xsv+어/ecs)
+                       (AP 기록/ncpa+하/xsv+는/etm)))
+              (NP (AP (NP 번거롭/paa+ㅁ/etn+을/jco)
+                       (AP 피하/pvg+ㄹ/etm))
+                   (NP 수/nbn)))
+        (V 있/paa+다/ef))+./sf)
+
+
+; 그러나 대체전표로는 현금의 입출 분개를 할 수 있기 때문에 입금전표와 출금전표로는  간단히 수입이나 지출의 증거로서 남겨 둘 때 주로 사용하고 , 실제 분개는 대체전표를 사용하는 회사도 있다 .
+(S
+   (VP
+        (VP (IP 그러나/maj)
+             (PP 대체/ncn+전표/ncn+로/jca+는/jxc)
+             (PP (NP (NP (AP (NP (AP 현금/ncn+의/jcm)
+                                    (NP (AP 입출/ncn)
+                                         (NP 분개/ncn+를/jco)))
+                                (AP 하/pvg+ㄹ/etm))
+                            (NP 수/nbn))
+                       (NP 있/paa+기/etn))
+                  (PP 때문/nbn+에/jca))
+            (PP (NP 입금/ncn+전표/ncn+와/jcj)
+                 (PP 출금/ncn+전표/ncn+로/jca는/jxc))
+            (ADVP 간단/ncn+히/xsa)
+            (PP (AP (PP (AP (NP 수입/ncn+이나/jcj)
+                               (AP 지출/ncn+의/jcm))
+                          (PP 증거/ncn+로서/jca))
+                     (AP (V 남기/pvg+어/ecx)
+                          (AP 두/px+ㄹ/etm)))
+                 (PP 때/ncn))
+            (ADVP 주로/mag)
+            (V 사용/ncpa+하/xsv+고/ecc))+,/sp
+        (VP (NP (AP 실제/ncn)
+                 (NP 분개/ncn+는/jxc))
+             (NP (AP (NP 대체/ncn+전표/ncn+를/jco)
+                      (AP 사용/ncpa+하/xsv+는/etm))
+                  (NP 회사/ncn+도/jxc))
+             (V 있/paa+다/ef)))+./sf)
+
+
+; 입금전표는 대부분 붉은 색으로 인쇄되어 있으므로 적색전표라고도 한다 .
+(S
+   (VP (VP (NP 입금/ncn+전표/ncn+는/jxc)
+             (PP (AP (ADVP 대부분/mag)
+                      (AP 붉/paa+ㄴ/etm))
+                  (PP 색/ncn+으로/jca))
+             (V (V 인쇄/ncpa+되/xsv+어/ecx)
+                 (AUXP 있/px+으므로/ecs)))
+        (VP (NP 적색/ncn+전표/ncn+라/ef+고/jcr+도/jxc)
+             (V 하/pvg+ㄴ다/ef)))+./sf)
+
+
+; 출금전표는 대부분 파란 색으로 인쇄되어 있으므로 청색전표라고도 한다 .
+(S
+   (VP
+        (VP (NP 출금/ncn+전표/ncn+는/jxc)
+             (PP (AP (ADVP 대부분/mag)
+                      (AP 파랗/paa+ㄴ/etm))
+                  (PP 색/ncn+으로/jca))
+             (V (V 인쇄/ncpa+되/xsv+어/ecx)
+                 (AUXP 있/px+으므로/ecs)))
+        (VP (NP 청색/ncn+전표/ncn+라/ef+고/jcr+도/jxc)
+             (V 하/pvg+ㄴ다/ef)))+./sf)
+
+
+; 소액현금의 입출금이라도 정확하게 기입해서 장부와 오차가 생기지 않도록 관리하자 .
+(S
+   (VP (VP (NP (AP 소액/ncn+현금/ncn+의/jcm)
+                 (NP 입출금/ncn+이라도/jxc))
+             (V (V 정확/ncps+하/xsm+게/ecs)
+                 (V 기입/ncpa+하/xsv+어서/ecs)))
+        (VP (PP 장부/ncn+와/jct)
+             (NP 오차/ncn+가/jcs)
+             (V (V 생기/pvg+지/ecx)
+                 (ADVP 않/px+도록/ecs)
+                 (V 관리/ncpa+하/xsv+자/ef))))+./sf)
+
+
+; 소액현금의 역할 상품매입대금의 지급을 현금으로 하면 사고나 실수가 생기기 쉽고 게다가  처리하는 데 시간도 오래 걸리므로 요즘은 거의 모든 기업이 수표나 어음 또는 은행이체를 이용하고 있다 .
+(S
+   (VP (VP (NP (NP (AP 소액/ncn+현금/ncn+의/jcm)
+                      (NP 역할/ncn))
+                 (NP (AP 상품/ncn+매입/ncn+대금/ncn+의/jcm)
+                      (NP 지급/ncn+을/jco)))
+             (PP 현금/ncn+으로/jca)
+             (V 하/pvg+면/ecs))
+        (VP (NP (NP (NP 사고/ncn+나/jcj)
+                      (NP 실수/ncn+가/jcs))
+                 (NP 생기/pvg+기/etn))
+             (V 쉽/paa+고/ecc))
+        (VP (IP 게다가/mag)
+             (PP (AP 처리/ncpa+하/xsv+는/etm)
+                  (PP 데/nbn))
+             (NP 시간/ncn+도/jxc)
+             (ADVP 오래/mag)
+             (V 걸리/pvg+므로/ecs))
+        (VP (ADVP 요즘/ncn+은/jxc)
+             (ADVP 거의/mag)
+             (NP (AP 모든/mma)
+                  (NP 기업/ncn+이/jcs))
+             (NP (NP 수표/ncn+나/jcj)
+                  (NP 어음/ncn))
+             (IP 또는/maj)
+             (NP 은행/ncn+이체/ncn+를/jco)
+             (V (V 이용/ncpa+하/xsv+고/ecx)
+                 (AUXP 있/px+다/ef))))+./sf)
+
+
+; 하지만 일상의 현금 지급시 모두 수표를 이용한다면 작은 비용은 오히려 번거롭게 되어 버린다 .
+(S
+   (VP
+        (VP (IP 하지만/maj)
+             (PP (AP 일상/ncn+의/jcm)
+                 (AP 현금/ncn)
+                 (PP 지급시/ncn))
+             (ADVP 모두/mag)
+             (NP 수표/ncn+를/jco)
+             (V 이용/ncpa+하/xsv+ㄴ다/ef+면/ecs))
+        (VP (NP (AP 작/paa+ㄴ/etm)
+                  (NP 비용/ncn+은/jxc))
+             (ADVP 오히려/mag)
+             (V (V 번거롭/paa+게/ecx)
+                 (AUXP 되/px+어/ecx)
+                 (AUXP 버리/px+ㄴ다/ef))))+./sf)
+
+
+; 그래서 일상의 작은 현금의 지급은 정기적으로 수표를 발행해서 현금화하여 지급하게 되는데 , 이러한 일상의 작은 현금을 소액현금이라고 하며 이 소액현금을 관리하는 장부를 소액현금출납장이라고 한다 .
+(S
+   (VP
+        (VP (IP 그래서/maj)
+            (NP (AP 일상/ncn+의/jcm)
+                 (AP 작/paa+ㄴ/etm)
+                 (AP 현금/ncn+의/jcm)
+                 (NP 지급/ncn+은/jxc))
+             (PP 정기/ncn+적/xsn+으로/jca)
+             (NP 수표/ncn+를/jco)
+             (V (V 발행/ncpa+하/xsv+어서/ecs)
+                 (V 현금화/ncpa+하/xsv+어/ecs)
+                 (V 지급/ncpa+하/xsv+게/ecx)
+                 (AUXP 되/px+는데/ecs)))+,/sp
+        (VP (NP (NP (AP 이러하/pad+ㄴ/etm)
+                      (AP 일상/ncn+의/jcm)
+                      (AP 작/paa+ㄴ/etm)
+                      (NP 현금/ncn+을/jco))
+                 (NP 소액/ncn+현금/ncn+이/jp+라/ef+고/jcr))
+             (V 하/pvg+며/ecc))
+        (VP (NP (NP (AP (NP (AP 이/mmd)
+                               (NP 소액/ncn+현금/ncn+을/jco))
+                           (AP 관리/ncpa+하/xsv+는/etm))
+                      (NP 장부/ncn+를/jco))
+                 (NP 소액/ncn+현금/ncn+출납장/ncn+이/jp+라/ef+고/jcr))
+             (V 하/pvg+ㄴ다/ef)))+./sf)
+
+
+; 출납계에서 보름이나 1 개월에 필요한 금액을 소액현금 담당자에게 미리 지급하면  소액현금을 지급받은 담당자는 필요한 경비를 지급하고 , 월말에 각 항목의 합계를 내어 그 합계금액을 분개 ( 복리후생비라면 그 합계금액 통신비라면 그 합계금액 ) 하여 출납계에 보고한다 .
+(S
+   (VP
+        (VP
+             (PP 출납계/ncn+에서/jca)
+             (NP (AP (PP (NP 보름/ncn+이나/jcj)
+                           (PP (AP 1/nnc)
+                               (PP 개월/nbu+에/jca)))
+                       (AP 필요/ncps+하/xsm+ㄴ/etm))
+                  (NP 금액/ncn+을/jco))
+             (PP (AP 소액/ncn+현금/ncn)
+                 (PP 담당자/ncn+에게/jca))
+             (ADVP 미리/mag)
+             (V 지급/ncpa+하/xsv+면/ecs))
+        (VP
+             (NP (AP (NP 소액/ncn+현금/ncn+을/jco)
+                      (AP 지급/ncn+받/pvg+은/etm))
+                  (NP 담당자/ncn+는/jxc))
+             (NP (AP 필요/ncps+하/xsm+ㄴ/etm)
+                  (NP 경비/ncn+를/jco))
+             (V 지급/ncpa+하/xsv+고/ecc))+,/sp
+        (VP
+             (PP 월말/ncn+에/jca)
+             (NP (AP 각/mma)
+                  (AP 항목/ncn+의/jcm)
+                  (NP 합계/ncn+를/jco))
+             (V 내/pvg+어/ecs))
+        (VP
+             (NP (AP 그/mmd)
+                 (NP 합계/ncn+금액/ncn+을/jco))
+             (V 분개/ncpa
+                       (VP (V (/sl+복리/ncn+후생비/ncn+라/ef+면/ecs))
+                       (VP (NP (AP 그/mmd)
+                                (NP 합계/ncn+금액/ncn))
+                            (V 통신비/ncn+라/ef+면/ecs))
+                        (NP (AP 그/mmd)
+                             (NP 합계/ncn+금액/ncn+)/sr))+하/xsv+어/ecs))
+        (VP
+             (PP 출납계/ncn+에/jca)
+             (V 보고/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 이러한 방법 외에도 미리 지급할 금액을 일정하게 정하지 않고 필요에 따라 적당한 금액을 보충하는 방법도 있지만 , 일반적으로는 합리적인 전자의 방법이 많이 이용되고 있다 .
+(S
+   (VP
+        (VP (PP (AP 이러하/pad+ㄴ/etm)
+                 (AP 방법/ncn)
+                 (PP 외/ncn+에/jca+도/jxc))
+             (NP (AP (ADVP 미리/mag)
+                       (AP 지급/ncpa+하/xsv+ㄹ/etm))
+                  (NP 금액/ncn+을/jco))
+             (V (V 일정/ncps+하/xsm+게/ecs)
+                 (V 정하/pvg+지/ecx)
+                 (AUXP 않/px+고/ecc)))
+        (VP (PP 필요/ncn+에/jca)
+            (V 따르/pvg+아/ecs))
+        (VP (NP (AP (NP (AP 적당/ncps+하/xsm+ㄴ/etm)
+                           (NP 금액/ncn+을/jco))
+                      (AP 보충/ncpa+하/xsv+는/etm))
+                  (NP 방법/ncn+도/jxc))
+             (V 있/paa+지만/ecs))+,/sp
+        (VP (PP 일반/ncn+적/xsn+으로는/jca)
+             (NP (AP 합리/ncn+적/xsn+이/jp+ㄴ/etm)
+                  (AP 전자/ncn+의/jcm)
+                  (NP 방법/ncn+이/jcs))
+             (ADVP 많/paa+이/xsa)
+             (V (V 이용/ncpa+되/xsv+고/ecx)
+                 (AUXP 있/px+다/ef))))+./sf)
+
+
+; 현금이 부족한 것은 담당자의 책임이기 때문에 원래는 담당자가 채워 넣어야만 한다 .
+(S
+   (VP (NP (AP (NP 현금/ncn+이/jcs)
+                 (AP 부족/ncps+하/xsm+ㄴ/etm))
+             (NP 것/nbn+은/jxc))
+        (PP (NP (AP 담당자/ncn+의/jcm)
+                 (NP 책임/ncn+이/jp+기/etn))
+             (PP 때문/nbn+에/jca))
+        (NP 원래/ncn+는/jxc)
+        (NP (NP 담당자/ncn+가/jcs)
+             (NP (V 채우/pvg+어/ecx)
+                  (NP 넣/px+어야/ecs+만/jxc)))
+        (V 하/pvg+ㄴ다/ef))+./sf)
+
+
+; 적은 금액이면 개인이 부담하더라도 별 무리가 없겠지만 , 금액이 크면 그렇게 할 수 없는 경우도 있으므로 현금 취급시에는 각별한 주의가 필요하다 .
+(S 
+   (VP (VP (AP 적/paa+ㄴ/etm)
+            (V 금액/ncn+이/jp+면/ecs))
+        (VP (NP 개인/ncn+이/jcs)
+            (V 부담/ncpa+하/xsv+더라도/ecs))
+        (VP (ADVP 별/mag)
+             (NP 무리/ncn+가/jcs)
+             (V 없/paa+겠/ep+지만/ecs))+,/sp
+        (VP (NP 금액/ncn+이/jcs)
+             (V 크/paa+면/ecs))
+        (VP (NP (AP (NP (AP (V 그렇/pad+게/ecx)
+                               (AP 하/px+ㄹ/etm))
+                           (NP 수/nbn))
+                      (AP 없/paa+는/etm))
+                 (NP 경우/ncn+도/jxc))
+             (V 있/paa+으므로/ecs))
+        (VP (PP (AP 현금/ncn)
+                 (PP 취급시/ncn+에/jca+는/jxc))
+             (NP (AP 각별/ncps+하/xsm+ㄴ/etm)
+                  (NP 주의/ncn+가/jcs))
+             (V 필요/ncps+하/xsm+다/ef)))+./sf)
+
+
+; 현금을 채워 넣는다는 것은 장부의 숫자에 현금을 맞추는 경우지만 , 그 반대로 현금에 장부를 맞추는 경우도 있다 .
+(S
+   (VP
+       (VP
+            (NP (AP (NP 현금/ncn+을/jco)
+                 (AP (V 채우/pvg+어/ecx)
+                      (AP 넣/px+는다/ef+는/etm)))
+            (NP 것/nbn+은/jxc))
+            (PP (AP 장부/ncn+의/jcm)
+                 (PP 숫자/ncn+에/jca))
+            (VP (AP (NP 현금/ncn+을/jco)
+                     (AP 맞추/pvg+는/etm))
+                 (V 경우/ncn+지만/ecs)))+,/sp
+        (VP (PP (AP 그/mmd)
+                 (PP 반대/ncn+로/jca))
+             (PP 현금/ncn+에/jca)
+             (NP (AP (NP 장부/ncn+를/jco)
+                      (AP 맞추/pvg+는/etm))
+                  (NP 경우/ncn+도/jxc))
+             (V 있/paa+다/ef)))+./sf)
+
+
+; 각 계좌별로 관리하는 은행거래장. 거래하고 있는 은행이 여러 곳인 경우에는 각 은행별로 은행거래장을 만들어 각각의 계좌를 관리해야 한다 .
+(S
+   (VP (NP (AP (PP (AP 각/mma)
+                     (PP 계좌/ncn+별/xsn+로/jca))
+                 (AP 관리/ncpa+하/xsv+는/etm))
+             (NP 은행/ncn+거래장/ncn)))+./sf)
+
+(S
+   (VP
+        (VP (NP (AP (V 거래/ncpa+하/xsv+고/ecx)
+                      (AP 있/px+는/etm))
+                 (NP 은행/ncn+이/jcs))
+            (PP (AP 여러/mma)
+                (AP 곳/ncn+이/jp+ㄴ/etm)
+                (PP 경우/ncn+에/jca+는/jxc))
+            (PP (AP 각/mma)
+                 (PP 은행/ncn+별/xsn+로/jca))
+             (NP 은행/ncn+거래장/ncn+을/jco)
+             (V 만들/pvg+어/ecs))
+        (VP (NP (AP 각각/ncn+의/jcm)
+                 (NP 계좌/ncn+를/jco))
+             (V (V 관리/ncpa+하/xsv+어야/ecs)
+                (V 하/pvg+ㄴ다/ef))))+./sf)
+
+
+; 예금계좌가 하나인 경우는 필요치 않지만 , 거래하고 있는 은행이 여러 곳인 경우에는 총계정원장만으로 각 은행별 예금계좌마다 상세한 사항을 알기 어렵기 때문에 은행거래장으로 각 계좌를 관리해야 한다 .
+(S
+   (VP
+        (VP (NP (AP (NP 예금/ncn+계좌/ncn+가/jcs)
+                      (AP 하나/nnc+이/jp+ㄴ/etm))
+                 (NP 경우/ncn+는/jxc))
+            (V (V 필요/ncps+하/xsm+치/ecx)
+                (AUXP 않/px+지만/ecs)))+,/sp
+        (VP (NP (AP (V 거래/ncpa+하/xsv+고/ecx)
+                      (AP 있/px+는/etm))
+                 (NP 은행/ncn+이/jcs))
+             (PP (AP 여러/mma)
+                 (AP 곳/ncn+이/jp+ㄴ/etm)
+                 (PP 경우/ncn+에/jca+는/jxc))
+             (PP 총계정/ncn+원장/ncn+만/jxc+으로/jca)
+             (PP (NP (NP (NP (AP (PP (AP 각/mma)
+                                        (AP 은행/ncn+별/xsn)
+                                        (PP 예금/ncn+계좌/ncn+마다/jxc))
+                                    (AP 상세/ncps+하/xsm+ㄴ/etm))
+                                (NP 사항/ncn+을/jco))
+                            (NP 알/pvg+기/etn))
+                       (NP 어렵/paa+기/etn))
+                  (PP 때문/nbn+에/jca))
+             (PP 은행/ncn+거래장/ncn+으로/jca)
+             (NP (AP 각/mma)
+                  (NP 계좌/ncn+를/jco))
+             (V (V 관리/ncpa+하/xsv+어야/ecs)
+                (V 하/pvg+ㄴ다/ef))))+./sf)
+
+
+; 수표와어음의 발행을 위한 당좌예금 수표와어음을 발행하기 위해서는 당좌예금계좌가 있어야 하고 , 당좌예금의 잔액이 부족하면 부도처리를 당하게 된다 .
+(S
+   (VP
+       (VP (NP (NP (NP (NP (AP (NP (AP (NP 수표/ncn+와/jcj)
+                                            (AP 어음/ncn+의/jcm))
+                                        (NP 발행/ncn+을/jco))
+                                  (AP 위하/pvg+ㄴ/etm))
+                              (NP 당좌/ncn+예금/ncn))
+                          (NP (NP 수표/ncn+와/jcj)
+                               (NP 어음/ncn+을/jco)))
+                     (NP 발행/ncpa+하/xsv+기/etn))
+                (NP 위하/pvg+어서/ecs+는/jxc))
+             (NP 당좌/ncn+예금/ncn+계좌/ncn+가/jcs)
+             (V (V 있/paa+어야/ecs)
+                (V 하/pvg+고/ecc)))+,/sp
+        (VP (NP (AP 당좌/ncn+예금/ncn+의/jcm)
+                 (NP 잔액/ncn+이/jcs))
+             (V 부족/ncps+하/xsm+면/ecs))
+        (VP (NP 부도/ncn+처리/ncn+를/jco)
+             (V (V 당하/pvg+게/ecx)
+                 (AUXP 되/px+ㄴ다/ef))))+./sf)
+
+
+; 부도에 대비한 당좌차월 당좌예금은 현금의 인출이나 공공요금의 자동납부에도 이용되지만  주된 사용목적은 수표와 어음의 발행이다 .
+(S
+   (VP
+        (VP
+             (NP (AP (PP 부도/ncn+에/jca)
+                       (AP 대비/ncpa+하/xsv+ㄴ/etm))
+                  (NP (NP 당좌/ncn+차월/ncn)
+                       (NP 당좌/ncn+예금/ncn+은/jxc)))
+             (PP (NP (AP 현금/ncn+의/jcm)
+                      (NP 인출/ncn+이나/jcj))
+                 (PP (AP 공공/ncn+요금/ncn+의/jcm)
+                      (PP 자동/ncn+납부/ncn+에/jca+도/jxc)))
+             (V 이용/ncpa+되/xsv+지만/ecs))
+        (VP (NP (AP 주되/pvg+ㄴ/etm)
+                  (NP 사용/ncn+목적/ncn+은/jxc))
+             (VP (AP (NP 수표/ncn+와/jcj)
+                      (AP 어음/ncn+의/jcm))
+                 (V 발행/ncn+이/jp+다/ef))))+./sf)
+
+
+; 수표와 어음을 발행한 후 만기일이 되어도 당좌예금이 잔액이 없으면 부도처리되며 , 1 년에 3 회 이상 부도를 내게 되면 거래정지처분을 당하게 되어 은행과 거래를 할 수 없게 된다 .
+(S
+   (VP (VP (PP (AP (NP (NP 수표/ncn+와/jcj)
+                          (NP 어음/ncn+을/jco))
+                     (AP 발행/ncpa+하/xsv+ㄴ/etm))
+                (PP 후/ncn))
+             (NP 만기일/ncn+이/jcc)
+             (V 되/pvg+어도/ecs))
+        (VP (NP 당좌/ncn+예금/ncn+이/jcs)
+             (NP 잔액/ncn+이/jcs)
+             (V (V 없/paa+으면/ecs)
+                 (V 부도/ncn+처리/ncpa+되/xsv+며/ecc)))+,/sp
+        (VP (PP (AP 1/nnc)
+                 (PP 년/nbu+에/jca))
+             (NP (AP 3/nnc)
+                  (AP 회/nbu)
+                  (AP 이상/ncn)
+                  (NP 부도/ncn+를/jco))
+             (V (V 내/pvg+게/ecx)
+                 (AUXP 되/px+면/ecs)))
+        (VP (NP 거래/ncn+정지/ncn+처분/ncn+을/jco)
+             (V (V 당하/pvg+게/ecx)
+                 (AUXP 되/px+어/ecs)))
+        (VP (PP 은행/ncn+과/jct)
+             (NP (AP (NP 거래/ncn+를/jco)
+                      (AP 하/pvg+ㄹ/etm))
+                  (NP 수/nbn))
+             (V (V 없/paa+게/ecx)
+                 (AUXP 되/px+ㄴ다/ef))))+./sf)
+
+
+; 즉 , 미리 은행과 당좌차월약정을 맺어 두면 예금잔액이 부족해도 차월한도액 이내에서 발행한 수표와 어음은 지급이 가능하다 .
+(S
+   (VP
+        (VP (IP 즉/mag)+,/sp
+             (ADVP  미리/mag)
+             (PP 은행/ncn+과/jct)
+             (NP 당좌/ncn+차월/ncn+약정/ncn+을/jco)
+             (V (V 맺/pvg+어/ecx)
+                 (AUXP 두/px+면/ecs)))
+        (VP (NP 예금/ncn+잔액/ncn+이/jcs)
+             (V 부족/ncps+하/xsm+어도/ecs))
+        (VP (NP (AP (PP (AP 차월/ncn+한도액/ncn)
+                          (PP 이내/ncn+에서/jca))
+                      (AP 발행/ncpa+하/xsv+ㄴ/etm))
+                 (NP (NP 수표/ncn+와/jcj)
+                      (NP 어음/ncn+은/jxc)))
+            (NP 지급/ncn+이/jcs)
+            (V 가능/ncps+하/xsm+다/ef)))+./sf)
+
+
+; 예를 들어 300 만원의 당좌차월계약을 했다면 잔액이 200 만원밖에 없더라도 당좌차월분을 포함하여 500 만원이 되므로 400 만원짜리 수표가 제시되었을 때 지급을 할 수 있는 것이다 .
+(S
+   (VP (VP (IP (NP 예/ncn+를/jco)
+                 (V 들/pvg+어/ecs))
+            (NP (AP 300/nnc)
+                 (AP 만/nnc+원/nbu+의/jcm)
+                 (NP 당좌/ncn+차월/ncn+계약/ncn+을/jco))
+            (V 하/pvg+었/ep+다/ef+면/ecs))
+        (VP (NP 잔액/ncn+이/jcs)
+             (PP (AP 200/nnc)
+                 (PP 만/nnc+원/nbu+밖에/jxc))
+             (V 없/paa+더라도/ecs))
+        (VP (NP 당좌/ncn+차월분/ncn+을/jco)
+             (V 포함/ncpa+하/xsv+어/ecs))
+        (VP (NP (AP 500/nnc)
+                 (NP 만/nnc+원/nbu+이/jcc))
+             (V 되/pvg+므로/ecs))
+        (VP (PP (AP (NP (AP 400/nnc)
+                          (AP 만/nnc+원/nbu+짜리/xsn)
+                          (NP 수표/ncn+가/jcs))
+                      (AP 제시/ncpa+되/xsv+었/ep+ㄹ/etm))
+                 (PP 때/ncn))
+             (VP (AP (NP (AP (NP 지급/ncn+을/jco)
+                                (AP 하/pvg+ㄹ/etm))
+                            (NP 수/nbn))
+                       (AP 있/paa+는/etm))
+                  (V 것/nbn+이/jp+다/ef))))+./sf)
+
+
+; 이러한 당좌차월은 차입금의 일부이기 때문에 이자를 지급해야 하는데 그 이자는 당좌예금에서 공제된다 .
+(S
+   (VP (VP (NP (AP 이러하/pad+ㄴ/etm)
+                 (NP 당좌/ncn+차월/ncn+은/jxc))
+             (PP (NP (AP 차입금/ncn+의/jcm)
+                      (NP 일부/ncn+이/jp+기/etn))
+                  (PP 때문/nbn+에/jca))
+             (NP 이자/ncn+를/jco)
+             (V (V 지급/ncpa+하/xsv+어야/ecs)
+                (V 하/pvg+는데/ecs)))
+        (VP (NP (AP 그/mmd)
+                 (NP 이자/ncn+는/jxc))
+             (PP 당좌/ncn+예금/ncn+에서/jca)
+             (V 공제/ncpa+되/xsv+ㄴ다/ef)))+./sf)
+
+
+; 발행한 수표를 상대가 아직 인출하지 않았다거나 , 반대로 자동으로 출금되었는데 회사에서는 아직 기장하지 않은 일이 생길 수도 있기 때문이다 .
+(S
+   (VP (VP (NP (AP 발행/ncpa+하/xsv+ㄴ/etm)
+                 (NP 수표/ncn+를/jco))
+            (NP 상대/ncn+가/jcs)
+            (ADVP 아직/mag)
+            (V (V 인출/ncpa+하/xsv+지/ecx)
+                 (AUXP 않/px+았/ep+다/ef+거나/ecc)))+,/sp
+        (VP (PP 반대/ncn+로/jca)
+             (PP 자동/ncn+으로/jca)
+             (V 출금/ncpa+되/xsv+었/ep+는데/ecs))
+        (VP (PP 회사/ncn+에서/jca+는/jxc)
+             (NP (NP (AP (NP (AP (ADVP 아직/mag)
+                                    (AP (V 기장/ncpa+하/xsv+지/ecx)
+                                         (AP 않/px+ㄴ/etm)))
+                                (NP 일/ncn+이/jcs))
+                           (AP 생기/pvg+ㄹ/etm))
+                       (NP 수/nbn+도/jxc))
+                  (NP 있/paa+기/etn))
+             (V 때문/nbn+이/jp+다/ef)))+./sf)
+
+
+; 이런 상태를 그냥 두면 점차 그 차이가 커지게 되므로 자주 기장을 하고 확인하도록 한다 .
+(S
+   (VP (VP (NP (AP 이런/mmd)
+                 (NP 상태/ncn+를/jco))
+             (ADVP 그냥/mag)
+             (V 두/pvg+면/ecs))
+        (VP (ADVP 점차/mag)
+             (NP (AP 그/mmd)
+                  (NP 차이/ncn+가/jcs))
+             (V (V 크/paa+어/ecx+지/px+게/ecx)
+                 (AUXP 되/px+므로/ecs)))
+        (VP (ADVP 자주/mag)
+             (NP 기장/ncn+을/jco)
+             (V (V 하/pvg+고/ecc)
+                 (V 확인/ncpa+하/xsv+도록/ecs)
+                 (V 하/pvg+ㄴ다/ef))))+./sf)
+
+
+; 그러나 당좌예금 통장은 보통예금 통장과는 달리 통장만 보고 기장할 수가 없으므로 은행에서 발행하는 잔액증명서를 정기적으로 가져 와서 실수나 기장이 누락된 것이 없는가를 반드시 확인하도록 한다 .
+(S
+   (VP
+        (VP (IP 그러나/maj)
+             (NP (AP 당좌/ncn+예금/ncn)
+                  (NP 통장/ncn+은/jxc))
+             (ADVP (NP (AP 보통/ncn+예금/ncn)
+                          (NP 통장/ncn+과/jct+는/jxc))
+                     (ADVP 달리/mag))
+             (NP (AP (NP 통장/ncn+만/jxc)
+                      (AP (V 보/pvg+고/ecc)
+                           (AP 기장/ncpa+하/xsv+ㄹ/etm)))
+                  (NP 수/nbn+가/jcs))
+             (V 없/paa+으므로/ecs))
+        (VP (NP (AP (PP 은행/ncn+에서/jca)
+                      (AP 발행/ncpa+하/xsv+는/etm))
+                 (NP 잔액/ncn+증명서/ncn+를/jco))
+             (PP 정기/ncn+적/xsn+으로/jca)
+             (V (V 가지/pvg+어/ecx)
+                 (AUXP 오/px+아서/ecs)))
+        (VP (NP (NP (NP 실수/ncn+나/jcj)
+                      (NP (AP (NP 기장/ncn+이/jcs)
+                               (AP 누락/ncpa+되/xsv+ㄴ/etm))
+                           (NP 것/nbn+이/jcs)))
+                 (NP 없/paa+는가/ef+를/jco))
+             (ADVP 반드시/mag)
+             (V (V 확인/ncpa+하/xsv+도록/ecs)
+                 (V 하/pvg+ㄴ다/ef))))+./sf)
+
+
+; 각 금융기관의 특징을 잘 파악하여 자신의 회사에  맞는 곳에서 원활히 자금을 조달하는 것은 회사경영에  있어서 매우 중요한 일이다 .
+(S
+   (VP (VP (NP (AP 각/mma)
+                 (AP 금융/ncn+기관/ncn+의/jcm)
+                 (NP 특징/ncn+을/jco))
+             (ADVP 잘/mag)
+             (V 파악/ncpa+하/xsv+어/ecs))
+        (VP
+             (PP (AP (PP (AP 자신/ncn+의/jcm)
+                           (PP 회사/ncn+에/jca))
+                      (AP 맞/pvg+는/etm))
+                  (PP 곳/ncn+에서/jca))
+             (ADVP 원활/ncn+히/xsa)
+             (NP (AP (NP 자금/ncn+을/jco)
+                      (AP 조달/ncpa+하/xsv+는/etm))
+                  (NP 것/nbn+은/jxc))
+             (PP 회사/ncn+경영/ncn+에/jca)
+             (V 있/paa+어서/ecs))
+        (VP
+             (AP (ADVP 매우/mag)
+                  (AP 중요/ncps+하/xsm+ㄴ/etm))
+             (V 일/ncn+이/jp+다/ef)))+./sf)
+
+
+; 따라서 회사의 규모 등을 고려해서 거래할 금융기관을 신중히 선택하도록 한다 .
+(S
+   (VP
+        (VP (IP 따라서/maj)
+            (NP (AP 회사/ncn+의/jcm)
+                 (AP 규모/ncn)
+                 (NP 등/nbn+을/jco))
+             (V 고려/ncpa+하/xsv+어서/ecs))
+        (VP (NP (AP 거래/ncpa+하/xsv+ㄹ/etm)
+                 (NP 금융/ncn+기관/ncn+을/jco))
+             (ADVP 신중/ncn+히/xsa)
+             (V (V 선택/ncpa+하/xsv+도록/ecs)
+                 (V 하/pvg+ㄴ다/ef))))+./sf)
+
+
+; 수표는 현금 대용. 수표는 현금 지급의 불편함 때문에 생겨난 것이며 , 특수한 수표로서 도난을 방지하기 위한 횡선수표와 어음과 같은 효과를 얻을 수 있는 선일자수표 등이 있다 .
+(S
+   (VP (NP 수표/ncn+는/jxc)
+        (NP (AP 현금/ncn)
+             (NP 대용/ncn)))+./sf)
+
+(S
+   (VP
+        (VP (NP 수표/ncn+는/jxc)
+             (VP (AP (PP (NP (AP 현금/ncn)
+                               (AP 지급/ncn+의/jcm)
+                               (NP 불편/ncps+하/xsm+ㅁ/etn))
+                          (PP 때문/nbn+에/jca))
+                      (AP 생겨나/pvg+ㄴ/etm))
+                 (V 것/nbn+이/jp+며/ecc)))+,/sp
+        (VP
+             (PP (AP 특수/ncps+하/xsm+ㄴ/etm)
+                  (PP 수표/ncn+로서/jca))
+             (NP (NP (AP (NP (AP (NP (AP (PP (AP (NP (NP 도난/ncn+을/jco)
+                                                           (NP 방지/ncpa+하/xsv+기/etn))
+                                                       (AP 위하/pvg+ㄴ/etm))
+                                                  (PP (NP 횡선/ncn+수표/ncn+와/jcj)
+                                                       (PP 어음/ncn+과/jct)))
+                                             (AP 같/paa+ㄴ/etm))
+                                        (NP 효과/ncn+를/jco))
+                                    (AP 얻/pvg+ㄹ/etm))
+                                (NP 수/nbn))
+                            (AP 있/paa+는/etm))
+                        (NP 선일자/ncn+수표/ncn))
+                   (NP 등/nbn+이/jcs))
+             (V 있/paa+다/ef)))+./sf)
+
+
+; 현금 대용이 되는. 수표 수표는 은행에서 지급을 약속한 증서로서 현금 거래에 있어서 생기는 수고를 줄이고 위험을 방지할 수 있기 때문에 현금 대용으로서 폭넓게 사용되고 있다 .
+(S
+   (VP (NP (AP (NP (AP 현금/ncn)
+                      (NP 대용/ncn+이/jcc))
+                 (AP 되/pvg+는/etm))
+             (NP 수표/ncn)))+./sf)
+
+(S
+   (VP
+        (VP (NP 수표/ncn+는/jxc)
+             (PP 은행/ncn+에서/jca)
+             (PP (AP (NP 지급/ncn+을/jco)
+                      (AP 약속/ncpa+하/xsv+ㄴ/etm))
+                 (PP 증서/ncn+로서/jca))
+             (NP (AP (PP (AP 현금/ncn)
+                           (PP 거래/ncn+에/jca))
+                       (AP (V 있/paa+어서/ecs)
+                            (AP 생기/pvg+는/etm)))
+                  (NP 수고/ncn+를/jco))
+             (V 줄이/pvg+고/ecc))
+        (VP (PP (NP (NP (AP (NP 위험/ncn+을/jco)
+                               (AP 방지/ncpa+하/xsv+ㄹ/etm))
+                           (NP 수/nbn))
+                      (NP 있/paa+기/etn))
+                 (PP 때문/nbn+에/jca))
+             (PP (AP 현금/ncn)
+                 (PP 대용/ncn+으로서/jca))
+             (V (V 폭넓/paa+게/ecs)
+                 (V 사용/ncpa+되/xsv+고/ecx)
+                 (AUXP 있/px+다/ef))))+./sf)
+
+
+; 은행에서 수표장을 발행해 주면 그때부터 수표를 발행할 수 있는 것이다 .
+(S
+   (VP (VP (PP 은행/ncn+에서/jca)
+             (NP 수표장/ncn+을/jco)
+             (V (V 발행/ncpa+하/xsv+어/ecx)
+                 (AUXP 주/px+면/ecs)))
+        (VP (PP 그때/npd+부터/jca)
+             (VP (AP (NP (AP (NP 수표/ncn+를/jco)
+                                (AP 발행/ncpa+하/xsv+ㄹ/etm))
+                           (NP 수/nbn))
+                      (AP 있/paa+는/etm))
+                 (V 것/nbn+이/jp+다/ef))))+./sf)
+
+
+; 수표를 받은 사람은 그것을 은행에서 교환하여 자신의 예금계좌에 넣거나 현금으로 바꿀 수 있다 .
+(S
+   (VP (VP (NP (AP (NP 수표/ncn+를/jco)
+                      (AP 받/pvg+ㄴ/etm))
+                 (NP 사람/ncn+은/jxc))
+             (NP 그것/npd+을/jco)
+             (PP 은행/ncn+에서/jca)
+             (V 교환/ncpa+하/xsv+어/ecs))
+        (VP (PP (AP 자신/ncn+의/jcm)
+                 (PP 예금/ncn+계좌/ncn+에/jca))
+             (V 넣/pvg+거나/ecc))
+        (VP (NP (AP (PP 현금/ncn+으로/jca)
+                      (AP 바꾸/pvg+ㄹ/etm))
+                  (NP 수/nbn))
+              (V 있/paa+다/ef)))+./sf)
+
+
+; 이처럼 은행은 지급인을 대신해서 당좌예금에 예금된 현금을 지급하는 역할을 하는 것이다 .
+(S
+   (VP (VP (PP 이/npd+처럼/jca)
+            (NP 은행/ncn+은/jc)
+            (NP 지급인/ncn+을/jco)
+            (V 대신/ncpa+하/xsv+어서/ecs))
+        (VP (AP (NP (AP (NP (AP (PP 당좌/ncn+예금/ncn+에/jca)
+                                   (AP 예금/ncpa+되/xsv+ㄴ/etm))
+                              (NP 현금/ncn+을/jco))
+                         (AP 지급/ncpa+하/xsv+는/etm))
+                     (NP 역할/ncn+을/jco))
+                (AP 하/pvg+는/etm))
+            (V 것/nbn+이/jp+다/ef)))+./sf)
+
+
+; 도난방지에 유용한 횡선수표. 수표는 현금의 대용물이기 때문에 수표를  가지고 있는 사람은 은행에서 곧바로 현금을 지급받을 수 있으므로 수표를 분실하거나 도난당할 경우에는 부정한 취득자에게 지급될 우려가 있다 .
+(S
+   (VP (NP (AP (PP 도난/ncn+방지/ncn+에/jca)
+                 (AP 유용/ncpa+하/xsv+ㄴ/etm))
+             (NP 횡선/ncn+수표/ncn)))+./sf)
+
+(S
+   (VP (VP (NP 수표/ncn+는/jxc)
+            (PP (NP (AP 현금/ncn+의/jcm)
+                     (NP 대용물/ncn+이/jp+기/etn))
+                (PP 때문/nbn+에/jca))
+            (NP (AP (NP 수표/ncn+를/jco)
+                      (AP (V 가지/pvg+고/ecx)
+                           (AP 있/px+는/etm)))
+                  (NP 사람/ncn+은/jxc))
+             (PP 은행/ncn+에서/jca)
+             (ADVP 곧바로/mag)
+             (NP (AP (NP 현금/ncn+을/jco)
+                      (AP 지급/ncpa+받/xsv+을/etm))
+                  (NP 수/nbn))
+             (V 있/paa+으므로/ecs))
+        (VP (PP (AP (NP 수표/ncn+를/jco)
+                      (AP (V 분실/ncpa+하/xsv+거나/ecc)
+                           (AP 도난/ncpa+당하/xsv+ㄹ/etm)))
+                 (PP 경우/ncn+에/jca+는/jxc))
+             (NP (AP (PP (AP 부정/ncps+하/xsm+ㄴ/etm)
+                           (PP 취득자/ncn+에게/jca))
+                       (AP 지급/ncpa+되/xsv+ㄹ/etm))
+                  (NP 우려/ncn+가/jcs))
+             (V 있/paa+다/ef)))+./sf)
+
+
+; 횡선수표는 수표의 표면에 두 줄의 평행선을 긋고 그 사이에 ' 은행 ' 또는 이와 동일한 의미가 있는 문자를 기재한다 .
+(S
+   (VP
+        (VP (NP 횡선/ncn+수표/ncn+는/jxc)
+            (PP (AP 수표/ncn+의/jcm)
+                 (PP 표면/ncn+에/jca))
+             (NP (AP 두/nnc)
+                  (AP 줄/nbu+의/jcm)
+                  (NP 평행선/ncn+을/jco))
+             (V 긋/pvg+고/ecc))
+        (VP (PP (AP 그/mmd)
+                 (PP 사이/ncn+에/jca))
+              (NP '/sl+은행/ncn+'/sr)
+              (IP 또는/maj)
+              (NP (AP (NP (AP (NP 이/npd+와/jct)
+                                (AP 동일/ncps+하/xsm+ㄴ/etm))
+                            (NP 의미/ncn+가/jcs))
+                        (AP 있/paa+는/etm))
+                   (NP 문자/ncn+를/jco))
+             (V 기재/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 이것을 은행에 가지고 가면 은행에서는 직접 현금으로 지급하지 않고 가지고 간  사람의 은행계좌에 입금시키기 때문에 지급처가 명확하게 되고 도난의 위험도 방지할 수 있다 .
+(S
+   (VP
+        (VP (NP 이것/npd+을/jco)
+             (PP 은행/ncn+에/jca)
+             (V (V 가지/pvg+고/ecc)
+                 (V 가/pvg+면/ecs)))
+        (VP (PP 은행/ncn+에서/jca+는/jxc)
+             (ADVP 직접/mag)
+             (PP 현금/ncn+으로/jca)
+             (V (V 지급/ncpa+하/xsv+지/ecx)
+                 (AUXP 않/px+고/ecc)))
+        (VP (PP (NP (PP (AP (AP (V 가지/pvg+고/ecc)
+                                   (AP 가/pvg+ㄴ/etm))
+                               (AP 사람/ncn+의/jcm))
+                           (PP 은행/ncn+계좌/ncn+에/jca))
+                       (NP 입금/ncpa+시키/xsv+기/etn))
+                 (PP 때문/nbn+에/jca))
+             (NP 지급처/ncn+가/jcs)
+             (V (V 명확/ncps+하/xsm+게/ecx)
+                 (AUXP 되/px+고/ecc)))
+        (VP (NP (AP (NP (AP 도난/ncn+의/jcm)
+                           (NP 위험/ncn+도/jxc))
+                      (AP 방지/ncpa+하/xsv+ㄹ/etm))
+                  (NP 수/nbn))
+             (V 있/paa+다/ef)))+./sf)
+
+
+; 특정횡선수표를 받은 경우는 그 은행에 계좌가 없으면 지급을 받을 수 없게 된다 .
+(S
+   (VP
+        (VP (PP (AP (NP 특정/ncn+횡선/ncn+수표/ncn+를/jco)
+                      (AP 받/pvg+ㄴ/etm))
+                 (PP 경우/ncn+는/jxc))
+             (PP (AP 그/mmd)
+                 (PP 은행/ncn+에/jca))
+             (NP 계좌/ncn+가/jcs)
+             (V 없/paa+으면/ecs))
+        (VP (NP (AP (NP 지급/ncn+을/jco)
+                      (AP 받/pvg+ㄹ/etm))
+                 (NP 수/nbn))
+             (V (V 없/paa+게/ecx)
+                 (AUXP 되/px+ㄴ다/ef))))+./sf)
+
+
+; 선일자수표는 신중하게. 선일자수표는 수표를 발행할 때 실제로 발행하는  날짜를 기입하지 않고 장래의 날짜를 발행일로 기입하는 수표이다 .
+(S
+   (VP (NP 선일자/ncn+수표/ncn+는/jxc)
+        (V 신중/ncps+하/xsm+게/ef))+./sf)
+
+(S
+   (VP
+        (VP
+            (NP 선일자/ncn+수표/ncn+는/jxc)
+            (PP (AP (NP 수표/ncn+를/jco)
+                      (AP 발행/ncpa+하/xsv+ㄹ/etm))
+                 (PP 때/ncn))
+            (NP (AP (ADVP 실제로/mag)
+                      (AP 발행/ncpa+하/xsv+는/etm))
+                  (NP 날짜/ncn+를/jco))
+            (V (V 기입/ncpa+하/xsv+지/ecx)
+                 (AUXP 않/px+고/ecc)))
+        (VP (NP (AP 장래/ncn+의/jcm)
+                  (NP 날짜/ncn+를/jco))
+             (VP (AP (PP 발행일/ncn+로/jca)
+                       (AP 기입/ncpa+하/xsv+는/etm))
+                   (V 수표/ncn+이/jp+다/ef))))+./sf)
+
+
+; 예를 들어 실제로는 5 월 1 일에 발행했는데 발행일을 5 월 15 일로 하는 경우 , 이를 선일자수표라 한다 .
+(S
+   (VP
+        (VP (IP (NP 예/ncn+를/jco)
+                 (V 들/pvg+어/ecs))
+             (ADVP 실제로/mag+는/jxc)
+             (PP (AP 5/nnc)
+                  (AP 월/nbu)
+                  (AP 1/nnc)
+                  (PP 일/nbu+에/jca))
+             (V 발행/ncpa+하/xsv+었/ep+는데/ecs))
+        (VP (NP 발행일/ncn+을/jco)
+             (PP (AP (PP (AP 5/nnc)
+                           (AP 월/nbu)
+                           (AP 15/nnc)
+                           (PP 일/nbu+로/jca))
+                      (AP 하/pvg+는/etm))
+                 (PP 경우/ncn))+,/sp
+             (NP 이/npd+를/jco)
+             (V (V 선일자/ncn+수표/ncn+라/ef)
+                 (V 하/pvg+ㄴ다/ef))))+./sf)
+
+
+; 선일자수표는 현재 현금이 부족하기 때문에 수표 발행일까지 상대방에게 수표를 갖고 있게 하는 , 즉 지금은 돈이 없으므로 발행일까지 기다려 달라는 취지로 발행되는 것이다 .
+(S
+   (VP
+        (NP 선일자/ncn+수표/ncn+는/jxc)
+        (ADVP 현재/mag)
+        (PP (NP (NP 현금/ncn+이/jcs)
+                 (NP 부족/ncps+하/xsm+기/etn))
+             (PP 때문/nbn+에/jca))
+        (PP (AP 수표/ncn)
+             (PP 발행일/ncn+까지/jxc))
+        (PP 상대방/ncn+에게/jca)
+        (VP (AP (NP 수표/ncn+를/jco)
+                 (AP (V 갖/pvg+고/ecx)
+                      (AUXP 있/px+게/ecx)
+                      (AP 하/px+는/etm)))+,/sp
+             (VP
+                  (IP 즉/maj)
+                  (VP (NP 지금/mag+은/jxc)
+                       (NP 돈/ncn+이/jcs)
+                       (V 없/paa+으므로/ecs))
+                  (VP (AP (PP (AP (PP 발행일/ncn+까지/jxc)
+                                    (AP (V 기다리/pvg+어/ecx)
+                                         (AP 달/px+라/ef+는/etm)))
+                                (PP 취지/ncn+로/jca))
+                            (AP 발행/ncpa+되/xsv+는/etm))
+                       (V 것/nbn+이/jp+다/ef)))))+./sf)
+
+
+; 이는 은행으로부터 어음거래약정을 맺지 못할 경우에 어음과 같은 효과를 얻기 위해 영세업자 등이 주로 이용한다 .
+(S
+   (VP
+        (VP (NP 이/npd+는/jxc)
+             (PP 은행/ncn+으로/jca+부터/jxc)
+             (PP (AP (NP 어음/ncn+거래/ncn+약정/ncn+을/jco)
+                      (AP (V 맺/pvg+지/ecx)
+                           (AP 못하/px+ㄹ/etm)))
+                 (PP 경우/ncn+에/jca))
+             (NP (NP (AP (NP 어음/ncn+과/jct)
+                           (AP 같/paa+ㄴ/etm))
+                      (NP 효과/ncn+를/jco))
+                 (NP 얻/pvg+기/etn))
+             (V 위하/pvg+어/ecs))
+        (VP (NP (AP 영세업자/ncn)
+                  (NP 등/nbn+이/jcs))
+             (ADVP 주로/mag)
+             (V 이용/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 그러나 수표법에서는 은행이 선일자수표 소지인에게 지급을 청구받으면 지급을 하도록  되어 있기 때문에 선일자수표를 발행할 경우에는 상대방의 신용도를 잘 판단해야 한다 .
+(S
+   (VP
+        (VP (IP 그러나/maj)
+             (PP 수표법/ncn+에서/jca+는/jxc)
+             (NP 은행/ncn+이/jcs)
+             (PP (AP 선일자/ncn+수표/ncn)
+                 (PP 소지인/ncn+에게/jca))
+             (NP 지급/ncn+을/jco)
+             (V 청구/ncpa+받/xsv+으면/ecs))
+        (VP (PP (NP (NP 지급/ncn+을/jco)
+                      (NP (V 하/pvg+도록/ecs)
+                           (V 되/pvg+어/ecx)
+                           (NP 있/px+기/etn)))
+                 (PP 때문/nbn+에/jca))
+             (PP (AP (NP 선일자/ncn+수표/ncn+를/jco)
+                      (AP 발행/ncpa+하/xsv+ㄹ/etm))
+                 (PP 경우/ncn+에/jca+는/jxc))
+             (NP (AP 상대방/ncn+의/jcm)
+                  (NP 신용도/ncn+를/jco))
+             (ADVP 잘/mag)
+             (V (V 판단/ncpa+하/xsv+어야/ecs)
+                 (V 하/pvg+ㄴ다/ef))))+./sf)
+
+
+; 수표의 발행 발행인은 수표용지에 필요사항을 기재하고 거기에 기명 날인해서 수표를 작성하고 수취인에게 교부한다 .
+(S
+   (VP (VP (NP (AP 수표/ncn+의/jcm)
+                 (AP 발행/ncn)
+                 (NP 발행인/ncn+은/jxc))
+             (PP 수표/ncn+용지/ncn+에/jca)
+             (NP 필요/ncn+사항/ncn+을/jco)
+             (V 기재/ncpa+하/xsv+고/ecc))
+        (VP (PP 거기/npd+에/jca)
+            (VP (AP 기명/ncn)
+                 (V 날인/ncpa+하/xsv+어서/ecs)))
+        (VP (NP 수표/ncn+를/jco)
+             (V 작성/ncpa+하/xsv+고/ecc))
+        (VP (PP 수취인/ncn+에게/jca)
+             (V 교부/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 발행자를 기재하고 , 발행인이 기명 날인을 하면 완성되도록 인쇄되어 있다 .
+(S
+   (VP (VP (NP 발행자/ncn+를/jco)
+            (V 기재/ncpa+하/xsv+고/ecc))+,/sp
+        (VP (NP 발행인/ncn+이/jcs)
+             (NP (AP 기명/ncn)
+                  (NP 날인/ncn+을/jco))
+             (V (V 하/pvg+면/ecs)
+                (V 완성/ncpa+되/xsv+도록/ecs)
+                (V 인쇄/ncpa+되/xsv+어/ecx)
+                (AUXP 있/px+다/ef))))+./sf)
+
+
+; 이때 액면금액은 일반적으로 아라비아 숫자를 사용한 체크라이터로 기입하고 , 체크라이터를 사용하지 않을 경우에는 한문 숫자로 기입한다 .
+(S
+   (VP (VP (PP 이때/npd)
+            (NP 액면/ncn+금액/ncn+은/jxc)
+            (PP 일반/ncn+적/xsn+으로/jca)
+            (PP (AP (NP (AP 아라비아/ncn)
+                          (NP 숫자/ncn+를/jco))
+                     (AP 사용/ncpa+하/xsv+ㄴ/etm))
+                (PP 체크/ncn+라이터/ncn+로/jca))
+            (V 기입/ncpa+하/xsv+고/ecc))+,/sp
+        (VP (PP (AP (NP 체크/ncn+라이터/ncn+를/jco)
+                      (AP (V 사용/ncpa+하/xsv+지/ecx)
+                           (AP 않/px+ㄹ/etm)))
+                 (PP 경우/ncn+에/jca+는/jxc))
+             (PP (AP 한문/ncn)
+                 (PP 숫자/ncn+로/jca))
+             (V 기입/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 금액을 한문 숫자로 기입하는 경우에는 숫자와 숫자 사이에 공간이 생기지 않도록 붙여서 쓰고 ,  금액의 첫머리에는 ' 금 ' 을 , 끝에는 ' 원정 ' 을 기입한다 .
+(S
+   (VP (VP (NP 금액/ncn+을/jco)
+            (PP (AP (PP (AP 한문/ncn)
+                         (PP 숫자/ncn+로/jca))
+                     (AP 기입/ncpa+하/xsv+는/etm))
+                 (PP 경우/ncn+에/jca+는/jxc))
+            (PP (AP (NP 숫자/ncn+와/jcj)
+                     (AP 숫자/ncn))
+                 (PP 사이/ncn+에/jca))
+            (NP 공간/ncn+이/jcs)
+            (V (V 생기/pvg+지/ecx)
+                (AUXP 않/px+도록/ecs)
+                (V 붙이/pvg+어서/ecs)
+                (V 쓰/pvg+고/ecc)))+,/sp
+        (VP (PP (AP 금액/ncn+의/jcm)
+                 (PP 첫머리/ncn+에/jca+는/jxc))
+             (NP '/sl+금/ncn+'/sr+을/jco)+,/sp
+             (PP 끝/ncn+에/jca+는/jxc)
+             (NP '/sl+원정/ncn+'/sr+을/jco)
+             (V 기입/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 어음은 배서를 하여 다른 사람에게 줄 수 있다는  것과 자신이 징수를 하지 않아도 은행이 대행해  주는 등의 여러가지 이점이 있다 .
+(S
+   (VP
+        (VP
+             (NP 어음/ncn+은/jxc)
+             (NP 배서/ncn+를/jco)
+             (V 하/pvg+어/ecs))
+        (VP
+             (PP (AP (NP (AP (PP (AP 다르/paa+ㄴ/etm)
+                                    (PP 사람/ncn+에게/jca))
+                                (AP 주/pvg+ㄹ/etm))
+                           (NP 수/nbn))
+                      (AP 있/paa+다/ef+는/etm))
+                 (PP 것/nbn+과/jct))
+             (NP 자신/ncn+이/jcs)
+             (NP 징수/ncn+를/jco)
+             (V (V 하/pvg+지/ecx)
+                 (AUXP 않/px+아도/ecs)))
+        (VP
+             (NP (AP (AP (NP 은행/ncn+이/jcs)
+                           (AP (V 대행/ncpa+하/xsv+어/ecx)
+                                (AP 주/px+는/etm)))
+                       (AP 등/nbn+의/jcm))
+                   (NP (AP 여러/mma+가지/nbu)
+                        (NP 이점/ncn+이/jcs)))
+             (V 있/paa+다/ef)))+./sf)
+
+
+; ' 어음 ' 이라고 하면 약속어음 다음의 약속어음은 백두상사가 ( 주 ) 한라를 상대로 발행한 것이다 .
+(S
+   (VP (VP (NP '/sl+어음/ncn+'/sr+이/jp+라/ef+고/jcr)
+            (V 하/pvg+면/ecs))
+        (VP (NP (AP 약속/ncn+어음/ncn)
+                  (AP 다음/ncn+의/jcm)
+                  (NP 약속/ncn+어음/ncn+은/jxc))
+             (NP 백두상사/nq+가/jcs+(/sl+주/ncn+)/sr)
+             (NP 한라/nq+를/jco)
+             (VP (AP (PP 상대/ncn+로/jca)
+                      (AP 발행/ncpa+하/xsv+ㄴ/etm))
+                  (V 것/nbn+이/jp+다/ef))))+./sf)
+
+
+; 이때 어음을 발행한 백두상사를 발행인이라 하고 , 발행된 어음을 받은 ( 주 ) 한라를 수취인이라고 한다 .
+(S
+   (VP
+        (VP (PP 이때/npd)
+             (NP (AP (NP 어음/ncn+을/jco)
+                      (AP 발행/ncpa+하/xsv+ㄴ/etm))
+                  (NP 백두상사/nq+를/jco))
+             (V (V 발행인/ncn+이/jp+라/ef)
+                 (V 하/pvg+고/ecc)))+,/sp
+        (VP (NP (NP (AP (NP (AP 발행/ncpa+되/xsv+ㄴ/etm)
+                               (NP 어음/ncn+을/jco))
+                           (AP 받/pvg+ㄴ/etm))
+                      (NP (/sl+주/ncn+)/sr+한라/nq+를/jco))
+                  (NP 수취인/ncn+이/jp+라/ef+고/jcr))
+              (V 하/pvg+ㄴ다/ef)))+./sf)
+
+
+; 약속어음은 이처럼 두 사람간에 주고 받는 것으로서 발행인인 백두상사는 수취인인 ( 주 ) 한라에게 200 만원을 지급할 의무가 있고 , ( 주 ) 한라는 백두상사로부터 200 만원을 받을 권리가 있다는 약속이 지면상에 기재되어 있다 .
+(S
+   (VP
+        (VP (NP 약속/ncn+어음/ncn+은/jxc)
+             (PP 이/npd+처럼/jca)
+             (PP (AP (PP (AP 두/nnc)
+                          (PP 사람/ncn+간/ncn+에/jca))
+                      (AP (V 주/pvg+고/ecc)
+                           (AP 받/pvg+는/etm)))
+                  (PP 것/nbn+으로서/jca))
+             (NP (AP 발행인/ncn+이/jp+ㄴ/etm)
+                  (NP 백두상사/nq+는/jxc))
+             (PP (AP 수취인/ncn+이/jp+ㄴ/etm)
+                  (PP (/sl+주/ncn+)/sr+한라/nq+에게/jca))
+             (NP (AP (NP (AP 200/nnc)
+                           (NP 만/nnc+원/nbu+을/jco))
+                      (AP 지급/ncpa+하/xsv+ㄹ/etm))
+                 (NP 의무/ncn+가/jcs))
+             (V 있/paa+고/ecc))+,/sp
+        (VP
+             (NP (/sl+주/ncn+)/sr+한라/nq+는/jxc)
+             (PP 백두상사/nq+로/jca+부터/jxc)
+             (NP (AP (NP (AP (NP (AP 200/nnc)
+                                    (NP 만/nnc+원/nbu+을/jco))
+                                (AP 받/pvg+ㄹ/etm))
+                           (NP 권리/ncn+가/jcs))
+                       (AP 있/paa+다/ef+는/etm))
+                (NP 약속/ncn+이/jcs))
+             (PP 지면상/ncn+에/jca)
+             (V (V 기재/ncpa+되/xsv+어/ecx)
+                (AUXP 있/px+다/ef))))+./sf)
+
+
+; 발행인과 지급인이 다른 환어음 약속어음의 등장인물이 두 사람인 것에 반해 환어음에는 원칙적으로 세 사람이 등장한다 .
+(S
+   (VP
+        (VP (NP (AP (NP (NP 발행인/ncn+과/jcj)
+                           (NP 지급인/ncn+이/jcs))
+                      (AP 다르/paa+ㄴ/etm))
+                  (NP (AP 환어음/ncn)
+                       (AP 약속/ncn+어음/ncn+의/jcm)
+                       (NP 등장/ncn+인물/ncn+이/jcs)))
+             (PP (AP 두/nnc)
+                  (AP 사람/ncn+이/jp+ㄴ/etm)
+                 (PP 것/nbn+에/jca))
+             (V 반하/pvg+어/ecs))
+        (VP (PP 환어음/ncn+에/jca+는/jxc)
+             (PP 원칙/ncn+적/xsn+으로/jca)
+             (NP (AP 세/nnc)
+                  (NP 사람/ncn+이/jcs))
+             (V 등장/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 또 , 약속어음에는 발행인과 지급인이 같은 사람이지만 환어음에서는 발행인과 지급인은 별도의 사람이 된다 .
+(S
+   (VP
+        (VP (IP 또/maj)+,/sp
+             (PP 약속/ncn+어음/ncn+에/jca+는/jxc)
+             (VP (AP (NP (NP 발행인/ncn+과/jcj)
+                          (NP 지급인/ncn+이/jcs))
+                     (AP 같/paa+ㄴ/etm))
+                 (V 사람/ncn+이/jp+지만/ecs)))
+        (VP (PP 환어음/ncn+에서/jca+는/jxc)
+             (NP (NP 발행인/ncn+과/jcj)
+                  (NP 지급인/ncn+은/jxc))
+             (NP (AP 별도/ncn+의/jcm)
+                  (NP 사람/ncn+이/jcc))
+             (V 되/pvg+ㄴ다/ef)))+./sf)
+
+
+; 즉 , 백두상사는 ( 주 ) 한라에게 매입대금을 지급해야만 하고 , ( 주 ) 태백으로부터는 판매대금을 지급받아야 하는 것이다 .
+(S
+   (VP
+        (VP (IP 즉/mag)+,/sp
+             (NP 백두상사/nq+는/jxc)
+             (PP (/sl+주/ncn+)/sr+한라/nq+에게/jca)
+             (NP 매입/ncn+대금/ncn+을/jco)
+             (V (V 지급/ncpa+하/xsv+어야/ecs+만/jxc)
+                (V 하/pvg+고/ecc)))+,/sp
+        (VP (PP (/sl+주/ncn+)/sr+태백/nq+으로/jca+부터/jxc+는/jxc)
+             (VP (AP (NP 판매/ncn+대금/ncn+을/jco)
+                       (AP (V 지급/ncpa+받/xsv+아야/ecs)
+                            (AP 받/pvg+는/etm)))
+                  (V 것/nbn+이/jp+다/ef))))+./sf)
+
+
+; 이때 백두상사는 환어음의 발행인이 되고 , 태백은 지급인 , 한라는 수취인이 된다 .
+(S
+   (VP
+        (VP (PP 이때/npd)
+             (NP 백두상사/nq+는/jxc)
+             (NP (AP 환어음/ncn+의/jcm)
+                  (NP 발행인/ncn+이/jcc))
+             (V 되/pvg+고/ecc))+,/sp
+        (VP (NP 태백/nq+은/jxc)
+             (NP 지급인/ncn)+,/sp
+             (NP 한라/nq+는/jxc)
+             (NP 수취인/ncn+이/jcc)
+             (V 되/pvg+ㄴ다/ef)))+./sf)
+
+
+; 발행지를 기입하고 발행인의 기명 날인을 해야 완성된다 .
+(S
+   (VP (VP (NP 발행지/ncn+를/jco)
+             (V 기입/ncpa+하/xsv+고/ecc))
+        (VP (NP (AP 발행인/ncn+의/jcm)
+                 (AP 기명/ncn)
+                 (NP 날인/ncn+을/jco))
+             (V (V 하/pvg+어야/ecs)
+                (V 완성/ncpa+되/xsv+ㄴ다/ef))))+./sf)
+
+
+; 약속어음의 기입방법 앞에서도 말한 것처럼 대부분의 어음은 약속어음을 말하는 것이므로 여기서도 약속어음을 예로 들어 보자 .
+(S
+   (VP
+       (VP
+            (PP (AP (PP (AP 약속/ncn+어음/ncn+의/jcm)
+                          (AP 기입/ncn+방법/ncn)
+                     (PP 앞/ncn+에서/jca+도/jxc))
+                 (AP 말/ncpa+하/xsv+ㄴ/etm))
+             (PP 것/nbn+처럼/jca))
+             (NP (AP 대부분/ncn+의/jcm)
+                  (NP 어음/ncn+은/jxc))
+             (VP (AP (NP 약속/ncn+어음/ncn+을/jco)
+                       (AP 말/ncpa+하/xsv+는/etm))
+                 (V 것/nbn+이/jp+므로/ecs)))
+        (VP (PP 여기/npd+서/jca+도/jxc)
+             (NP 약속/ncn+어음/ncn+을/jco)
+             (PP 예/ncn+로/jca)
+             (V (V 들/pvg+어/ecx)
+                 (AUXP 보/px+자/ef))))+./sf)
+
+
+; 어음의 발행 어음이 지급되는 장소를 지급장소라고 하는데 , 일반적으로 어음의 지급장소는 은행으로 되어 있다 .
+(S
+   (VP (VP (NP (NP (AP (NP (AP 어음/ncn+의/jcm)
+                               (AP 발행/ncn)
+                               (NP 어음/ncn+이/jcs))
+                          (AP 지급/ncpa+되/xsv+는/etm))
+                      (NP 장소/ncn+를/jco))
+                 (NP 지급/ncn+장소/ncn+라/ef+고/jcr))
+             (V 하/pvg+는데/ecs))+,/sp
+        (VP (PP 일반/ncn+적/xsn+으로/jca)
+             (NP (AP 어음/ncn+의/jcm)
+                  (NP 지급/ncn+장소/ncn+는/jxc))
+             (PP 은행/ncn+으로/jca)
+             (V (V 되/pvg+어/ecx)
+                 (AUXP 있/px+다/ef))))+./sf)
+
+
+; 또한 어음의 발행은 은행에 한정되지 않고 신용금고나 신용조합 등의 금융기관에서도 취급하고 있다 .
+(S
+   (VP
+        (VP
+             (IP 또한/maj)
+             (NP (AP 어음/ncn+의/jcm)
+                  (NP 발행/ncn+은/jxc))
+             (PP 은행/ncn+에/jca)
+             (V (V 한정/ncpa+되/xsv+지/ecx)
+                 (AUXP 않/px+고/ecc)))
+        (VP (PP (AP (NP (NP 신용/ncn+금고/ncn+나/jcj)
+                          (NP 신용/ncn+조합/ncn))
+                      (AP 등/nbn+의/jcm))
+                 (PP 금융/ncn+기관/ncn+에서/jca+도/jxc))
+             (V (V 취급/ncpa+하/xsv+고/ecx)
+                 (AUXP 있/px+다/ef))))+./sf)
+
+
+; 어음의 결제 어음을 받으면 만기일에 은행에 가지고 가서 지급을 의뢰한다 .
+(S
+   (VP (VP (NP (AP 어음/ncn+의/jcm)
+                 (AP 결제/ncn)
+                 (NP 어음/ncn+을/jco))
+             (V 받/pvg+으면/ecs))
+        (VP (PP 만기일/ncn+에/jca)
+             (PP 은행/ncn+에/jca)
+             (V (V 가지/pvg+고/ecc)
+                (V 가/pvg+서/ecs)))
+        (VP (NP 지급/ncn+을/jco)
+             (V 의뢰/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 어음의 개서 자금융통을 위해 지급시기를 연기하고 싶은 경우에는 수취인의 양해를 얻어  새롭게 어음을 발행하고 이전 어음과 교환할 수 있는데 , 이를 어음의 개서라고 한다 .
+(S
+   (VP (VP (NP (AP 어음/ncn+의/jcm)
+                 (AP 개서/ncn)
+                 (NP 자금/ncn+융통/ncn+을/jco))
+             (V 위하/pvg+어/ecs))
+        (VP (PP (AP (NP 지급/ncn+시기/ncn+를/jco)
+                      (AP (V 연기/ncpa+하/xsv+고/ecx)
+                           (AP 싶/px+ㄴ/etm)))
+                 (PP 경우/ncn+에/jca+는/jxc))
+             (NP (AP 수취인/ncn+의/jcm)
+                  (NP 양해/ncn+를/jco))
+             (V 얻/pvg+어/ecs))
+        (VP (ADVP 새롭/paa+게/ecs)
+             (NP 어음/ncn+을/jco)
+             (V 발행/ncpa+하/xsv+고/ecc))
+        (VP (NP (AP (PP (AP 이전/ncn)
+                          (PP 어음/ncn+과/jct))
+                      (AP 교환/ncpa+하/xsv+ㄹ/etm))
+                  (NP 수/nbn))
+             (V 있/paa+는데/ecs))+,/sp
+        (VP (NP 이/npd+를/jco)
+             (NP (AP 어음/ncn+의/jcm)
+                  (NP 개서/ncn+라/ef+고/jcr))
+             (V 하/pvg+ㄴ다/ef)))+./sf)
+
+
+; 어음기입장 어음은 여러 회사를 상대로 발행하기도 하고 반대로 받기도 하므로 거래처가 많은 경우에는 총계정원장만으로는 상세한 내용을 알기 어렵다 .
+(S
+   (VP
+       (VP
+            (NP (AP 어음/ncn+기입장/ncn)
+                 (NP 어음/ncn+은/jxc))
+            (NP (AP 여러/mma)
+                 (NP 회사/ncn+를/jco))
+            (NP (PP 상대/ncn+로/jca)
+                 (NP 발행/ncpa+하/xsv+기/etn+도/jxc))
+            (V 하/pvg+고/ecc))
+       (VP (NP (PP 반대/ncn+로/jca)
+                (NP 받/pvg+기/etn+도/jxc))
+            (V 하/pvg+므로/ecs))
+       (VP (PP (AP (NP 거래처/ncn+가/jcs)
+                      (AP 많/paa+ㄴ/etm))
+                 (PP 경우/ncn+에/jca+는/jxc))
+            (NP (NP (AP (PP 총계정/ncn+원장/ncn+만/jxc+으로/jca+는/jxc)
+                          (AP 상세/ncps+하/xsm+ㄴ/etm))
+                     (NP 내용/ncn+을/jco))
+                 (NP 알/pvg+기/etn))
+            (V 어렵/paa+다/ef)))+./sf)
+
+
+; 배서어음과 할인어음은 배서함으로써 타인에게 양도할 수 있으며 , 할인을 함으로써 신속하게 현금화할 수 있다는 장점을 가지고 있다 .
+(S
+   (VP
+       (VP
+            (PP (NP (NP 배서/ncn+어음/ncn+과/jcj)
+                     (NP 할인/ncn+어음/ncn+은/jxc))
+                 (PP 배서/ncpa+하/xsv+ㅁ/etn+으로써/jca))
+             (NP (AP (PP 타인/ncn+에게/jca)
+                      (AP 양도/ncpa+하/xsv+ㄹ/etm))
+                  (NP 수/nbn))
+             (V 있/paa+으며/ecc))+,/sp
+        (VP (NP (AP (NP (AP (PP (NP 할인/ncn+을/jco)
+                                   (PP 하/pvg+ㅁ/etn+으로써/jca))
+                               (AP (V 신속/ncps+하/xsm+게/ecc)
+                                    (AP 현금화/ncpa+하/xsv+ㄹ/etm)))
+                           (NP 수/nbn))
+                       (AP 있/paa+다/ef+는/etm))
+                  (NP 장점/ncn+을/jco))
+             (V (V 가지/pvg+고/ecx)
+                 (AUXP 있/px+다/ef))))+./sf)
+
+
+; 어음은 발행된 날로부터 30 일 , 60 일 , 90 일 등의 기간을 두고 현금화된다 .
+(S
+   (VP
+        (PP (AP (NP 어음/ncn+은/jxc)
+                 (AP 발행/ncpa+되/xsv+ㄴ/etm))
+             (PP 날/ncn+로/jca+부터/jxc))
+        (NP (AP (NP (NP (AP 30/nnc)
+                           (NP 일/nbu))+,/sp
+                      (NP (AP 60/nnc)
+                           (NP 일/nbu))+,/sp
+                       (NP (AP 90/nnc)
+                            (AP 일/nbu)))
+                  (AP 등/nbn+의/jcm))
+             (NP 기간/ncn+을/jco))
+        (V (V 두/pvg+고/ecc)
+            (V 현금화/ncpa+되/xsv+ㄴ다/ef)))+./sf)
+
+
+; 받은 측에서 보면 이 기간은 짧으면 짧을수록 좋다고 말할 수 있다 .
+(S
+   (VP (VP (PP (AP 받/pvg+ㄴ/etm)
+                 (PP 측/ncn+에서/jca))
+             (V 보/pvg+면/ecs))
+        (VP (NP (AP (NP (NP (AP 이/mmd)
+                               (NP 기간/ncn+은/jxc))
+                           (NP (V 짧/paa+으면/ecs)
+                                (V 짧/paa+ㄹ수록/ecs)
+                                (NP 좋/paa+다/ef+고/jcr)))
+                      (AP 말/ncpa+하/xsv+ㄹ/etm))
+                  (NP 수/nbn))
+            (V 있/paa+다/ef)))+./sf)
+
+
+; 즉 , 현금화되는 기간이 단축되면 자금에 여유가 생겨 자급압박으로부터도 해방될 수 있기 때문이다 .
+(S
+   (VP
+        (VP (IP 즉/mag)+,/sp
+            (NP (AP 현금화/ncpa+되/xsv+는/etm)
+                 (NP 기간/ncn+이/jcs))
+             (V 단축/ncpa+되/xsv+면/ecs))
+        (VP (PP 자금/ncn+에/jca)
+             (NP 여유/ncn+가/jcs)
+             (V 생기/pvg+어/ecs))
+        (VP (NP (NP (AP (PP 자급/ncn+압박/ncn+으로/jca+부터/jxc+도/jxc)
+                           (AP 해방/ncpa+되/xsv+ㄹ/etm))
+                      (NP 수/nbn))
+                 (NP 있/paa+기/etn))
+             (V 때문/nbn+이/jp+다/ef)))+./sf)
+
+
+; 그러나 지급할 쪽에서는 지급이 늦으면 늦는 만큼 자금에 여유가 생기기 때문에 회사에 따라서는 150 일 , 180 일이라는 긴 기간의 어음을 발행하는 곳도 있다 .
+(S
+   (VP (IP 그러나/maj)
+       (PP (AP 지급/ncpa+하/xsv+ㄹ/etm)
+            (PP 쪽/nbn+에서/jca+는/jxc))
+       (NP (AP (NP 지급/ncn+이/jcs)
+                (AP (V 늦/paa+으면/ecs)
+                     (AP 늦/paa+는/etm)))
+            (NP 만큼/nbn))
+        (PP 자금/ncn+에/jca)
+        (PP (NP (NP 여유/ncn+가/jcs)
+                 (NP 생기/pvg+기/etn))
+            (PP 때문/nbn+에/jca))
+        (NP (PP 회사/ncn+에/jca)
+             (NP 따르/pvg+아서/ecs+는/jxc))
+        (NP (AP (NP (AP 150/nnc)
+                      (AP 일/nbu)+,/sp
+                      (AP 180/nnc)
+                      (AP 일/nbu+이/jp+라/ef+는/etm)
+                      (AP 기/paa+ㄴ/etm)
+                      (AP 기간/ncn+의/jcm)
+                      (NP 어음/ncn+을/jco))
+                 (AP 발행/ncpa+하/xsv+는/etm))
+             (NP 곳/ncn+도/jxc))
+        (V 있/paa+다/ef))+./sf)
+
+
+; 어음은 만기일까지의 기간이 긴 경우 그것을 다른 사람에게 양도하기도 하는데 , 어음을 양도할 때에는 어음의 배서라는 방법을 이용하게 된다 .
+(S
+   (VP (VP (NP 어음/ncn+은/jxc)
+             (PP (AP (NP (AP 만기일/ncn+까지/jxc+의/jcm)
+                           (NP 기간/ncn+이/jcs))
+                      (AP 길/paa+ㄴ/etm))
+                 (PP 경우/ncn))
+             (NP 그것/npd+을/jco)
+             (NP (PP (AP 다르/paa+ㄴ/etm)
+                      (PP 사람/ncn+에게/jca))
+                  (NP 양도/ncpa+하/xsv+기/etn+도/jxc))
+             (V 하/pvg+는데/ecs))+,/sp
+        (VP (PP (AP (NP 어음/ncn+을/jco)
+                      (AP 양도/ncpa+하/xsv+ㄹ/etm))
+                  (PP 때/ncn+에/jca+는/jxc))
+             (NP (AP 어음/ncn+의/jcm)
+                  (AP 배서/ncn+라/ef+는/etm)
+                  (NP 방법/ncn+을/jco))
+             (V (V 이용/ncpa+하/xsv+게/ecx)
+                 (AUXP 되/px+ㄴ다/ef))))+./sf)
+
+
+; 배서어음이란 어음의 뒷면에 어음을 양도하는 사람의  이름과 양도받는 상대의 이름을 쓰고 양도하는  사람의 인감도장을 찍은 어음을 말한다 .
+(S
+   (VP
+        (VP (NP 배서/ncn+어음/ncn+이/jp+라/ef+ㄴ/jxc)
+             (PP (AP 어음/ncn+의/jcm)
+                 (PP 뒷면/ncn+에/jca))
+             (NP (NP (AP (NP 어음/ncn+을/jco)
+                           (AP 양도/ncpa+하/xsv+는/etm))
+                       (NP (AP 사람/ncn+의/jcm)
+                            (NP 이름/ncn+과/jcj)))
+                  (NP (AP 양도/ncpa+받/xsv+는/etm)
+                       (NP (AP 상대/ncn+의/jcm)
+                            (NP 이름/ncn+을/jco))))
+             (V 쓰/pvg+고/ecc))
+        (VP (NP (AP (NP (AP 양도/ncpa+하/xsv+는/etm)
+                           (AP 사람/ncn+의/jcm)
+                           (NP 인감/ncn+도장/ncn+을/jco))
+                      (AP 찍/pvg+ㄴ/etm))
+                  (NP 어음/ncn+을/jco))
+             (V 말/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 이처럼 어음을 받은 사람은 배서를 통해서 어음을 양도함으로써 만기일이 되지 않아도  매입대금 따위의 지급에 어음을 사용할 수 있다 .
+(S
+   (VP (VP (PP 이/npd+처럼/jca)
+            (NP (AP (NP 어음/ncn+을/jco)
+                     (AP 받/pvg+ㄴ/etm))
+                (NP 사람/ncn+은/jxc))
+            (NP 배서/ncn+를/jco)
+            (V 통하/pvg+어서/ecs))
+        (VP (PP (AP 어음/ncn+을/jco)
+                 (PP 양도/ncpa+하/xsv+ㅁ/etn+으로써/jca))
+             (NP 만기일/ncn+이/jcc)
+             (V (V 되/pvg+지/ecx)
+                 (AUXP 않/px+아도/ecs)))
+        (VP (PP (AP 매입/ncn+대금/ncn)
+                 (AP 따위/nbn+의/jcm)
+                 (PP 지급/ncn+에/jca))
+             (NP (AP (NP 어음/ncn+을/jco)
+                       (AP 사용/ncpa+하/xsv+ㄹ/etm))
+                  (NP 수/nbn))
+             (V 있/paa+다/ef)))+./sf)
+
+
+; 할인어음으로 조속히 현금화한 어음은 배서를 해서 타인에게 양도함으로써 매입대금의 지급시 주로 이용되지만 , 부득이하게 현금이 필요한 경우에는 어음할인이라는 방법을 이용한다 .
+(S
+   (VP (VP (PP 할인/ncn+어음/ncn+으로/jca)
+            (NP (AP (ADVP 조속/ncn+히/xsa)
+                     (AP 현금화/ncpa+하/xsv+ㄴ/etm))
+                 (NP 어음/ncn+은/jxc))
+            (NP 배서/ncn+를/jco)
+            (V 하/pvg+어서/ecs))
+        (VP (PP (PP 타인/ncn+에게/jca)
+                 (PP 양도/ncpa+하/xsv+ㅁ/etn+으로써/jca))
+             (PP (AP 매입/ncn+대금/ncn+의/jcm)
+                 (PP 지급시/ncn))
+             (ADVP 주로/mag)
+             (V 이용/ncpa+되/xsv+지만/ecs))+,/sp
+        (VP (ADVP 부득이/mag+하/paa+게/ecs)
+             (PP (AP (NP 현금/ncn+이/jcs)
+                      (AP 필요/ncps+하/xsm+ㄴ/etm))
+                 (PP 경우/ncn+에/jca+는/jxc))
+             (NP (AP 어음/ncn+할인/ncn+이/jp+라/ef+는/etm)
+                  (NP 방법/ncn+을/jco))
+             (V 이용/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 어음할인이란 어음을 소지한 사람이 어음에 배서를 한 후 은행 등의 금융기관에  양도해서 만기일까지의 이자를 공제한 금액을 받는 것이다 .
+(S
+   (VP (VP (NP 어음/ncn+할인/ncn+이/jp+라/ef+ㄴ/jxc)
+            (NP (AP (NP 어음/ncn+을/jco)
+                     (AP 소지/ncpa+하/xsv+ㄴ/etm))
+                 (NP 사람/ncn+이/jcs))
+            (PP 어음/ncn+에/jca)
+            (PP (AP (NP 배서/ncn+를/jco)
+                     (AP 하/pvg+ㄴ/etm))
+                (PP 후/ncn))
+            (PP (AP 은행/ncn)
+                 (AP 등/nbn+의/jcm)
+                 (PP 금융/ncn+기관/ncn+에/jca))
+             (V 양도/ncpa+하/xsv+어서/ecs))
+        (VP (AP (NP (AP (NP (AP 만기일/ncn+까지/jxc+의/jcm)
+                               (NP 이자/ncn+를/jco))
+                          (AP 공제/ncpa+하/xsv+ㄴ/etm))
+                      (NP 금액/ncn+을/jco))
+                 (AP 받/pvg+는/etm))
+             (V 것/nbn+이/jp+다/ef)))+./sf)
+
+
+; 일반적으로 어음할인은 은행에서 하고 있지만 어음할인은 차입금의 일종이기 때문에  요구한다고 해서 은행에서 반드시 할인해 주지는 않는다 .
+(S
+   (VP (VP (PP 일반/ncn+적/xsn+으로/jca)
+             (NP 어음/ncn+할인/ncn+은/jxc)
+             (PP 은행/ncn+에서/jca)
+             (V (V 하/pvg+고/ecx)
+                 (AUXP 있/px+지만/ecs)))
+        (VP (NP 어음/ncn+할인/ncn+은/jxc)
+             (PP (NP (AP 차입금/ncn+의/jcm)
+                      (NP 일종/ncn+이/jp+기/etn))
+                 (PP 때문/nbn+에/jca))
+             (VP (NP 요구/ncpa+하/xsv+ㄴ다/ef+고/jcr)
+                  (V 하/pvg+어서/ecs)))
+        (VP (PP 은행/ncn+에서/jca)
+             (ADVP 반드시/mag)
+             (V (V 할인/ncpa+하/xsv+어/ecx)
+                 (AUXP 주/px+지/ecx+는/jxc)
+                 (AUXP 않/px+는다/ef))))+./sf)
+
+
+; 발행인이 상장기업이거나 사회적 신용이 있는 경우에는 비교적 쉽게 할인을 받을 수  있지만 그렇지 않은 경우에는 할인받기가 쉽지 않다 .
+(S
+   (VP (VP (NP 발행인/ncn+이/jcs)
+            (V 상장/ncn+기업/ncn+이/jp+거나/ecc))
+        (VP (PP (AP (NP (AP 사회/ncn+적/xsn)
+                          (NP 신용/ncn+이/jcs))
+                     (AP 있/paa+는/etm))
+                 (PP 경우/ncn+에/jca+는/jxc))
+             (NP (AP (NP (AP (ADVP 비교/ncn+적/xsn)
+                                (AP 쉽/paa+게/ecs))
+                           (NP 할인/ncn+을/jco))
+                       (AP 받/pvg+ㄹ/etm))
+                  (NP 수/nbn))
+             (V 있/paa+지만/ecs))
+        (VP (PP (AP (V 그렇/pad+지/ecx)
+                      (AP 않/px+ㄴ/etm))
+                 (PP 경우/ncn+에/jca+는/jxc))
+             (NP 할인/ncpa+받/xsv+기/etn+가/jcs)
+             (V (V 쉽/paa+지/ecx)
+                 (AUXP 않/px+다/ef))))+./sf)
+
+
+; 이러한 경우 사채시장 등을 이용해서 할인을 받기도 하는데 , 금융실명제의 실시로 사채시장의 기능이 많이 약해졌으므로 단자회사나 신용기금 등을 통한 어음할인이 활발해지고 있다 .
+(S
+   (VP (VP (PP (AP 이러하/pad+ㄴ/etm)
+                 (PP 경우/ncn))
+             (NP (NP 사채/ncn+시장/ncn)
+                  (NP 등/nbn+을/jco))
+             (V 이용/ncpa+하/xsv+어서/ecs))
+        (VP (NP (NP 할인/ncn+을/jco)
+                 (NP 받/pvg+기/etn+도/jxc))
+             (V 하/pvg+는데/ecs))+,/sp
+        (VP (PP (AP 금융/ncn+실명제/ncn+의/jcm)
+                 (PP 실시/ncn+로/jca))
+             (NP (AP 사채/ncn+시장/ncn+의/jcm)
+                  (NP 기능/ncn+이/jcs))
+             (VP (ADVP 많/paa+이/xsa)
+                  (V 약하/paa+어/ecx+지/px+었/ep+으므로/jca)))
+        (VP (NP (AP (NP (NP (NP 단자/ncn+회사/ncn+나/jcj)
+                               (NP 신용/ncn+기금/ncn))
+                           (NP 등/nbn+을/jco))
+                      (AP 통하/pvg+ㄴ/etm))
+                 (NP 어음/ncn+할인/ncn+이/jcs))
+             (V (V 활발/ncps+하/xsm+어/ecx+지/px+고/ecx)
+                 (AUXP 있/px+다/ef))))+./sf)
+
+
+; 어음차입으로 돈을 빌리는 어음할인과는 달리 어음을 담보로 해서 돈을 빌리는 방법도 있다 .
+(S
+   (VP (VP (PP 어음/ncn+차입/ncn+으로/jca)
+            (ADVP (NP (AP (NP 돈/ncn+을/jco)
+                             (AP 빌리/pvg+는/etm))
+                        (NP 어음/ncn+할인/ncn+과/jct+는/jxc))
+                   (ADVP 달리/mag))
+             (NP 어음/ncn+을/jco)
+             (PP 담보/ncn+로/jca)
+             (V 하/pvg+어서/ecs))
+        (VP (NP (AP (NP 돈/ncn+을/jco)
+                      (AP 빌리/pvg+는/etm))
+                 (NP 방법/ncn+도/jxc))
+             (V 있/paa+다/ef)))+./sf)
+
+
+; 어음이 부도가 나면 어음은 매우 편리한 것이지만 약속기간 , 즉 만기일에 지급을 받지 못할 수도 있다는 위험한 면도 갖고 있다 .
+(S
+   (VP (VP (NP 어음/ncn+이/jcs)
+             (NP 부도/ncn+가/jcs)
+             (V 나/pvg+면/ecs))
+        (VP (NP 어음/ncn+은/jxc)
+             (VP (AP (ADVP 매우/mag)
+                       (AP 편리/ncps+하/xsm+ㄴ/etm))
+                  (V 것/nbn+이/jp+지만/ecs)))
+        (VP (NP 약속/ncn+기간/ncn)+,/sp
+             (IP 즉/maj)
+             (PP 만기일/ncn+에/jca)
+             (NP (AP (NP (AP (NP 지급/ncn+을/jco)
+                                (AP (V 받/pvg+지/ecx)
+                                    (AP 못하/px+ㄹ/etm)))
+                            (NP 수/nbn+도/jxc))
+                       (AP 있/paa+다/ef+는/etm))
+                   (NP (AP 위험/ncps+하/xsm+ㄴ/etm)
+                        (NP 면/ncn+도/jxc)))
+                 (V (V 갖/pvg+고/ecx)
+                     (AUXP 있/px+다/ef))))+./sf)
+
+
+; 발행인이 어떠한 이유로 만기일에 어음금액을 지급하지 못했을 때 부도가 났다고 말하고 , 이러한 어음을 부도어음이라고 한다 .
+(S
+   (VP 
+       (VP (NP 발행인/ncn+이/jcs)
+            (PP (AP 어떠하/pad+ㄴ/etm)
+                 (PP 이유/ncn+로/jca))
+            (PP 만기일/ncn+에/jca)
+            (PP (AP (NP 어음/ncn+금액/ncn+을/jco)
+                     (AP (V 지급/ncpa+하/xsv+지/ecx)
+                         (AP 못하/px+었/ep+ㄹ/etm)))
+                 (PP 때/ncn))
+             (NP (NP 부도/ncn+가/jcs)
+                  (NP 나/pvg+ㅆ/ep+다/ef+고/jcr))
+             (V 말/ncpa+하/xsv+고/ecc))+,/sp
+       (VP (NP  (NP (AP 이러하/pad+ㄴ/etm)
+                     (NP 어음/ncn+을/jco))
+                 (NP 부도/ncn+어음/ncn+이/jp+라/ef+고/jcr))
+           (V 하/pvg+ㄴ다/ef)))+./sf)
+
+
+; 그러나 부도의 원인은 도산에 의한 것뿐만 아니라 잘못된 기입이나 미기입 등으로 지급되지 않은 경우도 있으므로 부도가 났다는 연락을 받으면 먼저 그 원인을 조사하는 것이 중요하다 .
+(S
+   (VP
+        (VP (IP 그러나/maj)
+             (NP (AP 부도/ncn+의/jcm)
+                 (NP 원인/ncn+은/jxc))
+             (NP (AP (PP 도산/ncn+에/jca)
+                      (AP 의하/pvg+ㄴ/etm))
+                 (NP 것/nbn+뿐/jxc+만/jxc))
+             (V 아니/paa+라/ecs))
+        (VP 
+             (NP (AP (PP (NP (NP (AP 잘못/ncpa+되/xsv+ㄴ/etm)
+                                   (NP 기입/ncn+이나/jcj))
+                               (NP 미기입/ncn))
+                           (PP 등/nbn+으로/jca))
+                      (AP (V 지급/ncpa+되/xsv+지/ecx)
+                           (AP 않/px+ㄴ/etm)))
+                 (NP 경우/ncn+도/jxc))
+             (V 있/paa+으므로/ecs))
+        (VP (NP (AP (NP 부도/ncn+가/jcs)
+                      (AP 나/pvg+ㅆ/ep+다/ef+는/etm))
+                  (NP 연락/ncn+을/jco))
+             (V 받/pvg+으면/ecs))
+        (VP (ADVP 먼저/mag)
+             (NP (AP (NP (AP 그/mmd)
+                           (NP 원인/ncn+을/jco))
+                      (AP 조사/ncpa+하/xsv+는/etm))
+                  (NP 것/nbn+이/jcs))
+             (V 중요/ncps+하/xsm+다/ef)))+./sf)
+</tdmsfile>

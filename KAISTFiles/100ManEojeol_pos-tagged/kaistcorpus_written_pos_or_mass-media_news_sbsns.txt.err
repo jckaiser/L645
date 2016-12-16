@@ -1,0 +1,54 @@
+notag:41	8	1	0	타결됐습니다.	타결ncpa	+
+replace tag:41	8	1	0	타결됐습니다.	타결	ncpa	+
+notag:41	8	2	0	*		.
+notag:70	3	2	0	*	어ecx	+
+replace tag:70	3	2	0	*	어	ecx	+
+notag:70	3	3	0	*		.
+notag:79	2	1	0	분당	분당ncn	-
+replace tag:79	2	1	0	분당	분당	ncn	-
+notag:101	16	3	0	*		+
+notag:176	15	1	0	진행됐습니다.	진행ncpa	+
+replace tag:176	15	1	0	진행됐습니다.	진행	ncpa	+
+notag:176	15	2	0	*		.
+notag:195	11	3	0	*		+
+notag:312	2	1	0	이렇게	이렇pad	+
+replace tag:312	2	1	0	이렇게	이렇	pad	+
+notag:312	2	2	0	*		.
+notag:502	4	1	0	국민회의와	국민회의nq	+
+replace tag:502	4	1	0	국민회의와	국민회의	nq	+
+notag:502	4	2	0	*		.
+notag:542	4	3	0	*		+
+notag:656	9	3	0	*		.
+notag:661	4	2	0	*		+
+notag:715	9	6	0	*	장	.
+notag:715	10	14	0	*	선	.
+notag:743	5	7	0	*	위	.
+notag:766	16	4	0	*		+
+notag:773	18	2	0	*	주임ncn	+
+replace tag:773	18	2	0	*	주임	ncn	+
+notag:773	18	3	0	*		.
+notag:990	6	2	0	*	오.px	+
+replace tag:990	6	2	0	*	오.	px	+
+notag:990	6	3	0	*		.
+notag:1009	10	3	0	*		+
+notag:1050	9	7	0	*	을	.
+notag:1104	8	2	0	*		+
+notag:1124	14	2	0	*		.
+notag:1263	6	8	0	*		.
+notag:1299	16	2	0	*		.
+notag:1320	3	2	0	*		+
+notag:1352	17	1	0	자리였습니다.	자리	+
+notag:1370	3	7	0	*	순서	.
+notag:1436	6	2	0	*	를jco	.
+replace tag:1436	6	2	0	*	를	jco	.
+notag:1521	10	6	0	*	은	.
+notag:1656	15	7	0	*	이인제	.
+notag:1744	13	2	0	*		+
+notag:1772	6	2	0	*	어ecx	+
+replace tag:1772	6	2	0	*	어	ecx	+
+notag:1772	6	3	0	*		.
+notag:1854	11	3	0	*		+
+notag:1901	6	3	0	*		+
+notag:1999	3	2	0	*	어ecs	+
+replace tag:1999	3	2	0	*	어	ecs	+
+notag:1999	3	3	0	*		.

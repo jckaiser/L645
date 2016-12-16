@@ -1,0 +1,54 @@
+notag:34	2	1	0	에구	에구ii	-
+replace tag:34	2	1	0	에구	에구	ii	-
+notag:37	1	2	0	*		+
+notag:111	3	2	0	*	에	.
+notag:183	18	1	0			-
+notag:248	7	1	0			-
+notag:302	9	1	0			-
+notag:406	4	2	0	*		+
+notag:673	9	2	0	*	주파	.
+notag:1168	11	4	0	*	라.ef	+
+replace tag:1168	11	4	0	*	라.	ef	+
+notag:1168	11	5	0	*		.
+notag:1241	22	4	0	*	면서	.
+notag:1264	7	1	0	흘러내렸다	흐르.pvg	+
+replace tag:1264	7	1	0	흘러내렸다	흐르.	pvg	+
+notag:1264	7	2	0	*		.
+notag:1477	1	1	0	거	거ii	-
+replace tag:1477	1	1	0	거	거	ii	-
+notag:1529	6	3	0	*		+
+notag:1826	13	1	0	와	오pvg	+
+replace tag:1826	13	1	0	와	오	pvg	+
+notag:1826	13	2	0	*		.
+notag:1979	14	2	0	*	었ep	+
+replace tag:1979	14	2	0	*	었	ep	+
+notag:1979	14	3	0	*		.
+notag:2025	4	1	0	살아간단	살pvg	+
+replace tag:2025	4	1	0	살아간단	살	pvg	+
+notag:2025	4	2	0	*		.
+notag:2226	5	1	0	천재성이	천재ncn	+
+replace tag:2226	5	1	0	천재성이	천재	ncn	+
+notag:2226	5	2	0	*		.
+notag:2248	27	1	0	흡인력을	흡인ncn	+
+replace tag:2248	27	1	0	흡인력을	흡인	ncn	+
+notag:2248	27	2	0	*		.
+notag:2287	22	3	0	*	라.ef	+
+replace tag:2287	22	3	0	*	라.	ef	+
+notag:2287	22	4	0	*		.
+notag:2403	27	2	0	*		+
+notag:2587	10	5	0	*		+
+notag:2705	3	2	0	*		+
+notag:2736	17	2	0	*	문예ncn	+
+replace tag:2736	17	2	0	*	문예	ncn	+
+notag:2736	17	3	0	*		.
+notag:3086	2	1	0	그러게	그러vd	+
+notag:3091	3	2	0	*		+
+notag:3160	2	2	0	*		+
+notag:3285	12	3	0	*		+
+notag:3634	16	2	0	*	을jco	.
+replace tag:3634	16	2	0	*	을	jco	.
+notag:3832	4	2	0	*		+
+notag:3892	11	3	0	*		+
+notag:4041	13	1	0	끌어안았다	끌pvg	+
+replace tag:4041	13	1	0	끌어안았다	끌	pvg	+
+notag:4041	13	2	0	*		.

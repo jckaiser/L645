@@ -1,0 +1,42 @@
+notag:9	2	2	0	*	해안	.
+notag:33	14	2	0	*	연구동	.
+notag:45	6	6	0	*	도	.
+notag:94	8	2	0	*	탱크	.
+notag:106	10	3	0	*	일체	.
+notag:107	6	4	0	*	아ecx	.
+replace tag:107	6	4	0	*	아	ecx	.
+notag:134	6	3	0	*	기로	.
+notag:166	4	6	0	*	는	.
+notag:176	3	6	0	*	ㄴ	.
+notag:176	6	2	0	*	Lan	.
+notag:198	6	6	0	*		.
+notag:235	2	2	0	*	세계	.
+notag:273	3	2	0	*	위	.
+notag:421	19	2	0	*	어ecs	+
+replace tag:421	19	2	0	*	어	ecs	+
+notag:421	19	3	0	*		.
+notag:423	22	6	0	*	ㄴ	.
+notag:527	8	2	0	*	기지	+
+notag:527	20	2	0	*	대장	+
+notag:530	4	2	0	*	기간	+
+notag:532	23	2	0	*		+
+notag:551	3	2	0	*	주변	+
+notag:604	20	2	0	*	온도	+
+notag:622	18	2	0	*	기온	+
+notag:623	3	3	0	*	이래	.
+notag:649	24	2	0	*	지역	+
+notag:655	1	3	0	*	부근	+
+notag:665	1	2	0	*	새끼	+
+notag:678	12	2	0	*	부근	+
+notag:684	4	2	0	*	거리	.
+notag:705	5	2	0	*	기간	+
+notag:764	2	2	0	*		+
+notag:771	13	3	0	*	지ecx	.
+replace tag:771	13	3	0	*	지	ecx	.
+notag:897	2	2	0	*	기지	+
+notag:907	18	2	0	*	자국	+
+notag:909	14	2	0	*	보트	+
+notag:943	2	2	0	*	해안	.
+notag:985	4	2	0	*	기xsn	+
+replace tag:985	4	2	0	*	기	xsn	+
+notag:985	4	3	0	*		.

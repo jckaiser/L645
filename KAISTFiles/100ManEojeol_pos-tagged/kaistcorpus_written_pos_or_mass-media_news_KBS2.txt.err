@@ -1,0 +1,67 @@
+notag:1	1	1	0	수정		-
+notag:45	1	1	0			-
+notag:45	2	1	0			-
+notag:45	3	1	0	<8월	23일>>	-
+notag:45	4	1	0			-
+notag:45	5	1	0			-
+notag:45	6	1	0			-
+notag:45	7	1	0			-
+notag:45	8	1	0			-
+notag:45	9	1	0			-
+notag:90	5	5	0	*	요jxf	+
+replace tag:90	5	5	0	*	요	jxf	+
+notag:90	5	6	0	*		.
+notag:194	14	2	0	*	아ecs	+
+replace tag:194	14	2	0	*	아	ecs	+
+notag:194	14	3	0	*		.
+notag:239	9	2	0	*		+
+notag:240	8	1	0	이렇게	이렇pad	+
+replace tag:240	8	1	0	이렇게	이렇	pad	+
+notag:240	8	2	0	*		.
+notag:309	4	1	0	어떻게	어떻pad	+
+replace tag:309	4	1	0	어떻게	어떻	pad	+
+notag:309	4	2	0	*		.
+notag:309	7	1	0	어떻게	어떻pad	+
+replace tag:309	7	1	0	어떻게	어떻	pad	+
+notag:309	7	2	0	*		.
+notag:313	4	1	0	이렇게	이렇pad	+
+replace tag:313	4	1	0	이렇게	이렇	pad	+
+notag:313	4	2	0	*		.
+notag:350	1	1	0			-
+notag:350	2	1	0			-
+notag:350	3	1	0			-
+notag:350	4	1	0	9월	19일>	-
+notag:350	5	1	0			-
+notag:350	6	1	0			-
+notag:350	7	1	0			-
+notag:350	8	1	0			-
+notag:350	9	1	0			-
+notag:364	1	1	0	어떻게	어떻pad	+
+replace tag:364	1	1	0	어떻게	어떻	pad	+
+notag:364	1	2	0	*		.
+notag:394	14	2	0	*	하xsv	+
+replace tag:394	14	2	0	*	하	xsv	+
+notag:394	14	3	0	*		.
+notag:475	36	9	0	*	고	.
+notag:500	9	2	0	*	지ef	+
+replace tag:500	9	2	0	*	지	ef	+
+notag:500	9	3	0	*		.
+notag:509	6	8	0	*	지만	.
+notag:522	3	1	0	이렇게	이렇pad	+
+replace tag:522	3	1	0	이렇게	이렇	pad	+
+notag:522	3	2	0	*		.
+notag:535	13	1	0	이렇게	이렇pad	+
+replace tag:535	13	1	0	이렇게	이렇	pad	+
+notag:535	13	2	0	*		.
+notag:546	3	1	0	어떻게	어떻pad	+
+replace tag:546	3	1	0	어떻게	어떻	pad	+
+notag:546	3	2	0	*		.
+notag:558	1	1	0	이렇게	이렇pad	+
+replace tag:558	1	1	0	이렇게	이렇	pad	+
+notag:558	1	2	0	*		.
+notag:705	1	1	0			-
+notag:705	2	1	0			-
+notag:705	3	1	0			-
+notag:705	4	1	0			-
+notag:705	5	1	0			-
+notag:705	7	1	0			-

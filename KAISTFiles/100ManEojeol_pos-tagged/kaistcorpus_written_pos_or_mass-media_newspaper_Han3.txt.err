@@ -1,0 +1,54 @@
+notag:19	7	1	0	21이		+
+notag:20	27	1	0	21의		+
+notag:88	9	1	0	진보학생연합'		+
+notag:88	14	1	0	학생회와	학생ncn	+
+replace tag:88	14	1	0	학생회와	학생	ncn	+
+notag:88	14	2	0	*		.
+notag:91	4	1	0	추진협의회를		+
+notag:92	4	1	0	추진협의회를		+
+notag:146	4	1	0	에버트		+
+notag:151	5	1	0	펜싱경기장에서		+
+notag:206	4	1	0	올림픽		+
+notag:206	5	1	0	펜싱경기장에서		+
+notag:211	25	1	0	500상'을		+
+notag:254	2	1	0	전기는		+
+notag:277	8	1	0	부커		+
+notag:287	8	1	0	드랍스'를		+
+notag:290	8	1	0	드랍스는		+
+notag:294	13	2	0	*		+
+notag:345	6	3	0	*		+
+notag:373	3	1	0	월스트리트저널>은		+
+notag:381	2	1	0	키녹		+
+notag:385	2	1	0	시미티스		+
+notag:385	6	1	0	일마즈		+
+notag:394	11	1	0	클로드		+
+notag:394	12	1	0	가이소		+
+notag:401	8	1	0	액션'을		+
+notag:403	18	1	0	액션'을		+
+notag:408	6	1	0	플랫은		+
+notag:413	2	1	0	아라파트		+
+notag:414	15	1	0	레비		+
+notag:415	5	1	0	올브라이트		+
+notag:417	5	1	0	모데차이		+
+notag:417	9	1	0	코언		+
+notag:423	12	1	0	이글에		+
+notag:427	15	1	0	임시수용소		+
+notag:434	19	2	0	*		.
+notag:480	12	3	0	*	어ecs	+
+replace tag:480	12	3	0	*	어	ecs	+
+notag:480	12	4	0	*		.
+notag:563	6	3	0	*		.
+notag:564	5	1	0	선대위원장의	선대위ncn	+
+replace tag:564	5	1	0	선대위원장의	선대위	ncn	+
+notag:564	5	2	0	*		.
+notag:571	5	1	0	총재였고	총재ncn	+
+replace tag:571	5	1	0	총재였고	총재	ncn	+
+notag:571	5	2	0	*		.
+notag:779	5	1	0	창당준비위원회는	창당	+
+notag:826	3	1	0			-
+notag:826	4	1	0			-
+notag:826	5	1	0			-
+notag:826	6	1	0			-
+notag:826	7	1	0			-
+notag:826	8	1	0			-
+notag:826	9	1	0			-

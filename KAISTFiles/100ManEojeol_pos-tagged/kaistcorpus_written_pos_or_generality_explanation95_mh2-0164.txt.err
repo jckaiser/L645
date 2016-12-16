@@ -1,0 +1,24 @@
+notag:1	2	1	0	(365/381)		-
+notag:1	3	1	0			-
+notag:10	8	1	0	한국사회라는	한국nq	+
+replace tag:10	8	1	0	한국사회라는	한국	nq	+
+notag:10	8	2	0	*		.
+notag:13	2	1	0	한국사회라는	한국nq	+
+replace tag:13	2	1	0	한국사회라는	한국	nq	+
+notag:13	2	2	0	*		.
+notag:30	9	1	0	시민사회의	시민ncn	+
+replace tag:30	9	1	0	시민사회의	시민	ncn	+
+notag:30	9	2	0	*		.
+notag:42	2	1	0	경제체제나	경제ncn	+
+replace tag:42	2	1	0	경제체제나	경제	ncn	+
+notag:42	2	2	0	*		.
+notag:42	3	1	0	경제조직은	경제ncn	+
+replace tag:42	3	1	0	경제조직은	경제	ncn	+
+notag:42	3	2	0	*		.
+notag:60	1	1	0	그때	그mmd	+
+replace tag:60	1	1	0	그때	그	mmd	+
+notag:60	1	2	0	*		.
+notag:142	37	1	0	유통산업과	유통ncn	+
+replace tag:142	37	1	0	유통산업과	유통	ncn	+
+notag:142	37	2	0	*		.
+notag:282	1	1	0			-

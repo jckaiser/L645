@@ -1,0 +1,4716 @@
+<tdmsfile>
+
+
+; 모두들 축구에 열중하느라 우리가 다가가는 것도 모르고 있었다.
+(S
+     (VP  
+        (VP
+           (N 모두/ncn+들/xsn)
+              (VP  (PP   축구/ncn+에/jca)
+                    (V 열중/ncpa+하/xsv+느라/ecs)))
+        (VP
+           (NP
+              (AP  
+                    (NP  우리/npp+가/jcs)
+                    (AP  다가가/pvg+는/etm))
+              (NP  것/nbn+도/jx))
+           (V 
+              (V 모르/pvg+고/ecx)
+              (AUXP  있/px+었/ep+다/ef))))+./sf)
+
+
+; 그 옆에는 조금 더 어린 아이들이 회전목마를 타면 신나게 소리치고 있었다.
+(S
+     (VP
+        (PP   (AP  그/mmd)
+              (PP   옆/ncn+에/jca+는/jxc))
+        (NP  
+              (AP  
+                    (ADVP  조금/mag)
+                    (ADVP  더/mag)
+                    (AP  어리/paa+ㄴ/etm))
+              (NP  아이/ncn+들/xsn+이/jcs))
+        (NP  회전목마/ncn+를/jco)
+        (V 타/pvg+면/ecs))
+     (VP  (V (V 신나/pvg+게/ecs)
+              (V 소리치/pvg+고/ecx)
+              (AUXP  있/px+었/ep+다/ef)))+./sf)
+
+
+; 광장 한 쪽에는 나무에 오르고, 술래잡기를 하는 아이들도 있었다.
+(S   
+     (VP  
+        (PP   (AP  광장/ncn)
+              (AP  한/nnc)
+              (PP   쪽/nbn+에/jca+는/jxc))
+           (NP  
+              (AP  
+                 (VP  (PP   나무/ncn+에/jca)
+                       (V 오르/pvg+고/ecc)+,/sp)
+                 (NP  술래잡기/ncn+를/jco)
+                 (AP  하/pvg+는/etm))
+              (NP 아이/ncn+들/xsn+도/jxc))
+           (V 있/paa+었/ep+다/ef))+./sf)
+
+
+; 광장 한 쪽에는 나무에 오르고, 술래잡기를 하는 아이들도 있었다.
+(S   
+     (VP  
+        (PP   (AP  광장/ncn)
+              (AP  한/nnc)
+              (PP   쪽/nbn+에/jca+는/jxc))
+           (NP  
+              (AP  
+                 (VP  (PP   나무/ncn+에/jca)
+                       (V 오르/pvg+고/ecc)+,/sp)
+                 (NP  술래잡기/ncn+를/jco)
+                 (AP  하/pvg+는/etm))
+              (NP     아이/ncn+들/xsn+도/jxc))
+           (V 있/paa+었/ep+다/ef))+./sf)
+
+
+; 아저씨와 나는 축구공을 발로 차고 있는 남자 아이에게 다가가 물어보았다.
+(S   
+     (VP  
+        (PP   
+           (AP  
+                 (NP  아저씨/ncn+와/jcj)
+                 (NP  나/npp+는/jxc)
+                 (AP  (NP   축구공/ncn+을/jco)
+                       (PP   발/ncn+로/jca)
+                       (AP (V 차/pvg+고/ecx)
+                           (AP 있/px+는/etm))))
+           (PP   (AP  남자/ncn)
+                 (PP   아이/ncn+에게/jca)))
+           (V (V 다가가/pvg+아/ecs)
+              (V 묻/pvg+어/ecx+보/px+았/ep+다/ef)))+./sf)
+
+
+; 네가 공을 찬 것은 한참 전인데도 공은 아직도 굴러가고 있는데? 아, 그것은 관성의 법칙 때문이에요.
+(S   
+     (VP  
+        (VP  
+           (NP  
+              (AP  
+                    (NP  네/npp+가/jcs)
+                    (NP  공/ncn+을/jco)
+                    (AP  차/pvg+ㄴ/etm))
+              (NP  것/nbn+은/jxc))
+           (ADVP  한참/mag)
+           (V 전/ncn+이/jp+ㄴ데/ecs+도/jxc))
+        (VP     
+                 (NP  공/ncn+은/jxc)
+                 (ADVP  아직/mag+도/jxc)
+                 (V    (V 구르/pvg+어/ecx+가/px+고/ecx)
+                       (AUXP  있/px+는데/ef))))+?/sf)
+(S   
+     (VP  
+        (IP   아/ii)+,/sp
+        (VP  (NP   그것/npd+은/jxc)
+              (VP  (AP   관성/ncn+의/jcm)
+                    (N 법칙/ncn)
+                    (V 때문/nbn+이/jp+에요/ef))))+./sf)
+
+
+; 공은 왜 계속 굴러갈까? - 관성  관성의 법칙은 우리나라의 가장 중요한  법칙의 하나인데 모든 것은 이 법칙을 따르고 있어요.
+(S   
+     (VP  (NP   공/ncn+은/jxc)
+           (VP  (ADVP   왜/mag)
+                 (ADVP  계속/mag)
+                 (V 구르/pvg+어/ecx+가/px+ㄹ까/ef)))+?/sf)+-/sd
+(S   
+     (VP  
+        (VP  
+              (NP  (AP   관성/ncn)
+                    (AP  관성/ncn+의/jcm)
+                    (NP  법칙/ncn+은/jxc))
+              (VP  (AP   우리나라/ncn+의/jcm)
+                    (AP  
+                       (AP  
+                             (ADVP  가장/mag)
+                             (AP  중요/ncps+하/xsm+ㄴ/etm))
+                       (NP  법칙/ncn+의/jcm))
+                    (V 하나/nnc+이/jp+ㄴ데/ecs)))
+        (VP  
+              (NP  
+                    (AP  모든/mma)
+                    (NP  것/nbn+은/jxc))
+              (VP  
+                    (NP  
+                          (AP  이/mmd)
+                          (NP  법칙/ncn+을/jco))
+                    (V    (V 따르/pvg+고/ecx)
+                          (AUXP  있/px+어/ef+요/jxf)))))+./sf)
+
+
+; 관성의 법칙이란 어떤 것인데? 그 아이는 자세를 가다듬고 천천히 말했다.
+(S   
+     (VP  
+        (NP  
+              (AP  관성/ncn+의/jcm)
+              (NP  법칙/ncn+이란/jxc))
+        (VP  
+              (AP  어떤/mmd)
+              (V 것/nbn+이/jp+ㄴ데/ef)))+?/sf)
+(S   
+     (VP  
+        (VP  
+              (NP  
+                    (AP  그/mmd)
+                    (NP  아이/ncn+는/jxc))
+              (VP  
+                    (NP  자세/ncn+를/jco)
+                    (V 가다듬/pvg+고/ecc)))
+        (VP     
+                 (ADVP  천천히/mag)
+                 (V 말/ncpa+하/xsv+었/ep+다/ef)))+./sf)
+
+
+; 우리들은 그 말을 듣고는 갑자기 웃음을 터뜨렸다.
+(S   
+     (VP  
+        (NP  우리/npp+들/xsn+은/jxc)
+        (VP  
+              (NP  (AP   그/mmd)
+                    (NP  말/ncn+을/jco))
+              (V 듣/pvg+고/ecc+는/jxc)))
+        (VP     (ADVP   갑자기/mag)
+                 (VP  (NP   웃음/ncn+을/jco)
+                       (V 터뜨리/pvg+었/ep+다/ef)))+./sf)
+
+
+; 그 아이는 자신의 친구들이 공 쪽으로 달려가는 것을 바라보면서 말했다.
+(S   
+     (VP  
+        (NP  
+              (AP  그/mmd)
+              (NP  아이/ncn+는/jxc))
+        (NP  
+              (AP  
+                       (NP  
+                             (AP  자신/ncn+의/jcm)
+                             (NP  친구/ncn+들/xsn+이/jcs))
+                       (PP   
+                             (AP  공/ncn)
+                             (PP   쪽/nbn+으로/jca))
+                       (AP  달리/pvg+어/ecx+가/px+는/etm))
+              (NP  것/nbn+을/jco))
+        (V    (V 바라보/pvg+면서/ecc)
+              (V 말/ncpa+하/xsv+었/ep+다/ef)))+./sf)
+
+
+; 자, 보세요! 한번 힘을 가해서 움직이면 쭉 미끄러지죠? 그럼 똑같은 일을 풀 위에서 해보세요.
+(S   
+     (VP  (IP 자/ii)+,/sp
+           (V 보/pvg+시/ep+에요/ef))+!/sf)
+(S   
+     (VP  (VP   (NP  (AP   한/nnc)
+                       (NP  번/nbu))
+                 (NP  힘/ncn+을/jco)
+                 (V (V 가하/pvg+어서/ecs)
+                    (V 움직이/pvg+면/ecs)))
+           (VP     (ADVP   쭉/mag)
+                    (V 미끄러지/pvg+지/ef+요/jxf)))+?/sf)
+(S   
+     (VP  
+           (IP 그럼/maj)
+           (VP  
+                 (NP  (AP   똑같/paa+ㄴ/etm)
+                       (NP  일/ncn+을/jco))
+                 (PP   (AP  풀/ncn)
+                       (PP   위/ncn+에서/jca))
+                 (V    (V 하/pvg+어/ecx)
+                       (AUXP  보/px+시/ep+에요/ef))))+./sf)
+
+
+; 시험삼아 해보니, 풀 위에서는 50 cm 정도도 나아가지 않았다.
+(S   
+     (VP  
+        (V    (V 시험/ncn+삼/pvg+아/ecs)
+              (V 하/pvg+어/ecx)
+              (AUXP  보/px+니/ecs))+,/sp 
+        (VP  
+              (PP   
+                    (AP  풀/ncn)
+                    (PP   위/ncn+에서/jca+는/jxc))
+              (PP   
+                    (NP  50/nnc+cm/su)
+                    (PP   정도/ncn+도/jxc))
+              (V (V 나아가/pvg+지/ecx)
+                 (AUXP  않/px+았/ep+다/ef))))+./sf)
+
+
+; 그것은 우리나라 말로 설명하면 이렇게 돼요.
+(S   
+     (VP  (NP   그것/npd+은/jxc)
+           (VP  (PP   (AP  우리나라/ncn)
+                       (PP   말/ncn+로/jca))
+                 (V 설명/ncpa+하/xsv+면/ecs))
+           (V (V 이렇/pad+게/ecx)
+              (AUXP  되/px+어/ef+요/jxf)))+./sf)
+
+
+; 즉, 풀 위를 미끄러지려고 하면 어떤 힘이 강하게 작용해서 그것을 멈추게 해요.
+(S   
+     (VP  
+           (IP 즉/mag)+,/sp
+           (VP  
+                 (VP  
+                       (NP  
+                             (AP  풀/ncn)   
+                             (NP  위/ncn+를/jco))
+                       (V    (V 미끄러지/pvg+려고/ecs)
+                             (V 하/pvg+면/ecs)))
+           (VP     
+                    (NP  
+                          (AP  어떤/mmd)
+                          (NP  힘/ncn+이/jcs))
+                    (ADVP  강하/paa+게/ecs)
+                    (V 작용/ncpa+하/xsv+어서/ecs))
+           (VP  
+                 (NP  그것/npd+을/jco)
+                 (V    (V 멈추/pvg+게/ecx)
+                       (AUXP  하/px+어/ef+요/jxf)))))+./sf)
+
+
+; 얼음 위에서는 이 멈추려 하는 힘이 매우 약해서 훨씬 멀리까지 미끄러질 수 있죠.
+(S   
+     (VP  
+           (PP   
+                 (AP  얼음/ncn)
+                 (PP   위/ncn+에서/jca+는/jxc))
+           (NP  
+                 (AP  이/mmd)
+                 (AP  
+                       (V 멈추/pvg+려/ecs)
+                       (AP  하/pvg+는/etm))
+                 (NP  힘/ncn+이/jcs))
+           (ADVP  매우/mag)
+           (V 약하/paa+어서/ecs))
+        (VP  
+              (NP  
+                    (AP  
+                          (PP   (ADVP  훨씬/mag)
+                                (PP   멀리/mag+까지/jxc))
+                          (AP  미끄러지/pvg+ㄹ/etm))
+                    (N 수/nbn))
+              (V 있/paa+지/ef+요/jxf))+./sf)
+
+
+; 만약 이 멈추게 하려는 힘이 전혀 없다면 스케이트를 타는  사람은 얼음 위를 같은 속도로 영원히 쭉 미끄러져 갈 수도 있어요.
+(S   
+  (VP  
+     (VP  (ADVP   만약/mag)
+           (NP  
+                 (AP  이/mmd)
+                 (AP  
+                       (V 멈추/pvg+게/ecx)
+                       (AP  하/px+려/ecs+는/etm))
+                 (NP  힘/ncn+이/jcs))
+           (ADVP  전혀/mag)
+           (V 없/paa+다면/ecs))
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  
+                             (AP  
+                                   (NP  스케이트/ncn+를/jco)
+                                   (AP  타/pvg+는/etm))
+                             (NP  사람/ncn+은/jxc))
+                       (VP  
+                             (NP  
+                                   (AP  얼음/ncn)
+                                   (NP  위/ncn+를/jco))
+                             (PP   
+                                   (AP  같/paa+은/etm)
+                                   (PP   속도/ncn+로/jca))
+                             (AP  
+                                   (ADVP  영원/ncn+히/xsa)
+                                   (ADVP  쭉/mag)
+                                   (AP (V 미끄러지/pvg+어/ecx)
+                                       (AP 가/px+ㄹ/etm)))))
+                 (NP  수/nbn+도/jxc))
+                 (V 있/paa+어/ef+요/jxf)))+./sf)
+
+
+; 예를 들어 부품과 부품 사이에 마찰이 큰 기계는 어떻게  되겠어요? 삐꺽삐꺽 요란한 소리를 내며 간신히 움직일 거예요.
+(S   
+     (VP  
+           (IP 예/ncn+를/jco+들/pvg+어/ecs)
+           (VP  
+                 (NP  
+                       (AP  
+                             (PP   
+                                (AP  (NP   부품/ncn+과/jcj)
+                                      (N 부품/ncn))
+                                (PP   사이/ncn+에/jca))
+                             (NP  마찰/ncn+이/jcs)
+                             (AP  크/paa+ㄴ/etm))
+                       (NP  기계/ncn+는/jxc))
+                 (V (V 어떻/pad+게/ecs)
+                    (V 되/pvg+겠/ep+어/ef+요/jxf))))+?/sf)
+(S   
+  (VP  
+     (VP  
+           (NP  
+                 (AP  (ADVP   삐꺽삐꺽/mag)
+                       (AP  요란/ncps+하/xsm+ㄴ/etm))
+                 (NP  소리/ncn+를/jco))
+           (V 내/pvg+며/ecs))
+     (VP  
+           (AP  
+                 (ADVP  간신히/mag)
+                 (AP  움직이/pvg+ㄹ/etm))
+           (V 거/nbn+이/jp+에요/ef)))+./sf)
+
+
+; 자전거가 처음 나왔을 때는 바퀴가 나무로 만들어졌는데  1km도 못 가서 탄 사람이 땀투성이가 되었다고 해요.
+(S   
+  (VP  
+     (VP  
+           (PP   
+                 (AP  
+                       (NP  자전거/ncn+가/jcs)
+                       (ADVP  처음/mag)
+                       (AP  나오/pvg+았/ep+ㄹ/etm))
+                 (NP  때/ncn+는/jxc))
+           (NP  바퀴/ncn+가/jcs)
+           (PP   나무/ncn+로/jca)
+           (V 만들/pvg+어/ecx+지/px+었/ep+는데/ecs))
+     (VP  
+           (NP  1/nnc+km/su+도/jxc)
+           (ADVP  못/mag)
+           (V 가/pvg+서/ecs))
+     (VP  (NP   
+                 (AP  타/pvg+ㄴ/etm)
+                 (NP  사람/ncn+이/jcs))
+           (VP  
+                 (NP  땀투성이/ncn+가/jcc)
+                 (VP  
+                       (V 되/pvg+었/ep+다/ef+고/jcr)
+                       (V 하/pvg+어/ef+요/jxf)))))+./sf)
+
+
+; 왜 그렇지? 물건에 따라 마찰의 크기가 달라? 예, 물론 그래요.
+(S   
+     (VP  (ADVP   왜/mag)
+           (V 그렇/pad+지/ef))+?/sf)
+(S   
+  (VP  
+     (VP  
+           (PP   물건/ncn+에/jca)
+           (V 따르/pvg+아/ecs))
+     (VP  
+           (NP  
+                 (AP  마찰/ncn+의/jcm)
+                 (NP  크/paa+기/xsn+가/jcs))
+           (V 다르/paa+아/ef)))+?/sf)
+(S   
+     (VP  (IP 예/ii)+,/sp
+           (VP  (ADVP   물론/mag)
+                 (V 그렇/pad+어/ef+요/jxf)))+./sf)
+
+
+; 스케이트 날이 얼음 위를 움직이면 날이 닿는 지점에 얇은 물의 막이 생겨서, 그것이  윤활유 역할을 한다! 나는 나도 모르게 끼어들었다.
+(S   
+  (VP  
+     (VP  
+           (NP  
+                 (AP  스케이트/ncn)
+                 (NP  날/ncn+이/jcs))
+           (VP  
+                 (NP  
+                       (AP  얼음/ncn)
+                       (NP  위/ncn+를/jco))
+                 (V 움직이/pvg+면/ecs)))
+     (VP  
+           (PP   
+                 (AP  
+                       (NP  날/ncn+이/jcs)
+                       (AP  닿/pvg+는/etm))
+                 (PP   지점/ncn+에/jca))
+           (NP  
+                 (AP  얇/paa+은/etm)
+                 (AP  물/ncn+의/jcm)
+                 (NP  막/ncn+이/jcs))
+           (V 생기/pvg+어서/ecs))+,/sp
+     (VP  
+           (NP  그것/npd+이/jcs)
+           (VP  
+                 (NP  
+                       (AP  윤활유/ncn)
+                       (NP  역할/ncn+을/jco))
+                 (V 하/pvg+ㄴ다/ef))))+!/sf)
+(S   
+     (VP  
+           (NP  나/npp+는/jxc)
+           (NP  나/npp+도/jxc)
+           (V (V 모르/pvg+게/ecs)
+              (V 끼어들/pvg+었/ep+다/ef)))+./sf)
+
+
+; 그래서 자동차, 재봉틀, 시계 등 어떤 기계에도 기름을 치는 거로군! 그런데 마찰을 작게 하는 다른 방법은 없을까요? 얼음 위를 미끄러져 가는 것처럼 아스팔트 위를 미끄러져 가려면 어떻게 해야 한다고 생각해요? 모르겠어. 
+(S   
+     (VP  (IP    그래서/maj)
+           (VP  
+                 (AP  
+                       (PP   
+                             (N 자동차/ncn)+,/sp
+                             (N 재봉틀/ncn)+ ,/sp
+                             (NP  시계/ncn+등/nbn)
+                             (AP  어떤/mmd)
+                             (PP   기계/ncn+에/jca+도/jxc))
+                       (NP  기름/ncn+을/jco)
+                       (AP  치/pvg+는/etm))
+                 (V 거/nbn+로군/ef)))+!/sf)
+(S   
+     (VP  (IP 그런데/maj)
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  마찰/ncn+을/jco)
+                             (AP (V 작/paa+게/ecx)
+                                 (AP 하/px+는/etm)))
+                       (AP  다르/paa+ㄴ/etm)
+                       (NP  방법/ncn+은/jxc))
+                 (VP  없/paa+ㄹ까/ef+요/jx)))+?/sf)
+(S   
+  (VP
+     (VP  
+           (PP   
+                 (AP  
+                       (NP  
+                             (AP  얼음/ncn)
+                             (NP  위/ncn+를/jco))
+                       (AP  (V 미끄러지/pvg+어/ecx)
+                             (AP  가/px+는/etm)))
+                 (NP  것/nbn+처럼/jca))
+           (NP  (AP   아스팔트/ncn)
+                 (NP  위/ncn+를/jco))
+           (V  (V 미끄러지/pvg+어/ecx)
+              (AUXP  가/px+려면/ecs)))
+     (V (V 어떻/pad+게/ecs)
+        (V 하/pvg+어야/ecs)
+        (V 하/pvg+ㄴ다/ef+고/jcr)
+        (V 생각/ncpa+하/xsv+어/ef+요/jxf)))+?/sf)
+(S   
+     (VP  (V 모르/pvg+겠/ep+어/ef))+./sf)
+
+
+; 축이 회전할 때, 축과 축받침대가 직접  닿지 않도록 그 사이에 공간을 만들어  구형과 원추형의 베어링을 넣어 주는 거죠.
+(S   
+     (VP  
+           (PP   
+                 (AP  
+                       (NP  축/ncn+이/jcs)
+                       (AP  회전/ncpa+하/xsv+ㄹ/etm))
+                 (PP   때/ncn))+,/sp
+           (VP  
+                 (VP  
+                       (NP  (NP   축/ncn+과/jcj)
+                             (NP  축받침대/ncn+가/jcs))
+                       (ADVP  직접/mag)
+                       (V (V 닿/pvg+지/ecx)
+                          (AUXP  않/px+도록/ecs)))
+                 (VP  
+                       (PP   (AP  그/mmd)
+                             (PP   사이/ncn+에/jca))
+                       (NP  공간/ncn+을/jco)
+                       (V 만들/pvg+어/ecs))
+                 (VP  
+                       (AP  
+                             (NP  
+                                   (NP  구형/ncn+과/jcj)
+                                   (NP  (AP   원추형/ncn+의/jcm)
+                                         (NP  베어링/ncn+을/jco)))
+                             (AP  (V 넣/pvg+어/ecx)
+                                   (AP  주/px+는/etm)))
+                       (NP  거/nbn+지/ef+요/jxf))))+./sf)
+
+
+; 그렇게 하면 축이 회전할 때 베어링도 함께 움직여서 마찰을 줄이고 기계가 잘 움직이게 돼요.
+(S   
+  (VP  
+     (V    (V 그렇/pad+게/ecs)
+           (V 하/pvg+면/ecs))
+     (VP  
+           (PP   
+                 (AP  
+                       (NP  축/ncn+이/jcs)
+                       (AP  회전/ncpa+하/xsv+ㄹ/etm))
+                 (PP   때/ncn))
+           (NP  베어링/ncn+도/jxc)
+           (VP  
+                 (ADVP  함께/mag)
+                 (V 움직이/pvg+어서/ecs)))
+     (VP  
+           (NP  마찰/ncn+을/jco)
+           (V 줄이/pvg+고/ecc))
+     (VP  
+           (NP  기계/ncn+가/jcs)
+           (VP  
+                 (ADVP  잘/mag)
+                 (V (V 움직이/pvg+게/ecx)
+                    (AUXP  되/px+어/ef+요/jxf)))))+./sf)
+
+
+; 야아! 그렇게 모든 걸 잘 알고 있으니, 너희 나라에서는 이제 곧  성가신 마찰을 완전히 없앨 수 있겠구나.
+(S   
+     (VP  
+           (IP 야아/ii)+!/sf
+           (VP  
+                 (VP  (V 그렇/pad+게/ecs)
+                       (NP  (AP   모든/mma)
+                             (NP  거/nbn+ㄹ/jco))
+                       (ADVP  잘/mag)
+                       (V (V 알/pvg+고/ecx)
+                          (AUXP  있/px+으니/ecs))+,/sp)
+                 (VP  (NP   
+                             (AP  
+                                   (PP   (AP  너희/npp)
+                                         (PP   나라/ncn+에서/jca+는/jxc))
+                                   (ADVP  이제/mag)
+                                   (ADVP  곧/mag)
+                                   (NP  (AP   성가시/paa+ㄴ/etm)
+                                         (NP  마찰/ncn+을/jco))
+                                   (ADVP  완전/ncn+히/xsa)
+                                   (AP  없애/pvg+ㄹ/etm))
+                             (N 수/nbn))
+                       (VP  있/paa+겠/ep+구나/ef))))+)./sf
+
+
+; 마찰은 성가신 점도 많지만 그러나 마찰이 없으면 곤란한 일이 너무 많이 생겨요.
+(S   
+  (VP  
+     (VP  
+           (NP  마찰/ncn+은/jxc)
+           (VP  
+                 (NP  
+                       (AP  성가시/paa+ㄴ/etm)
+                       (NP  점/ncn+도/jxc))
+                 (V 많/paa+지만/ecs)))
+     (VP  
+           (IP 그러나/maj)
+           (VP  
+                 (VP  
+                       (NP  마찰/ncn+이/jc)
+                       (V 없/paa+으면/ecs))
+                 (VP  
+                       (NP  
+                             (AP  곤란/ncps+하/xsm+ㄴ/etm)
+                             (NP  일/ncn+이/jcs))
+                       (VP  (ADVP   너무/mag)
+                             (ADVP  많/paa+이/xsa)
+                             (V 생기/pvg+어/ef+요/jxf))))))+./sf)
+
+
+; 어느 한 곳에서 계속 헛바퀴치든지, 그렇지 않으면 계속 미끄러질거야.
+(S   
+  (VP
+     (VP  
+           (PP   
+                 (AP  어느/mmd)
+                 (AP  한/nnc)
+                 (PP   곳/ncn+에서/jca))
+           (VP  
+                 (ADVP  계속/mag)
+                 (V 헛바퀴/ncn+치/pvg+든지/ecc))+,/sp) 
+     (VP  
+           (V    (V 그렇/pad+지/ecx)
+                 (AUXP  않/px+으면/ecs))
+           (VP  
+                 (AP  
+                       (ADVP  계속/mag)
+                       (AP  미끄러지/pvg+ㄹ/etm))
+                 (V 거/nbn+야/ef))))+./sf)
+
+
+; 차를 타고 가다 - 속도와 가속도 이제껏 우리들에게 설명을 해 준 역학평야의 그 아이의 이름은 코페르니였다.
+(S   
+     (VP  
+           (NP  차/ncn+를/jco)
+           (V    (V 타/pvg+고/ecc)
+                 (V 가/pvg+다/ecs)))+-/sd)+ (NP 속도/ncn+와/jcj)
+                                            (N 가속도/ncn)
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (ADVP  이제껏/mag)
+                       (PP   우리/npp+들/xsn+에게/jca)
+                       (NP  설명/ncn+을/jco)
+                       (AP (V  하/pvg+어/ecx)
+                          (AP  주/px+ㄴ/etm)))
+                 (AP  역학/ncn+평야/ncn+의/jcm)
+                 (AP  (AP   그/mmd)
+                       (AP  아이/ncn+의/jcm))
+                 (NP  이름/ncn+은/jxc))
+           (VP  코페르니/nq+이/jp+었/ep+다/ef))+./sf)
+
+
+; 우리나라의 법칙을 알지 못하니, 곧 길을 잃어 버리고 말 거야.
+(S   
+  (VP
+     (VP  
+           (NP  
+                 (AP  우리나라/ncn+의/jcm)
+                 (NP  법칙/ncn+을/jco))
+           (V    (V 알/pvg+지/ecx)
+                 (AUXP  못하/px+니/ecs))+,/sp)
+     (VP  
+           (AP  
+                 (ADVP  곧/mag)
+                 (NP  길/ncn+을/jco)
+                 (AP  (V 잃/pvg+어/ecx)
+                       (AUXP  버리/px+고/ecx)
+                       (AP  말/px+ㄹ/etm)))
+           (V 거/nbn+야/ef)))+./sf)
+
+
+; 코페르니는 넓은 길로 나가더니 손을 들어 차를 한 대 세웠다.
+(S   
+  (VP
+     (NP  코페르니/nq+는/jxc)
+     (VP  
+           (PP   (AP  넓/paa+ㄴ/etm)
+                 (PP   길/ncn+로/jca))
+           (V 나가/pvg+더/ep+니/ecs))
+     (VP  (NP   손/ncn+을/jco)
+           (V 들/pvg+어/ecs))
+     (VP  (NP   차/ncn+를/jco)
+           (NP  한/nnc+대/nbu)
+           (V 세우/pvg+었/ep+다/ef)))+./sf)
+
+
+; 차에 타자마자 코페르니의 질문이 시작되었다.
+(S   
+  (VP
+     (VP  
+           (PP   차/ncn+에/jca)
+           (V 타/pvg+자마자/ecs))
+     (VP  
+           (NP  
+                 (AP  코페르니/nq+의/jcm)
+                 (NP  질문/ncn+이/jcs))
+           (V 시작/ncpa+되/xsv+었/ep+다/ef)))+./sf)
+
+
+; 만약 자동차가 같은 상태로 계속 달린다면, 요컨대 속도를 빨리하거나 늦추거나 하지  않고 달린다면 속도계의 바늘은 한 곳에 멈춰 움직이지 않을 것이다.
+(S   
+  (VP
+     (VP  
+           (ADVP  만약/mag)
+           (NP  자동차/ncn+가/jcs)
+           (PP   
+                 (AP  같/paa+ㄴ/etm)
+                 (PP   상태/ncn+로/jca))
+           (VP  
+                 (ADVP  계속/mag)
+                 (V 달리/pvg+ㄴ다/ef+면/ecs))+,/sp)
+     (VP  
+           (ADVP  요컨대/mag)
+           (VP  
+                 (NP  속도/ncn+를/jco)
+                 (V (V 빨리하/pvg+거나/ecc)
+                    (V 늦추/pvg+거나/ecc)
+                    (V 하/pvg+지/ecx)
+                    (AUXP  않/px+고/ecc)
+                    (V 달리/pvg+ㄴ다/ef+면/ecs))))
+     (VP  
+           (NP  
+                 (AP  속도계/ncn+의/jcm)
+                 (NP  바늘/ncn+은/jxc))
+           (VP  
+                 (AP  
+                       (PP   
+                             (AP  한/nnc)
+                             (PP   곳/ncn+에/jca))
+                       (AP  (V 멈추/pvg+어/ecs)
+                             (V 움직이/pvg+지/ecx)
+                             (AP  않/px+ㄹ/etm))) 
+                 (VP  것/nbn+이/jp+다/ef))))+./sf)
+
+
+; 이때 우리는 속도가 일정하다고 하며, 속도의 크기는 이동한 거리를 시간으로 나누면  계산할 수 있다.
+(S   
+  (VP
+     (VP  
+           (PP   이/mmd+때/ncn)
+           (NP  우리/npp+는/jxc)   
+           (NP  속도/ncn+가/jcs)
+           (V    (V 일정/ncps+하/xsm+다/ef+고/jcr)
+                 (V 하/pvg+며/ecs))+,/sp)
+     (VP  
+           (NP  
+                 (AP  속도/ncn+의/jcm)
+                 (NP  크/paa+기/xsn+는/jxc))
+           (NP  
+                 (AP  이동/ncpa+하/xsv+ㄴ/etm)
+                 (NP  거리/ncn+를/jco))
+           (PP   시간/ncn+으로/jca)
+           (V 나누/pvg+면/ecs))
+     (VP  
+           (NP  
+                 (AP  계산/ncpa+하/xsv+ㄹ/etm)
+                 (N 수/nbn))
+           (V 있/paa+다/ef)))+./sf)
+
+
+; 예를 들어 평탄하고 똑바른 길을 2시간 달려 120km를 갔다고 하자.
+(S   
+     (VP  
+        (IP   예/ncn+를/jco+들/pvg+어/ecs)
+           (VP  
+                 (NP  
+                       (AP  (V 평탄/ncps+하/xsm+고/ecc)
+                             (AP  똑바르/paa+ㄴ/etm))
+                       (NP  길/ncn+을/jco))
+                 (NP  2/nnc+시간/nbu)
+                 (V 달리/pvg+어/ecs))
+           (VP  
+                 (NP  120/nnc+km/su+를/jco)
+                 (V 가/pvg+ㅆ/ep+다/ef+고/jcr)
+                 (V 하/pvg+자/ef)))+./sf)
+
+
+; 거리 120km를 시간당으로 계산하면 60km가 된다.
+(S   
+  (VP
+     (VP  
+           (NP  거리/ncn 120/nnc+km/su+를/jco)
+           (PP   시간당/ncn+으로/jca)
+           (V 계산/ncpa+하/xsv+면/ecs))
+     (VP  
+           (NP  60/nnc+km/su+가/jcc)
+           (V 되/pvg+ㄴ다/ef)))+./sf)
+
+
+; 그리고 이 경우 속도는 1시간에 대해서 계산하므로 시속 60km라고 한다.
+(S   
+     (VP  
+           (IP 그리고/maj)
+           (VP  
+                 (NP  (AP   이/mmd)
+                       (N 경우/ncn))
+                 (NP  속도/ncn+는/jxc)
+                 (PP   1/nnc+시간/nbu+에/jca)
+                 (V (V 대하/pvg+어서/ecs)
+                    (V 계산/ncpa+하/xsv+므로/ecs)))
+           (VP  (AP   시속/ncn)
+                 (V 60/nnc+km/su+라/ef+고/jcr)
+                 (V 하/pvg+ㄴ다/ef)))+./sf)
+
+
+; 이 경우에는 순간적으로 속도가 변하므로 매순간의 속도, 즉 순간속도라고 불리는 속도를 일일이 측정할 수 없다.
+(S   
+  (VP
+     (VP  
+           (PP   (AP  이/mmd)
+                 (PP   경우/ncn+에/jca+는/jxc))
+           (ADVP  순간/ncn+적/xsn+으로/jca)
+           (NP  속도/ncn+가/jcs)
+           (V 변하/pvg+므로/ecs))
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  
+                             (AP  매순간/ncn+의/jcm)
+                             (N 속도/ncn)+,/sp)
+                       (NP  
+                             (AP  
+                                   (IP 즉/mag)
+                                   (AP  (V 순간/ncn+속도/ncn+라/ef+고/jcr)
+                                         (AP  불리/pvg+는/etm)))
+                             (NP  속도/ncn+를/jco))
+                       (ADVP  일일이/mag)
+                       (AP  측정/ncpa+하/xsv+ㄹ/etm))
+                 (N 수/nbn))
+           (V 없/paa+다/ef)))+./sf)
+
+
+; 전체의 거리를 시간으로 나누면 시속 50km가 나온다.
+(S   
+  (VP
+     (VP  
+           (NP  
+                 (AP  전체/ncn+의/jcm)
+                 (NP  거리/ncn+를/jco))
+           (PP   시간/ncn+으로/jca)
+           (V 나누/pvg+면/ecs))
+     (VP  
+           (NP  (AP   시속/ncn)
+                 (NP  50/nnc+km/su+가/jcs))
+           (V 나오/pvg+ㄴ다/ef)))+./sf)
+
+
+; 예를 들면 지금 타고 있는 자동차가 10초 동안 시속  50km에서 56km로 속도를 높였다면, 1시간에 6km를 더 달린 것이 되고, 1초 동안엔 167cm만큼 더 달린 셈이 돼요.
+(S   
+     (VP  
+           (IP 예/ncn+를/jco+들/pvg+면/ecs)
+           (VP  
+                 (NP  
+                       (AP  
+                             (ADVP  지금/mag)
+                             (AP  (V 타/pvg+고/ecx)
+                                   (AP  있/px+는/etm)))
+                       (NP  자동차/ncn+가/jcs))
+                 (NP  10/nnc+초/nbu+동안/ncn)
+                 (PP   (AP  시속/ncn)
+                       (PP   50/nnc+km/su+에서/jca))
+                 (PP   56/nnc+km/su+로/jca)
+                 (NP  속도/ncn+를/jco)
+                 (V 높이/pvg+었/ep+다/ef+면/ecs)+,/sp)
+           (VP  
+                 (NP  
+                       (AP  
+                             (PP   1/nnc+시간/nbu+에/jca)
+                             (NP  6/nnc+km/su+를/jco)
+                             (ADVP  더/mag)
+                             (AP  달리/pvg+ㄴ/etm))
+                       (NP  것/nbn+이/jcc))
+                 (V 되/pvg+고/ecc)+,/sp)
+           (VP  
+                 (NP  
+                       (AP  
+                             (PP   1/nnc+초/nbu+동안/ncn+에/jca+ㄴ/jxc)
+                             (PP   167/nnc+cm/su+만큼/jxc)
+                             (ADVP  더/mag)
+                             (AP  달리/pvg+ㄴ/etm))
+                       (NP  셈/nbn+이/jcc))
+                 (V 되/pvg+어/ef+요/jxf)))+./sf)
+
+
+; 이 증가분은 10초 동안 변화한 양이므로, 1초 동안 변화한 양 - 가속도를 계산하면 평균 16.
+(S   
+  (VP
+     (VP  
+           (NP  
+                 (AP  이/mmd)
+                 (NP  증가분/ncn+은/jxc))
+           (VP  
+                 (AP (NP 10/nnc+초/nbu+동안/ncn)
+                     (AP 변화/ncpa+하/xsv+ㄴ/etm))
+                 (V 양/ncn+이/jp+므로/ecs))+,/sp)
+     (VP  
+           (VP  
+                 (NP  
+                       (NP  (AP
+                                 (NP 1/nnc+초/nbu+동안/ncn)
+                                 (AP 변화/ncpa+하/xsv+ㄴ/etm))
+                             (N 양/ncn))+-/sd
+                       (NP  가속도/ncn+를/jco))
+                 (V 계산/ncpa+하/xsv+면/ecs))
+           (VP  
+                 (AP  평균/ncn)
+                 (V 16/nnc))))+./sf)
+
+
+; 짧은 시간에 속도를 더 높이면 높일수록 그만큼 가속도도 커지죠.
+(S   
+  (VP
+     (VP  
+           (PP   (AP  짧/paa+ㄴ/etm)
+                 (PP   시간/ncn+에/jca))
+           (NP  속도/ncn+를/jco)
+           (ADVP  더/mag)
+           (V (V 높이/pvg+면/ecs)
+              (V 높이/pvg+ㄹ수록/ecs)))
+     (VP  
+           (ADVP  그/npd+만큼/jxc)
+           (NP  가속도/ncn+도/jxc)
+           (V 크/paa+어/ecx+지/px+지/ef+요/jxf)))+./sf)
+
+
+; 저기 있는 돌을 집어서 던져봐요! 돌은 20m 정도 날아갔다.
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (PP   저기/npd)
+                       (AP  있/paa+는/etm))
+                 (NP  돌/ncn+을/jco))
+           (V    (V 집/pvg+어서/ecs)
+                 (V 던지/pvg+어/ecx)
+                 (AUXP  보/px+아/ef+요/jxf)))+!/sf)
+(S   
+     (VP  
+           (NP  돌/ncn+은/jxc)
+           (NP  20/nnc+m/su+정도/ncn)
+           (V 날아가/pvg+ㅆ/ep+다/ef))+./sf)
+
+
+; 코페르니는 달려가서 돌이 떨어진 곳에 표시를 해 두고 돌아와서 이렇게 말했다.
+(S   
+  (VP
+     (NP  코페르니/nq+는/jxc)
+     (V    (V 달리/pvg+어/ecs)
+           (V 가/pvg+서/ecs)))
+     (VP  
+           (PP   
+                 (AP  
+                       (NP  돌/ncn+이/jcs)
+                       (AP  떨어지/pvg+ㄴ/etm))
+                 (PP   곳/ncn+에/jca))
+           (NP  표시/ncn+를/jco)
+           (V    (V 하/pvg+어/ecx)
+                 (AUXP  두/px+고/ecc)
+                 (V 돌아오/pvg+아서/ecs)))
+     (V (V 이렇/pad+게/ecs)
+        (V 말/ncpa+하/xsv+었/ep+다/ef))+./sf)
+
+
+; 다시 말하면 당신은 첫 번째보다 더 큰 힘을 들였고 그만큼 돌도 더 크게 가속된 거예요.
+(S   
+     (VP
+           (IP 다시/mag 말/ncpa+하/xsv+면/ecs)
+           (VP  
+                 (NP  당신/npp+은/jxc)
+                 (PP   첫/nno+번/nbu+째/xsn+보다/jca)
+                 (NP  
+                       (ADVP  더/mag)
+                       (AP  크/paa+ㄴ/etm)
+                       (NP  힘/ncn+을/jco))
+                 (V 들이/pvg+었/ep+고/ecc))
+           (VP  
+                 (AP  
+                       (PP   그/npd+만큼/jxc)
+                       (NP  돌/ncn+도/jxc)
+                       (ADVP  더/mag)
+                       (AP (V  크/paa+게/ecs)
+                           (AP 가속/ncpa+되/xsv+ㄴ/etm)))
+                 (V 거/nbn+이/jp+에요/ef)))+./sf)
+
+
+; 물체는 큰 힘을 받으면 받은 만큼 더 큰 가속을 받게 되죠.
+(S   
+     (VP  
+           (NP  물체/ncn+는/jxc)
+           (NP  
+                 (AP  크/paa+ㄴ/etm)
+                 (NP  힘/ncn+을/jco))
+           (V 받/pvg+으면/ecs))
+     (VP  
+           (NP  
+                 (AP  받/pvg+ㄴ/etm)
+                 (N 만큼/nbn))
+           (NP  
+                 (ADVP  더/mag)
+                 (AP  크/paa+ㄴ/etm)
+                 (NP  가속/ncn+을/jco))
+           (V    (V 받/pvg+게/ecx)
+                 (AUXP  되/px+지/ef+요/jxf)))+./sf)
+
+
+; 그렇게 말하고 코페르니는 대단히 큰 돌을 가리키며, 아까와 같은  힘으로 던져 봐요! 하고 말했다.
+(S   
+  (VP
+     (V    (V 그렇/pad+게/ecs)
+           (V 말/ncpa+하/xsv+고/ecc))
+     (VP  
+           (NP  코페르니/nq+는/jxc)
+           (NP  
+                 (AP (ADVP 대단/ncn+히/xsa)
+                     (AP 크/paa+ㄴ/etm))
+                 (NP  돌/ncn+을/jco))
+           (V 가리키/pvg+며/ecs)+,/sp)
+     (VP  
+           (PP   
+                 (AP  
+                       (NP  아까/ncn+와/jct)
+                       (AP  같/paa+ㄴ/etm))
+                 (PP   힘/ncn+으로/jca))
+           (V    (V 던지/pvg+어/ecx)
+                 (V 보/px+아/ef+요/jxf)+!/sf
+                 (AUXP  하/px+고/ecc)
+                 (V 말/ncpa+하/xsv+었/ep+다/ef))))+./sf)
+
+
+; 그 돌을 간신히 들어 올려 던져 보니 바로 앞에 떨어졌다.
+(S   
+  (VP
+     (VP  
+           (NP  
+                 (AP  그/mmd)
+                 (NP  돌/ncn+을/jco))
+           (ADVP  간신히/mag)
+           (V    (V 들/pvg+어/ecs)
+                 (V 올리/pvg+어/ecs)
+                 (V 던지/pvg+어/ecx)
+                 (AUXP  보/px+니/ecs)))
+     (VP  
+           (ADVP  바로/mag)
+           (PP   앞/ncn+에/jca)
+           (V 떨어지/pvg+었/ep+다/ef)))+./sf)
+
+
+; 바꿔 말하면 물체가 어느 일정한 힘으로 얻은 가속도는 그 물체의 질량이 커질수록 적어지죠.
+(S   
+  (VP  
+     (IP 바꾸/pvg+어/ecs 말/ncpa+하/xsv+면/ecs)
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  물체/ncn+가/jcs)
+                       (PP   
+                             (AP  어느/mmd)
+                             (AP  일정/ncps+하/xsm+ㄴ/etm)
+                             (PP   힘/ncn+으로/jca))
+                       (AP  얻/pvg+ㄴ/etm))
+                 (NP  가속도/ncn+는/jxc))
+           (NP  
+                 (AP  그/mmd)
+                 (AP  물체/ncn+의/jcm)
+                 (NP  질량/ncn+이/jcs))
+           (V    (V 크/paa+어/ecx+지/px+ㄹ수록/ecs)
+                 (V 적/pvg+어/ecx+지/px+지/ef+요/jxf))))+./sf)
+
+
+; 어떤 물체가 얻는 가속도는 그 물체에 작용하는 힘에 비례하고, 그 물체의 질량에 반비례한다.
+(S   
+     (VP
+        (NP  
+              (AP  
+                    (NP  
+                          (AP  어떤/mmd)
+                          (NP  물체/ncn+가/jcs))
+                    (AP  얻/pvg+는/etm))
+              (NP  가속도/ncn+는/jxc))
+        (VP  
+           (PP   
+                 (AP  
+                       (PP   
+                             (AP  그/mmd)
+                             (PP   물체/ncn+에/jca))
+                       (AP  작용/ncpa+하/xsv+는/etm))
+                 (PP   힘/ncn+에/jca))
+           (V 비례/ncpa+하/xsv+고/ecc)+,/sp)
+        (VP  
+           (PP   
+                 (AP  그/mmd)
+                 (AP  물체/ncn+의/jcm)
+                 (PP   질량/ncn+에/jca))
+           (V 반비례/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 그렇지만 당신들은 물리의 나라에 여행을 왔으니 수식을 사용하지 않아도 상관없어요.
+(S   
+  (VP
+     (IP 그렇지만/maj)
+     (VP  
+           (VP  
+                 (NP  당신/npp+들/xsn+은/jxc)
+                 (PP   
+                       (AP  물리/ncn+의/jcm)
+                       (PP   나라/ncn+에/jca))
+                 (NP  여행/ncn+을/jco)
+                 (V 오/pvg+았/ep+으니/ecs))
+           (VP  
+                 (NP  수식/ncn+을/jco)
+                 (V    (V 사용/ncpa+하/xsv+지/ecx)
+                       (AUXP  않/px+아도/ecs)
+                       (V 상관/ncn+없/paa+어/ef+요/jxf)))))+./sf)
+
+
+; 그렇지만 물리의 나라에서 평생 살려고 한다면 수학을 열심히 공부해야만 될거예요.
+(S   
+  (VP  
+     (IP 그렇지만/maj)
+     (VP  
+           (VP  
+                 (PP   
+                       (AP  물리/ncn+의/jcm)
+                       (PP   나라/ncn+에서/jca))
+                 (ADVP  평생/mag)
+                 (V (V 살/pvg+려고/ecs)
+                    (V 하/pvg+ㄴ다/ef+면/ecs)))
+           (VP  
+                 (AP  
+                       (NP  수학/ncn+을/jco)
+                       (ADVP  열심히/mag)
+                       (AP (V  공부/ncpa+하/xsv+어야/ecs+만/jxc)
+                           (AP 되/pvg+ㄹ/etm)))
+                 (V 거/nbn+이/jp+에요/ef))))+./sf)
+
+
+; 그런데 역학평야의 법칙은 이 두 가지가 다니? 나는 깊이 생각해 보지 않고 물었다.
+(S   
+  (VP
+     (IP 그런데/maj)
+     (VP  
+           (NP  
+                 (AP  역학/ncn+평야/ncn+의/jcm)
+                 (NP  법칙/ncn+은/jxc))
+           (NP  
+                 (AP  이/mmd)
+                 (AP  두/nnc)
+                 (NP  가지/nbu+가/jcs))
+           (V 다/ncn+니/ef)))+?/sf)
+(S   
+     (VP  
+           (NP  나/npp+는/jxc)
+           (ADVP  깊/paa+이/xsa)
+           (V    (V 생각/ncpa+하/xsv+어/ecx)
+                 (AUXP  보/px+지/ecx)
+                 (AUXP  않/px+고/ecc)
+                 (V 묻/pvg+었/ep+다/ef)))+./sf)
+
+
+; 저의 손바닥을 한번 때려 볼래요? 이렇게 말하고 코페르니는 손을 내밀었다.
+(S   
+     (VP  
+           (NP  
+                 (AP  저/npp+의/jcm)
+                 (NP  손바닥/ncn+을/jco))
+           (ADVP  한/nnc+번/nbu)
+           (V    (V 때리/pvg+어/ecx)
+                 (AUXP  보/px+ㄹ래/ef+요/jxf)))+?/sf)
+(S   
+  (VP
+     (V    (V 이렇/pad+게/ecs)
+           (V 말/ncpa+하/xsv+고/ecc))
+     (VP  
+           (NP  코페르니/nq+는/jxc)
+           (NP  손/ncn+을/jco)
+           (V 내밀/pvg+었/ep+다/ef)))+./sf)
+
+
+; 그런데 왜 나도 아프지? 내가 너를 때린 것이지, 네가 나를 때린 것은 아닌데 린 잘 모르겠어.
+(S   
+  (VP
+     (IP 그런데/maj)
+     (VP  
+           (ADVP  왜/mag)
+           (NP  나/npp+도/jxc)
+           (V 아프/paa+지/ef)))+?/sf)
+(S   
+  (VP
+     (VP  
+           (AP  
+                 (NP  내/npp+가/jcs)
+                 (NP  너/npp+를/jco)
+                 (AP  때리/pvg+ㄴ/etm))
+           (V 것/nbn+이/jp+지/ef)+,/sp)
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  네/npp+가/jcs)
+                       (NP  나/npp+를/jco)
+                       (AP  때리/pvg+ㄴ/etm))
+                 (NP  것/nbn+은/jxc))
+           (V 아니/paa+ㄴ데/ecs))
+     (VP  
+           (N 린/nq)
+           (ADVP  잘/mag)
+           (V 모르/pvg+겠/ep+어/ef)))+./sf)
+
+
+; 그것은 당신이 내 손에 가한 힘과 크기는 같고 방향은 반대죠.
+(S   
+  (VP  
+        (NP  그것/npd+은/jxc)
+        (VP  
+              (NP  
+                    (AP  
+                          (NP  당신/npp+이/jcs)
+                          (PP   
+                                (AP  나/npp+의/jcm)
+                                (PP   손/ncn+에/jca))
+                          (AP  가하/pvg+ㄴ/etm))
+                    (NP  (NP   힘/ncn+과/jcj)
+                          (NP  크/paa+기/xsn+는/jxc)))
+              (V 같/paa+고/ecc))
+        (VP  
+              (NP  방향/ncn+은/jxc)
+              (V 반대/ncn+지/ef+요/jxf)))+./sf)
+
+
+; 어떤 힘이든 쌍둥이처럼 상대방이 있고, 그리고 그것이 반대방향으로 작용한단 말이지?  바로 그래요.
+(S   
+  (VP
+     (AP  
+           (VP  
+                 (AP  어떤/mmd)
+                 (V 힘/ncn+이/jp+든/ecc))
+           (VP  
+                 (PP   쌍둥이/ncn+처럼/jca)
+                 (NP  상대방/ncn+이/jcs)
+                 (V 있/paa+고/ecc)+,/sp)
+           (VP  
+                 (IP 그리고/maj)
+                 (AP  
+                       (NP  그것/npd+이/jcs)
+                       (PP   반대/ncn+방향/ncn+으로/jca)
+                       (AP  작용/ncpa+하/xsv+ㄴ다/ef+ㄴ/etm))))
+                 (V 말/ncn+이/jp+지/ef)))+?/sf)
+(S   
+     (VP  
+           (ADVP  바로/mag)
+           (V 그렇/pad+어/ef+요/jxf))+./sf)
+
+
+; 예를 들어 스프링이 들어 있는 침대 위에 가방을 놓아 봐요.
+(S   
+  (VP
+     (IP 예/ncn+를/jco 들/pvg+어/ecs)
+     (VP  
+           (PP   
+                 (AP  
+                       (AP  
+                             (NP  스프링/ncn+이/jcs)
+                             (AP  (V 들/pvg+어/ecx)
+                                   (AP  있/px+는/etm)))
+                       (AP  침대/ncn))
+                 (PP   위/ncn+에/jca))
+           (NP  가방/ncn+을/jco)
+           (V    (V 놓/pvg+아/ecx)
+                 (AUXP  보/px+아/ef+요/jxf))))+./sf)
+
+
+; 정말 모든 작용에는 항상 반작용이 있어? 나는 코페르니를 곤란하게  할 질문이 떠올라 먼저 이렇게 물었다.
+(S   
+     (VP  
+           (ADVP  정말/mag)
+           (PP   
+                 (AP  모든/mma)
+                 (PP   작용/ncn+에/jca+는/jxc))
+           (ADVP  항상/mag)
+           (NP  반작용/ncn+이/jcs)
+           (V 있/paa+어/ef))+?/sf)
+(S   
+     (VP  
+        (NP  나/npp+는/jxc)
+        (VP  (NP   
+                 (AP  
+                       (NP  코페르니/nq+를/jco)
+                       (AP  (V 곤란/ncps+하/xsm+게/ecx)
+                             (AP  하/px+ㄹ/etm)))
+                 (NP  질문/ncn+이/jcs))
+              (V 떠오르/pvg+아/ecs))
+        (ADVP  먼저/mag)
+        (V (V 이렇/pad+게/ecs)
+           (V 묻/pvg+었/ep+다/ef)))+./sf)
+
+
+; 그래? 그렇다면 어째서 수레가 앞으로 가는지 설명해 봐! 당나귀가 앞에서 수레를 당기면 수레는 뒤에서 당기고, 이 두 힘의 크기는 균형을 이루어 수레는 한 곳에 당연히 멈춰 있어야 돼.
+(S   
+     (IP 그래/ii)+?/sf)
+(S   
+  (VP
+     (IP 그렇다면/maj)
+     (VP  
+           (ADVP  어째서/mag)
+           (NP  
+                 (VP  
+                       (NP  수레/ncn+가/jcs)
+                       (PP   앞/ncn+으로/jca)
+                       (V 가/pvg+는지/ef)))
+           (V    (V 설명/ncpa+하/xsv+어/ecx)
+                 (AUXP  보/px+아/ef))))+!/sf)
+(S   
+  (VP
+     (VP  
+           (NP  당나귀/ncn+가/jcs)
+           (PP   앞/ncn+에서/jca)
+           (NP  수레/ncn+를/jco)
+           (V 당기/pvg+면/ecs))
+     (VP  
+           (NP  수레/ncn+는/jxc)
+           (PP   뒤/ncn+에서/jca)
+           (V 당기/pvg+고/ecc))+,/sp
+     (VP  
+           (NP  
+                 (AP  이/mmd)
+                 (AP  두/nnc)
+                 (AP  힘/ncn+의/jcm)
+                 (NP  크/paa+기/xsn+는/jxc))
+           (NP  균형/ncn+을/jco)
+           (V 이루/pvg+어/ecs))
+     (VP  
+           (NP  수레/ncn+는/jxc)
+           (PP   
+                 (AP  한/nnc)
+                 (PP   곳/ncn+에/jca))
+           (ADVP  당연/ncn+히/xsa)
+           (V    (V 멈추/pvg+어/ecx)
+                 (AUXP  있/px+어야/ecs)
+                 (V 되/pvg+어/ef))))+./sf)
+
+
+; 만약 우주 공간 어디쯤에 있었다면 당나귀가 아무리 애써도 수레를 끄는 일은 불가능할 거예요.
+(S   
+  (VP
+     (VP  
+           (ADVP  만약/mag)
+           (VP  
+                 (PP   
+                       (AP  우주/ncn)
+                       (AP  공간/ncn)
+                       (PP   어디/npd+쯤/xsn+에/jca))
+                 (V 있/paa+었/ep+다/ef+면/ecs)))
+     (VP  
+           (NP  당나귀/ncn+가/jcs)
+           (ADVP  아무리/mag)
+           (V 애쓰/pvg+어도/ecs))
+     (VP  
+           (AP  
+                 (NP  수레/ncn+를/jco)
+                 (NP  (AP   끌/pvg+는/etm)
+                       (NP  일/ncn+은/jxc))
+                 (AP  불가능/ncps+하/xsm+ㄹ/etm))
+           (V 거/nbn+이/jp+에요/ef)))+./sf)
+
+
+; 당나귀가 지면을 차면, 지구는 당나귀에 반작용을 일으키고 그래서 당나귀는 수레와 함께 앞으로 나가는 거죠.
+(S   
+  (VP
+     (VP  
+           (NP  당나귀/ncn+가/jcs)
+           (NP  지면/ncn+을/jco)
+           (V 차/pvg+면/ecs))+,/sp
+     (VP  
+           (NP  지구/ncn+는/jxc)
+           (PP   당나귀/ncn+에/jca)
+           (NP  반작용/ncn+을/jco)
+           (V 일으키/pvg+고/ecc))
+     (VP  
+           (IP 그래서/maj)
+           (VP  
+                 (AP  
+                       (ADVP  (NP   당나귀/ncn+는/jxc)
+                                (PP   수레/ncn+와/jct)
+                                (ADVP  함께/mag))
+                       (PP   앞/ncn+으로/jca)
+                       (AP  나가/pvg+는/etm))
+                 (V 거/nbn+지/ef+요/jxf))))+./sf)
+
+
+; 그런데 로켓은 어떻게 해서 우주 공간을 날아가지? 어느 곳에도  차고 나갈 것이 없는데 어째서 우주선은 날아가지? 우주선용 로켓도 작용/반작용의 법칙을 이용하고 있어요.
+(S   
+  (VP
+     (IP 그런데/maj)
+     (VP  
+           (NP  로켓/ncn+은/jxc)
+           (V (V 어떻/pad+게/ecs)
+              (V 하/pvg+어서/ecs)))
+     (VP  
+           (NP  
+                 (AP  우주/ncn)
+                 (NP  공간/ncn+을/jco))
+           (V    (V 날/pvg+아/ecx)
+                 (AUXP  가/px+지/ef))))+?/sf)
+(S   
+  (VP
+     (VP  
+           (PP   
+                 (AP  어느/mmd)
+                 (PP   곳/ncn+에/jca+도/jxc))
+           (NP  
+                 (AP  
+                       (V 차/pvg+고/ecc)
+                       (AP  나가/pvg+ㄹ/etm))
+                 (NP  것/nbn+이/jcs))
+           (V 없/paa+는데/ecs))
+     (VP  
+           (ADVP  어째서/mag)
+           (NP  우주선/ncn+은/jxc)
+           (V    (V 날/pvg+아/ecx)
+                 (AUXP  가/px+지/ef))))+?/sf)
+(S   
+     (VP  
+           (NP  
+                 (AP  우수선용/ncn)
+                 (NP  로켓/ncn+도/jxc))
+           (NP  
+                 (AP  작용/ncn //sp   반작용/ncn+의/jcm)
+                 (NP  법칙/ncn+을/jco))
+           (V    (V 이용/ncpa+하/xsv+고/ecx)
+                 (AUXP  있/px+어/ef+요/jxf)))+./sf)
+
+
+; 혹시 공기총을 쏴본 적이 있어요? 방아쇠를 당기면 총알이 앞으로 나가죠.
+(S   
+     (VP  
+           (ADVP  혹시/mag)
+           (NP  
+                 (AP  
+                       (NP  공기총/ncn+을/jco)
+                       (AP     (V 쏘/pvg+아/ecx)
+                             (AP  보/px+ㄴ/etm)))
+                 (NP  적/nbn+이/jcs))
+           (V 있/paa+어/ef+요/jxf))+?/sf)
+(S   
+  (VP
+     (VP  
+           (NP  방아쇠/ncn+를/jco)
+           (V 당기/pvg+면/ecs))
+     (VP  
+           (NP  총알/ncn+이/jcs)
+           (PP   앞/ncn+으로/jca)
+           (V 나가/pvg+지/ef+요/jxf)))+./sf)
+
+
+; 높은 온도로 가열한 기체를 분출구를 통해 강하게 분사하죠.
+(S   
+  (VP
+     (VP  
+           (NP  
+                 (AP  
+                       (PP   
+                             (AP  높/paa+ㄴ/etm)
+                             (PP   온도/ncn+로/jca))
+                       (AP  가열/ncpa+하/xsv+ㄴ/etm))
+                 (NP  기체/ncn+를/jco))
+           (NP  분출구/ncn+를/jco)
+           (V 통하/pvg+어/ecs))
+     (V    (V 강하/paa+게/ecs)
+           (V 분사/ncpa+하/xsv+지/ef+요/jxf)))+./sf)
+
+
+; 로켓이 만들어진 덕분에 인간은 우주에  진출해서 달까지도 갈 수 있었고,  우주탐사선을 화성과 수성, 목성, 금성 그리고 토성으로도 보낼 수 있게 되었어요.
+(S   
+  (VP
+     (VP  
+           (PP   
+                 (AP  
+                       (NP  로켓/ncn+이/jcs)
+                       (AP  만들/pvg+어/ecx+지/px+ㄴ/etm))
+                 (PP   덕분/nbn+에/jca))
+           (NP  
+                 (AP  
+                       (VP  
+                             (NP  인간/ncn+은/jxc)
+                             (PP   우주/ncn+에/jca)
+                             (V 진출/ncpa+하/xsv+어서/ecs))
+                       (AP  
+                             (PP   달/ncn+까지/jxc+도/jxc)
+                             (AP  가/pvg+ㄹ/etm)))
+                 (N 수/nbn))
+           (V 있/paa+었/ep+고/ecc))+,/sp
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  우주탐사선/ncn+을/jco)
+                       (PP   
+                             (NP  화성/nq+과/jcj)
+                             (N 수성/nq)+,/sp
+                             (N 목성/nq)+,/sp
+                             (N 금성/nq)
+                             (IP 그리고/maj)
+                             (PP   토성/nq+으로/jca+도/jxc))
+                       (AP  보내/pvg+ㄹ/etm))
+                 (N 수/nbn))
+           (V    (V 있/paa+게/ecx)
+                 (AUXP  되/px+었/ep+어/ef+요/jx))))+./sf)
+
+
+; 코페르니는 아직 얘기할 것이 많으니 조금 쉬라고 말했다.
+(S   
+     (VP  
+        (NP  코페르니/nq+는/jxc)
+        (VP
+           (NP  
+                 (AP  (ADVP   아직/mag)
+                       (AP  얘기/ncpa+하/xsv+ㄹ/etm))
+                 (NP  것/nbn+이/jcs))
+           (V 많/paa+으니/ecs))
+        (VP  
+           (ADVP  조금/mag)
+           (VP  
+                 (V 쉬/pvg+라/ef+고/jcr) 
+                 (V 말/ncpa+하/xsv+었/ep+다/ef))))+./sf)
+
+
+; 역기를 들어올리게 하고, 돌을 높은 곳에서 떨어뜨리게 하고,  또 근처에 있는 돌을 옆으로 옮기게도 했다.
+(S   
+  (VP
+     (VP  
+           (NP  역기/ncn+를/jco)
+           (V    (V 들/pvg+어/ecs)
+                 (V 올리/pvg+게/ecx)
+                 (AUXP  하/px+고/ecc))+,/sp)
+     (VP  
+           (NP  돌/ncn+을/jco)
+           (PP   
+                 (AP  높/paa+ㄴ/etm)
+                 (PP   곳/ncn+에서/jca))
+           (V    (V 떨어뜨리/pvg+게/ecx)
+                 (AUXP  하/px+고/ecc))+,/sp)
+     (VP  
+           (IP 또/maj)
+           (VP  
+                 (NP  
+                       (AP  
+                             (PP   근처/ncn+에/jca)
+                             (AP  있/paa+는/etm))
+                       (NP  돌/ncn+을/jco))
+                 (PP   옆/ncn+으로/jca)
+                 (V    (V 옮기/pvg+게/ecx+도/jxc)
+                       (AUXP  하/px+었/ep+다/ef)))))+./sf)
+
+
+; 이런 것들을 통해 코페르니는 자신의 나라에서 일이라는 용어가  어떤 의미를 갖는지 설명해 주었던 것이다.
+(S   
+  (VP
+     (VP  
+           (NP  
+                 (AP  이런/mmd)
+                 (NP  것/nbn+들/xsn+을/jco))
+           (V 통하/pvg+어/ecs))
+     (VP  
+           (NP  코페르니/nq+는/jxc)
+           (AP  
+                 (NP  
+                       (VP  
+                             (PP   
+                                   (AP  자신/ncn+의/jcm)
+                                   (PP   나라/ncn+에서/jca))
+                             (NP  
+                                   (AP  일/ncn+이/jp+라/ef+는/etm)
+                                   (NP  용어/ncn+가/jcs))
+                             (NP  
+                                   (AP  어떤/mmd)
+                                   (NP  의미/ncn+를/jco))
+                             (V 갖/pvg+는지/ef)))
+                 (AP  (V 설명/ncpa+하/xsv+어/ecx)
+                       (AP  주/px+었/ep+더/ep+ㄴ/etm)))
+           (V 것/nbn+이/jp+다/ef)))+./sf)
+
+
+; 예를 들어 50kg의 역기를 지상 1m 높이까지 들어올리면 일종의 일을 한 것이 된다.
+(S   
+  (VP
+     (IP 예/ncn+를/jco 들/pvg+어/ecs)
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  50/nnc+kg/su+의/jcm)
+                       (NP  역기/ncn+를/jco))
+                 (PP   
+                       (AP  지상/ncn)
+                       (AP  1/nnc+m/su)
+                       (PP   높/paa+이/xsn+까지/jxc))
+                 (V    (V 들/pvg+어/ecs)
+                       (V 올리/pvg+면/ecs)))
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  (AP   일종/ncn+의/jcm)
+                                   (NP  일/ncn+을/jco))
+                             (AP  하/pvg+ㄴ/etm))
+                       (NP  것/nbn+이/jcc))
+                 (V 되/pvg+ㄴ다/ef))))+./sf)
+
+
+; 그리고 만약 같은 역기를 2m 높이까지 들어올리면 이전보다 두 배의 일을 한 것이 된다.
+(S   
+  (VP
+     (IP 그리고/maj)
+     (VP  
+           (VP  
+                 (ADVP  만약/mag)
+                 (NP  
+                       (AP  같/paa+ㄴ/etm)
+                       (NP  역기/ncn+를/jco))
+                 (PP   
+                       (AP  2/nnc+m/su)
+                       (NP  높/paa+이/xsn+까지/jxc))
+                 (V    (V 들/pvg+어/ecs)
+                       (V 올리/pvg+면/ecs)))
+           (VP  
+                 (NP  
+                       (AP  
+                             (PP   이전/ncn+보다/jca)
+                             (NP  
+                                   (AP  두/nnc)
+                                   (AP  배/nbu+의/jcm)
+                                   (NP  일/ncn+을/jco))
+                             (AP  하/pvg+ㄴ/etm))
+                       (NP  것/nbn+이/jcc))
+                 (V 되/pvg+ㄴ다/ef))))+./sf)
+
+
+; 마찬가지로 만약 100kg의 역기를 1m 들어올렸다고 하면, 역시 첫번째 일의 두 배 되는  일을 한 것이 된다.
+(S   
+     (VP  
+           (IP 마찬가지/ncn+로/jca)
+           (VP  (ADVP   만약/mag)
+                 (NP  (AP   100/nnc+kg/su+의/jcm)
+                       (NP  역기/ncn+를/jco))
+                 (NP  1/nnc+m/su)
+                 (V    (V 들/pvg+어/ecs)
+                       (V 올리/pvg+었/ep+다/ef+고/jcr)
+                       (V 하/pvg+면/ecs))))+,/sp
+           (VP  (ADVP   역시/mag)
+                 (NP  
+                       (AP  
+                             (NP  
+                                   (AP  
+                                         (NP  (AP   첫/nno+번/nbu+째/xsn)
+                                               (AP  일/ncn+의/jcm)
+                                               (AP  두/nnc)
+                                               (NP  배/nbu))
+                                         (AP  되/pvg+는/etm))
+                                   (NP  일/ncn+을/jco))
+                             (AP  하/pvg+ㄴ/etm))
+                       (NP  것/nbn+이/jcc))
+                 (V 되/pvg+ㄴ다/ef))+./sf)
+
+
+; 그러면 100kg의 역기를 2m 높이까지  들어올리면 어떻게 될까? 50kg짜리  역기를 1m 들어올릴 때의 네 배의 일을 한 것이 된다.
+(S   
+  (VP
+     (IP 그러면/maj)
+     (VP  
+           (NP  
+                 (AP  100/nnc+kg/su+의/jcm)
+                 (NP  역기/ncn+를/jco))
+           (PP   
+                 (AP  2/nnc+m/su)
+                 (PP   높/paa+이/xsn+까지/jxc))
+           (V    (V 들/pvg+어/ecs)
+                 (V 올리/pvg+면/ecs)))
+     (V    (V 어떻/pad+게/ecs)
+           (V 되/pvg+ㄹ까/ef)))+?/sf)
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (VP  
+                             (NP  
+                                   (AP  
+                                         (AP  
+                                               (NP  
+                                                     (AP  50/nnc+kg/su+짜리/xsn)
+                                                     (NP  역기/ncn+를/jco))
+                                               (NP  1/nnc+m/su)
+                                               (AP  (V 들/pvg+어/ecs)
+                                                     (AP  올리/pvg+ㄹ/etm)))
+                                         (AP  때/ncn+의/jcm))
+                                   (AP  네/nnc)
+                                   (AP  배/nbu+의/jcm)
+                                   (NP  일/ncn+을/jco))
+                             (AP  하/pvg+ㄴ/etm)))
+                 (NP  것/nbn+이/jcc))
+           (VP  되/pvg+ㄴ다/ef))+./sf)
+
+
+; 그러면 일이라는 것은 사용한 힘과 작용한 거리,  이 두 가지에 의해 측정되는 거야? 바로  그래요.
+(S   
+  (VP
+     (IP 그러면/maj)
+     (VP  
+           (AP  
+                 (NP  
+                       (AP  일/ncn+이/jp+라/ef+는/etm)
+                       (NP  것/nbn+은/jxc))
+                 (PP   
+                       (NP  
+                             (AP  사용/ncpa+하/xsv+ㄴ/etm)
+                             (NP  힘/ncn+과/jcj))
+                       (NP  
+                             (AP  작용/ncpa+하/xsv+ㄴ/etm)
+                             (N 거리/ncn))+,/sp
+                       (AP  이/mmd)
+                       (AP  두/nnc)
+                       (PP   가지/nbu+에/jca))
+                 (AP  (V 의하/pvg+어/ecs)
+                       (AP  측정/ncpa+되/xsv+는/etm)))
+           (V 거/nbn+야/ef)))+?/sf)
+(S   
+     (VP  
+           (ADVP  바로/mag)
+           (V 그렇/pad+어/ef+요/jxf))+./sf)
+
+
+; 정리해서 말하면, 일의 크기는 사용한 힘과 그 힘이 작용한 거리에 의해 알 수 있다는 거죠.
+(S   
+  (VP
+     (V    (V 정리/ncpa+하/xsv+어서/ecs) 
+           (V 말/ncpa+하/xsv+면/ecs)+,/sp)
+     (VP  
+           (AP  
+                 (NP  
+                       (AP  
+                             (NP  
+                                   (AP  일/ncn+의/jcm)
+                                   (NP  크/paa+기/xsn+는/jxc))
+                             (PP   
+                                   (NP  
+                                         (AP  사용/ncpa+하/xsv+ㄴ/etm)
+                                         (NP  힘/ncn+과/jcj))
+                                   (AP  
+                                         (NP  
+                                               (AP  그/mmd)
+                                               (NP  힘/ncn+이/jcs))
+                                         (AP  작용/ncpa+하/xsv+ㄴ/etm))
+                                   (PP   거리/ncn+에/jca))
+                             (AP  (V 의하/pvg+어/ecs)
+                                   (AP  알/pvg+ㄹ/etm)))
+                       (N 수/nbn))
+                 (AP  있/paa+다/ef+는/etm))
+           (V 거/nbn+지/ef+요/jxf)))+./sf)
+
+
+; 그리고 10kg짜리를 10m 그만! 그것은 아무리 말해도 끝이 없어요.
+(S   
+  (VP
+     (IP 그리고/maj)
+     (NP  
+           (NP  10/nnc+kg/su+짜리/xsn+를/jco)
+           (NP  10/nnc+m/su))))
+(S   
+     (IP 그만/ii)+!/sf)
+(S
+     (VP  
+           (VP  
+                 (NP  그것/npd+은/jxc)
+                 (ADVP  아무리/mag)
+                 (V 말/ncpa+하/xsv+어도/ecs))
+           (VP  
+                 (NP  끝/ncn+이/jcs)
+                 (V 없/paa+어/ef+요/jxf)))+./sf)
+
+
+; 코페르니의 설명에 의하면, 에너지라는 개념은 무언가 대단히 중요하며 복잡한 것 같았다.
+(S   
+  (VP
+     (VP  
+           (PP   
+                 (AP  코페르니/nq+의/jcm)
+                 (PP   설명/ncn+에/jca))
+           (V 의하/pvg+면/ecs))+,/sp
+     (VP  
+           (NP  
+                 (AP  에너지/ncn+라/ef+는/etm)
+                 (NP  개념/ncn+은/jxc))
+           (NP  
+                 (AP  
+                       (ADVP  무어/npd+이/jp+ㄴ가/ef)
+                       (ADVP  대단히/mag)
+                       (AP  (V 중요/ncps+하/xsm+며/ecc)
+                             (AP  복잡/ncps+하/xsm+ㄴ/etm)))
+                 (N 것/nbn))
+           (V 같/paa+았/ep+다/ef)))+./sf)
+
+
+; 그리고 물리의 나라에서는 어디에 가더라도 이 에너지라는 개념과 만난다고 한다.
+(S   
+  (VP
+     (IP 그리고/maj)
+     (VP  
+           (VP  
+                 (PP   
+                       (AP  물리/ncn+의/jcm)
+                       (PP   나라/ncn+에서/jca+는/jxc))
+                 (PP   어디/npd+에/jca)
+                 (V 가/pvg+더라도/ecs))
+           (VP  
+                 (PP   
+                       (AP  이/mmd)
+                       (AP  에너지/ncn+이/jp+라/ef+는/etm)
+                       (NP  개념/ncn+과/jct))
+                 (VP  
+                       (V 만나/pvg+ㄴ다/ef+고/jcr)
+                       (V 하/pvg+ㄴ다/ef)))))+./sf)
+
+
+; 그러나 여기는 역학평야이므로, 코페르니는 역학적 에너지만을 얘기해 주기로 했다.
+(S   
+     (VP  
+        (IP 그러나/maj)
+        (VP  
+              (NP  여기/npd+는/jxc)
+              (V 역학/ncn+평야/ncn+이/jp+므로/ecs))+,/sp)
+        (VP  
+           (NP  코페르니/nq+는/jxc)
+           (PP   
+                 (VP  
+                       (NP  
+                             (AP  역학/ncn+적/xsn)  
+                             (NP  에너지/ncn+만/jxc+을/jco))
+                       (V    (V 얘기/ncpa+하/xsv+어/ecx)
+                             (AUXP  주/px+기/etn+로/jca))))
+           (V 하/pvg+었/ep+다/ef))+./sf)
+
+
+; 코페르니는 질량과 속도를 이용해서 계산하는 방법을 이야기해 주었는데, 나와  아저씨는 알쏭달쏭하기만 했다.
+(S   
+  (VP
+     (VP  
+           (NP  코페르니/nq+는/jxc)
+           (NP  
+                 (AP  
+                       (NP  AP 질량/ncn+과/jcj)
+                       (NP  속도/ncn+를/jco)
+                       (AP  (V 이용/ncpa+하/xsv+어서/ecs)
+                             (AP  계산/ncpa+하/xsv+는/etm)))
+                 (NP  방법/ncn+을/jco))
+           (V    (V 이야기/ncpa+하/xsv+어/ecx)
+                 (AUXP  주/px+었/ep+는데/ecs)))+,/sp
+     (VP  
+           (NP  나/npp+와/jcj)
+           (NP  아저씨/ncn+는/jxc)
+           (VP     (NP   알쏭달쏭하/paa+기/etn+만/jxc)
+                    (V 하/pvg+었/ep+다/ef))))+./sf)
+
+
+; 어떤 물체가 어떤 일을 할 능력이 있는가는 에너지에 의해 결정돼요.
+(S   
+  (VP
+     (NP  
+           (VP  
+                 (NP  
+                       (AP  어떤/mmd)
+                       (NP  물체/ncn+가/jcs))
+                 (NP  
+                       (AP  
+                            (NP 
+                                 (AP 어떤/mmd)
+                                 (NP 일/ncn+을/jco))
+                           (AP 하/pvg+ㄹ/etm)))
+                       (NP  능력/ncn+이/jcs))
+                 (V 있/paa+는가/ef+는/jxc))
+     (PP   에너지/ncn+에/jca)
+     (V    (V 의하/pvg+어/ecs)
+           (V 결정/ncpa+되/xsv+어/ef+요/jxf)))+./sf)
+
+
+; 역학적 에너지에는 두 종류가 있는데, 운동에너지와 위치에너지라고 불리는 것들이에요.
+(S   
+  (VP
+     (VP  
+           (PP   
+                 (AP  역학/ncn+적/xsn)
+                 (PP   에너지/ncn+에/jca+는/jxc))
+           (NP  
+                 (AP  두/nnc)
+                 (NP  종류/nbu+가/jcs))
+           (V 있/paa+는데/ecs))+,/sp
+     (VP  
+           (AP  
+                 (AP
+                       (NP  운동/ncn+에너지/ncn+와/jcj)
+                       (AP  (V 위치/ncn+에너지/ncn+라/ef+고/jcr))
+                             (AP  불리/pvg+는/etm)))
+           (V 것/nbn+들/xsn+이/jp+에요/ef)))+./sf)
+
+
+; 코페르니가 뭔가를 보여 주겠다고 해서 우리는 안으로 들어갔다.
+(S   
+  (VP
+     (VP  
+           (NP  코페르니/nq+가/jcs)
+           (NP  뭐/npd+ㄴ가/ef+를/jco)
+           (V    (V 보이/pvg+어/ecx)
+                 (AUXP  주/px+겠/ep+다/ef+고/jcr)
+                 (V 하/pvg+어서/ecs)))
+     (VP  
+           (NP  우리/npp+는/jxc)
+           (PP   안/ncn+으로/jca)
+           (V 들어가/pvg+ㅆ/ep+다/ef)))+./sf)
+
+
+; 대장간 아저씨는 왼손으로 새빨갛게 달궈진 쇠를 집게로 잡고 오른손에 든 큰 쇠망치로 쇠를 때리고 있었다.
+(S   
+  (VP
+     (NP  
+           (AP  대장간/ncn)
+           (NP  아저씨/ncn+는/jxc))
+     (VP  
+           (PP   왼손/ncn+으로/jca)
+           (NP  
+                 (AP  
+                       (V 새빨갛/paa+게/ecs)
+                       (V 달구/pvg+어/ecx)
+                       (AP  지/px+ㄴ/etm))
+                 (NP  쇠/ncn+를/jco))
+           (PP   집게/ncn+로/jca)
+           (V 잡/pvg+고/ecc))
+     (VP  
+           (PP   
+                 (AP  
+                       (PP   오른손/ncn+에/jca)
+                       (AP  들/pvg+ㄴ/etm))
+                 (AP  크/paa+ㄴ/etm)
+                 (PP   쇠망치/ncn+로/jca))
+           (NP  쇠/ncn+를/jco)
+           (V    (V 때리/pvg+고/ecx)
+                 (AUXP  있/px+었/ep+다/ef))))+./sf)
+
+
+; 보세요! 쇠망치가 움직이면서 쇠에 부딪치면 쇠가 찌그러지죠.
+(S   
+     (VP  보/pvg+시/ep+에요/ef)+!/sf)
+(S   
+  (VP
+     (VP  
+           (NP  쇠망치/ncn+가/jcs)
+           (V 움직이/pvg+면서/ecc))
+     (VP  
+           (PP   쇠/ncn+에/jca)
+           (V 부딪치/pvg+면/ecs))
+     (VP  
+           (NP  쇠/ncn+가/jcs)
+           (V 찌그러지/pvg+지/ef+요/jxf)))+./sf)
+
+
+; 다시 말하면, 움직이는 쇠망치는 일을 하는 능력을 가지고 있어요.
+(S   
+  (VP
+     (IP 다시/mag 말/ncpa+하/xsv+면/ecs)+,/sp
+     (VP  
+           (NP  
+                 (AP  움직이/pvg+는/etm)
+                 (NP  쇠망치/ncn+는/jxc))
+           (NP  
+                 (AP  
+                       (NP  일/ncn+을/jco)
+                       (AP  하/pvg+는/etm))
+                 (NP  능력/ncn+을/jco))
+           (V    (V 가지/pvg+고/ecx)
+                 (AUXP  있/px+어/ef+요/jx))))+./sf)
+
+
+; 쇠망치가 빠른 속도로 쇠에 부딪치면 부딪칠수록 쇠는 더 강하게 압축되죠.
+(S   
+  (VP
+     (VP  
+           (NP  쇠망치/ncn+가/jcs)
+           (PP   
+                 (AP  빠르/paa+ㄴ/etm)
+                 (PP   속도/ncn+로/jca))
+           (PP   쇠/ncn+에/jca)
+           (V    (V 부딪치/pvg+면/ecs)
+                 (V 부딪치/pvg+ㄹ수록/ecs)))
+     (VP  
+           (NP  쇠/ncn+는/jxc)
+           (ADVP  더/mag)
+           (V (V 강하/paa+게/ecs)
+              (V 압축/ncpa+되/xsv+지/ef+요/jxf))))+./sf)
+
+
+; 대장간 아저씨는 큰 망치를 내려놓고 그것보다 작은 망치를 집어 다시 쇠를 치기 시작했다.
+(S   
+  (VP  
+     (NP  (AP   대장간/ncn)
+           (NP  아저씨/ncn+는/jxc))
+     (VP  (NP   (AP  크/paa+ㄴ/etm)
+                 (NP  망치/ncn+를/jco))
+           (V    (V 내리/pvg+어/ecx)
+                 (AUXP  놓/px+고/ecc)))
+     (VP  (PP   그것/npd+보다/jca)
+           (NP  (AP   작/paa+은/etm)
+                 (NP  망치/ncn+를/jco))
+           (V 집/pvg+어/ecs))
+     (VP  (NP   (VP  (ADVP  다시/mag)
+                       (NP  쇠/ncn+를/jco)
+                       (N 치/pvg+기/etn)))
+           (V 시작/ncpa+하/xsv+었/ep+다/ef)))+./sf)
+
+
+; 보세요! 이번에는 저번만큼 쇠가 늘어나거나 찌그러지지 않죠? 운동에너지는 움직이고 있는 물체의 중량에도 좌우돼요.
+(S   
+     (VP  보/pvg+시/ep+에요/ef)+!/sf)
+(S   
+     (VP  
+           (PP   이번/npd+에/jca+는/jxc)
+           (PP   저번/npd+만큼/jxc)
+           (NP  쇠/ncn+가/jcs)
+           (V    (V 늘어나/pvg+거나/ecc)
+                 (V 찌그러지/pvg+지/ecx)
+                 (AUXP  않/px+지/ef+요/jxf)))+?/sf)
+(S   
+     (VP  
+           (NP  운동/ncn+에너지/ncn+는/jxc)
+           (PP   
+                 (AP  
+                       (AP  
+                             (V 움직이/pvg+고/ecx)
+                             (AP  있/px+는/etm))
+                       (AP  물체/ncn+의/jcm))
+                 (PP   중량/ncn+에/jca+도/jxc))
+           (V 좌우/ncpa+되/xsv+어/ef+요/jxf))+./sf)
+
+
+; 어디 쇠망치를 들어올려 볼까요? 그렇게 말하고 코페르니는 쇠망치를 머리 위까지 들어올렸다.
+(S   
+     (VP  
+           (ADVP  어디/mag)
+           (NP  쇠망치/ncn+를/jco)
+           (V    (V 들/pvg+어/ecs)
+                 (V 올리/pvg+어/ecx)
+                 (AUXP  보/px+ㄹ까/ef+요/jxf)))+?/sf)
+(S   
+  (VP
+     (V    (V 그렇/pad+게/ecs)
+           (V 말/ncpa+하/xsv+고/ecc))
+     (VP  
+           (NP  코페르니/nq+는/jxc)
+           (NP  쇠망치/ncn+를/jco)
+           (PP   
+                 (AP  머리/ncn)
+                 (PP   위/ncn+까지/jxc))
+           (V    (V 들/pvg+어/ecs)
+                 (V 올리/pvg+었/ep+다/ef))))+./sf)
+
+
+; 그리고 물체를 높이 올리면 올릴수록 그 물체의 포텐셜 에너지도 커져요.
+(S   
+  (VP
+     (IP 그리고/maj)
+     (VP  
+           (NP  물체/ncn+를/jco)
+           (ADVP  높/paa+이/xsa)
+           (V    (V 올리/pvg+면/ecs)
+                 (V 올리/pvg+ㄹ수록/ecs)))
+     (VP  
+           (NP  
+                 (AP  그/mmd)
+                 (AP  물체/ncn+의/jcm)
+                 (AP  포텐셜/ncn)
+                 (NP  에너지/ncn+도/jxc))
+           (V    (V 크/paa+어/ecx)
+                 (AUXP  지/px+어/ef+요/jxf))))+./sf)
+
+
+; 그리고 손을 놓으면 코페르니가 손을 놓으니 돌이 날아갔다.
+(S   
+  (VP
+     (IP 그리고/maj)
+     (VP  
+           (NP  손/ncn+을/jco)
+           (V 놓/pvg+으면/ecs))
+     (VP  
+           (NP  코페르니/nq+가/jcs)
+           (NP  손/ncn+을/jco)
+           (V 놓/pvg+으니/ecs))
+     (VP  
+           (NP  돌/ncn+이/jcs)
+           (V 날아가/pvg+ㅆ/ep+다/ef)))+./sf)
+
+
+; 그 예로 시계의 태엽은 한 번 감아 놓으면, 포텐셜 에너지를 가지고 하루종일 톱니바퀴가 시계바늘을 돌릴 수 있는 거죠.
+(S   
+  (VP
+     (VP  
+           (PP   
+                 (AP  그/mmd)
+                 (PP   예/ncn+로/jca))
+           (NP  
+                 (AP  시계/ncn+의/jcm)
+                 (NP  태엽/ncn+은/jxc))
+           (ADVP  
+                    (AP  한/nnc)
+                    (NP  번/nbu))
+           (V    (V 감/pvg+아/ecx)
+                 (AUXP  놓/px+으면/ecs)))+,/sp
+     (VP  
+           (NP  
+                 (AP  포텐셜/ncn)
+                 (NP  에너지/ncn+를/jco))
+           (V 가지/pvg+고/ecc))
+     (VP  
+           (AP  
+                 (NP  
+                       (AP  
+                             (NP  하루/ncn+종일/ncn)
+                             (NP  톱니/ncn+바퀴/ncn+가/jcs)
+                             (NP  시계바늘/ncn+을/jco)
+                             (AP  돌리/pvg+ㄹ/etm))
+                       (N 수/nbn))
+                 (AP  있/paa+는/etm))
+           (V 거/nbn+지/ef+요/jxf)))+./sf)
+
+
+; 그리고 그것은 역학뿐 아니라 물리학 전체에서 가장 중요한 법칙 속에 포함된 내용이에요.
+(S   
+  (VP
+     (IP 그리고/maj)
+     (VP  
+           (NP  그것/npd+은/jxc)
+           (NP  (AP   역학/ncn)
+                 (N 뿐/nbn))
+           (V 아니/paa+라/ecs))
+     (VP  
+           (PP   
+                 (AP  물리학/ncn)
+                 (PP   전체/ncn+에서/jca))
+           (PP   
+                 (ADVP  가장/mag)
+                 (AP  중요/ncps+하/xsm+ㄴ/etm)
+                 (AP  법칙/ncn)
+                 (PP   속/ncn+에/jca))
+           (VP  
+                 (AP  포함/ncpa+되/xsv+ㄴ/etm)
+                 (V 내용/ncn+이/jp+에요/ef))))+./sf)
+
+
+; 이번에는 호주머니 속에서 탁구공을 꺼내어 대장간 콘크리트 바닥에 떨어뜨렸다.
+(S   
+  (VP
+     (VP  
+           (PP   이번/npd+에/jca+는/jxcc)
+           (PP   
+                 (AP  호주머니/ncn)
+                 (PP   속/ncn+에서/jca))
+           (NP  탁구공/ncn+을/jco)
+           (V 꺼내/pvg+어/ecs))
+     (VP  
+           (PP   
+                 (AP  대장간/ncn)
+                 (AP  콘크리트/ncn)
+                 (PP   바닥/ncn+에/jca))
+           (V 떨어뜨리/pvg+었/ep+다/ef)))+./sf)
+
+
+; 그러나 바닥에 부딪히면 위로 튀어오르고, 그래서 가장 높이 왔을 때 한 순간 정지하지.
+(S   
+  (VP
+     (IP 그러나/maj)
+     (VP  
+           (PP   바닥/ncn+에/jca)
+           (V 부딪히/pvg+면/ecs))
+     (VP  
+           (PP   위/ncn+로/jca)
+           (V 튀어오르/pvg+고/ecc))+,/sp
+     (VP  
+           (IP 그래서/maj)
+           (VP  
+                 (PP   
+                       (AP  
+                             (ADVP  가장/mag)
+                             (ADVP  높/paa+이/xsa)
+                             (AP  오/pvg+았/ep+ㄹ/etm))
+                       (PP  때/ncn))
+                 (NP     (AP   한/nnc)
+                          (N 순간/ncn))
+                 (V 정지/ncpa+하/xsv+지/ef))))+./sf)
+
+
+; 뭘 그런 걸 가지고, 네가 잘 설명해 준 덕이지.
+(S   
+  (VP
+     (VP  
+           (ADVP  뭐/npd+ㄹ/jco)
+           (NP  
+                 (AP  그런/mmd)
+                 (NP  거/nbn+ㄹ/jco))
+           (V 가지/pvg+고/ecc))+,/sp
+     (VP  
+           (AP  
+                 (NP  네/npp+가/jcs)
+                 (ADVP  잘/mag)
+                 (AP  (V 설명/ncpa+하/xsv+어/ecx)
+                       (AP  주/px+ㄴ/etm)))
+           (V 덕/ncn+이/jp+지/ef)))+./sf)
+
+
+; 만약 어느 물체에 외부에서 힘이 가해지지 않는다면, 그 물체의 역학적 에너지는 일정하다는거예요.
+(S   
+  (VP
+     (VP  
+           (ADVP  만약/mag)
+           (PP   
+                 (AP  어느/mmd)
+                 (PP   물체/ncn+에/jca))
+           (PP   외부/ncn+에서/jca)
+           (NP  힘/ncn+이/jcs)
+           (V    (V 가하/pvg+어/ecx)
+                 (AUXP  지/px+지/ecx)
+                 (AUXP  않/px+는다/ef+면/ecs)))+,/sp
+     (VP  
+           (AP  
+                 (NP  
+                       (AP  그/mmd)
+                       (AP  물체/ncn+의/jcm)
+                       (AP  역학/ncn+적/xsn)
+                       (NP  에너지/ncn+는/jxc))
+                 (AP  일정/ncps+하/xsm+다/ef+는/etm))
+           (V 거/nbn+이/jp+에요/ef)))+./sf)
+
+
+; 그렇지만 감소하지 않는다는 것은? 탁구공의 튀는 높이는  차츰 낮아지다가 마지막에는 지면 위에 멈춰 버리는데, 역학적 에너지가 어딘가로 사라져 버린 것이 아니니? 사라지지 않아요.
+(S   
+  (VP
+     (IP 그렇지만/maj)
+     (VP  
+           (AP  
+                 (V 감소/ncpa+하/xsv+지/ecx)
+                 (AP  않/px+는다/ef+는/etm))
+           (V 것/nbn+은/jxc)))+?/sf)
+(S   
+  (VP
+     (VP  
+           (NP  
+                 (AP  탁구공/ncn+의/jcm)
+                 (AP  튀/pvg+는/etm)
+                 (NP  높/paa+이/xsn+는/jxc))
+           (ADVP  차츰/mag)
+           (V    (V 낮/paa+아/ecx)
+                 (AUXP  지/px+다가/ecs)))
+     (VP  
+           (PP   마지막/ncn+에/jca+는/jxc)
+           (PP   
+                 (AP  지면/ncn)
+                 (PP   위/ncn+에/jca))
+           (V    (V 멈추/pvg+어/ecx)
+                 (AUXP  버리/px+는데/ecs)))+,/sp
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  (AP   역학/ncn+적/xsn)
+                             (NP  에너지/ncn+가/jcs))
+                       (PP   어디/npd+ㄴ가/ef+로/jca)
+                       (AP  (V 사라지/pvg+어/ecx)
+                             (AP  버리/px+ㄴ/etm)))
+                 (NP  것/nbn+이/jcc))
+           (V 아니/paa+니/ef)))+?/sf)
+(S   
+     (VP  (V 사라지/pvg+지/ecx)
+           (AUXP  않/px+아/ef+요/jx))+./sf)
+
+
+; 그곳에는 지금까지 에너지 보존 / 변환의  법칙을 깨뜨리려고 꿈꾸었던 사람들이 만들었던 것이 전시되어 있어요.
+(S   
+     (VP  
+           (PP   그곳/npd+에/jca+는/jxc)
+           (NP  
+                 (AP  
+                       (NP  
+                             (AP  
+                                   (PP   지금/nct+까지/jxc)
+                                   (NP  
+                                         (AP  에너지/ncn)
+                                         (AP  보존/ncn //sp   변환/ncn+의/jcm)
+                                         (NP  법칙/ncn+을/jco))
+                                   (AP  (V 깨뜨리/pvg+려고/ecs)
+                                         (AP  꿈꾸/pvg+었/ep+더/ep+ㄴ/etm)))
+                             (NP  사람/ncn+들/xsn+이/jcs))
+                       (AP  만들/pvg+었/ep+더/ep+ㄴ/etm))
+                 (NP  것/nbn+이/jcs))
+           (V    (V 전시/ncpa+되/xsv+어/ecx)
+                 (AUXP  있/px+어/ef+요/jx)))+./sf)
+
+
+; 입구에서 산 설명서를 읽어 보니, 영구기관을 의미하는 mobile이라는 용어의  유래와 전시품들의 구조에 대한 설명이 쓰여 있었다.
+(S   
+  (VP
+     (VP  
+           (NP  
+                 (AP  
+                       (PP   입구/ncn+에서/jca)
+                       (AP  사/pvg+ㄴ/etm))
+                 (NP  설명서/ncn+를/jco))
+           (V    (V 읽/pvg+어/ecx)
+                 (AUXP  보/px+니/ecs)))+,/sp
+     (VP  
+           (NP  
+                 (AP  
+                       (PP   
+                             (NP  
+                                   (AP  
+                                         (AP  
+                                               (NP  영구/ncn+기관/ncn+을/jco)
+                                               (AP  의미/ncpa+하/xsv+는/etm))
+                                         (AP  mobile/f+이/jp+라/ef+는/etm))
+                                   (AP  용어/ncn+의/jcm))
+                             (NP  유래/ncn+와/jcj)
+                             (AP  전시품/ncn+들/xsn+의/jcm)
+                             (PP   구조/ncn+에/jca))
+                       (AP  대하/pvg+ㄴ/etm))
+                 (VP  설명/ncn+이/jcs))
+           (V    (V 쓰이/pvg+어/ecx)
+                 (AUXP  있/px+었/ep+다/ef))))+./sf)
+
+
+; mobile이라는 말은 원래 프랑스어로 문자 그대로 해석하면 영원히 움직이는 기계, 즉 영구기관이다.
+(S   
+  (VP
+     (VP  
+           (NP  
+                 (AP  mobile/f+이/jp+라/ef+는/etm)
+                 (NP  말/ncn+은/jxc))
+           (ADVP  원래/mag)
+           (PP   프랑스어/nq+로/jca)
+           (ADVP  문자/ncn 그대로/mag)
+           (V 해석/ncpa+하/xsv+면/ecs))
+     (VP  
+           (NP  
+                 (ADVP  영원/ncn+히/xsa)
+                 (AP  움직이/pvg+는/etm)
+                 (N 기계/ncn))+,/sp
+           (IP 즉/mag)
+           (V 영구/ncn+기관/ncn+이/jp+다/ef)))+./sf)
+
+
+; 그것은 연료도, 근육의 힘도, 바람도,  물의 흐름도, 전기도, 바꾸어 말하면  외부에서의 에너지를 전혀 사용하지 않고 쉬지 않고 영원히 움직이는 기계를 말한다.
+(S   
+     (VP  
+        (NP  그것/npd+은/jxc)
+        (VP
+           (NP  
+                 (AP  
+                       (VP  
+                             (NP  연료/ncn+도/jxc)+,/sp
+                             (NP  (AP   근육/ncn+의/jcm)
+                                   (NP  힘/ncn+도/jxc))+,/sp
+                             (NP  바람/ncn+도/jxc)+,/sp
+                             (NP  (AP   물/ncn+의/jcm)
+                                   (NP  흐름/ncn+도/jxc))+,/sp
+                             (NP  전기/ncn+도/jxc)+,/sp
+                             (IP 바꾸/pvg+어/ecs  말/ncpa+하/xsv+면/ecs)
+                             (NP  (AP   외부/ncn+에서/jca+의/jcm)
+                                   (NP  에너지/ncn+를/jco))
+                             (ADVP  전혀/mag)
+                             (V    (V 사용/ncpa+하/xsv+지/ecx)
+                                   (AUXP  않/px+고/ecc)))
+                       (V    (V 쉬/pvg+지/ecx)
+                             (AUXP  않/px+고/ecc))
+                       (ADVP  영원/ncn+히/xsa)
+                       (AP  움직이/pvg+는/etm))
+                 (NP  기계/ncn+를/jco))
+           (V 말/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 이제까지 많은 사람들이 영구기관을 발명하려는 꿈을 꿨고 그것을 실행에 옮겼다.
+(S   
+  (VP
+     (VP  
+           (PP   이제/ncn+까지/jxc)
+           (NP  (AP   많/paa+ㄴ/etm)
+                 (NP  사람/ncn+들/xsn+이/jcs))
+           (NP  
+                 (AP  
+                       (NP  영구/ncn+기관/ncn+을/jco)
+                       (AP  발명/ncpa+하/xsv+려/ecs+는/etm))
+                 (NP  꿈/ncn+을/jco))
+           (V 꾸/pvg+었/ep+고/ecc))
+     (VP  
+           (NP  그것/npd+을/jco)
+           (PP   실행/ncn+에/jca)
+           (V 옮기/pvg+었/ep+다/ef)))+./sf)
+
+
+; 그러나 피나는 노력을 했음에도 불구하고 그 누구도 영구기관을 만드는 데 성공하지 못했다.
+(S   
+  (VP
+     (IP 그러나/maj)
+     (VP  
+           (PP   
+                 (VP  
+                       (NP  (AP   피/ncn+나/pvg+는/etm)
+                             (NP  노력/ncn+을/jco))
+                       (V 하/pvg+었/ep+ㅁ/etn+에/jca+도/jxc)))
+           (V 불구/ncpa+하/xsv+고/ecc))
+     (VP  
+           (NP  (AP   그/mmd)
+                 (NP  누구/npp+도/jxc))
+           (PP   
+                 (AP  
+                       (NP  영구/ncn+기관/ncn+을/jco)
+                       (AP  만들/pvg+는/etm))
+                 (PP   데/nbn))
+           (V    (V 성공/ncpa+하/xsv+지/ecx)
+                 (AUXP  못하/px+었/ep+다/ef))))+./sf)
+
+
+; 따라서 오른쪽 반이 왼쪽 반을 당기므로 바퀴는 회전할 것이다.
+(S   
+  (VP
+     (IP 따라서/maj)
+     (VP  
+           (NP  
+                 (AP  오른쪽/ncn)
+                 (NP  반/ncn+이/jcs))
+           (NP  
+                 (AP  왼쪽/ncn)
+                 (NP  반/ncn+을/jco))
+           (V 당기/pvg+므로/ecs))
+     (VP  
+           (NP  바퀴/ncn+는/jxc)
+           (VP  
+                 (AP  회전/ncpa+하/xsv+ㄹ/etm)
+                 (V 것/nbn+이/jp+다/ef))))+./sf)
+
+
+; 물이 바퀴를 돌리면 스크루가 움직여 물은 다시 위로 올라간다.
+(S   
+  (VP
+     (VP  
+           (NP  물/ncn+이/jcs)
+           (NP  바퀴/ncn+를/jco)
+           (V 돌리/pvg+면/ecs))
+     (VP  
+           (NP  스크루/ncn+가/jcs)
+           (V 움직이/pvg+어/ecs))
+     (VP  
+           (NP  물/ncn+은/jxc)
+           (ADVP  다시/mag)
+           (PP   위/ncn+로/jca)
+           (V 올라가/pvg+ㄴ다/ef)))+./sf)
+
+
+; 그러나 기계부품 사이의 마찰 때문에 위로 올라가는 물의 양은 차츰 줄어들어 잠시 후엔 바퀴가 멈춰버린다.
+(S   
+  (VP
+     (IP 그러나/maj)
+     (VP  
+           (PP   
+                 (NP  
+                       (AP  기계/ncn+부품/nc)
+                       (AP  사이/ncn+의/jcm)
+                       (N 마찰/ncn))
+                 (PP   때문/nbn+에/jca))
+           (NP  
+                 (AP  
+                       (AP  
+                             (ADVP  위/ncn+로/jca)
+                             (AP  올라가/pvg+는/etm))
+                       (AP  물/ncn+의/jcm))
+                 (NP  양/ncn+은/jxc))
+           (ADVP  차츰/mag)
+           (V 줄어들/pvg+어/ecs))
+     (VP  
+           (PP   (AP  잠시/mag)
+                 (PP   후/ncn+에/jca+ㄴ/jxc))
+           (NP  바퀴/ncn+가/jcs)
+           (V    (V 멈추/pvg+어/ecx)
+                 (AUXP  버리/px+ㄴ다/ef))))+./sf)
+
+
+; 다만 물이 등심초(줄기로 바구니, 등잔 심지 등을 만드는 식물  - 역자 주)의 모세관을 올라가도록 되어 있다.
+(S   
+     (VP  
+           (ADVP  다만/mag)
+           (NP  물/ncn+이/jcs)
+           (NP  
+                 (AP  등심초/ncn  
+                       (/sl+(NP    
+                                   (AP  
+                                         (PP   줄기/ncn+로/jca)
+                                         (N 바구니/ncn)+ ,/sp
+                                         (NP  등잔/ncn 심지/ncn 등/ncn+을/jco)
+                                         (AP  만들/pvg+는/etm))
+                                      (N 식물/ncn))+-/sd +(NP 역자/ncn 주/ncn)+)/sr 
+                                +의/jcm)
+                 (NP  모세관/ncn+을/jco))
+           (V    (V 올라가/pvg+도록/ecs)
+                 (V 되/pvg+어/ecx)
+                 (AUXP  있/px+다/ef)))+./sf)
+
+
+; 확실히 물은 등심초의 모세관을 따라 위로 올라가지만 관에 그대로 있을 뿐 한 방울도 떨어지지 않는다.
+(S   
+  (VP
+     (VP  
+           (ADVP  확실/ncn+히/xsa)
+           (NP  물/ncn+은/jxc)
+           (NP  
+                 (AP  등심초/ncn+의/jcm)
+                 (NP  모세관/ncn+을/jco))
+           (V 따르/pvg+아/ecs))
+     (VP  
+           (ADVP  위/ncn+로/jca)
+           (V 올라가/pvg+지만/ecs))
+     (VP  
+           (NP  
+                 (AP  
+                       (PP   관/ncn+에/jca)
+                       (ADVP  그대로/mag)
+                       (AP  있/paa+ㄹ/etm))
+                 (N 뿐/nbn))
+           (NP  
+                 (AP  한/nnc)
+                 (NP  방울/nbu+도/jxc))
+           (V    (V 떨어지/pvg+지/ecx)
+                 (AUXP  않/px+는다/ef))))+./sf)
+
+
+; 예를 들어 에너지 보존 / 변환의 법칙을 어기지 않고 이용하는 도구들이 많이 있어요.
+(S   
+  (VP
+     (IP 예/ncn+를/jco  들/pvg+어/ecs)
+     (VP  (NP   (AP  (NP   (AP 에너지/ncn)
+                             (AP  보존/ncn //sp   변환/ncn+의/jcm)
+                             (NP  법칙/ncn+을/jco))
+                       (AP  (V 어기/pvg+지/ecx)
+                             (AUXP  않/px+고/ecc)
+                             (AP 이용/ncpa+하/xsv+는/etm)))
+                 (NP  도구/ncn+들/xsn+이/jcs))
+           (VP  (ADVP   많/paa+이/xsa)
+                 (V 있/paa+어/ef+요/jxf))))+./sf)
+
+
+; 복잡한 기계도 간단한 구조로 되어 있다 지레, 빗면을 만들어주는 판, 또 여러 종류의 윈치(밧줄이나 쇠사슬을 원통형의 동체에 감아 무거운  물건을 싣고 내리는 기계 - 역자  주) 같은 것들이죠.
+(S   
+     (VP  
+           (NP  
+                 (AP  복잡/ncps+하/xsm+ㄴ/etm)
+                 (NP  기계/ncn+도/jxc))
+           (PP   
+                 (AP  간단/ncps+하/xsm+ㄴ/etm)
+                 (PP   구조/ncn+로/jca))
+           (V    (V 되/pvg+어/ecx)
+                 (AUXP  있/px+다/ef))))
+(S   
+     (VP  
+           (AP  
+                 (N 지레/ncn)+,/sp
+                 (NP  
+                       (AP  
+                             (NP  빗면/ncn+을/jco)
+                             (AP  (V 만들/pvg+어/ecx)
+                                   (AP  주/px+는/etm)))
+                       (N 판/ncn))+,/sp
+                 (IP 또/mag)
+                 (NP  
+                       (AP  여러/mma)
+                       (AP  종류/ncn+의/jcm)
+                       (N 윈치/ncn))
+                          (/sl+
+                             (NP  
+                                   (AP  
+                                         (VP  
+                                               (NP  밧줄/ncn+이나/jcj)
+                                               (NP  쇠사슬/ncn+을/jco)
+                                               (PP   (AP  원통형/ncn+의/jcm)
+                                                     (NP  동체/ncn+에/jca))
+                                               (V 감/pvg+아/ecs))
+                                         (NP  (AP   무겁/paa+ㄴ/etm)
+                                               (NP  물건/ncn+을/jco))
+                                         (AP (V  싣/pvg+고/ecc)
+                                             (AP 내리/pvg+는/etm)))
+                                   (N 기계/ncn)+-/sd
+                                   (NP  역자/ncn 주/ncn)) +)/sr
+                 (AP  같/paa+ㄴ/etm))
+           (V 것/nbn+들/xsn+이/jp+지/ef+요/jxf))+./sf)
+
+
+; 그런 도구들은 전시품으로 장식되어 있는 게 아니라 지금 우리들이 사용하는 것들이에요.
+(S   
+     (VP  
+        (NP  (AP   그런/mmd)
+              (NP  도구/ncn+들/xsn+은/jxc))
+        (VP  
+              (NP
+                 (AP  
+                       (PP   전시품/ncn+으로/jca)
+                       (AP  (V 장식/ncpa+되/xsv+어/ecx)
+                             (AP  있/px+는/etm)))
+                 (NP  거/nbn+이/jcc))
+              (V 아니/paa+라/ecs))
+        (VP  
+           (AP  
+                 (ADVP  지금/mag)
+                 (NP  우리/npp+들/xsn+이/jcs)
+                 (AP  사용/ncpa+하/xsv+는/etm))
+           (V 것/nbn+들/xsn+이/jp+에요/ef)))+./sf)
+
+
+; 그들은 두 개의 통나무를 트럭 적재함에  걸쳐 놓고, 그 통나무를 따라 드럼통을  굴려 적재함에 올리고 있었다.
+(S   
+     (VP  
+        (NP  그/npp+들/xsn+은/jxc)
+        (VP
+           (NP  
+                 (AP  두/nnc)
+                 (AP  개/nbu+의/jcm)
+                 (NP  통나무/ncn+를/jco))
+           (PP   
+                 (AP  트럭/ncn)
+                 (PP   적재함/ncn+에/jca))
+           (V    (V 걸치/pvg+어/ecs)
+                 (V 놓/pvg+고/ecc)))+,/sp
+        (VP  
+           (NP  
+                 (AP  그/mmd)
+                 (NP  통나무/ncn+를/jco))
+           (V 따르/pvg+아/ecx))
+        (VP  
+           (NP  드럼통/ncn+을/jco) 
+           (V 굴리/pvg+어/ecs))
+        (VP  
+           (PP   적재함/ncn+에/jca)
+           (V    (V 올리/pvg+고/ecx)
+                 (AUXP  있/px+었/ep+다/ef))))+./sf)
+
+
+; 그렇게 하면 일의 양이 적어지니? 아니, 그렇지는 않아요.
+(S   
+  (VP
+     (V    (V 그렇/pad+게/ecs)
+           (V 하/pvg+면/ecs))
+     (VP  
+           (NP  
+                 (AP  일/ncn+의/jcm)
+                 (NP  양/ncn+이/jcs))
+           (V    (V 적/paa+어/ecx)
+                 (AUXP  지/px+니/ef))))+?/sf)
+(S   
+  (VP
+     (IP 아니/ii)+,/sp
+     (V    (V 그렇/pad+지/ecx+는/jxc)
+           (AUXP  않/px+아/ef+요/jxf)))+./sf)
+
+
+; 그러나 경사면, 즉 빗면을 이용하면 드럼통을 3 m 운반해야 하는 대신 100kg의 힘만으로도 충분하답니다.
+(S   
+  (VP
+     (IP 그러나/maj)
+     (VP  
+           (N 경사면/ncn)+,/sp
+           (IP 즉/mag)
+           (NP  빗면/ncn+을/jco)
+           (V 이용/ncpa+하/xsv+면/ecs))
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  드럼통/ncn+을/jco)
+                       (NP  3/nnc+m/su)
+                       (AP  (V 운반/ncpa+하/xsv+어야/ecs)
+                             (AP  하/pvg+는/etm)))
+                 (N 대신/ncn))
+           (PP   
+                 (AP  100/nnc+kg/su+의/jcm)
+                 (PP   힘/ncn+만/jxc+으로/jca+도/jxc))
+           (V 충분/ncps+하/xsm+답니다/ef)))+./sf)
+
+
+; 인부들은 큰 돌을 위로 올리기 위해서 흙으로 빗면을 만들어 그것을 이용해 돌을 밀어 올렸어요.
+(S   
+     (VP  
+        (NP  인부/ncn+들/xsn+은/jxc)
+        (VP
+           (NP  
+                 (VP  
+                       (NP  (AP   크/paa+ㄴ/etm)
+                             (NP  돌/ncn+을/jco))
+                       (PP   위/ncn+로/jca)
+                       (N 올리/pvg+기/etn)))
+           (V 위하/pvg+어서/ecs))
+        (VP  
+           (PP   흙/ncn+으로/jca)
+           (NP  빗면/ncn+을/jco)
+           (V 만들/pvg+어/ecs))
+        (VP  
+           (NP  그것/npd+을/jco)
+           (V 이용/ncpa+하/xsv+어/ecs))
+        (VP  
+           (NP  돌/ncn+을/jco)
+           (V    (V 밀/pvg+어/ecs)
+                 (V 올리/pvg+었/ep+어/ef+요/jx))))+./sf)
+
+
+; 자, 이번에는 직접 간단한 도구를 하나 만들어 보도록 하죠.
+(S   
+  (VP
+     (IP 자/ii)+,/sp
+     (VP  
+           (PP   이번/npd+에/jca+는/jxc)
+           (ADVP  직접/mag)
+           (NP  
+                 (AP  간단/ncps+하/xsm+ㄴ/etm)
+                 (NP  도구/ncn+를/jco))
+           (NP  하나/nnc)
+           (V    (V 만들/pvg+어/ecx)
+                 (AUXP  보/px+도록/ecs)
+                 (V 하/pvg+지/ef+요/jxf))))+./sf)
+
+
+; 저 큰 상자를 조금 들어서 지레의 짧은 쪽에 올려 봐요.
+(S   
+  (VP
+     (VP  
+           (NP  
+                 (AP  저/mmd)
+                 (AP  크/paa+ㄴ/etm)
+                 (NP  상자/ncn+를/jco))
+           (ADVP  조금/mag)
+           (V 들/pvg+어서/ecs))
+     (VP  
+           (PP   
+                 (AP  지레/ncn+의/jcm)
+                 (AP  짧/paa+ㄴ/etm) 
+                 (PP   쪽/nbn+에/jca))
+           (V    (V 올리/pvg+어/ecx)
+                 (AUXP  보/px+아/ef+요/jxf))))+./sf)
+
+
+; 어떤 도구도 지레의 원리를 이용하면 힘을 절약할 수 있어요.
+(S   
+  (VP
+     (VP  
+           (NP  
+                 (AP  어떤/mmd)
+                 (NP  도구/ncn+도/jxc))
+           (NP  
+                 (AP  지레/ncn+의/jcm)
+                 (NP  원리/ncn+를/jco))
+           (V 이용/ncpa+하/xsv+면/ecs))
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  힘/ncn+을/jco)
+                       (AP  절약/ncpa+하/xsv+ㄹ/etm))
+                 (N 수/nbn))
+           (V 있/paa+어/ef+요/jxf)))+./sf)
+
+
+; 굴삭기도, 불도저도, 선반도, 모두 지레와 윈치, 빗면을 만드는 판들을 조합하여 만든 거예요.
+(S   
+     (VP  
+           (NP  
+                 (NP  굴삭기/ncn+도/jxc)+,/sp
+                 (NP  불도저/ncn+도/jxc)+,/sp
+                 (NP  선반/ncn+도/jxc)+,/sp
+                 (N 모두/ncn))
+           (AP  
+                 (NP  
+                       (AP  
+                             (NP  
+                                  (NP 지레/ncn+와/jcj)
+                                  (N 윈치/ncn)+,/sp
+                                  (NP 빗면/ncn+을/jco))
+                             (AP  만들/pvg+는/etm))
+                       (NP  판/ncn+들/xsn+을/jco))
+                 (AP  (V 조합/ncpa+하/xsv+어/ecs)
+                       (AP  만들/pvg+ㄴ/etm)))
+           (V 거/nbn+이/jp+에요/ef))+./sf)
+
+
+; 그래서 복잡한 기계의 구조도 에너지의 보존 / 변환의 법칙에 따르고 있는 거지요.
+(S   
+  (VP
+     (IP 그래서/maj)
+     (VP  
+           (AP  
+                 (VP  
+                       (NP  
+                             (AP  복잡/ncps+하/xsm+ㄴ/etm)
+                             (AP  기계/ncn+의/jcm)
+                             (NP  구조/ncn+도/jxc))
+                       (PP   
+                             (AP  에너지/ncn+의/jcm)
+                             (AP  보존/ncn //sp   변환/ncn+의/jcm)
+                             (PP   법칙/ncn+에/jca))
+                       (AP  (V  따르/pvg+고/ecc)
+                             (AP  있/paa+는/etm))))
+           (V 거/nbn+지/ef+요/jx)))+./sf)
+
+
+; 물론 그것들을 움직이는 데는 인간의 근육의 힘만이 아니라, 다른 것들도 사용하고 있어요.
+(S   
+     (VP  
+           (ADVP  물론/mag)
+           (PP   
+                 (AP  
+                       (NP  그것/npd+들/xsn+을/jco)
+                       (AP  움직이/pvg+는/etm))
+                 (PP   데/nbn+는/jxc))
+           (VP  
+                 (NP  
+                       (AP  인간/ncn+의/jcm)
+                       (AP  근육/ncn+의/jcm)
+                       (NP  힘/ncn+만/jxc+이/jcc))
+                 (V 아니/paa+라/ecs))+,/sp
+           (VP  
+                 (NP  
+                       (AP  다르/paa+ㄴ/etm)
+                       (NP  것/nbn+들/xsn+도/jxc))
+                 (V    (V 사용/ncpa+하/xsv+고/ecx)
+                       (AUXP  있/px+어/ef+요/jxf))))+./sf)
+
+
+; 예를 들면 모터, 증기기관, 내연기관, 터빈 등등.
+(S   
+  (VP
+     (IP 예/ncn+를/jco 들/pvg+면/ecs)
+     (NP  (N 모터/ncn)+,/sp
+           (N 증기/ncn+기관/ncn)+,/sp
+           (N 내연/ncn+기관/ncn)+,/sp
+           (NP  터빈/ncn 등등/nbn) ))+./sf)
+
+
+; 그가 이끌어 낸 결론은 지구가 사과를 당기는 것처럼,  사과도 지구를 당기고 있다. 바꿔 말하면 사과와 땅이 서로 당기고 있다는 것이죠.
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  그/npp+가/jcs)
+                       (AP  (V 이끌/pvg+어/ecx)
+                             (AP  내/px+ㄴ/etm)))
+                 (NP  결론/ncn+은/jxc))
+           (VP  
+                    (PP   
+                          (AP  
+                                (NP  지구/ncn+가/jcs)
+                                (NP  사과/ncn+를/jco)
+                                (AP  당기/pvg+는/etm))
+                          (PP   것/nbn+처럼/jca))+,/sp
+                    (VP  
+                          (NP  사과/ncn+도/jxc)
+                          (NP  지구/ncn+를/jco)
+                          (V    (V 당기/pvg+고/ecx)
+                                (AUXP  있/px+다/ef)))))+./sf
+(S
+     (VP
+           (IP   바꾸/pvg+어/ecs   말/ncpa+하/xsv+면/ecs)
+           (VP  
+                 (AP   (NP 사과/ncn+와/jcj)
+                       (NP  땅/ncn+이/jcs)
+                       (ADVP  서로/mag)
+                       (AP  (V 당기/pvg+고/ecx)
+                             (AP  있/px+다/ef+는/etm)))
+                 (V 것/nbn+이/jp+지/ef+요/jxf)))+./sf)
+
+
+; 그러면 어째서 사과가 땅 위에 떨어지고, 반대로 지구가 사과에 떨어지지는 않지? 그것은 지구가 크기 때문이에요.
+(S   
+  (VP
+     (IP 그러면/maj)
+     (VP  
+           (ADVP  어째서/mag)
+           (NP  사과/ncn+가/jcs)
+           (PP   
+                 (AP  땅/ncn)
+                 (PP   위/ncn+에/jca))
+           (V 떨어지/pvg+고/ecc))+,/sp
+     (VP  
+           (ADVP  반대/ncn+로/jca)
+           (NP  지구/ncn+가/jcs)
+           (PP   사과/ncn+에/jca)
+           (V    (V 떨어지/pvg+지/ecx+는/jxc)
+                 (AUXP  않/px+지/ef))))+?/sf)
+(S   
+  (VP
+     (NP  그것/npd+은/jxc)
+     (VP  
+           (AP  
+                 (NP  (NP   지구/ncn+가/jcs)
+                       (N 크/paa+기/etn)))
+           (V 때문/pvg+이/jp+에요/ef)))+./sf)
+
+
+; 지구가 훨씬 커서 사과가 당기는 정도의 작은 힘으로는 꼼짝도 하지 않는 거죠.
+(S   
+  (VP
+     (VP  
+           (NP  지구/ncn+가/jcs)
+           (ADVP  훨씬/mag)
+           (V 크/paa+어서/ecs))
+     (VP  
+           (AP  
+                 (PP   
+                       (AP  
+                             (AP  
+                                   (NP  사과/ncn+가/jcs)
+                                   (AP  당기/pvg+는/etm))
+                             (AP  정도/ncn+의/jcm))
+                       (AP  작/paa+ㄴ/etm)
+                       (PP   힘/ncn+으로/jca+는/jxc))
+                 (ADVP  꼼짝/mag+도/jxc)
+                 (AP  (V 하/pvg+지/ecx)
+                       (AP  않/px+는/etm)))
+           (V 거/nbn+지/ef+요/jxf)))+./sf)
+
+
+; 이런 생각을 하는 동안, 뉴턴은 이 세상에 있는 모든 물체가 작은 경우에는 당기는  힘이 작아서 알 수 없지만 가령 혹성이라든가, 그 위성, 항성 등 큰 물체의 경우는 어떻게 될까? 예를 들어 태양과 지구, 지구와 달 사이에는 큰 인력이 작용하고 있죠.
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  (AP   이런/mmd)
+                             (NP  생각/ncn+을/jco))
+                       (AP  하/pvg+는/etm))
+                 (N 동안/ncn))+,/sp
+           (NP  뉴턴/nq+은/jxc)
+           (VP  
+                 (PP   
+                       (AP  
+                             (NP  
+                                   (AP  
+                                         (PP   (AP  이/mmd)
+                                               (PP   세상/ncn+에/jca))
+                                         (AP  있/paa+는/etm))
+                                   (AP  모든/mma)
+                                   (NP  물체/ncn+가/jcs))
+                             (AP  작/paa+ㄴ/etm))
+                       (PP   경우/ncn+에/jca+는/jxc))
+                 (NP  (AP   당기/pvg+는/etm)
+                       (NP  힘/ncn+이/jcs))
+                 (V 작/paa+아서/ecs))
+           (VP  
+                 (NP  (AP   알/pvg+ㄹ/etm)
+                       (N 수/nbn))
+                 (V 없/paa+지만/ecs))
+           (VP  
+                 (ADVP  가령/mag)
+                 (NP  
+                       (V 혹성/ncn+이/jp+라/ef+든가/ecc)+,/sp
+                       (NP  (AP   그/mmd)
+                             (N 위성/ncn))+,/sp
+                       (N 항성/ncn)
+                       (N 등/nbn)
+                       (AP  크/paa+ㄴ/etm)
+                       (AP  물체/ncn+의/jcm)
+                       (NP  경우/ncn+는/jxc))
+                 (VP  
+                       (ADVP  어떻/pad+게/ecs)
+                       (V 되/pvg+ㄹ까/ef))))+?/sf)
+(S   
+  (VP
+     (IP 예/ncn+를/jco 들/pvg+어/ecs)
+     (VP  (PP   (NP  
+                       (NP  태양/ncn+과/jcj)
+                       (N 지구/ncn))+,/sp
+                 (NP  
+                       (NP  지구/ncn+와/jcj)
+                       (N 달/ncn))
+                 (PP   사이/ncn+에/jca+는/jxc))
+           (NP  
+                 (AP  크/paa+ㄴ/etm)
+                 (NP  인력/ncn+이/jcs))
+           (V    (V 작용/ncpa+하/xsv+고/ecx)
+                 (AUXP  있/px+지/ef+요/jxf))))+./sf)
+
+
+; 코페르니는 이렇게 말하곤 그의 바닥이 없는(?) 호주머니에서 끈을 꺼내더니 끝에 작은 돌을  연결하여 머리 위에서 빙빙 돌리기 시작했다.
+(S
+  (VP  
+     (VP  
+           (NP  코페르니/nq+는/jxc)
+           (V (V 이렇/pad+게/ecs)
+              (V 말/ncpa+하/xsv+고/ecc+ㄴ/jxc)))
+     (VP  
+           (PP   
+                 (AP  그/npp+의/jcm)
+                 (AP  
+                       (NP  바닥/ncn+이/jcs)
+                       (AP  없/paa+는/etm)) +(/sl+?/sp+)/sr
+                 (PP   호주머니/ncn+에서/jca))
+           (NP  끈/ncn+을/jco)
+           (V 꺼내/pvg+더/ep+니/ecs))
+     (VP  
+           (PP   끝/ncn+에/jca)
+           (NP  
+                 (AP  작/paa+ㄴ/etm)
+                 (NP  돌/ncn+을/jco))
+           (V 연결/ncpa+하/xsv+어/ecs))
+     (VP  
+           (PP   
+                 (AP  머리/ncn)
+                 (PP   위/ncn+에서/jca))
+           (NP  
+                 (AP  빙빙/mag)
+                 (N 돌리/pvg+기/etn))
+           (V 시작/ncpa+하/xsv+었/ep+다/ef)))+./sf)
+
+
+; 코페르니는 돌을 돌리는 것을 그만두고 끈을 풀어서 호주머니에 넣었다.
+(S   
+     (VP  
+           (NP  코페르니/nq+는/jxc)
+        (VP
+           (NP  
+                 (AP  
+                       (NP  돌/ncn+을/jco)
+                       (AP  돌리/pvg+는/etm))
+                 (NP  것/nbn+을/jco))
+           (V 그만두/pvg+고/ecc))
+        (VP  
+           (NP  끈/ncn+을/jco)
+           (V 풀/pvg+어서/ecs))
+        (VP  
+           (PP   호주머니/ncn+에/jca)
+           (V 넣/pvg+었/ep+다/ef)))+./sf)
+
+
+; 그리고 물체가 크면 클수록 그 만유인력이 커진다는 것을 증명했죠.
+(S   
+  (VP
+     (IP 그리고/maj)
+     (VP  
+           (NP  
+                 (AP  
+                       (VP  
+                             (NP  물체/ncn+가/jcs)
+                             (V (V 크/paa+면/ecs)
+                                (V 크/paa+ㄹ수록/ecs)))
+                       (AP  
+                             (NP  (AP   그/mmd)
+                                   (NP  만유인력/ncn+이/jcs))
+                             (AP  (V 크/paa+어/ecx+지/px)
+                                  (AP ㄴ다/ef+는/etm))))
+                 (NP  것/nbn+을/jco))
+           (V 증명/ncpa+하/xsv+었/ep+지/ef+요/jxf)))+./sf)
+
+
+; 좀 더 정확히 말하면 두 물체 사이에 작용하는 인력은  그 물체의 질량의 제곱에 비례하다는 거죠.
+(S   
+  (VP
+     (VP  
+           (ADVP  좀/mag)
+           (ADVP  더/mag)
+           (ADVP  정확/ncn+히/xsa)
+           (V 말/ncpa+하/xsv+면/ecs))
+     (VP  
+           (AP  
+                 (NP  
+                       (AP  
+                             (PP   (AP  두/nnc)
+                                   (NP  물체/ncn)
+                                   (PP   사이/ncn+에/jca))
+                             (AP  작용/ncpa+하/xsv+는/etm))
+                       (NP  인력/ncn+은/jxc))
+                 (PP   
+                       (AP  그/mmd)
+                       (AP  물체/ncn+의/jcm)
+                       (AP  질량/ncn+의/jcm)
+                       (PP   제곱/ncn+에/jca))
+                 (AP  비례/ncpa+하/xsv+ㄴ다/ef+는/etm))
+           (V 거/nbn+지/ef+요)))+./sf)
+
+
+; 물체가 가까이 있거나, 멀리 있는 것과는 관계가 없어? 아니요! 대단히 관계가 있어요.
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (VP  (NP   물체/ncn+가/jcs)
+                             (ADVP  가까이/mag)
+                             (V 있/paa+거나/ecc))+,/sp
+                       (AP  
+                             (ADVP  멀리/mag)
+                             (AP  있/paa+는/etm)))
+                 (NP  것/nbn+과/jct+는/jxc))
+           (NP  관계/ncn+가/jcs)
+           (V 없/paa+어/ef))+?/sf)
+(S   
+     (VP  아니/paa+요/jxf)+!/sf)
+(S   
+  (VP
+     (ADVP  대단히/mag)
+     (NP  관계/ncn+가/jcs)
+     (V 있/paa+어/ef+요/jxf))+./sf)
+
+
+; 만약 두 물체의 거리를 두 배로 하면 인력은 1/4로 줄어요.
+(S   
+  (VP
+     (ADVP  만약/mag)
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  두/nnc)
+                       (AP  물체/ncn+의/jcm)
+                       (NP  거리/ncn+를/jco))
+                 (PP   
+                       (AP  두/nnc)
+                       (PP   배/nbu+로/jca))
+                 (V 하/pvg+면/ecs))
+           (VP  
+                 (NP  인력/ncn+은/jxc)
+                 (PP   1/nnc+//sp+4/nnc+로/jca)
+                 (V 줄/pvg+어/ef+요/jxf))))+./sf)
+
+
+; 만약 거리를 세 배로 하면 1/9로 줄어요.
+(S   
+  (VP
+     (ADVP  만약/mag)
+     (VP  
+           (VP  
+                 (NP  거리/ncn+를/jco)
+                 (PP   (AP  세/nnc)
+                       (PP   배/nbu+로/jca))
+                 (V 하/pvg+면/ecs))
+           (VP  
+                 (PP   1/nnc+//sp+9/nnc+로/jca)
+                 (V 줄/pvg+어/ef+요/jxf))))+./sf)
+
+
+; 알았다! 만약 거리가 다섯 배가 되면 인력은 1/25이 되겠군.
+(S   
+     (VP  알/pvg+았/ep+다/ef)+!/sf)
+(S   
+  (VP
+     (ADVP  만약/mag)
+     (VP  
+           (VP  
+                 (NP  거리/ncn+가/jcs)
+                 (NP  (AP   다섯/nnc)
+                       (NP  배/nbu+가/jcc))
+                 (V 되/pvg+면/ecs))
+           (VP  
+                 (NP  인력/ncn+은/jxc)
+                 (NP  1/nnc+//sp+25/nnc+이/jcc)
+                 (V 되/pvg+겠/ep+군/ef))))+./sf)
+
+
+; 모든 물체 사이에는 인력이 작용하며, 그 인력은 물체의  질량의 제곱에 비례하고, 그 물체의 거리에 제곱에 반비례한다는 거예요.
+(S   
+     (VP  
+           (AP  
+                 (VP  
+                       (PP   
+                             (AP  모든/mma)
+                             (NP  물체/ncn)
+                             (PP   사이/ncn+에/jca+는/jxc))
+                       (NP  인력/ncn+이/jcs)
+                       (V 작용/ncpa+하/xsv+며/ecc))+,/sp
+                 (VP  
+                       (NP  
+                             (AP  그/mmd)
+                             (NP  인력/ncn+은/jxc))
+                       (PP   
+                             (AP  물체/ncn+의/jcm)
+                             (AP  질량/ncn+의/jcm)
+                             (PP   제곱/ncn+에/jca))
+                       (V 비례/ncpa+하/xsv+고/ecc))+,/sp
+                 (PP   
+                       (AP  그/mmd)
+                       (AP  물체/ncn+의/jcm)
+                       (PP   거리/ncn+에/jca))
+                 (PP   제곱/ncn+에/jca)
+                 (AP  반비례/ncpa+하/xsv+ㄴ다/ef+는/etm))
+           (V 거/nbn+이/jp+에요/ef))+./sf)
+
+
+; 이 법칙을 사용하면 혹성, 소혹성, 혜성의 정확한 궤도를 계산할 수 있어요.
+(S   
+  (VP
+     (VP  
+           (NP  (AP   이/mmd)
+                 (NP  법칙/ncn+을/jco))
+           (V 사용/ncpa+하/xsv+면/ecs))
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  (NP   혹성/ncn)+,/sp
+                             (NP  소혹성/ncn)+,/sp   
+                             (NP  (AP   혜성/ncn+의/jcm)
+                                   (AP  정확/ncps+하/xsm+ㄴ/etm)
+                                   (NP  궤도/ncn+를/jco)))
+                       (AP  계산/ncpa+하/xsv+ㄹ/etm))
+                 (N 수/nbn))
+           (V 있/paa+어/ef+요/jxf)))+./sf)
+
+
+; 인간이 우주에 진출한 이래, 지구를 도는 인공위성, 혹성간의 우주정거장, 우주선의 궤도 등 모두가 만유인력의 법칙을 이용하여 계산되고 있어요.
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  인간/ncn+이/jcs)
+                       (PP   우주/ncn+에/jca)
+                       (AP  진출/ncpa+하/xsv+ㄴ/etm))
+                 (N 이래/ncn))+,/sp
+           (NP  
+                 (NP  
+                       (AP  
+                             (NP  지구/ncn+를/jco)
+                             (AP  돌/pvg+는/etm))
+                       (N 인공위성/ncn))+,/sp
+                 (NP     
+                       (AP  혹성/ncn+간/xsn+의/jcm)
+                       (N 우주/ncn+정거장/ncn))+,/sp
+                 (NP  
+                       (AP  우주선/ncn+의/jcm)
+                       (NP  궤도/ncn 등/nbn))
+                 (NP  모두/ncn+가/jcs))
+           (NP  
+                 (AP  만유인력/ncn+의/jcm)
+                 (NP  법칙/ncn+을/jco))
+           (V    (V 이용/ncpa+하/xsv+어/ecs)
+                 (V 계산/ncpa+되/xsv+고/ecx)
+                 (AUXP  있/px+어/ef+요/jx)))+./sf)
+
+
+; 코페르니는 나와 아저씨를 사과밭 가장자리까지 바래다 주고 섭섭한 듯이 말했다.
+(S   
+     (VP  
+           (NP  코페르니/nq+는/jxc)
+           (VP  
+                 (NP  나/npp+와/jcj)
+                 (NP  아저씨/ncn+를/jco)
+                 (PP   
+                       (AP  사과밭/ncn)
+                       (PP   가장자리/ncn+까지/jxc))
+                 (V    (V 바래/pvg+다/ecx)
+                       (AUXP  주/px+고/ecc)))
+           (VP  
+                 (ADVP  
+                          (AP  섭섭/ncps+하/xsm+ㄴ/etm)
+                          (NP  듯이/mag))
+                 (V 말/ncpa+하/xsv+었/ep+다/ef)))+./sf)
+
+
+; 전부를 안내할 수는 없었지만, 중요한 법칙은 대부분 설명했다고 생각해요.
+(S   
+  (VP
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  전부/ncn+를/jco)
+                       (AP  안내/ncpa+하/xsv+ㄹ/etm))
+                 (NP  수/nbn+는/jxc))
+           (V 없/paa+었/ep+지만/ecs))+,/sp
+     (VP  
+           (NP  
+                 (AP  중요/ncps+하/xsm+ㄴ/etm)
+                 (NP  법칙/ncn+은/jxc))
+           (ADVP  대부분/mag)
+           (VP  
+                 (V 설명/ncpa+하/xsv+었/ep+다/ef+고/jcr)
+                 (V 생각/ncpa+하/xsv+어/ef+요/jxf))))+./sf)
+
+
+; 코페르니는 이렇게 말하고 뒤로 돌아 광장 쪽으로 달려갔다.
+(S   
+     (VP  
+           (NP  코페르니/nq+는/jxc)
+           (V    (V 이렇/pad+게/ecs)
+                 (V 말/ncpa+하/xsv+고/ecc))
+           (VP  
+                 (PP   뒤/ncn+로/jca)
+                 (V 돌/pvg+아/ecs))
+           (VP  
+                 (PP   
+                       (AP  광장/ncn)
+                       (PP   쪽/nbn+으로/jca))
+                 (V    (V 달리/pvg+어/ecx)
+                       (AUXP  가/px+ㅆ/ep+다/ef))))+./sf)
+
+
+; 열화산에서 저온빙하까지 나와 아저씨는 지도를 펼쳐 길을 확인했다.
+(S   
+     (VP  
+           (PP   열/ncn+화산/ncn+에서/jca)
+           (PP   저온/ncn+빙하/ncn+까지/jxc)
+           (NP  나/npp+와/jcj)
+           (NP  아저씨/ncn+는/jxc)
+           (VP  
+                 (NP  지도/ncn+를/jco)
+                 (V 펼치/pvg+어/ecs))
+           (VP  
+                 (NP  길/ncn+을/jco)
+                 (V 확인/ncpa+하/xsv+었/ep+다/ef)))+./sf)
+
+
+; 그리고 도중에 뭔가 보게 되면 그것을 일지에 적어 두도록 하자.
+(S   
+     (VP  
+           (IP 그리고/maj)
+           (VP  
+                 (PP   도중/ncn+에/jca)
+                 (NP  뭐/npd+ㄴ가/ef)
+                 (V    (V 보/pvg+게/ecx)
+                       (AUXP  되/px+면/ecs)))
+           (VP  
+                 (NP  그것/npd+을/jco)
+                 (PP   일지/ncn+에/jca)
+                 (V    (V 적/pvg+어/ecx)
+                       (AUXP  두/px+도록/ecs)
+                       (V 하/pvg+자/ef))))+./sf)
+
+
+; 1일째 언덕에 오르면서 우리는 분자라는 이름의 이상한 것을 만났다.
+(S   
+  (VP
+     (VP  
+           (N 1/nnc+일/nbu+째/xsn)
+           (PP   언덕/ncn+에/jca)
+           (V 오르/pvg+면서/ecc))
+     (VP  
+           (NP  우리/npp+는/jxc)
+           (NP  
+                 (AP  분자/ncn+라/ef+는/etm)
+                 (AP  이름/ncn+의/jcm)
+                 (AP  이상/ncps+하/xsm+ㄴ/etm)
+                 (NP  것/nbn+을/jco))
+           (V 만나/pvg+ㅆ/ep+다/ef)))+./sf)
+
+
+; 물체는 무엇으로 이루어져 있는가? -- 분자 모든 물체는 극히 작은  입자가 많이 모여서 이루어진다는 것을 알았다.
+(S   
+     (VP  
+           (NP  물체/ncn+는/jxc)
+           (PP   무엇/npd+으로/jca)
+           (V    (V 이루/pvg+어/ecx+지/px+어/ecx)
+                 (AUXP  있/px+는가/ef)))+?/sf) -/sd+-/sd
+(S   
+     (N 분자/ncn))
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  
+                             (AP  모든/mma)
+                             (NP  물체/ncn+는/jxc))
+                       (NP  
+                             (ADVP  극히/mag)
+                             (AP  작/paa+ㄴ/etm)
+                             (NP  입자/ncn+가/jcs))
+                       (ADVP  많/paa+이/xsa)
+                       (AP  (V 모이/pvg+어서/ecs)
+                             (AP  이루/pvg+어/ecx+지/px+ㄴ다/ef+는/etm)))
+                 (NP  것/nbn+을/jco))
+           (V 알/pvg+았/ep+다/ef))+./sf)
+
+
+; 좀 더 정확히 말하면 분자는 물체의 화학적 성질을 이루고 있는 가장 작은 입자이다.
+(S   
+  (VP
+     (VP  
+           (ADVP  좀/mag)
+           (ADVP  더/mag)
+           (ADVP  정확/ncn+히/xsa)
+           (V 말/ncpa+하/xsv+면/ecs))
+     (VP  
+           (NP  분자/ncn+는/jxc)
+           (VP  
+                 (AP  
+                       (AP  
+                             (NP  
+                                   (AP  물체/ncn+의/jcm)
+                                   (AP  화학/ncn+적/xsn)
+                                   (NP  성질/ncn+을/jco))
+                             (AP  (V 이루/pvg+고/ecx)
+                                   (AP  있/px+는/etm)))
+                       (AP  
+                             (ADVP  가장/mag)
+                             (AP  작/paa+ㄴ/etm)))
+                 (V 입자/ncn+이/jp+다/ef))))+./sf)
+
+
+; 예를 들어 거대 분자 하나의 무게와 사과 하나의 무게를 비교해 보면, 사과와 지구의  비율과 맞먹는다.
+(S   
+  (VP
+     (IP 예/ncn+를/jco 들/pvg+어/ecs)
+     (VP  
+           (NP  
+                 (NP  
+                       (AP  
+                             (AP  거대/ncn)
+                             (AP  분자/ncn)
+                             (AP  하나/nnc+의/jcm))
+                       (NP  무게/ncn+와/jcj))
+                 (NP  
+                       (AP  
+                             (AP  사과/ncn)
+                             (AP  하나/nnc+의/jcm))
+                       (NP  무게/ncn+를/jco)))
+           (V    (V 비교/ncpa+하/xsv+어/ecx)
+                 (AUXP  보/px+면/ecs)))+,/sp
+     (VP  
+           (PP   (NP  사과/ncn+와/jcj)
+                 (PP   (AP  지구/ncn+의/jcm)
+                       (PP   비율/ncn+과/jct)))
+           (V 맞먹/pvg+는다/ef)))+./sf)
+
+
+; 또 다른 예로, 지구의 모든 인간(약 60 억)이 각자 10 억 개의 분자를 갖고 있다고 하면 그 분자 모두(60 억 억)의 무게를 합한 것은 얼마나 될까? 
+(S   
+     (VP  
+           (PP   
+                 (ADVP  또/mag)
+                 (AP  다르/paa+ㄴ/etm)
+                 (PP   예/ncn+로/jca))+,/sp
+           (VP  
+                 (NP  
+                       (AP  지구/ncn+의/jcm)
+                       (AP  모든/mma)
+                       (VP  인간/ncn
+                             (/sl+(NP 약/ncn 60/nnc 억/nbu)+)/sr
+                                         +이/jcs))
+                 (N 각자/ncn)
+                 (NP  
+                       (AP  10/nnc+억/nbu+개/nbu+의/jcm)
+                       (NP  분자/ncn+를/jco))
+                 (V    (V 갖/pvg+고/ecx) 
+                       (AUXP  있/px+다/ef+고/jcr)
+                       (V 하/pvg+면/ecs)))
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  
+                                   (AP  그/mmd)
+                                   (AP  분자/ncn)
+                                   (AP  모두/ncn
+                                            (/sl+(NP 60/nnc+억/nbu+억/nbu)+)/sr 
+                                                     +의/jcm)
+                                   (NP  무게/ncn+를/jco))
+                             (AP  합하/pvg+ㄴ/etm))
+                       (NP  것/nbn+은/jxc))
+                 (ADVP  얼마나/mag)
+                 (V 되/pvg+ㄹ까/ef)))+?/sf)
+
+
+; 그런데 이 작은 입자들은 서로 빈틈없이 꽉 차 있지 않고, 분자와 분자 사이에는 어느 정도의 틈이 있다.
+(S   
+  (VP
+     (IP 그런데/maj)
+     (VP  
+           (NP  
+                 (AP  이/mmd)
+                 (AP  작/paa+ㄴ/etm)
+                 (NP  입자/ncn+들/xsn+은/jxc))
+           (ADVP  서로/mag)
+           (ADVP  빈틈/ncn+없/paa+이/xsa)
+           (ADVP  꽉/mag)
+           (V    (V 차/pvg+아/ecx)
+                 (AUXP  있/px+지/ecx)
+                 (AUXP  않/px+고/ecc)))+,/sp
+     (VP  
+           (PP   
+                 (AP  (NP   분자/ncn+와/jcj)
+                       (AP  분자/ncn))
+                 (PP   사이/ncn+에/jca+는/jxc))
+           (NP  
+                 (AP  어느/mmd)
+                 (AP  정도/ncn+의/jcm)
+                 (NP  틈/ncn+이/jcs))
+           (V 있/paa+다/ef)))+./sf)
+
+
+; 만약 1의 면적에 일 원짜리 동전 100개를 흩뜨려 놓는다면, 지금 읽고 있는 책의  페이지에 떨어지는 일원짜리 동전은 겨우 서너 개뿐일 것이다.
+(S   
+  (VP
+     (VP  
+           (ADVP  만약/mag)
+           (PP   
+                 (AP  1/nnc+의/jcm)
+                 (PP   면적/ncn+에/jca))
+           (NP  
+                 (AP  일/nnc   원/nbu+짜리/xsn)
+                 (AP  동전/ncn)
+                 (NP  100/nnc+개/nbu+를/jco))
+           (V    (V 흩뜨리/pvg+어/ecx)
+                 (AUXP  놓/px+는다/ef+면/ecs)))+,/sp
+     (VP  
+           (NP  
+                 (AP  
+                       (PP   
+                             (AP  
+                                   (ADVP  지금/mag)
+                                   (AP (V  읽/pvg+고/ecx)
+                                      (AP  있/px+는/etm)))
+                             (AP  책/ncn+의/jcm)
+                             (PP   페이지/ncn+에/jca))
+                       (AP  떨어지/pvg+는/etm))
+                 (AP  일/mn+원/nbu+짜리/xsn)
+                 (NP  동전/ncn+은/jxc))
+           (VP  
+                 (AP  
+                       (AP  겨우/mag)
+                       (AP  서너/nnc)
+                       (AP  개/nbu+뿐/nbn+이/jp+ㄹ/etm))
+                 (V 것/nbn+이/jp+다/ef))))+./sf)
+
+
+; 그렇지만 분자는 어떤 상황에서도 항상 움직이며 절대 멈추지 않는다.
+(S   
+  (VP
+     (IP 그렇지만/maj)
+     (VP  
+           (NP  분자/ncn+는/jxc)
+           (VP  
+                 (PP   
+                       (AP  어떤/mmd)
+                       (PP   상황/ncn+에서/jca+도/jxc))
+                 (ADVP  항상/mag)
+                 (V 움직이/pvg+며/ecc))
+           (ADVP  절대/mag)
+           (V    (V 멈추/pvg+지/ecx)
+                 (AUXP  않/px+는다/ef))))+./sf)
+
+
+; 그런데 우리는 어떤 곤충을 통하여 분자가 움직이는 모양을 볼 수 있었다.
+(S   
+   (VP
+     (IP 그런데/maj)
+     (VP  
+           (NP  우리/npp+는/jxc)
+           (VP  
+                 (NP  
+                       (AP  어떤/mmd)
+                       (NP  곤충/ncn+을/jco))
+                 (V 통하/pvg+어/ecs))
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  
+                                   (AP  
+                                         (NP  분자/ncn+가/jcs)
+                                         (AP  움직이/pvg+는/etm))
+                                   (NP  모양/ncn+을/jco))
+                             (AP  보/pvg+ㄹ/etm))
+                       (N 수/nbn))
+                 (V 있/paa+었/ep+다/ef))))+./sf)
+
+
+; 물론 분자 그 자체는 아니고, 그것과 닮은 것을 본 것이다.
+(S   
+  (VP
+     (VP  
+           (ADVP  물론/mag)
+           (NP  
+                 (AP  분자/ncn)
+                 (AP  그/mmd)
+                 (NP  자체/ncn+는/jxc))
+           (V 아니/paa+고/ecc))+,/sp
+     (VP  
+           (AP  
+                 (NP  
+                       (AP  
+                             (PP   그것/npd+과/jct)
+                             (AP  닮/pvg+ㄴ/etm))
+                       (NP  것/nbn+을/jco))
+                 (AP  보/pvg+ㄴ/etm))
+           (V 것/nbn+이/jp+다/ef)))+./sf)
+
+
+; 기체의 운동, 예를 들어 공기 속 분자들의 운동은 마치 파리매의 움직임과 비슷하다.
+(S   
+  (VP
+     (NP  
+           (AP  기체/ncn+의/jcm)
+           (N 운동/ncn))+,/sp
+     (VP  
+           (IP 예/ncn+를/jco 들/pvg+어/ecs)
+           (VP  
+                 (NP  
+                       (AP  공기/ncn)
+                       (AP  속/ncn)
+                       (AP  분자/ncn+들/xsn+의/jcm)
+                       (NP  운동/ncn+은/jxc))
+                 (VP  
+                       (ADVP  마치/mag)
+                       (PP   
+                             (AP  파리매/ncn+의/jcm)
+                             (NP  움직이/pvg+ㅁ/etn+과/jct))
+                       (V 비슷/ncps+하/xsm+다/ef)))))+./sf)
+
+
+; 기체의 분자는 서로 떨어져 있어서 공간  속에서 서로 끄는 힘도, 반발하는 힘도  거의 존재하지 않는다.
+(S   
+  (VP
+     (VP  
+           (NP  
+                 (AP  기체/ncn+의/jcm)
+                 (NP  분자/ncn+는/jxc))
+           (ADVP  서로/mag)
+           (V    (V 떨어지/pvg+어/ecx)
+                 (AUXP  있/px+어서/ecs)))
+     (VP  
+           (PP   
+                 (AP  공간/ncn)
+                 (PP   속/ncn+에서/jca))
+           (NP  
+                 (ADVP  서로/mag)
+                 (AP  끌/pvg+는/etm)
+                 (NP  힘/ncn+도/jxc))+,/sp
+           (NP  
+                 (AP  반발/ncpa+하/xsv+는/etm)
+                 (NP  힘/ncn+도/jxc))
+           (ADVP  거의/mag)
+           (V    (V 존재/ncpa+하/xsv+지/ecx)
+                 (AUXP  않/px+는다/ef))))+./sf)
+
+
+; 모든 기체 분자는 이를테면 개인주의자로  다른 분자의 운동에 상관하지  않고 멋대로 독립하여 움직인다.
+(S   
+     (VP  
+           (NP  
+                 (AP  모든/mma)
+                 (AP  기체/ncn)
+                 (NP  분자/ncn+는/jxc))
+           (PP   이를테면/mag)
+           (PP   개인주의자/ncn+로/jca)
+           (VP  
+                 (PP   
+                       (AP  다르/paa+ㄴ/etm)
+                       (AP  분자/ncn+의/jcm)
+                       (PP   운동/ncn+에/jca))
+                 (V    (V 상관/ncpa+하/xsv+지/ecx)
+                       (AUXP  않/px+고/ecc)))
+           (ADVP  멋대로/mag)
+           (V (V 독립/ncpa+하/xsv+어/ecs)
+              (V 움직이/pvg+ㄴ다/ef)))+./sf)
+
+
+; 만약 분자 모두가 독립하여 움직인다면 그 하나하나는 영원히 직선운동을 계속해야만 할 것이다.
+(S   
+  (VP
+     (VP  
+           (ADVP  만약/mag)
+           (NP  
+                 (AP  분자/ncn)
+                 (NP  모두/ncn+가/jcs))
+           (V    (V 독립/ncpa+하/xsv+어/ecs)
+                 (V 움직이/pvg+ㄴ다면/ecs)))
+     (VP  
+           (AP  
+                 (NP  
+                       (AP  그/mmd)
+                       (NP  하나/nnc+하나/nnc+는/jxc))
+                 (ADVP  영원/ncn+히/xsa)
+                 (NP  직선/ncn+운동/ncn+을/jco)
+                 (AP (V  계속/ncpa+하/xsv+어야/ecs+만/jxc)
+                    (AP  하/pvg+ㄹ/etm)))
+           (NP  것/nbn+이/jp+다/ef)))+./sf)
+
+
+; 모든 기체 분자는 서로가 부딪치면서, 그 때마다 이곳저곳으로 방향을 바꿔가며 날아다닌다.
+(S   
+  (VP
+     (VP  
+           (NP  
+                 (AP  모든/mma)
+                 (AP  기체/ncn)
+                 (NP  분자/ncn+는/jxc))
+           (NP  서로/ncn+가/jcs)
+           (V 부딪치/pvg+면서/ecc))+,/sp
+     (VP  
+           (PP   
+                 (AP  그/mmd)
+                 (PP   때/ncn+마다/jxc))
+           (PP   이/mmd+곳/nbn+저/mmd+곳/nbn+으로/jca)
+           (NP  방향/ncn+을/jco)
+           (V    (V 바꾸/pvg+어/ecx+가/px+며/ecs)
+                 (V 날아다니/pvg+ㄴ다/ef))))+./sf)
+
+
+; 액체에서는 분자가 서로 가까이 있어서 당기는 힘과 미는 힘이 작용한다.
+(S   
+     (VP  
+           (VP  (PP   액체/ncn+에서/jca+는/jxc)
+                 (NP  분자/ncn+가/jcs)
+                 (ADVP  서로/mag)
+                 (ADVP  가까이/mag)
+                 (V 있/paa+어서/ecs))
+           (VP  
+                 (NP  
+                       (AP  당기/pvg+는/etm)
+                       (NP  힘/ncn+과/jcj))
+                 (NP  
+                       (AP  밀/pvg+는/etm)
+                       (NP  힘/ncn+이/jcs))
+                 (V 작용/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 기체의 분자를 파리매 무리로 비유한다면, 액체의 분자는 자루에 들어 있는 달팽이와 같다.
+(S   
+  (VP
+     (VP  
+           (NP  
+                 (AP  기체/ncn+의/jcm)
+                 (NP  분자/ncn+를/jco))
+           (PP   
+                 (AP  파리매/ncn)
+                 (PP   무리/ncn+로/jca))
+           (V 비유/ncpa+하/xsv+ㄴ다/ef+면/ecs))+,/sp
+     (VP  
+           (NP  
+                 (AP  액체/ncn+의/jcm)
+                 (NP  분자/ncn+는/jxc))
+           (PP   
+                 (AP  
+                       (PP   자루/ncn+에/jca)
+                       (AP  (V 들/pvg+어/ecx)
+                             (AP  있/px+는/etm)))
+                 (PP   달팽이/ncn+와/jct))
+           (V 같/paa+다/ef)))+./sf)
+
+
+; 한 마리 한 마리는 상하좌우로 움직이려 하지만 서로 엉켜 있어 파리매처럼 자유롭게 움직일 수가 없다.
+(S   
+  (VP
+     (VP  
+           (NP  
+                 (AP  한/nnc 마리/nbu)
+                 (NP  한/nnc 마리/nbu+는/jxc))
+           (PP   상하/ncn+좌우/ncn+로/jca)
+           (V    (V 움직이/pvg+려/ecs)
+                 (V 하/pvg+지만/ecs)))
+     (VP  
+           (ADVP  서로/mag)
+           (V (V 엉키/pvg+어/ecx)
+              (AUXP  있/px+어/ecs)))
+     (VP  
+           (NP  
+                 (AP  
+                       (PP   파리매/ncn+처럼/jca)
+                       (AP  (V 자유/ncn+롭/xsm+게/ecs) 
+                            (AP 움직이/pvg+ㄹ/etm)))
+                 (NP  수/nbn+가/jcs))
+           (V 없/paa+다/ef)))+./sf)
+===
+
+
+; 각각의 달팽이는 다른 달팽이에 의해 에워싸여 있고, 단지 그 틈새를 비집고 천천히 나갈  수 있을 뿐이다.
+(S   
+     (VP  
+           (NP  
+                 (AP  각각/ncn+의/jcm)
+                 (VP  달팽이/ncn+는/jxc))
+           (VP  
+                 (VP  
+                       (PP   (AP  다르/paa+ㄴ/etm)
+                             (PP   달팽이/ncn+에/jca))
+                       (V 의하/pvg+어/ecs))
+                 (V    (V   에워싸/pvg+어/ecx)
+                       (AUXP  있/px+고/ecc)))+,/sp
+           (VP  
+                 (ADVP  단지/mag)
+                 (AP  
+                       (NP  
+                             (AP  
+                                   (VP  
+                                         (NP  (AP   그/mmd)
+                                               (NP  틈새/ncn+를/jco))
+                                         (V 비집/pvg+고/ecc))
+                                   (ADVP  천천히/mag)
+                                   (AP  나가/pvg+ㄹ/etm))
+                             (N 수/nbn))
+                       (AP  있/paa+ㄹ/etm))
+                 (V 뿐/nbn+이/jp+다/ef)))+./sf)
+
+
+; 고체의 분자는 단지 한 곳에 고정되어 있으면서 자신이 있는 곳에서 약간 흔들릴 뿐이다.
+(S   
+     (VP  
+           (NP  
+                 (AP  고체/ncn+의/jcm)
+                 (NP  분자/ncn+는/jxc))
+           (ADVP  단지/mag)
+           (AP  
+                 (PP   (AP  한/nnc)
+                       (PP   곳/ncn+에/jca))
+                 (V    (V 고정/ncpa+되/xsv+어/ecx)
+                       (AUXP  있/paa+으면서/ecc))
+                 (PP   
+                       (AP  
+                             (NP  자신/ncn+이/jcs)
+                             (AP  있/paa+는/etm))
+                       (PP   곳/ncn+에서/jca))
+                 (ADVP  약간/mag)
+                 (AP  흔들리/pvg+ㄹ/etm))
+           (V 뿐/nbn+이/jp+다/ef))+./sf)
+
+
+; 그도 그럴 것이 분자가 그 위치를 서로 바꾸기 어려우니까.
+(S   
+  (VP
+     (NP  
+           (AP  
+                 (NP  그/npd+도/jxc)
+                 (AP  그렇/pad+ㄹ/etm))
+           (NP  것/nbn+이/jcs))
+     (NP  
+           (VP  
+                 (NP  분자/ncn+가/jcs)
+                 (NP  
+                       (AP  그/mmd)
+                       (NP  위치/ncn+를/jco))
+                 (ADVP  서로/mag)
+                 (N 바꾸/pvg+기/etn)))
+     (V 어렵/paa+으니까/ef))+./sf)
+
+
+; 열 화산에 도착한 지 얼마 되지도 않았는데 벌써 이만큼이나 공부했다.
+(S   
+  (VP
+     (VP  
+           (NP  
+                 (AP  
+                       (PP   (AP  열/ncn)
+                             (PP   화산/ncn+에/jca))
+                       (AP  도착/ncpa+하/xsv+ㄴ/etm))
+                 (N 지/nbn))
+           (ADVP  얼마/mag)
+           (V    (V 되/pvg+지/ecx+도/jxc)
+                 (AUXP  않/px+았/ep+는데/ecs)))
+     (VP  
+           (ADVP  벌써/mag)
+           (ADVP  이만큼/mag+이나/jxc)
+           (V 공부/ncpa+하/xsv+었/ep+다/ef)))+./sf)
+
+
+; 안내를 받은 것은 아니지만 분자가 항상 움직이고 있다는 것을 배웠다.
+(S   
+  (VP
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  안내/ncn+를/jco)
+                       (AP     받/pvg+ㄴ/etm))
+                 (NP  것/nbn+은/jxc))
+           (V 아니/paa+지만/ecs))
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  분자/ncn+가/jcs)
+                       (ADVP  항상/mag)
+                       (AP  (V 움직이/pvg+고/ecx)
+                             (AP  있/px+다/ef+는/etm)))
+                 (NP  것/nbn+을/jco))
+           (V 배우/pvg+었/ep+다/ef)))+./sf)
+
+
+; 생각해 보니 역학평야를 안내해 준 코페르니는 역기를 들어 올리거나 돌을 던지게 해서 여러 가지 것들을 실험으로 보여 주었다.
+(S   
+  (VP
+     (V    (V 생각/ncpa+하/xsv+어/ecx)
+           (AUXP  보/px+니/ecs))
+     (NP  
+           (AP  
+                 (NP  역학/ncn+평야/ncn+를/jco)
+                 (AP  (V 안내/ncpa+하/xsv+어/ecx)
+                       (AP  주/px+ㄴ/etm)))
+           (NP  코페르니/nq+는/jxc))
+     (VP  
+           (VP  
+                 (NP  역기/ncn+를/jco)
+                 (V    (V 들/pvg+어/ecs)
+                       (V 올리/pvg+거나/ecc)))
+           (VP  
+                 (NP  돌/ncn+을/jco)
+                 (V    (V 던지/pvg+게/ecx)
+                       (AUXP  하/px+어서/ecs))))
+     (VP  
+           (NP  
+                 (AP  여러/mma)
+                 (AP  가지/nbu)
+                 (NP  것/nbn+들/xsn+을/jco))
+           (PP   실험/ncn+으로/jca)
+           (V    (V 보이/pu+어/ecx)
+                 (AUXP  주/px+었/ep+다/ef))))+./sf)
+
+
+; 웅덩이에서 물을 한 방울 떠서 유리에 떨어뜨려 현미경으로 보았다.
+(S   
+  (VP
+     (VP  
+           (PP   웅덩이/ncn+에서/jca)
+           (NP  물/ncn+을/jco)
+           (NP  
+                 (AP  한/nnc)
+                 (NP 방울/nbu))
+           (V    뜨/pvg+어서/ecss))
+     (VP  
+           (PP   유리/ncn+에/jca)
+           (V    떨어뜨리/pvg+어/ec))
+     (VP  
+           (PP   현미경/ncn+으로/jca)
+           (V    보/pvg+았/ep+다/ef)))+./sf)
+
+
+; 진흙 입자는 어느 것도 한 곳에 정지해 있지 않고 끊임없이 움직이고 있었다.
+(S   
+     (VP  
+           (NP  
+                 (AP  진흙/ncn)
+                 (NP  입자/ncn+는/jxc))
+           (VP  
+                 (NP  
+                       (AP  어느/mmd)
+                       (NP  것/nbn+도/jxc))
+                 (PP   
+                       (AP  한/nnc)
+                       (PP   곳/ncn+에/jca))
+                 (V    (V 정지/ncpa+하/xsv+어/ecx)
+                       (AUXP  있/px+지/ecx)
+                       (AUXP  않/px+고/ecc)))
+           (VP  
+                 (ADVP  끊임/ncn+없/paa+이/xsa)
+                 (V    (V 움직이/pvg+고/ecx)
+                       (AUXP  있/px+었/ep+다/ef))))+./sf)
+
+
+; 우선 왼쪽으로 나가더니 급히 위로 떠오르고 또 왼쪽으로 나갔다가 다시 밑으로 이런 식으로 매우 복잡하고 꾸불꾸불한 동선을 만들어갔다.
+(S   
+  (VP
+     (VP  
+           (ADVP  우선/mag)
+           (PP   왼쪽/ncn+으로/jca)
+           (V    나가/pvg+더/ep+니/ecs))
+     (VP  
+           (ADVP  급히/mag)
+           (PP   위/ncn+로/jca)
+           (V    떠오르/pvg+고/ecc))
+     (VP  
+           (ADVP  또/mag)
+           (PP   왼쪽/ncn+으로/jca)
+           (V    나가/pvg+ㅆ/ep+다가/ecs))
+     (VP  
+           (PP   
+                 (AP  다시/mag)
+                 (PP   밑/ncn+으로/jca))
+           (PP   
+                 (AP  이런/mmd)
+                 (PP   식/ncn+으로/jca))
+           (NP  
+                 (AP  
+                       (ADVP  매우/mag)
+                       (AP  (V 복잡/ncps+하/xsm+고/ecc)
+                            (AP 꾸불꾸불/a+하/xsm+ㄴ/etm)))
+                 (NP  동선/ncn+을/jco))
+           (V    (V 만들/pvg+어/ecx)
+                 (AUXP  가/px+ㅆ/ep+다/ef))))+./sf)
+
+
+; 키가 5cm 정도밖에 안 되는 난쟁이가 직경  30cm 의 보통 공을 가지고 놀고 있는  것을 떠올려 봐도 좋다.
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  
+                             (AP  
+                                   (NP  키/ncn+가/jcs)
+                                   (PP   5/nnc+cm/su+정도/ncn+밖에/jxc)
+                                   (ADVP  안/mag)
+                                   (AP     되/pvg+는/etm))
+                             (NP  난쟁이/ncn+가/jcs))
+                       (NP  
+                             (AP  직경/ncn)
+                             (AP  30/nnc+cm/su+의/jcm)
+                             (AP  보통/ncn)
+                             (NP  공/ncn+을/jco))
+                       (AP  (V 가지/pvg+고/ecc)
+                             (V 놀/pvg+고/ecx)
+                             (AP  있/px+는/etm)))
+                 (NP  것/nbn+을/jco))
+           (V    (V 떠올리/pvg+어/ecx)
+                 (AUXP  보/px+아도/ecs)
+                 (V 좋/paa+다/ef)))+./sf)
+
+
+; 한 쪽이 반대 쪽보다 조금이라도 힘을 더 낸다면 공은 조금씩 움직일 것이다.
+(S   
+  (VP
+     (VP  
+           (NP  
+                 (AP  한/nnc)
+                 (NP  쪽/nbn+이/jcs))
+           (PP   
+                 (AP  반대/ncn)
+                 (PP   쪽/nbn+보다/jca))
+           (PP   조금/ncn+이라도/jxc)
+           (NP  힘/ncn+을/jco)
+           (ADVP  더/mag)
+           (V 내/pvg+ㄴ다/ef+면/ecs))
+     (VP  
+           (NP  공/ncn+은/jxc)
+           (VP  
+                 (ADVP  조금/ncn+씩/xsn)
+                 (AP  움직이/pvg+ㄹ/etm)
+                 (V 것/nbn+이/jp+다/ef))))+./sf)
+
+
+; 그 다음에는 좀 전에 밀렸던 약한 쪽이 힘을 내서 공을 다른 쪽으로 움직인다.
+(S   
+     (VP  
+           (PP   
+                 (AP  그/mmd)
+                 (PP   다음/ncn+에/jca+는/jxc))
+           (VP  
+                 (NP  
+                       (AP  
+                             (ADVP  좀/mag)
+                             (PP   전/ncn+에/jca)
+                             (AP  밀리/pvg+었/ep+더/ep+ㄴ/etm))
+                       (AP  약하/paa+ㄴ/etm)
+                       (NP  쪽/nbn+이/jcs))
+                 (NP  힘/ncn+을/jco)
+                 (V    내/pvg+서/ecs))
+           (VP  
+                 (NP  공/ncn+을/jco)
+                 (PP   
+                       (AP  다르/paa+ㄴ/etm)
+                       (PP   쪽/nbn+으로/jca))
+                 (V 움직이/pvg+ㄴ다/ef)))+./sf)
+
+
+; 만약 이 난쟁이가 분자이고 공이  진흙입자라면, 어째서 진흙 입자가 꾸불꾸불한  선을 그리는지 알 수 있을 것이다.
+(S   
+  (VP
+     (VP  
+           (ADVP  만약/mag)
+           (VP  
+                 (NP  
+                       (AP  이/mmd)
+                       (NP  난쟁이/ncn+가/jcs))
+                 (V    분자/ncn+이/jp+고/ecc))
+           (VP  
+                 (NP  공/ncn+이/jcs)
+                 (V    진흙/ncn+입자/ncn+라/ef+면/ecs)))+,/sp
+     (VP  
+           (AP  
+                 (NP  
+                       (AP  
+                             (ADVP  어째서/mag)
+                             (NP  
+                                   (VP  
+                                         (NP  (AP   진흙/ncn)
+                                               (NP  입자/ncn+가/jcs))
+                                         (NP  (AP   꾸불꾸불하/paa+ㄴ/etm)
+                                               (NP  선/ncn+을/jco))
+                                         (V 그리/pvg+는지/ef)))
+                             (AP  알/pvg+ㄹ/etm))
+                       (N 수/nbn))
+                 (AP  있/paa+ㄹ/etm))
+           (V 것/nbn+이/jp+다/ef)))+./sf)
+
+
+; 아침에 일어나 이것저것 준비하면서 몸이 따뜻해졌을 때, 우리는 어떤 물질이 따뜻하거나 차가운 것은 분자라고 하는 이상한 입자 때문이라는 사실을 알게 되었다.
+(S   
+     (VP  
+           (PP   
+                 (AP  
+                       (VP  
+                             (PP   아침/ncn+에/jca)
+                             (V    일어나/pvg+아/ecs))
+                       (VP  
+                             (NP  이것저것/npd)
+                             (V 준비/ncpa+하/xsv+면서/ecc))
+                       (NP  몸/ncn+이/jcs)
+                       (AP  (V 따뜻/ncps+하/xsm+어/ecx)
+                             (AP  지/px+었/ep+ㄹ/etm)))
+                 (PP   때/ncn))+,/sp
+           (NP  우리/npp+는/jxc)
+           (NP  
+                 (AP  
+                       (NP  
+                             (AP  
+                                   (NP  
+                                         (AP  어떤/mmd)
+                                         (NP  물질/ncn+이/jcs))
+                                   (AP  (V    따뜻/ncps+하/xsm+거나/ecc)
+                                         (AP     차갑/paa+ㄴ/etm)))
+                             (NP  것/nbn+은/jxc))
+                       (AP  
+                             (AP  
+                                   (V 분자/ncn+라/ef+고/jcr)
+                                   (AP  하/pvg+는/etm))
+                             (AP  이상/ncps+하/xsm+ㄴ/etm)
+                             (AP  입자/ncn 때문/nbn+이/jp+라/ef+는/etm)))
+                 (NP  사실/ncn+을/jco))
+           (V    (V 알/pvg+게/ecx)
+                 (AUXP  되/px+었/ep+다/ef)))+./sf)
+
+
+; 감기에 걸리거나 해서 아프게 되면 어머니는 나의 이마에 손을 대시고, 열이 상당이 높구나 하고 말씀하셨다.
+(S   
+  (VP
+     (VP  
+           (PP   감기/ncn+에/jca)
+           (V    (V 걸리/pvg+거나/ecc)
+                 (V 하/pvg+어서/ecs)))
+     (V    (V 아프/paa+게/ecx)
+           (AUXP  되/px+면/ecs))
+     (VP  
+           (NP  어머니/ncn+는/jxc)
+           (PP   
+                 (AP  나/npp+의/jcm)
+                 (PP   이마/ncn+에/jca))
+           (NP  손/ncn+을/jco)
+           (V 대/pvg+시/ep+고/ecc))+,/sp
+     (VP  
+           (VP  
+                 (NP  열/ncn+이/jcs)
+                 (ADVP  상당/ncn+히/xsa)
+                 (V 높/paa+구나/ef))
+           (V    (V 하/px+고/ecc)
+                 (V 말씀/ncpa+하/xsv+시/ep+었/ep+다/ef))))+./sf)
+
+
+; 이때 어머니는 이마에 손을 대는 것만으로도 마음이 놓이지 않아서 체온계를 사용하신다.
+(S   
+     (VP  
+           (PP   이/mmd+때/ncn)
+           (NP  어머니/ncn+는/jxc)
+           (PP   
+                 (AP  
+                       (PP   이마/ncn+에/jca)
+                       (NP  손/ncn+을/jco)
+                       (AP     대/pvg+는/etm))
+                 (PP   것/nbn+만/jxc+으로/jca+도/jxc))
+           (VP  
+                 (NP  마음/ncn+이/jcs)
+                 (V    (V 놓이/pvg+지/ecx)
+                       (AUXP  않/px+아서/ecs)))
+           (VP  
+                 (NP  체온계/ncn+를/jco)
+                 (V    사용/ncpa+하/xsv+시/ep+ㄴ다/ef)))+./sf)
+
+
+; 우리는 흔히 무엇인가에 손을 대보고 이것을 뜨겁다든가 차갑다든가라고 말한다.
+(S   
+     (VP  
+           (NP  우리/npp+는/jxc)
+           (VP  
+                 (ADVP  흔히/mag)
+                 (PP   무엇/npd+이/jp+ㄴ가/ef+에/jca)
+                 (NP  손/ncn+을/jco)
+                 (V    (V 대/pvg+어/ecx)
+                       (AUXP  보/px+고/ecc)))
+           (VP  
+                 (NP  이것/npd+을/jco)
+                 (V    (V 뜨겁/paa+다/ef+든가/ecc)
+                       (V 차갑/paa+다/ef+든가/ecc+라/ef+고/jcr)
+                       (V 말/ncpa+하/xsv+ㄴ다/ef))))+./sf)
+
+
+; 우선 세숫대야를 세 개 준비해서 각각에 뜨거운 물, 차가운 물, 미지근한 물을 넣는다.
+(S   
+     (VP  
+           (ADVP  우선/mag)
+           (VP  
+                 (NP  세숫대야/ncn+를/jco)
+                 (NP  
+                       (AP  세/nnc)
+                       (NP  개/nbu))
+                 (V 준비/ncpa+하/xsv+어서/ecs))
+           (VP  
+                 (PP   각각/ncn+에/jca)
+                 (NP  
+                       (AP  뜨겁/paa+ㄴ/etm)
+                       (N 물/ncn))+,/sp
+                 (NP  
+                       (AP  차갑/paa+ㄴ/etm)
+                       (N 물/ncn))+,/sp
+                 (NP  
+                       (AP  미지근/ncps+하/xsm+ㄴ/etm)
+                       (NP  물/ncn+을/jco))
+                 (V 넣/pvg+는다/ef)))+./sf)
+
+
+; 잠시 후에 양손을 꺼내서 재빨리 미지근한 물이 들어 있는 세숫대야에 담근다.
+(S   
+     (VP  
+           (VP  
+                 (PP   (AP  잠시/mag)
+                       (PP   후/ncn+에/jca))
+                 (NP  양손/ncn+을/jco)
+                 (V 꺼내/pvg+서/ecs))
+           (VP  
+                 (ADVP  재빨리/mag)
+                 (PP   
+                       (AP  
+                             (NP  (AP   미지근/ncps+하/xsm+ㄴ/etm)
+                                   (NP  물/ncn+이/jcs))
+                             (AP  (V 들/pvg+어/ecx)
+                                   (AP  있/px+는/etm)))
+                       (PP   세숫대야/ncn+에/jca))
+                 (V 담그/pvg+ㄴ다/ef)))+./sf)
+
+
+; 어떤 일이 벌어질까? 왼손은 따뜻한 느낌을 받고, 오른손은 차가운 느낌을 받는다.
+(S   
+  (VP
+     (NP  
+           (AP  어떤/mmd)
+           (NP  일/ncn+이/jcs))
+     (VP  벌어지/pvg+ㄹ까/ef))+?/sf)
+(S   
+  (VP
+     (VP  
+           (NP  왼손/ncn+은/jxc)
+           (NP  
+                 (AP  따뜻/ncps+하/xsm+ㄴ/etm)
+                 (NP  느낌/ncn+을/jco))
+           (V 받/pvg+고/ecc))+,/sp
+     (VP  
+           (NP  오른손/ncn+은/jxc)
+           (NP  
+                 (AP  차갑/paa+ㄴ/etm)
+                 (NP  느낌/ncn+을/jco))
+           (V 받/pvg+는다/ef)))+./sf)
+
+
+; 이럴 때 어느 쪽 손을 믿으면 좋을까? 손을 대는 것만으로 우리는 온도를 잴 수 없다.
+(S   
+  (VP
+     (PP   
+           (AP  이렇/pad+ㄹ/etm)
+           (PP   때/ncn))
+     (NP  
+           (AP  어느/mmd)
+           (AP  쪽/nbn)
+           (NP  손/ncn+을/jco))
+     (V    (V 믿/pvg+으면/ecs)
+           (V 좋/paa+ㄹ까/ef)))+?/sf)
+(S   
+     (VP  
+           (PP   
+                 (AP  
+                       (NP  손/ncn+을/jco)
+                       (AP     대/pvg+는/etm))
+                 (PP   것/nbn+만/jxc+으로/jca))
+           (NP  우리/npp+는/jxc)
+           (NP  
+                 (AP  
+                       (NP  온도/ncn+를/jco)
+                       (AP     재/pvg+ㄹ/etm))
+                 (N 수/nbn))
+           (V 없/paa+다/ef))+./sf)
+
+
+; 온도계는 물체의 온도가 높아짐에 따라 팽창하는 성질을 이용하고 있다.
+(S   
+     (VP  
+           (NP  온도계/ncn+는/jxc)
+           (NP  
+                 (AP  
+                       (VP  
+                             (NP  
+                                   (AP  물체/ncn+의/jcm)
+                                   (NP  온도/ncn+가/jcs))
+                             (PP   높/paa+아/ecx+지/px+ㅁ/etn+에/jca)
+                             (V    따르/pvg+아/ecs)))
+                 (AP  팽창/ncpa+하/xsv+는/etm)
+                 (NP  성질/ncn+을/jco))
+           (V    (V 이용/ncpa+하/xsv+고/ecx)
+                 (AUXP  있/px+다/ef)))+./sf)
+
+
+; 그리고 관 안에는 수은(때로 다른 액체를 넣는 경우도 있다.)이 들어 있다.
+(S   
+  (VP
+     (IP 그리고/maj)
+     (VP  
+           (PP   
+                 (AP  관/ncn)
+                 (PP   안/ncn+에/jca+는/jxc))
+           (NP  수은/ncn
+                 (/sl   +(VP (PP   때/ncn+로/jca)
+                             (NP  
+                                   (AP  
+                                         (NP  (AP   다르/paa+ㄴ/etm)
+                                               (NP  액체/ncn+를/jco))
+                                         (AP  넣/pvg+는/etm))
+                                (NP  경우/ncn+도/jxc))
+                          (V 있/paa+다/ef)+./sf) +)/sr 
+                             +이/jcs)
+           (V    (V 들/pvg+어/ecx)
+                 (AUXP  있/px+다/ef))))+./sf)
+
+
+; 온도가 올라가면 수은은 팽창하여 관을 따라 올라간다.
+(S   
+     (VP
+        (VP  
+              (NP  온도/ncn+가/jcs)
+              (VP  올라가/pvg+면/ecs))
+        (VP  
+              (NP  수은/ncn+은/jxc)
+              (V 팽창/ncpa+하/xsv+어/ecs))
+        (VP  
+              (NP  관/ncn+을/jco)
+              (V (V 따르/pvg+아/ecs)
+                 (V 올라가/pvg+ㄴ다/ef))))+./sf)
+
+
+; 보통 온도 측정에는 섭씨 눈금이 사용된다(그  이외에 화씨나 레오뮬이라는 눈금도 있다고 하지만, 이번 여행에서는 보지 못했다). 섭씨 눈금을 만드는 방법은 간단했다.
+(S   
+     (VP  
+           (ADVP  보통/mag)
+           (PP      
+                    (AP  온도/ncn) 
+                    (PP   측정/ncn+에/jca+는/jxc))
+           (NP     
+                    (AP  섭씨/ncn)
+                    (NP  눈금/ncn+이/jcs))
+           (V 사용/ncpa+되/xsv+ㄴ다/ef))
+        (/sl+ (   (VP  (PP   
+                          (AP  그/mmd)
+                          (PP   이외/ncn+에/jca))
+                       (NP  
+                          (AP  화씨/ncn+나/jxc)
+                          (AP  레오뮬/ncn+이/jp+라/ef+는/etm)
+                          (NP  눈금/ncn+도/jxc))
+                       (V (V 있/paa+다/ef+고/jcr)
+                          (V 하/pvg+지만/ecs))+,/sp)
+              (VP  
+                    (PP   
+                          (AP  이번/npd)
+                          (PP   여행/ncn+에서/jca+는/jxc))
+                    (V    (V   보/pvg+지/ecx)
+                          (AUXP  못하/px+었/ep+다/ef))))+)/sr    +./sf)
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  (AP   섭씨/ncn)
+                             (NP  눈금/ncn+을/jco))
+                       (AP  만들/pvg+는/etm))
+                 (NP  방법/ncn+은/jxc))
+           (V 간단/ncps+하/xsm+었/ep+다/ef))+./sf)
+
+
+; 이때 온도는 플러스가 아니라 마이너스가 되어 숫자 앞에 - 라는 기호를 붙인다.
+(S   
+     (VP  
+           (PP   이/mmd+때/ncn)
+           (NP  온도/ncn+는/jxc)
+           (VP  
+                 (NP  플러스/ncn+가/jcc)
+                 (V    아니/paa+라/ecs))
+           (VP  
+                 (NP  마이너스/ncn+가/jcc)
+                 (V    되/paa+어/ecs))
+           (VP  
+                 (PP   
+                       (AP  숫자/ncn)
+                       (PP   앞/ncn+에/jca))
+                 (NP  
+                       (AP  -/sd+라/ef+는/etm)
+                       (NP  기호/ncn+를/jco))
+                 (V 붙이/pvg+ㄴ다/ef)))+./sf)
+
+
+; 예를 들면 겨울에는 기온이 - 5 - 10 가 되는 날이 있다.
+(S   
+  (VP
+     (IP 예/ncn+를/jco 들/pvg+면/ecs)
+     (VP  
+           (PP   겨울/ncn+에/jca+는/jxc)
+           (NP  
+                 (AP  
+                       (NP  기온/ncn+이/jcs)
+                       (NP  -/sd+5/nnc  -/sd+10/nnc+가/jcc)
+                       (AP  되/pvg+는/etm))
+                 (NP  날/ncn+이/jcs))
+           (V 있/paa+다/ef)))+./sf)
+
+
+; 그렇다면 이와 비슷한 정도로 온도를 내릴 수는 없을까? 예를 들어 마이너스 몇백만 도까지.
+(S   
+  (VP
+     (IP 그렇다면/maj)
+     (VP  
+           (PP   
+                 (AP  (PP   이/npd+와/jct)
+                       (AP  비슷/ncps+하/xsm+ㄴ/etm))
+                 (PP   정도/ncn+로/jca))
+           (NP  
+                 (AP  
+                       (NP  온도/ncn+를/jco)
+                       (AP  내리/pvg+ㄹ/etm))
+                 (NP  수/nbn+는/jxc))
+           (V 없/paa+ㄹ까/ef)))+?/sf)
+(S   
+  (VP
+     (IP 예/ncn+를/jco 들/pvg+어/ecs)
+     (PP   
+           (AP  마이너스/ncn)
+           (AP  몇/mma+백만/nnc)
+           (PP   도/nbu+까지/jxc)))+./sf)
+
+
+; 왜냐하면 물체의 온도가 내려감에 따라 분자들의 움직임이 차차 느려지다가 마침내 거의 정지하는 순간이 오기 때문이다.
+(S   
+  (VP
+     (IP 왜냐하면/maj)
+     (VP  
+           (VP  
+                 (PP   
+                       (VP  
+                             (NP  
+                                   (AP  물체/ncn+의/jcm)
+                                   (NP  온도/ncn+가/jcs))
+                             (V 내려가/pvg+ㅁ/etn+에/jca)))
+                 (V    따르/pvg+아/ecs))
+           (VP  
+                 (NP  
+                       (AP  분자/ncn+들/xsn+의/jcm)
+                       (NP  움직임/ncn+이/jcs))
+                 (ADVP  차차/mag)
+                 (V    (V 느리/paa+어/ecx)
+                       (AUXP  지/px+다가/ecs)))
+           (VP  
+                 (ADVP  마침내/mag)
+                 (NP  
+                       (NP  
+                             (ADVP  거의/mag)
+                             (AP  정지/ncpa+하/xsv+는/etm)
+                             (NP  순간/ncn+이/jcs))
+                       (N 오/pvg+기/etn))
+              (V 때문/nbn+이/jp+다/ef)))+./sf)
+
+
+; 물론 완전히 정지하는 것은 아니지만 운동속도는 어떤 방법을  사용해도 그 이상 작아지지 않는다.
+(S   
+  (VP
+     (VP  
+           (ADVP  물론/mag)
+           (NP  
+                 (AP  
+                       (ADVP  완전/ncn+히/xsa)
+                       (AP  정지/ncpa+하/xsv+는/etm))
+                 (NP  것/nbn+은/jxc))
+           (V 아니/paa+지만/ecs))
+     (VP  
+           (NP  운동/ncn+속도/ncn+는/jxc)
+           (NP  
+                 (AP  어떤/mmd)
+                 (NP  방법/ncn+을/jco))
+           (V 사용/ncpa+하/xsv+어도/ecs))
+     (VP  
+           (NP  (AP   그/mmd)
+                 (N 이상/ncn))
+           (V    (V 작/paa+아/ecx+지/px+지/ecx)
+                 (AUXP  않/px+는다/ef))))+./sf)
+
+
+; 4일째 따뜻한 물체와 차가운 물체가 만나서 일정한 시간이 지나면 그것들의 온도는 같아진다.
+(S   
+  (VP
+     (VP  
+           (N 4/nnc+일/nbu+째/xsn)
+           (NP  
+                 (NP  
+                       (AP  따뜻/ncps+하/xsm+ㄴ/etm)
+                       (NP  물체/ncn+와/jcj))
+                 (NP  
+                       (AP  차갑/paa+ㄴ/etm)
+                       (NP  물체/ncn+가/jcs)))
+           (V 만나/pvg+서/ec))
+     (VP  
+           (NP  
+                 (AP  일정/ncps+하/xsm+ㄴ/etm)
+                 (NP  시간/ncn+이/jcs))
+           (V 지나/pvg+면/ecs))
+     (VP  
+           (NP  
+                 (AP  그것/npd+들/xsn+의/jcm)
+                 (NP  온도/ncn+는/jxc))
+           (V    (V 같/paa+아/ecx)
+                 (AUXP  지/px+ㄴ다/ef))))+./sf)
+
+
+; 얼핏 생각하기엔 너무나 당연한 일로 느껴지겠지만 우리는 이것을 실험으로 정확히 확인했다.
+(S   
+     (VP  
+           (PP   
+                 (AP  얼핏/mag)
+                 (PP   생각/ncpa+하/xsv+기/etn+에/jca+ㄴ/jxc))
+           (VP  
+                 (PP   
+                       (ADVP  너무나/mag)
+                       (AP  당연/ncps+하/xsm+ㄴ/etm)
+                       (PP   일/ncn+로/jca))
+                 (V    (V 느끼/pvg+어/ecx)
+                       (AUXP  지/px+겠/ep+지만/ecs)))
+           (VP  
+                 (NP  우리/npp+는/jxc)
+                 (NP  이것/npd+을/jco)
+                 (PP   실험/ncn+으로/jca)
+                 (VP  
+                       (ADVP  정확/ncn+히/xsa)
+                       (V 확인/ncpa+하/xsv+었/ep+다/ef))))+./sf)
+
+
+; 땅에 떨어져 있는 편자를 주워서 그것이 새빨갛게 될 때까지 가열했다.
+(S   
+  (VP
+     (VP  
+           (NP  
+                 (AP  
+                       (PP   땅/ncn+에/jca)
+                       (AP  (V 떨어지/pvg+어/ecx)
+                             (AP  있/px+는/etm)))
+                 (VP  편자/ncn+를/jco))
+           (V    줍/pu+어서/ecs))
+     (VP  
+           (NP  그것/npd+이/jcs)
+           (PP   
+                 (AP  
+                       (V 새빨갛/paa+게/ecs)
+                       (AP  되/pvg+ㄹ/etm))
+                 (PP   때/ncn+까지/jxc))
+           (V 가열/ncpa+하/xsv+었/ep+다/ef)))+./sf)
+
+
+; 상대방과 같게 될 때까지 계속해서 준다 --  열교환 내가 여러분에게 천 원을 주었는데, 여러분은 나에게 아무것도 주지 않았다고 하자.
+(S   
+     (VP  
+           (PP   
+                 (AP  
+                       (PP   상대방/ncn+과/jct)
+                       (AP  (V 같/paa+게/ecx)
+                             (AP  되/px+ㄹ/etm)))
+                 (PP   때/ncn+까지/jxc))
+           (V    (V   계속/ncpa+하/xsv+어서/ecs)
+                 (V    주/pvg+ㄴ다/ef)))) +-/sd+-/sd (NP   열/ncn+교환/ncn)
+(S   
+  (VP
+     (VP  
+           (NP  내/npp+가/jcs)
+           (PP   여러분/npp+에게/jca)
+           (NP  
+                 (AP  천/nnc)
+                 (NP  원/nbu+을/jco))
+           (V    주/pvg+었/ep+는데/ecs))+,/sp
+     (VP  
+           (NP  여러분/npp+은/jxc)
+           (PP   나/npp+에게/jca)
+           (NP  아무것/npd+도/jxc)
+           (V    (V 주/pvg+지/ecx)
+                 (AUXP  않/px+았/ep+다/ef+고/jcr)
+                 (V 하/pvg+자/ef))))+./sf)
+
+
+; 장소에 따라 언어의 사용법이 다른 것은 흔히 볼 수 있는 일이다.
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (PP   
+                             (VP  
+                                   (PP   장소/ncn+에/jca)
+                                   (V    따르/pvg+아/ecs)))
+                       (NP  
+                             (AP  언어/ncn+의/jcm)
+                             (NP  사용법/ncn+이/jcs))
+                       (AP  다르/paa+ㄴ/etm))
+                 (NP  것/nbn+은/jxc))
+           (VP  
+                 (AP  
+                       (NP  
+                             (ADVP  흔히/mag)
+                             (AP  보/pvg+ㄹ/etm)
+                             (N 수/nbn))
+                       (AP  있/paa+는/etm))
+                 (V 일/ncn+이/jp+다/ef)))+./sf)
+
+
+; 그렇다면 열교환은 어떤 식으로 일어나는 것일까? 온도가 높은 물체의 분자는 낮은 물체의 분자보다 빨리 움직이며, 보다 큰 에너지를 가지고 있다.
+(S   
+  (VP
+     (IP 그렇다면/maj)
+     (VP  
+           (NP  열/ncn+교환/ncn+은/jxc)
+           (PP   
+                 (AP  어떤/mmd)
+                 (PP   식/nbn+으로/jca))
+           (VP  
+                 (AP  일어나/pvg+는/etm)
+                 (V    것/nbn+이/jp+ㄹ까/ef))))+?/sf)
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  온도/ncn+가/jcs)
+                       (AP     높/paa+ㄴ/etm))
+                 (AP  물체/ncn+의/jcm)
+                 (NP  분자/ncn+는/jxc))
+           (VP  
+                 (PP   
+                       (AP  낮/paa+ㄴ/etm)
+                       (AP  물체/ncn+의/jcm)
+                       (NP  분자/ncn+보다/jca))
+                 (ADVP  빠르/paa+이/xsa)
+                 (V 움직이/pvg+며/ecc))+,/sp
+           (VP  
+                 (NP  
+                       (ADVP  보다/mag)
+                       (AP  크/paa+ㄴ/etm)
+                       (NP  에너지/ncn+를/jco))
+                 (V    (V 가지/pvg+고/ecx)
+                       (AUXP  있/px+다/ef))))+./sf)
+
+
+; 어떤 물체를 따뜻하게 하는 데 필요한  열량은 무엇에 의해 결정될까? 우선  몇 도에서 몇 도로 더워졌는지가 문제가 된다.
+(S   
+     (VP  
+           (PP   
+                 (AP  
+                       (NP  
+                             (AP  어떤/mmd)
+                             (NP  물체/ncn+를/jco))
+                       (AP  (V    따뜻/ncps+하/xsm+게/ecx)
+                             (AP  하/px+는/etm)))
+                 (PP   데/nbn))
+           (NP  
+                 (AP  필요/ncps+하/xsm+ㄴ/etm)
+                 (NP  열량/ncn+은/jxc))
+           (PP   무엇/npd+에/jca)
+           (V    (V 의하/pvg+어/ecs)
+                 (V 결정/ncpa+되/xsv+ㄹ까/ef)))+?/sf)
+(S   
+     (VP  
+           (ADVP  우선/mag)
+           (NP  
+                 (VP  
+                       (PP   
+                             (AP  몇/mma)
+                             (PP   도/nbu+에서/jca))
+                       (PP   
+                             (AP  몇/mma)
+                             (PP   도/nbu+로/jca))
+                       (V    (V 덥/paa+어/ecx)
+                             (AUXP  지/px+었/ep+는지/ef+가/jcs))))
+           (NP  문제/ncn+가/jcc)
+           (V 되/pvg+ㄴ다/ef))+./sf)
+
+
+; 예를 들어 남비에 있는 물을 15에서 100까지 가열하려면, 15에서 35까지 가열하는 것보다  큰 열량이 필요하다.
+(S   
+     (VP  
+           (IP 예/ncn+를/jco 들/pvg+어/ecs)
+           (VP  
+                 (NP  
+                       (AP  
+                             (PP   남비/ncn+에/jca)
+                             (AP     있/paa+는/etm))
+                       (NP  물/ncn+을/jco))
+                 (PP   15/nnc+에서/jca)
+                 (PP   100/nnc+까지/jxc)
+                 (V 가열/ncpa+하/xsv+려면/ecs))+,/sp
+           (VP  
+                 (PP   
+                       (AP  
+                             (PP   15/nnc+에서/jca)
+                             (PP   35/nnc+까지/jxc)
+                             (AP  가열/ncpa+하/xsv+는/etm))
+                       (PP   것/nbn+보다/jca))
+                 (NP  
+                       (AP  크/paa+ㄴ/etm)
+                       (NP  열량/ncn+이/jcs))
+                 (V 필요/ncps+하/xsm+다/ef)))+./sf)
+
+
+; 이것은 물이 미지근하게 되기까지의 시간과 끓을 때까지의 시간을 재서 비교하면 바로 알 수 있다.
+(S   
+     (VP  
+           (NP  이것/npd+은/jxc)
+           (VP  
+                 (NP  
+                       (AP  
+                             (VP  
+                                   (NP  물/ncn+이/jcs)
+                                   (V    (V 미지근/ncps+하/xsm+게/ecx)
+                                         (AUXP  되/px+기/etn+까지/jxc+의/jcm))))
+                       (NP  시간/ncn+과/jcj))
+                 (NP  
+                       (AP  
+                             (AP  끓/pvg+ㄹ/etm)
+                             (AP  때/ncn+까지/jxc+의/jcm))
+                       (NP  시간/ncn+을/jco))
+                 (V    (V 재/pvg+서/ecs)
+                       (V 비교/ncpa+하/xsv+면/ecs)))
+           (VP  
+                 (ADVP  바로/mag)
+                 (NP  
+                       (AP  알/pvg+ㄹ/etm)
+                       (N 수/nbn))
+                 (V 있/paa+다/ef)))+./sf)
+
+<분석하지 못하는 예문>
+
+
+; 이렇게 위치에너지는 운동에너지로 , 그리고 다시 위치에너지로 , 그리고 나서 또 로 , 됐어요 .이렇/pad+게/ecs위치/ncn+에너지/ncn+는/jxc운동/ncn+에너지/ncn+로/jca,/sp그리고/maj다시/mag위치/ncn+에너지/ncn+로/jca,/sp그리고/maj나/pvg+서/ecs또/mag로/jca,/sp되/pvg+었/ep+어/ef+요/jxf./sf
+; 그것은 놀랍게도 수백만 g , 즉 단지 2 억 ) 의 되지 않는다 .그것/npd+은/jxc놀랍/paa+게/ecs+도/jxc수백만/nncg/su,/sp즉/mag단지/mag2/nnc억/nbu)/sr의/jcm되/pvg+지/ecx않/px+는다/ef./sf
+; 8 cm 정도로 다른 곤충을 발로 잡아서 먹음 -- 역자 주 ) 의 무리가 나는 것을 보았다 .8/nnccm/su정도/ncn+로/jca다르/paa+ㄴ/etm곤충/ncn+을/jco발/ncn+로/jca잡/pvg+아서/ecs먹/pvg+ㅁ/etn-/sd+-/sd역자/ncn주/ncn)/sr의/jcm무리/ncn+가/jcs날/pvg+는/etm것/nbn+을/jco보/pvg+았/ep+다/ef./sf</tdmsfile>

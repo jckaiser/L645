@@ -1,0 +1,5169 @@
+<tdmsfile>
+
+
+; 이곳에서는 컴퓨터가 처음인 분들에게 컴퓨터는 어떤 것이고 , 어디에 쓸 수 있는가를 간략하게 소개하겠습니다 .
+(S
+   (VP
+       (VP
+           (PP 이곳/npd+에서/jca+는/jxc)
+           (PP (AP (NP 컴퓨터/ncn+가/jcs)
+                    (AP 처음/ncn+이/jp+ㄴ/etm))
+                (PP 분/nbn+들/xsn+에게/jca))
+           (NP 컴퓨터/ncn+는/jxc)
+           (VP (AP 어떻/pad+ㄴ/etm)
+                 (V 것/nbn+이/jp+고/ecc)))+,/sp
+       (VP
+            (NP (NP (AP (PP 어디/npd+에/jca)
+                          (AP 쓰/pvg+ㄹ/etm))
+                      (NP 수/ncn))
+                (NP 있/paa+는가/ef+를/jco))
+            (V (V 간략/ncps+하/xsm+게/ecc)
+                (V 소개/ncpa+하/xsv+겠/ep+습니다/ef))))+./sf)
+
+
+; 혹시 컴퓨터가 처음이 아닌 분이라면 건너뛰고 다음 단원부터 보셔도 좋습니다 .
+(S 
+   (VP
+        (VP 
+             (ADVP 혹시/mag)
+             (NP 컴퓨터/ncn+가/jcs)
+             (VP (AP (NP 처음/ncn+이/jcc)
+                      (AP 아니/paa+ㄴ/etm))
+                  (V (V 분/nbn+이/jp+라/ef+면/ecs)
+                      (V 건너뛰/pvg+고/ecc))))
+        (VP
+             (PP (AP 다음/ncn)
+                 (PP 단원/ncn+부터/jxc))
+             (V (V 보/pvg+시/ep+어도/ecs)
+                 (V 좋/paa+습니다/ef))))+./sf)
+
+
+; ` 음 , 정보화 사회라 .....`
+(S
+   (VP 
+       (IP `/sl+음/ii)+,/sp
+       (VP (AP 정보화/ncn)
+            (V 사회/ncn+라/ef)))+....../se+`/sr)
+
+
+; 즉 , 매일매일 쏟아져 나오는 수 많은 정보들이 우리가 살아가는 데 매우 중요한 역할을 하고 있다는 말이지요 .
+(S
+   (VP
+        (IP 즉/mag)+,/sp
+        (NP (AP (AP 매일매일/mag)
+                  (AP (V 쏟/pvg+아/ecx+지/px+어/ecx)
+                       (AP 나오/px+는/etm)))
+             (NP (AP 수많/paa+은/etm)
+                  (NP 정보/ncn+들/xsn+이/jcs)))
+        (PP (AP (NP 우리/npp+가/jcs)
+                  (AP 살아가/pvg+는/etm))
+             (PP 데/nbn+에/jca))
+        (VP (AP (NP (AP (ADVP 매우/mag)
+                           (AP 중요/ncps+하/xsm+ㄴ/etm))
+                      (NP 역할/ncn+을/jco))
+                  (AP (V 하/pvg+고/ecx)
+                       (AP 있/px+다/ef+는/etm)))
+             (V 말/ncn+이/jp+지/ef+요/jxf)))+./sf)
+
+
+; 컴퓨터야말로 수 많은 정보를 효율적으로 기억하고 관리하며 정보화 시대를 가능하게 한 결정적인 존재였습니다 .
+(S 
+   (VP
+        (VP
+            (NP 컴퓨터/ncn+야말로/jxc)
+            (NP (AP 수많/paa+은/etm)
+                 (NP 정보/ncn+를/jco))
+            (PP 효율/ncn+적/xsn+으로/jca)
+            (V (V 기억/ncpa+하/xsv+고/ecc)
+                (V 관리/ncpa+하/xsv+며/ecc)))
+        (VP
+             (AP (AP (NP (AP 정보화/ncn)
+                           (NP 시대/ncn+를/jco))
+                      (AP (V 가능/ncps+하/xsm+게/ecx)
+                          (AP 하/pvg+ㄴ/etm)))
+                  (AP 결정/ncn+적/xsn+이/jp+ㄴ/etm))
+             (V 존재/ncn+이/jp+었/ep+습니다/ef)))+./sf)
+
+
+; 컴퓨터란 무엇인가란 정의 역시 , 무한한 사용 기능에 따라 변화시키는 것이 좋을 듯하기 때문에 , 컴퓨터가 뭐다 하고 딱히 규정짓지 않는 것이 좋지 않을까 생각합니다 .
+(S
+    (VP
+        (VP
+            (NP (AP (NP 컴퓨터/ncn+란/jxc)
+                     (AP 무엇/npd+이/jp+ㄴ가/ef+란/jxc))
+                 (NP 정의/jcm))
+            (ADVP 역시/mag)+,/sp
+            (PP (NP (AP (NP (AP (PP (AP 무한/ncps+하/xsm+ㄴ/etm)
+                                       (AP 사용/ncn)
+                                       (PP 기능/ncn+에/jca))
+                                   (AP (V 따르/pvg+아/ecs)
+                                        (AP 변화/ncpa+시키/xsv+는/etm)))
+                               (NP 것/nbn+이/jcs))
+                          (AP 좋/paa+을/etm))
+                     (NP 듯/nbn+하/paa+기/etn))
+                (PP 때문/nbn+에/jca))+,/sp
+           (NP 컴퓨터/ncn+가/jcs)
+           (V (V 뭐/npd+다/ef)
+               (V 하/px+고/ecc)))
+        (VP
+            (NP (AP (ADVP 딱히/mag)
+                     (AP (V 규정짓/pvg+지/ecx)
+                          (AP 않/px+는/etm)))
+                 (NP 것/nbn+이/jcs))
+            (V (V 좋/paa+지/ecx)
+               (AUXP 않/px+ㄹ까/ef)
+               (V 생각/ncpa+하/xsv+ㅂ니다/ef))))+./sf)
+
+
+; 요즘엔 아예 컴퓨터 하면 개인용 컴퓨터를 뜻하는 경우가 많아졌습니다 .
+(S 
+    (VP
+        (VP
+            (PP요즘/ncn+에/jca+ㄴ/jxc)
+            (ADVP 아예/mag)
+            (NP 컴퓨터/ncn)
+            (V 하/pvg+면/ecs))
+        (VP
+             (NP  (AP (NP (AP 개인/ncn+용/xsn)
+                            (NP 컴퓨터/ncn+를/jco))
+                       (AP 뜻/ncpa+하/xsv+는/etm))
+                  (NP 경우/ncn+가/jcs))
+             (V 많/paa+아/ecx+지/px+었/ep+습니다/ef)))+./sf)
+
+
+; 기술의 발전으로 말미암아 중대형 컴퓨터의 기능이 점차 개인용 컴퓨터에 이전되는 추세 때문이지요 .
+(S
+   (VP
+        (VP
+             (PP (AP 기술/ncn+의/jcm)
+                  (PP 발전/ncn+으로/jca))
+             (V 말미암/pvg+아/ecs))
+        (VP
+             (NP (AP 중대형/ncn)
+                  (AP 컴퓨터/ncn+의/jcm)
+                  (NP 기능/ncn+이/jcs))
+             (ADVP 점차/mag)
+             (VP (AP (PP (AP 개인/ncn+용/xsn)
+                           (PP 컴퓨터/ncn+에/jca))
+                      (AP 이전/ncpa+되/xsv+는/etm))
+                  (VP (AP 추세/ncn)
+                       (V 때문/nbn+이/jp+지/ef+요/jxf)))))+./sf)
+
+
+; 개인용 컴퓨터는 데스크탑 ( Desktop ) 이라고 불리는 탁상용에서부터 , 무릎 위에 놓고 쓴다는 뜻에서 이름 붙여진 랩탑 ( Laptop ), 무릎도 넓으니 손바닥 위에 놓고 쓴다는 뜻에서 이름붙여진 팜탑 ( Palmtop ) 등 점차 작고 가벼워지는 경향입니다 .
+(S
+   (VP
+       (VP
+            (NP (AP 개인/ncn+용/xsn)
+                 (NP 컴퓨터/ncn+는/jxc))
+            (PP (AP (NP 데스크탑/ncn+(/sl+Desktop/f+)/sr+이/jp+라/ef+고/jcr)
+                      (AP 불리/pvg+는/etm))
+                 (PP 탁상/ncn+용/xsn+에서/jca+부터/jxc))+,/sp
+            (NP (AP (PP (AP (PP (AP 무릎/ncn)
+                                   (PP 위/ncn+에/jca))
+                              (AP (V 놓/pvg+고/ecx)
+                                   (AP 쓰/pvg+ㄴ다/ef+는/etm)))
+                          (PP 뜻/ncn+에서/jca))
+                     (AP 이름/ncn+붙이/pvg+어/ecx+지/px+ㄴ/etm))
+                 (NP 랩탑/ncn+(/sl+Laptop/f+)/sr))+,/sp
+            (NP 무릎/ncn+도/jxc)
+            (V 넓/paa+으니/ecs))
+       (VP
+            (NP (AP (PP (AP (PP (AP 손바닥/ncn)
+                                  (PP 위/ncn+에/jca))
+                              (AP (V 놓/pvg+고/ecx)
+                                   (AP 쓰/pvg+ㄴ다/ef+는/etm)))
+                          (PP 뜻/ncn+에서/jca))
+                    (AP 이름/ncn+붙이/pvg+어/ecx+지/px+ㄴ/etm))
+                (NP 팜탑/ncn+(/sl+Palmtop/f+)/sr))
+            (NP 등/nbn)
+            (VP (AP (ADVP 점차/mag)
+                     (AP (V 작/paa+고/ecc)
+                          (AP 가볍/paa+어/ecx+지/px+는/etm)))
+                 (V 경향/ncn+이/jp+ㅂ니다/ef))))+./sf)
+
+
+; 지금부터 그 가운데서 우리들과 밀접하다고 할 수 있는 몇 가지에 대해서 살펴보기로 하겠습니다 .
+(S 
+    (VP
+         (VP
+              (PP 지금/ncn+부터/jxc)
+              (PP (AP 그/mmd)
+                   (PP 가운데/ncn+서/jca))
+              (PP (AP (NP (AP (PP 우리/npp+들/xsn+과/jct)
+                                  (AP (NP 밀접/ncpa+하/xsv+다/ef+고/jcr)
+                                       (AP 하/pvg+ㄹ/etm)))
+                             (NP 수/nbn))
+                        (AP 있/paa+는/etm))
+                   (PP (AP 몇/nnc)
+                       (PP 가지/nbu+에/jca)))
+              (V 대하/pvg+어서/ecs))
+         (VP
+              (PP 살피/pvg+어/ecx+보/px+기/etn+로/jca)
+              (V 하/pvg+겠/ep+습니다/ef)))+./sf)
+
+
+; 지금 이 책을 읽고 계신 분들 가운데도 , 컴퓨터는 잘 몰라도 컴퓨터 오락은 한두 번 이상씩 해 본 분들이 있을 거라고 생각합니다 .
+(S
+    (VP 
+         (VP
+              (ADVP 지금/ncn)
+              (PP (AP (AP  (NP (AP 이/mmd)
+                                 (NP 책/ncn+을/jco))
+                             (AP (V 읽/pvg+고/ecx)
+                                  (AP 계시/px+ㄴ/etm)))
+                        (AP 분/nbn+들/xsn))
+                   (PP 가운데/ncn+도/jxc))+,/sp
+              (NP 컴퓨터/ncn+는/jxc)
+              (ADVP 잘/mag)
+              (V 모르/pvg+아도/ecs))
+         (VP
+              (NP (AP 컴퓨터/ncn)
+                   (NP 오락/ncn+은/jxc))
+              (NP (AP (NP (AP (NP (AP 한두/nnc)
+                                     (AP 번/nbu)
+                                     (NP 이상/ncn+씩/xsn))
+                                (AP (V 하/pvg+어/ecx)
+                                     (AP 보/px+ㄴ/etm)))
+                            (NP 분/nbn+들/xsn+이/jcs))
+                       (AP 있/paa+ㄹ/etm))
+                  (NP 거/nbn+라고/jcr))
+             (V 생각/ncpa+하/xsv+ㅂ니다/ef)))+./sf)
+
+
+; 실제로 컴퓨터를 어떤 형태로 처음 접하게 되었는가를 조사해 보면 , 첫 번째가 바로 컴퓨터 오락 , 즉 컴퓨터를 이용한 게임이라고 합니다 .
+(S 
+    (VP 
+         (VP (PP 실제/ncn+로/jca)
+              (NP 컴퓨터/ncn+를/jco)
+              (PP (AP 어떻/pad+ㄴ/etm)
+                   (PP 형태/ncn+로/jca))
+              (NP (ADVP 처음/mag)
+                   (NP (V 접하/pvg+게/ecx)
+                        (NP 되/px+었/ep+는가/ef+를/jco)))
+              (V (V 조사/ncpa+하/xsv+어/ecx)
+                  (V 보/px+면/ecs)))+,/sp
+         (VP
+              (NP (AP 첫/nno)
+                   (NP 번/nbu+째/xsn+가/jcs))
+              (ADVP 바로/mag)
+              (NP (AP 컴퓨터/ncn)
+                   (NP 오락/ncn))+,/sp
+              (ADVP 즉/mag)
+              (NP (AP (NP 컴퓨터/ncn+를/jco)
+                        (AP 이용/ncpa+하/xsv+ㄴ/etm))
+                   (NP 게임/ncn+이/jp+라/ef+고/jcr))
+             (V 하/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 가장 많은 사람들의 사랑이 쏟아졌다는 ` 테트리스 ( Tetris )` 를 비롯해서 ` 버블버블 `, 오목바둑  , 심지어 화투놀이 , 카드놀이 , 전쟁 놀이 , 스포츠놀이에 이르기까지 컴퓨터를 이용한 게임은 그 종류를 헤아릴 수조차 없이 많습니다 .
+(S
+    (VP
+         (VP
+              (NP (AP (NP (AP (ADVP 가장/mag)
+                                  (AP 많/paa+ㄴ/etm))
+                             (NP (AP 사람/ncn+들/xsn+의/jcm)
+                                  (NP 사랑/ncn+이/jcs)))
+                        (AP 쏟/pvg+아/ecx+지/px+었/ep+다/ef+는/etm))
+                   (NP `/sl+테트리스/nq+(/sl+Tetris/f+)/sr+`/sr+를/jco))
+              (V 비롯/ncpa+하/xsv+어서/ecs))
+         (VP
+              (NP `/sl+버블버블/nq+`/sr)+,/sp
+              (NP 오목바둑/ncn)+,/sp
+              (ADVP 심지어/mag)
+              (PP (PP (NP 화투/ncn+놀이/ncn)+,/sp
+                       (NP 카드/ncn+놀이/ncn)+,/sp
+                       (NP 전쟁/ncn+놀이/ncn)+,/sp
+                       (PP 스포츠/ncn+놀이/ncn+에/jca))
+                  (PP 이르/pvg+기/etn+까지/jxc))
+              (NP (AP (NP 컴퓨터/ncn+를/jco)
+                       (AP 이용/ncpa+하/xsv+ㄴ/etm))
+                  (NP 게임/ncn+은/jxc))
+              (ADVP (NP (AP (NP (AP 그/mmd)
+                                   (NP 종류/ncn+를/jco))
+                               (AP 헤아리/pvg+ㄹ/etm))
+                          (NP 수/ncn+조차/jxc))
+                     (ADVP 없/paa+이/xsa))
+              (V 많/paa+습니다/ef)))+./sf)
+
+
+; 뿐만 아니라 , 게임을 전문적으로 분석하고 소개하는 잡지에다가 게임을 사랑하는 사람들끼리 모여 만든 동호회가 생겨날 정도로  컴퓨터와 게임은 뗄 수 없는 관계가 되었습니다 .
+(S
+   (VP
+        (IP (NP 뿐/nbn+만/jxc)
+            (V 아니/paa+라/ecs))+,/sp
+        (NP 게임/ncn+을/jco)
+        (PP (AP (PP 전문/ncn+적/xsn+으로/jca)
+                 (AP (V 분석/ncpa+하/xsv+고/ecc)
+                      (AP 소개/ncpa+하/xsv+는/etm)))
+             (PP 잡지/ncn+에다/jcj+가/jcs))
+        (PP (AP (NP (AP (NP (AP (NP 게임/ncn+을/jco)
+                                    (AP 사랑/ncpa+하/xsv+는/etm))
+                               (NP 사람/ncn+들/xsn+끼리/xsn))
+                           (AP (V 모이/pvg+어/ecs)
+                                (AP 만들/pvg+ㄴ/etm)))
+                       (NP 동호회/ncn+가/jcs))
+                  (AP 생기/pvg+어/ecx+나/px+ㄹ/etm))
+             (PP 정도/nbn+로/jca))
+        (NP (AP (NP (AP (NP (NP 컴퓨터/ncn+와/jcj)
+                               (NP 게임/ncn+은/jco))
+                           (AP 떼/pvg+ㄹ/etm))
+                      (NP 수/ncn))
+                 (AP 없/paa+는/jxc))
+             (NP 관계/ncn+가/jcc))
+        (V 되/pvg+었/ep+습니다/ef))+./sf)
+
+
+; 이렇듯 , 게임을 하다가 어느새 컴퓨터를 잘 다루게 되는 사람들도 우리 주위에서 흔히 볼 수 있습니다 .
+(S 
+    (VP
+         (VP
+              (IP 이렇/pad+듯/ecs)+,/sp
+              (NP 게임/ncn+을/jco)
+              (V 하/pvg+다가/ecs))
+         (VP
+              (ADVP 어느새/mag)
+              (NP 컴퓨터/ncn+를/jco)
+              (NP (AP (ADVP 잘/mag)
+                       (AP (V 다루/pvg+게/ecx)
+                            (AP 되/px+는/etm)))
+                   (NP 사람/ncn+들/xsn+도/jxc))
+             (PP (AP 우리/npp)
+                 (PP 주위/ncn+에서/jca))
+             (NP (AP (ADVP 흔히/mag)
+                      (AP 보/pvg+ㄹ/etm))
+                  (NP 수/ncn))
+             (V 있/paa+습니다/ef)))+./sf)
+
+
+; 무조건 어렵게만 느껴지던 컴퓨터가 게임으로 가까워진다면 , 게임은 단순히 오락물로 그치는 것이 아니라 훌륭한 안내자가 될 수도 있겠지요 .
+(S
+    (VP
+         (VP
+              (NP (AP (NP (ADVP 무조건/mag)
+                            (NP 어렵/paa+게/ecx+만/jxc))
+                       (AP 느끼/pvg+어/ecx+지/px+던/etm))
+                  (NP 컴퓨터/ncn+가/jcs))
+              (PP 게임/ncn+으로/jca)
+              (V 가깝/paa+어/ecx+지/px+ㄴ다/ef+면/ecs))+,/sp
+         (VP
+              (NP 게임/ncn+은/jxc)
+              (ADVP 단순/ncn+히/xsa)
+              (NP (AP (PP 오락물/ncn+로/jca)
+                       (AP 그치/pvg+는/etm))
+                  (NP 것/nbn+이/jcc))
+              (V 아니/paa+라/ecs))
+        (VP
+             (NP (AP (NP (AP 훌륭/ncps+하/xsm+ㄴ/etm)
+                            (NP 안내자/ncn+가/jcc))
+                       (AP 되/pvg+ㄹ/etm))
+                  (NP 수/ncn+도/jxc))
+            (V 있/paa+겠/ep+지/ef+요/jxf)))+./sf)
+
+
+; 그가 글씨를 쓰면 용이 꿈틀거리고 봉황새가 난다는 극찬이 항상 따라다녔습니다 .
+(S 
+   (VP 
+        (VP
+             (NP 그/npp+가/jcs)
+             (NP 글씨/ncn+를/jco)
+             (V 쓰/pvg+면/ecs))
+        (VP
+             (NP 용/ncn+이/jcs)
+             (V 꿈틀거리/pvg+고/ecc))
+        (VP
+             (NP (AP (NP 봉황새/ncn+가/jcs)
+                      (AP 날/pvg+ㄴ다/ef+는/etm))
+                 (NP 극찬/ncn+이/jcs))
+             (ADVP 항상/mag)
+             (V 따라다니/pvg+었/ep+습니다/ef)))+./sf)
+
+
+; 심지어 한석봉이 어느 고을에 들른다는 소문만 있으면 , 그 고을에 힘깨나 쓰고 돈푼깨나 있는 사람들은 모두 한석봉의 글씨를 얻고자 난리법석을 쳤다고 합니다 .
+(S
+    (VP
+         (VP
+              (ADVP 심지어/mag)
+              (NP 한석봉/nq+이/jcs)
+              (NP (AP (PP (AP 어느/mmd)
+                            (PP 고을/ncn+에/jca))
+                       (AP 들르/pvg+ㄴ다/ef+는/etm))
+                   (NP 소문/ncn+만/jxc))
+              (V 있/paa+으면/ecs))+,/sp
+         (VP
+              (PP (AP 그/mmd)
+                   (PP 고을/ncn+에/jca))
+              (NP 힘/ncn+깨나/jxc)
+              (V 쓰/pvg+고/ecc))
+         (VP
+              (NP (AP (NP 돈푼/ncn+깨나/jxc)
+                        (AP 있/paa+는/etm))
+                   (NP 사람/ncn+들/xsn+은/jxc))
+              (ADVP 모두/mag)
+              (NP (AP 한석봉/nq+의/jcm)
+                   (NP 글씨/ncn+를/jco))
+             (V 얻/pvg+고자/ecs))
+         (VP
+             (NP (NP 난리/ncn+법석/ncn+을/jco)
+                  (NP 치/pvg+었/ep+다/ef+고/jcr))
+             (V 하/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 크고 작은 글씨를 여러 형태로 변화무쌍하게 만들어내는가 하면 , 똑같은 글씨들을 어느새 수없이 찍어냅니다 .
+(S
+   (VP
+        (VP
+             (NP (AP (AP 크/paa+고/ecc)
+                       (AP 작/paa+ㄴ/etm))
+                  (NP 글씨/ncn+를/jco))
+             (PP (AP 여러/mma)
+                 (PP 형태/ncn+로/jca))
+             (V (V 변화무쌍/ncps+하/xsm+게/ecc)
+                (V 만들/pvg+어/ecx+내/px+는가/ef)
+                (V 하/px+면/ecs)))+,/sp
+        (VP 
+             (NP (AP 똑같/paa+ㄴ/etm)
+                  (NP 글씨/ncn+들/xsn+을/jco))
+             (ADVP 어느새/mag)
+             (ADVP 수없/paa+이/xsa)
+             (V 찍/pvg+어/ecx+내/px+ㅂ니다/ef)))+./sf)
+
+
+; 만일 옛날 사람들이 이러한 장면을 본다면 , 자유롭기가 바다와 같고 한결같기가 하늘과 같다는 식의 찬탄으로 입을 다물지 못할  것입니다 .
+(S
+   (VP
+        (VP
+             (ADVP 만일/mag)
+             (NP (AP 옛날/ncn)
+                  (NP 사람/ncn+들/xsn+이/jcs))
+             (NP (AP 이러하/pad+ㄴ/etm)
+                  (NP 장면/ncn+을/jco))
+             (V 보/pvg+ㄴ다/ef+면/ecs))+,/sp
+        (VP
+             (NP 자유/ncps+롭/xsm+기/etn+가/jcs)
+             (PP 바다/ncn+와/jct)
+             (V 같/paa+고/ecc))
+        (VP
+             (NP 한결같/paa+기/etn+가/jcs)
+             (PP (AP (AP (PP 하늘/ncn+과/jct)
+                           (AP 같/paa+다/ef+는/etm))
+                      (AP 식/ncn+의/jcm))
+                  (PP 찬탄/ncn+으로/jca))
+             (VP (AP (NP 입/ncn+을/jco)
+                      (AP (V 다물/pvg+지/ecx)
+                           (AP 못하/px+ㄹ/etm)))
+                  (V 것/nbn+이/jp+ㅂ니다/ef))))+./sf)
+
+
+; 한석봉에 놀란 사람이라면 컴퓨터야말로 ` 울트라 한석봉 ` 처럼 보이겠지요 . 
+(S
+    (VP
+         (VP
+              (AP (PP 한석봉/nq+에/jca)
+                   (AP 놀라/pvg+ㄴ/etm))
+              (V 사람/ncn+이/jp+라/ef+면/ecs))
+         (VP (NP 컴퓨터/ncn+야말로/jxc)
+              (PP (AP `/sl+울트라/ncn)
+                   (NP 한석봉/nq+`/sl+처럼/jca))
+              (V 보이/pvg+겠/ep+지/ef+요/jxf)))+./sf)
+
+
+; 이렇듯 , 개인용 컴퓨터에서 . 이 기능을 잘 활용하면 , 글씨가 엉망인 사람들이라도 전혀 걱정할 것 없습니다 .
+(S
+    (VP
+         (VP (IP 이렇/pad+듯/ecs)+,/sp
+              (PP (AP 개인/ncn+용/xsn)
+                   (PP 컴퓨터/ncn+에서/jca))+./sf
+              (NP (AP 이/mmd)
+                   (NP 기능/ncn+을/jco))
+              (ADVP 잘/mag)
+              (V 활용/ncpa+하/xsv+면/ecs))+,/sp
+         (VP 
+              (NP (AP (NP 글씨/ncn+가/jcs)
+                        (AP 엉망/ncn+이/jp+ㄴ/etm))
+                   (NP 사람/ncn+들/xsn+이라도/jxc))
+              (NP (AP (ADVP 전혀/mag)
+                       (AP 걱정/ncpa+하/xsv+ㄹ/etm))
+                   (NP 것/nbn))
+              (V 없/paa+습니다/ef)))+./sf)
+
+
+; 예전에는 글씨를 잘 쓰는 사람들에게 대신 써 달라고 부탁을 했지만 , 이제 컴퓨터로 모두 해결할 수 있기 때문입니다 .
+(S
+    (VP
+         (VP
+              (PP 예전/ncn+에/jca+는/jxc)
+              (NP 글씨/ncn+를/jco)
+              (PP (AP (ADVP 잘/mag)
+                       (AP 쓰/pvg+는/etm))
+                  (PP 사람/ncn+들/xsn+에게/jca))
+              (VP (AP 대신/ncn)
+                   (V (V 쓰/pvg+어/ecx)
+                       (V 달라/px+고/ecc))))
+         (VP
+              (NP 부탁/ncn+을/jco)
+              (V 하/pvg+었/ep+지만/ecs))+,/sp
+         (VP
+              (ADVP 이제/mag)
+              (PP 컴퓨터/ncn+로/jca)
+              (NP (NP (AP (ADVP 모두/mag)
+                            (AP 해결/ncpa+하/xsv+ㄹ/etm))
+                       (NP 수/ncn))
+                  (NP 있/paa+기/etn))
+              (V 때문/nbn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 그런데 빠르기로 따진다면 타자기도 무척 빠른 축에 듭니다 .
+(S
+    (VP 
+         (VP (IP 그런데/maj)
+              (PP 빠르/paa+기/etn+로/jca)
+              (V 따지/pvg+ㄴ다/ef+면/ecs))
+         (VP (NP 타자기/ncn+도/jxc)
+              (PP  (AP (ADVP 무척/mag)
+                       (AP 빠르/paa+ㄴ/etm))
+                  (PP 축/ncn+에/jca))
+              (V 들/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 한결같은 글씨체로 빨리 글을 써 내려가고 깔끔하게 문서를 작성한다는 점에서 타자기도 무척 빠른 축에 듭니다 .
+(S
+    (VP 
+         (VP
+              (PP (AP 한결같/paa+ㄴ/etm)
+                  (PP 글씨체/ncn+로/jca))
+              (ADVP 빨리/mag)
+              (NP 글/ncn+을/jco)
+              (V (V 쓰/pvg+어/ecs)
+                  (AP 내리/pvg+어/ecx+가/px+고/ecc)))
+         (VP
+             (ADVP 깔끔하/paa+게/ecs)
+             (PP (AP (NP 문서/ncn+를/jco)
+                      (AP 작성/ncpa+하/xsv+ㄴ다/ef+는/etm))
+                  (PP 점/ncn+에서/jca))
+            (NP 타자기/ncn+도/jxc)
+            (PP (AP (ADVP 무척/mag)
+                     (AP 빠르/paa+ㄴ/etm))
+                 (PP 축/ncn+에/jca))
+            (V 들/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 한결같은 글씨체로 빨리 글을 써 내려가고 깔끔하게 문서를 작성한다는 점에서 타자기도 매우 우수한 사무 기기지요 .
+(S
+    (VP 
+         (VP
+              (PP (AP 한결같/paa+ㄴ/etm)
+                   (PP 글씨체/ncn+로/jca))
+              (ADVP 빨리/mag)
+              (NP 글/ncn+을/jco)
+              (V (V 쓰/pvg+어/ecs)
+                  (AP 내리/pvg+어/ecx+가/px+고/ecc)))
+         (VP (ADVP 깔끔하/paa+게/ecs)
+              (PP (AP (NP 문서/ncn+를/jco)
+                       (AP 작성/ncpa+하/xsv+ㄴ다/ef+는/etm))
+                   (PP 점/ncn+에서/jca))
+              (NP 타자기/ncn+도/jxc)
+              (VP (AP (ADVP 매우/mag)
+                        (AP 우수하/paa+ㄴ/etm))
+                   (VP (AP 사무/ncn)
+                        (V 기기/ncn+지/ef+요/jxf)))))+./sf)
+
+
+; 타자 실력을 늘리기 위해 손가락 힘을 기르는 데는 수동 타자기를 치는 것이 제일 좋습니다 .
+(S
+   (VP
+        (VP
+             (NP (NP (AP 타자/ncn )
+                      (NP 실력/ncn+을/jco))
+                  (NP 늘리/pvg+기/etn))
+             (V 위하/pvg+어/ecs ))
+        (VP
+             (PP (AP (NP (AP 손가락/ncn )
+                          (NP 힘/ncn+을/jco ))
+                      (AP 기르/pvg+는/etm ))
+                 (PP 데/nbn+는/jxc ))
+             (NP (AP (NP (AP 수동/ncn )
+                           (NP 타자기/ncn+를/jco))
+                       (AP 치/pvg+는/etm ))
+                  (NP 것/nbn+이/jcs ))
+             (ADVP 제일/mag )
+             (V 좋/paa+습니다/ef)))+./sf)
+
+
+; 먼저 비유적으로 말하면 , 타자기가 한 사람의 한석봉  노릇을 한다면 , 컴퓨터의 워드프로세서 기능은 무수히 많은  한석봉 구실을 하는 셈이다 .
+(S
+    (VP
+         (VP
+              (ADVP 먼저/mag )
+              (PP 비유/ncn+적/xsn+으로/jca )
+              (V 말/ncpa+하/xsv+면/ecs))+,/sp
+         (VP
+              (NP 타자기/ncn+가/jcs )
+              (NP (AP 한/nnc )
+                   (AP 사람/ncn+의/jcm )
+                   (AP 한석봉/nq )
+                   (NP 노릇/nbn+을/jco))
+              (V 하/pvg+ㄴ다/ef+면/ecs))+,/sp
+         (VP 
+              (NP (AP 컴퓨터/ncn+의/jcm )
+                   (AP 워드프로세서/ncn )
+                   (NP 기능/ncn+은/jxc ))
+              (VP (AP (NP (AP (ADVP 무수/ncn+히/xsa )
+                                 (AP 많/paa+ㄴ/etm))
+                            (NP (AP 한석봉/nq)
+                                 (NP 구실/ncn+을/jco)))
+                        (AP 하/pvg+는/etm))
+                   (V 셈/nbn+이/jp+다/ef))))+./sf)
+
+
+; 좀더 구체적으로 말해 , 우선 워드프로세서는 타자기보다 훨씬 수정이 간편합니다 .
+(S
+   (VP
+        (VP (ADVP 좀더/mag )
+             (PP 구체/ncn+적/xsn+으로/jca)
+             (V 말/ncpa+하/xsv+어/ecs))+,/sp
+        (VP (ADVP 우선/mag )
+             (NP 워드프로세서/ncn+는/jxc )
+             (PP 타자기/ncn+보다/jca )
+             (ADVP 훨씬/mag )
+             (NP 수정/ncn+이/jcs )
+             (V 간편/ncps+하/xsm+ㅂ니다/ef)))+./sf)
+
+
+; 즉 , 지면에 직접 쳐내려가다가 오타가 나면 하나씩 번거롭게 고쳐야 하는 타자기와는  달리 , 워드프로세서는 화면상에서 문서를 작성하기 때문에 매우 편리하게 고칠 수가 있습니다 .
+(S
+    (VP 
+         (VP
+             (IP 즉/mag)+,/sp
+             (PP 지면/ncn+에/jca )
+             (ADVP 직접/mag )
+             (V 치/pvg+어/ecs+내려가/pvg+다가/ecs ))
+         (VP
+              (NP 오타/ncn+가/jcs )
+              (V 나/pvg+면/ecs))
+         (VP
+              (ADVP (PP (AP (NP 하나/nnc+씩/xsn )
+                              (AP (V 번거/ncps+롭/xsm+게/ecs )
+                                   (V 고치/pvg+어야/ecs )
+                                   (AP 하/pvg+는/etm)))
+                          (PP 타자기/ncn+와/jct+는/jxc))
+                     (ADVP 다르/paa+이/xsa))+,/sp
+              (NP 워드프로세서/ncn+는/jxc )
+              (PP 화면상/ncn+에서/jca )
+              (PP (NP (NP 문서/ncn+를/jco )
+                       (NP 작성/ncpa+하/xsv+기/etn))
+                   (PP 때문/nbn+에/jca))
+              (NP (AP (ADVP 매우/mag )
+                       (AP (V 편리/ncps+하/xsm+게/ecs )
+                            (AP 고치/pvg+ㄹ/etm)))
+                   (NP 수/ncn+가/jcs))
+              (V 있/paa+습니다/ef)))+./sf)
+
+
+; 인쇄하기 전에 화면으로 몇 번이고 확인까지 할 수 있으니 도대체 틀리기가 힘들 정도지요 .
+(S
+    (VP 
+         (VP
+              (PP (NP 인쇄/ncpa+하/xsv+기/etn )
+                  (PP 전/ncn+에/jca))
+              (PP 화면/ncn+으로/jca)
+              (VP (AP 몇/mma)
+                   (V 번/nbu+이/jp+고/ecc)))
+         (VP
+              (NP (AP (PP 확인/ncn+까지/jxc )
+                       (AP 하/pvg+ㄹ/etm))
+                   (NP 수/nbn ))
+              (V 있/paa+으니/ecs))
+         (VP
+              (AP (NP (ADVP 도대체/mag )
+                       (NP 틀리/pvg+기/etn+가/jcs))
+                   (AP 힘들/pvg+ㄹ/etm))
+              (V 정도/ncn+지/ef+요/jxf)))+./sf)
+
+
+; ` 블록 ( Block )` 을 설정하여 이쪽 단락을 저쪽에 옮겨 풀로 붙이듯이 할 수 있지요 .
+(S
+    (VP 
+         (VP (NP `/sl+블록/ncn+(/sl+Block/f+)/sr+`/sr+을/jco)
+              (V 설정/ncpa+하/xsv+어/ecs))
+         (VP
+              (NP (AP 이/npd+쪽/xsn )
+                   (NP 단락/ncn+을/jco ))
+              (PP 저/npd+쪽/xsn+에/jca )
+              (V 옮기/pvg+어/ecs))
+          (VP 
+              (NP (AP (PP 풀/ncn+로/jca )
+                        (AP (V 붙이/pvg+듯이/ecs )
+                             (AP 하/pvg+ㄹ/etm)))
+                   (NP 수/ncn))
+              (V 있/paa+지/ef+요/jxf)))+./sf)
+
+
+; 그리고 인쇄된 문서들을 수량에 상관없이 똑같이 만들어낼 수 있으니 , 능률과 효과면에서 보자면 타자기와 워드프로세서는 비교가 안 됩니다 .
+(S
+    (VP
+         (VP
+              (IP 그리고/maj)
+              (NP (NP (AP 인쇄/ncpa+되/xsv+ㄴ/etm )
+                       (NP 문서/ncn+들/xsn+을/jco))
+              (ADVP (PP 수량/ncn+에/jca )
+                   (ADVP 상관없/paa+이/xsa))
+              (NP (AP (ADVP 똑같/paa+이/xsa)
+                       (AP 만들/pvg+어/ecx+내/px+ㄹ/etm))
+                   (NP 수/nbn))
+              (V 있/paa+으니/ecs))+,/sp
+         (VP 
+              (PP (NP 능률/ncn+과/jcj )
+                  (PP 효과면/ncn+에서/jca))
+              (V 보/pvg+자/ef+면/ecs))
+         (VP 
+              (NP (NP 타자기/ncn+와/jcj )
+                   (NP 워드프로세서/ncn+는/jxc ))
+              (NP 비교/ncn+가/jcc )
+              (VP (ADVP 안/mag)
+                   (V 되/pvg+ㅂ니다/ef))))+./sf)
+
+
+; 알아두면 좋지요 . 
+(S
+    (VP (V 알/pvg+아/ecx+두/px+면/ecs )
+         (V 좋/paa+지/ef+요/jxf)))+./sf)
+
+
+; 워드프로세서는 대개 나라마다 고유의 말과 글을 사용하기 때문에 외국 소프트웨어보다 자기 나라의 소프트웨어를 많이 사용하게 됩니다 .
+(S 
+    (VP
+         (NP 워드프로세서/ncn+는/jxc )
+         (ADVP 대개/mag )
+         (PP 나라/ncn+마다/jxc)
+         (PP (NP (NP (AP 고유/ncn+의/jcm )
+                       (NP (NP 말/ncn+과/jcj)
+                            (NP 글/ncn+을/jco)))
+                  (NP 사용/ncpa+하/xsv+기/etn))
+             (PP 때문/nbn+에/jca))
+        (PP (AP 외국/ncn )
+             (PP 소프트웨어/ncn+보다/jca))
+        (NP (AP 자기/npp )
+             (AP 나라/ncn+의/jcm )
+             (NP 소프트웨어/ncn+를/jco))
+        (ADVP 많/paa+이/xsa )
+        (V (V 사용/ncpa+하/xsv+게/ecx )
+            (AUXP 되/px+ㅂ니다/ef)))+./sf)
+
+
+; 그러므로 현재 우리의 소프트웨어 시장에서 가장 경쟁력이 높은 것도 역시 워드프로세서 부문이라고 할 수 있습니다 .
+(S
+    (VP
+         (IP 그러므로/maj)
+         (ADVP 현재/ncn )
+         (PP (AP 우리/npp+의/jcm )
+              (AP 소프트웨어/ncn )
+              (PP 시장/ncn+에서/jca))
+         (ADVP 가장/mag )
+         (NP (AP (NP 경쟁/ncn+력/xsn+이/jcs )
+                   (AP 높/paa+ㄴ/etm))
+              (NP 것/nbn+도/jxc))
+         (ADVP 역시/mag )
+         (NP (AP (NP (AP 워드프로세서/ncn )
+                       (NP 부문/ncn+이/jp+라/ef+고/jcr))
+                  (AP 하/pvg+ㄹ/etm))
+             (NP 수/ncn))
+         (V 있/paa+습니다/ef))+./sf)
+
+
+; 하지만 외국의 소프트웨어들은 국산 소프트웨어보다 여러 가지 뛰어난 기능을 많이 갖추고 있으므로 , 우리도 하루빨리 그러한 기술을 개발하지 않으면 언젠가는 워드프로세서마저 외국산 소프트웨어를 쓸지 모른다는 사실도 가볍게 넘겨서는 안 될 것입니다 .
+(S
+    (VP
+         (VP
+              (IP 하지만/maj )
+              (NP (AP 외국/ncn+의/jcm )
+                   (NP 소프트웨어/ncn+들/xsn+은/jxc))
+              (PP (AP 국산/ncn )
+                  (PP 소프트웨어/ncn+보다/jca))
+              (NP (AP 여러/mma )
+                   (AP 가지/nbu )
+                   (AP 뛰어나/paa+ㄴ/etm)
+                   (NP 기능/ncn+을/jco))
+              (ADVP 많/paa+이/xsa)
+              (V (V 갖추/pvg+고/ecx )
+                 (AUXP 있/px+으므로/ecs)))+,/sp
+         (VP
+              (NP 우리/ncn+도/jxc )
+              (ADVP 하루빨리/mag )
+              (NP (AP 그러하/pad+ㄴ/etm )
+                   (NP 기술/ncn+을/jco))
+              (V (V 개발/ncpa+하/xsv+지/ecx )
+                  (AUXP 않/px+으면/ecs)))
+         (VP
+              (NP 언제/mag+ㄴ가/ef+는/jxc )
+              (NP 워드프로세서/ncn+마저/jxc )
+              (NP (NP (AP (NP (AP 외국산/ncn )
+                                 (NP 소프트웨어/ncn+를/jco))
+                             (AP (V 쓰/pvg+ㄹ지/ecs )
+                                  (AP 모르/pvg+ㄴ다/ef+는/etm)))
+                         (NP 사실/ncn+도/jxc))
+                    (NP (V 가볍/paa+게/ecc)
+                         (NP 넘기/pvg+어서/ecs+는/jxc)))
+              (VP (AP (ADVP 안/mag)
+                        (AP 되/pvg+ㄹ/etm))
+                   (V 것/nbn+이/jp+ㅂ니다/ef))))+./sf)
+
+
+; 다시 빼기 삼백 구십 팔만 팔천 이백 육 원이요 예전에 주산 학원에서는 주산 도사이신 선생님이 이렇게  숫자들을 마구 불러 주면 실력 없는 초년생들은 주판을 들고 열심히 손가락을 눌려 계산을 했습니다 .
+(S
+    (VP
+         (VP
+              (ADVP 다시/mag )
+              (NP 빼/pvg+기/etn )
+              (VP (AP 삼백/nnc )
+                   (AP 구십/nnc )
+                   (AP 팔만/nnc )
+                   (AP 팔천/nnc )
+                   (AP 이백/nnc )
+                   (AP 육/nnc )
+                   (V 원/nbu+이/jp+요/ef)))
+         (VP (ADVP 예전/ncn+에/jca )
+              (PP (AP 주산/ncn )
+                   (PP 학원/ncn+에서/jca+는/jxc))
+              (NP (AP 주산/ncn )
+                   (AP 도사/ncn+이/jp+시/ep+ㄴ/etm )
+                   (NP 선생님/ncn+이/jcs))
+              (ADVP 이렇/pad+게/xsa)
+              (NP 숫자/ncn+들/xsn+을/jco )
+              (ADVP 마구/mag )
+              (V (V 부르/pvg+어/ecx )
+                  (AUXP 주/px+면/ecs)))
+         (VP 
+              (NP (AP (NP 실력/ncn )
+                       (AP 없/paa+는/etm))
+                   (NP 초년생/ncn+들/xsn+은/jxc))
+              (NP 주판/ncn+을/jco )
+              (V 들/pvg+고/ecc))
+         (VP (ADVP 열심/ncn+히/xsa )
+              (NP 손가락/ncn+을/jco )
+              (V 눌리/pvg+어/ecs))
+         (VP (NP 계산/ncn+을/jco )
+              (V 하/pvg+었/ep+습니다/ef)))+./sf)
+
+
+; 역시 숫자를 불러 주면서도 한편으로 암산하고 있었던 선생님의 답과 비교하며 자신의 실력을 점검하기도 했지요 .
+(S
+    (VP
+          (VP
+               (ADVP 역시/mag )
+               (NP (NP 숫자/ncn+를/jco )
+                    (NP (V 불/pvg+러/ecx )
+                         (NP 주/px+면서/ecs+도/jxc)))
+               (PP (AP (PP 한편/ncn+으로/jca )
+                        (AP (V 암산/ncpa+하/xsv+고/ecx )
+                             (AP 있/px+었/ep+던/etm)))
+                    (PP (AP 선생/ncn+님/xsn+의/jcm )
+                         (PP 답/ncn+과/jcj)))
+               (V 비교/ncpa+하/xsv+며/ecc))
+          (VP 
+               (NP (NP (AP 자신/ncn+의/jcm )
+                        (NP 실력/ncn+을/jco))
+                    (NP 점검/ncpa+하/xsv+기/etn+도/jxc))
+               (V 하/pvg+었/ep+지/ef+요/jxf)))+./sf)
+
+
+; 주판이나 전자 계산기를 동원하여 가로 계산 , 세로 계산 등을 하다 보면 대개 많은 시간이 걸리게 마련입니다 .
+(S
+   (VP
+        (VP
+             (NP (NP 주판/ncn+이나/jcj )
+                  (NP (AP 전자/ncn )
+                       (NP 계산기/ncn+를/jco)))
+             (V 동원/ncpa+하/xsv+어/ecs))
+        (VP
+             (NP (NP (NP (AP 가로/ncn )
+                           (NP 계산/ncn))+,/sp
+                       (NP (AP 세로/ncn )
+                            (NP 계산/ncn)))
+                  (NP 등/nbn+을/jco))
+             (V (V 하/pvg+다/ecx )
+                 (AUXP 보/px+면/ecs)))
+        (VP
+             (NP (AP (ADVP 대개/mag )
+                       (AP 많/paa+ㄴ/etm))
+                  (NP 시간/ncn+이/jcs))
+             (V (V 걸리/pvg+게/ecx )
+                 (V 마련/ncn+이/jp+ㅂ니다/ef))))+./sf)
+
+
+; 다 끝났다고 생각해서 검산을 해 보면 조금씩 오차가 생기기 일쑤이고, 그래서 다시 계산하느라 고생하는 것은 이루 말하기도 힘들  정도이지요.
+(S
+   (VP
+        (VP
+             (NP (ADVP 다/mag )
+                  (NP 끝나/pvg+ㅆ/ep+다/ef+고/jcr))
+             (V 생각/ncpa+하/xsv+어서/ecs))
+        (VP
+             (NP 검산/ncn+을/jco )
+             (V (V 하/pvg+어/ecx )
+                 (AUXP 보/px+면/ecs)))
+        (VP
+             (ADVP 조금씩/mag )
+             (NP (NP 오차/ncn+가/jcs )
+                  (NP 생기/pvg+기/etn))
+             (V일쑤/ncn+이/jp+고/ecc))+,/sp
+        (VP
+             (IP 그래서/maj )
+             (NP (AP (ADVP 다시/mag )
+                       (AP (V 계산/ncpa+하/xsv+느라/ecs )
+                            (AP 고생/ncpa+하/xsv+는/etm)))
+                  (NP 것/nbn+은/jxc))
+             (VP (AP (NP (ADVP 이루/mag )
+                            (NP 말/ncpa+하/xsv+기/etn+도/jxc))
+                       (AP 힘들/pvg+ㄹ/etm))
+                  (V 정도/nbn+이/jp+지/ef+요/jxf))))+./sf)
+
+
+; 이러한 문제는 바로 ` 스프레드 시트 ( Spread Sheet )` 라는 프로그램을 통해서 간단하게 처리 할 수 있습니다 .
+(S
+    (VP
+         (VP 
+              (NP (AP 이러하/pad+ㄴ/etm )
+                   (NP 문제/ncn+는/jxc))
+              (ADVP 바로/mag )
+              (NP
+                   (AP `/sl+스프레드/nq+시트/nq+(/sl+Spread/f+Sheet/f+)/sr+`/sr+라/ef+는/etm )
+                   (NP 프로그램/ncn+을/jco))
+              (V 통하/pvg+어서/ecs))
+         (VP 
+              (NP (AP (V 간단/ncpa+하/xsv+게/ecs )
+                       (AP 처리/ncna+하/xsv+ㄹ/etm))
+                   (NP 수/nbn))
+              (VP 있/paa+습니다/ef)))+./sf)
+
+
+; 스프레드 시트란 우리말로 풀어 보면 ` 전자 계산지 ` 라고 할 수 있어요 .
+(S
+    (VP
+         (VP
+              (NP (AP 스프레드/nq )
+                   (NP 시트/nq+란/jxc))
+              (PP 우리/npp+말/ncn+로/jca)
+              (V (V 풀/pvg+어/ecx )
+                  (AUXP 보/px+면/ecs)))
+         (VP
+              (NP (AP (NP (AP `/sl+전자/ncn)
+                            (NP 계산지/ncn+`/sr+라고/jcr))
+                        (AP 하/pvg+ㄹ/etm))
+                   (NP 수/nbn))
+              (V 있/paa+어/ef+요/jxf)))+./sf)
+
+
+; 다시 말하면 , 컴퓨터 속에 들어 있는 장부나 계산서 같은 모양의 도표 안에 숫자들만 적어 놓으면  , 계산은 컴퓨터가 알아서 다 처리해 준다는 것입니다 .
+(S
+    (VP 
+         (VP
+              (IP (ADVP 다시/mag)
+                  (V 말/ncpa+하/xsv+면/ecs))+,/sp
+              (PP (NP (AP (PP (AP 컴퓨터/ncn)
+                                (PP 속/ncn+에/jca))
+                            (AP (V 들/pvg+어/ecx)
+                                 (AP 있/px+는/etm)))
+                        (NP 장부/ncn+나/jcj))
+                   (PP (AP 계산서/ncn)
+                        (AP 같/paa+ㄴ/etm)
+                        (AP 모양/ncn+의/jcm)
+                        (AP 도표/ncn)
+                        (PP 안/ncn+에/jca)))
+              (NP 숫자/ncn+들/xsn+만/jxc)
+              (V (V 적/pvg+어/ecx)
+                  (AUXP 놓/px+으면/ecs)))+,/sp
+         (VP
+              (NP 계산/ncn+은/jxc)
+              (NP 컴퓨터/ncn+가/jcs)
+              (V 알/pvg+아서/ecs))
+         (VP
+              (AP (ADVP 다/mag)
+                   (AP (V 처리/ncpa+하/xsv+어/ecx)
+                        (AP 주/px+ㄴ다/ef+는/etm)))
+              (V 것/nbn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 그저 더하고 빼고 하는 단순한 계산만이 아니라 복잡한 계산을 하고 , 여러 가지 양식의 표나 그래프로도 표현이 가능합니다 .
+(S
+   (VP
+        (VP
+             (ADVP 그저/mag)
+             (NP (AP (V 더하/pvg+고/ecc)
+                      (V 빼/pvg+고/ecc)
+                      (AP 하/pvg+는/etm))
+                 (NP (AP 단순/ncpa+하/xsv+ㄴ/etm)
+                      (NP 계산/ncn+만/jxc+이/jcc)))
+             (V 아니/paa+라/ecs))
+        (VP
+             (NP (AP 복잡하/paa+ㄴ/etm)
+                  (NP 계산/ncn+을/jco))
+             (V 하/pvg+고/ecc))+,/sp
+        (VP
+             (NP (AP 여러/mma )
+                  (AP 가지/nbu )
+                  (AP 양식/ncn+의/jcm )
+                  (NP (NP 표/ncn+나/jcj)
+                       (NP 그래프/ncn+로/jca+도/jxc)))
+             (NP 표현/ncn+이/jcs )
+             (V 가능/ncpa+하/xsv+ㅂ니다/ef)))+./sf)
+
+
+; 점심엔 패스트 푸드 , 쫓기는 사람처럼 시계바늘 보면서 ....
+(S
+    (VP 
+         (PP 점심/ncn+에/jca+ㄴ/jxc )
+         (NP (AP 패스트/ncn)
+              (NP 푸드/ncn))+,/sp
+         (PP (AP 쫓기/pvg+는/etm )
+              (PP 사람/ncn+처럼/jca))
+         (NP 시계/ncn+바늘/ncn)
+         (V 보/pvg+면서/ecc))+....../se)
+
+
+; 복잡한 도시인의 일상 생활을 경쾌한 리듬에 맞추어 솔직하게 표현한 듯합니다 .
+(S
+    (VP
+         (VP
+              (NP (AP 복잡/ncps+하/xsm+ㄴ/etm)
+                   (AP 도시인/ncn+의/jcm )
+                   (AP 일상/ncn)
+                   (NP 생활/ncn+을/jco))
+              (PP (AP 경쾌/ncps+하/xsm+ㄴ/etm )
+                   (PP 리듬/ncn+에/jca))
+              (V 맞추/pvg+어/ecs))
+         (VP 
+              (AP (V 솔직/ncps+하/xsm+게/ecs )
+                   (AP 표현/ncpa+하/xsv+ㄴ/etm))
+              (V 듯/nbn+하/paa+ㅂ니다/ef)))+./sf)
+
+
+; 도시의 생활이란 앞으로도 점점 더 복잡하게 펼쳐지며 사람들을 피곤하게 만들 것입니다 .
+(S
+    (VP
+         (VP
+              (NP (AP 도시/ncn+의/jcm )
+                   (NP 생활/ncn+이/jp+란/jxc))
+              (PP 앞/ncn+으로/jca+도/jxc )
+              (ADVP 점점/mag  )
+              (ADVP 더/mag )
+              (V (V 복잡/ncps+하/xsm+게/ecs)
+                  (V 펼치/pvg+어/ecx+지/px+며/ecc)))
+         (VP
+              (AP (NP 사람/ncn+들/xsn+을/jco )
+                   (AP (V 피곤/ncps+하/xsm+게/ecx)
+                        (AP 만들/px+ㄹ/etm)))
+              (V 것/nbn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 사람들은 여유를 알고 , 그저 시간과 돈에 쫓기면서 하루 하루 살아갈지도 모릅니다 .
+(S
+    (VP 
+         (VP
+              (NP 사람/ncn+들/xsn+은/jxc)
+              (NP 여유/ncn+를/jco)
+              (V 알/pvg+고/ecc))+,/sp
+         (VP (ADVP 그저/mag)
+              (PP (NP 시간/ncn+과/jcj)
+                  (PP 돈/ncn+에/jca))
+              (V 쫓기/pvg+면서/ecc))
+         (VP
+              (ADVP 하루/ncn)
+              (ADVP 하루/ncn)
+              (V (V 살/pvg+아/ecx+가/px+ㄹ지도/ecs)
+                  (V 모르/pvg+ㅂ니다/ef))))+./sf)
+
+
+; 물론 컴퓨터 때문에 여유를 빼앗겼다는 사람들도 있긴 하지만요 자 , 아침에 일어나서 컴퓨터를 켭니다 .
+(S
+    (VP 
+         (VP
+              (ADVP 물론/mag)
+              (PP (AP 컴퓨터/ncn)
+                   (PP 때문/nbn+에/jca))
+              (NP (NP (AP (NP 여유/ncn+를/jco )
+                            (AP 빼앗기/pvg+었/ep+다/ef+는/etm))
+                        (NP 사람/ncn+들/xsn+도/jxc))
+                   (NP 있/paa+기/etn+ㄴ/jxc))
+              (V 하/pvg+지만/ecs+요/jxf))
+         (VP
+              (IP 자/ii )+,/sp
+              (PP 아침/ncn+에/jca )
+              (V 일어나/pvg+서/ecs))
+         (VP
+              (NP 컴퓨터/ncn+를/jco)
+              (V 켜/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 또 며칠 전에 신문 기사 내용이 필요해서 그 날짜를 입력합니다 .
+(S 
+    (VP 
+         (VP (IP 또/maj )
+              (PP (AP 며칠/ncn )
+                   (PP 전/ncn+에/jca))
+              (NP (AP 신문/ncn )
+                   (AP 기사/ncn )
+                   (NP 내용/ncn+이/jcs))
+              (V 필요/ncps+하/xsm+어서/ecs))
+         (VP 
+              (NP (AP 그/mmd  )
+                   (NP 날짜/ncn+를/jco))
+              (V 입력/ncpa+하/xsv+ㅂ니다/ef)))+./sf)
+
+
+; 그것도 단 한번만 잘 교육하면 말입니다 .
+(S
+   (VP
+        (NP 그것/npd+도/jxc)
+        (NP (AP 단/mma )
+             (NP 한번/ncn+만/jxc))
+        (ADVP 잘/mag )
+        (V (V 교육/ncpa+하/xsv+면/ecs)
+            (V 말/ncn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 이와 관련된 기능을 ` 데이터 베이스 ( Data Base )` 기능이라고 합니다 .
+(S
+    (VP 
+         (NP (AP (PP 이/npd+와/jct )
+                  (AP 관련/ncpa+되/xsv+ㄴ/etm))
+              (NP 기능/ncn+ 을/jco))
+         (NP (AP `/sl+데이터/nq )
+              (AP 베이스/ncn+(/sl+Data/f+Base/f+)/sr+`/sr)
+              (NP 기능/ncn+이/jp+라/ef+고/jcr))
+         (V 하/pvg+ㅂ니다/ef))+./sf)
+
+
+; 돌아온 솔거 , 우리들의 솔거 글씨 하면 한석봉이듯 , 그림 하면 솔거입니다 .
+(S
+   (VP
+        (VP 
+             (NP (AP 돌/pvg+아/ecx+오/px+ㄴ/etm )
+                  (NP 솔거/nq))+,/sp
+             (NP (AP 우리/npp+들/xsn+의/jcm )
+                  (NP 솔거/nq))
+             (VP (AP 글씨/ncn )
+                  (V (V 하/pvg+면/ecs ) 
+                      (V 한석봉/nq+이/jp+듯/ecs))))+,/sp
+        (VP (AP 그림/ncn )
+             (V (V 하/pvg+면/ecs )
+                 (V 솔거/nq+이/jp+ㅂ니다/ef))))+./sf)
+
+
+; 그런 그림을 그리기 위해서라면 무엇을 준비하면 될까요 ?
+(S 
+    (VP 
+         (VP
+              (NP (NP (AP 그런/mmd)
+                        (NP 그림/ncn+을/jco))
+                   (NP 그리/pvg+기/etn))
+              (V 위하/pvg+어서/ecs+라/ef+면/ecs))
+         (VP
+              (NP 무엇/npd+을/jco )
+              (V (V 준비/ncpa+하/xsv+면/ecs )
+                  (V 되/pvg+ㄹ까/ef+요/jxf))))+?/sf)
+
+
+; 하지만 컴퓨터로 그림을 그리려면 그래픽 소프트웨어라는 프로그램이 필요합니다 .
+(S 
+    (VP 
+         (VP
+              (IP 하지만/maj)
+              (PP 컴퓨터/ncn+로/jca )
+              (NP 그림/ncn+을/jco )
+              (V 그리/pvg+려면/ecs))
+         (VP
+              (NP (AP 그래픽/ncn )
+                   (AP 소프트웨어/ncn+라/ef+는/etm )
+                   (NP 프로그램/ncn+이/jcs))
+              (V 필요/ncps+하/xsm+ㅂ니다/ef)))+./sf)
+손으로 그린 그림은 한번 잘못 그리면 처음부터 다시 그려야 하지만 , 컴퓨터로 그린 그림은 틀렸을 경우 얼마든지 부분 수정을 할 수 있
+으며 , 한 그림에 여러 색상을 마음대로 칠했다 지울 수도 있고 , 같은 그림을 수없이 반복해서 찍어낼 수 있기 때문에 디자인  분야 등에 
+특히 널리 사용되고 있습니다 .
+(S
+    (VP
+         (VP
+              (NP (AP (PP 손/ncn+으로/jca )
+                       (AP 그리/pvg+ㄴ/etm))
+                   (NP 그림/ncn+은/jxc))
+              (NP 한/nnc+번/nbu)
+              (ADVP 잘못/mag)
+              (V 그리/pvg+면/ecs))
+         (VP
+              (PP 처음/ncn+부터/jxc )
+              (ADVP 다시/mag )
+              (V (V 그리/pvg+어야/ecs )
+                  (V 하/pvg+지만/ecs)))+,/sp
+         (VP 
+              (PP (AP (NP (AP (PP 컴퓨터/ncn+로/jca )
+                                (AP 그리/pvg+ㄴ/etm))
+                            (NP 그림/ncn+은/jxc))
+                       (AP 틀리/pvg+었/ep+ㄹ/etm))
+                   (PP 경우/ncn))
+              (ADVP 얼마/ncn+든지/jxc )
+              (NP (AP (NP (AP 부분/ncn )
+                            (NP 수정/ncn+을/jco))
+                        (AP 하/pvg+ㄹ/etm))
+                   (NP 수/ncn))
+              (V 있/paa+으며/ecs))+,/sp
+         (VP 
+              (PP (AP 한/nnc)
+                   (PP 그림/ncn+에/jca))
+              (NP (AP 여러/mma)
+                   (NP 색상/ncn+을/jco))
+              (NP (AP (PP 마음/ncn+대로/jca )
+                        (AP (V 칠하/pvg+었/ep+다/ef )
+                             (AP 지우/pvg+ㄹ/etm)))
+                   (NP 수/nbn+도/jxc))
+              (V 있/paa+고/ecc))+,/sp
+         (VP
+              (PP (NP (NP (AP (ADVP (NP (AP 같/paa+ㄴ/etm )
+                                             (NP 그림/ncn+을/jco))
+                                        (ADVP 수없/paa+이/xsa))
+                                 (AP (V 반복/ncpa+하/xsv+어서/ecs )
+                                      (AP 찍/pvg+어/ecx+내/px+ㄹ/etm)))
+                            (NP 수/nbn))
+                        (NP 있/paa+기/etn))
+                   (PP 때문/nbn+에/jca))
+              (PP (AP 디자인/ncn )
+                   (AP 분야/ncn )
+                   (PP 등/nbn+에/jca))
+              (ADVP 특히/mag )
+              (ADVP 널리/mag )
+              (V (V 사용/ncpa+되/xsv+고/ecx)
+                  (AUXP 있/px+습니다/ef))))+./sf)
+
+
+; 이제 그 음악의 세계에도 컴퓨터가 끼어들고 있습니다 .
+(S
+    (VP (ADVP 이제/mag )
+         (PP (AP 그/mmd )
+             (AP 음악/ncn+의/jcm )
+             (PP 세계/ncn+에/jca+도/jxc))
+         (NP 컴퓨터/ncn+가/jcs )
+         (V (V 끼어들/pvg+고/ecc )
+             (V 있/paa+습니다/ef)))+./sf)
+
+
+; 아니 , 끼어든 정도가 아니라 일정 부분에서는 벌써 주인 역할을 하고 있습니다 .
+(S
+    (VP
+         (VP
+              (IP 아니/mag )+,/sp
+              (NP (AP 끼어들/pvg+ㄴ/etm )
+                   (NP 정도/nbn+가/jcc))
+              (V 아니/paa+라/ecs))
+         (VP
+              (PP (AP 일정/ncn)
+                   (PP 부분/ncn+에서/jca+는/jxc))
+              (ADVP 벌써/mag)
+              (NP (AP 주인/ncn)
+                   (NP 역할/ncn+을/jco))
+              (V (V 하/pvg+고/ecx)
+                  (AUXP 있/px+습니다/ef))))+./sf)
+
+
+; 컴퓨터 음악이라 함은 단순히 저장되어 있는 음악만 들려 주는 것이 아니라 , 작기도 하고 , 즉시 그것을 컴퓨터가 연주해 주고 ,  기존의 음악들을 편곡도 해 주는 것을 말합니다 .
+(S
+    (VP
+         (VP
+              (NP (AP 컴퓨터/ncn)
+                   (NP (V 음악/ncn+이/jp+라/ef)
+                        (NP 하/pvg+ㅁ/etn+은/jxc)))
+              (NP (AP (NP (AP (ADVP 단순/ncn+히/xsa)
+                                 (AP (V 저장/ncpa+되/xsv+어/ecx )
+                                      (AP 있/paa+는/etm)))
+                             (NP 음악/ncn+만/jxc))
+                        (AP (V 들/pvg+려/ecx )
+                             (AP 주/px+는/etm)))
+                   (NP 것/nbn+이/jcs))
+              (V 아니/paa+라/ecs))+,/sp
+         (VP
+              (NP 작/paa+기/etn+도/jxc )
+              (V 하/pvg+고/ecc))+,/sp
+         (VP
+              (ADVP 즉시/mag )
+              (NP 그것/npd+을/jco )
+              (NP 컴퓨터/ncn+가/jcs )
+              (V (V 연주/ncpa+하/xsv+어/ecx )
+                  (AP 주/px+고/ecc)))+,/sp
+         (VP
+              (NP (AP 기존/ncn+의/jcm )
+                   (NP 음악/ncn+들/xsn+을/jco))
+              (NP (AP (NP 편곡/ncn+도/jxc )
+                       (AP (V 하/pvg+어/ecx)
+                            (AP 주/px+는/etm)))
+                   (NP 것/nbn+을/jco))
+              (V 말/ncpa+하/xsv+ㅂ니다/ef)))+./sf)
+
+
+; 뿐만 아니라 , 요즘 유행하는 노래방의 기기처럼 노래의 반주를 해 주기도 합니다 .
+(S
+    (VP 
+         (IP (NP 뿐/nbn+만/jxc)
+             (V 아니/paa+라/ecs))+,/sp
+         (PP (AP (ADVP 요즘/mag )
+                  (AP 유행/ncpa+하/xsv+는/etm))
+              (PP (AP 노래방/ncn+의/jcm)
+                   (PP 기기/ncn+처럼/jca)))
+         (NP (NP (AP 노래/ncn+의/jcm)
+                  (NP 반주/ncn+를/jco))
+              (NP (V 하/pvg+어/ecx)
+                   (NP 주/px+기/etn+도/jxc)))
+         (V 하/pvg+ㅂ니다/ef))+./sf)
+
+
+; 이 뮤직 카드라는 특별한 장치를 컴퓨터 속에 있는 특정한 장소에 끼워 놓으면 컴퓨터 음악을 할 수 있지요 .
+(S
+    (VP
+         (VP
+              (NP (AP 이/mmd)
+                   (AP 뮤직/ncn)
+                   (AP 카드/ncn+라/ef+는/etm)
+                   (NP (AP 특별/ncps+하/xsm+ㄴ/etm)
+                        (NP 장치/ncn+를/jco)))
+              (PP (AP (PP (AP 컴퓨터/ncn)
+                           (PP 속/ncn+에/jca))
+                       (AP 있/paa+는/etm))
+                  (PP (AP 특정/ncpa+하/xsv+ㄴ/etm)
+                      (PP 장소/ncn+에/jca)))
+              (V (V 끼우/pvg+어/ecx)
+                  (AUXP 놓/px+으면/ecs)))
+         (VP 
+              (NP (AP (NP (AP 컴퓨터/ncn )
+                             (NP 음악/ncn+을/jco))
+                        (AP 하/pvg+ㄹ/etm))
+                  (NP 수/nbn))
+              (V 있/paa+지/ef+요/jxf)))+./sf)
+
+
+; 물론 뮤직 카드들을 지원하는 특정한 프로그램들을 같이 사용해야 하겠지요 .
+(S
+    (VP (ADVP 물론/mag)
+         (NP (AP (NP (AP 뮤직/ncn)
+                       (NP 카드/ncn+들/xsn+을/jco))
+                   (AP 지원/ncpa+하/xsv+는/etm))
+              (NP (AP 특정/ncps+하/xsm+ㄴ/etm)
+                   (NP 프로그램/ncn+들/xsn+을/jco)))
+         (VP (ADVP 같/paa+이/xsa)
+              (V (V 사용/ncpa+하/xsv+어야/ecs)
+                  (V 하/pvg+겠/ep+지/ef+요/jxf))))+./sf)
+
+
+; 어떤 소프트웨어를 쓰느냐에 따라 게임기 , 워드프로세서 , 전자 계산기 , 데이터 베이스 ,  그래픽 에디터 등등 여러 가지 용도로 컴퓨터를 활용할 수 있으니까요 .
+(S
+    (VP
+         (VP 
+              (PP (NP (AP 어떻/pad+ㄴ/etm)
+                       (NP 소프트웨어/ncn+를/jco))
+                   (PP 쓰/pvg+느냐/ef+에/jca))
+              (V 따르/pvg+아/ecs))
+         (VP
+              (NP (NP (NP 게임기/ncn)+,/sp
+                        (NP 워드프로세서/ncn)+,/sp
+                        (NP (AP 전자/ncn)
+                             (NP 계산기/ncn))+,/sp
+                        (NP (AP 데이터/ncn )
+                             (NP 베이스/ncn))+,/sp
+                        (NP (AP 그래픽/ncn )
+                             (NP 에디터/ncn)))
+                   (NP 등등/nbn))
+              (PP (AP 여러/mma)
+                   (AP 가지/nbu)
+                   (PP 용도/ncn+로/jca))
+              (NP (AP (NP 컴퓨터/ncn+를/jco)
+                       (AP 활용/ncpa+하/xsv+ㄹ/etm))
+                   (NP 수/nbn))
+              (V 있/paa+으니까/ecs+요/jxf)))+./sf)
+
+
+; 정보화 시대의 꽃 , 컴퓨터 통신 여러분도 잘 아시다시피 통신이란 한  지역에서 다른 지역으로 사람이 직접 가지 않고도 서로의 의사를 교화하는 것을 말합니다 .
+(S
+    (VP
+         (VP
+              (NP (AP 정보화/ncn )
+                   (AP 시대/ncn+의/jcm )
+                   (NP 꽃/ncn))+,/sp
+              (NP (AP 컴퓨터/ncn )
+                   (NP 통신/ncn))
+              (NP 여러분/npp+도/jxc )
+              (ADVP 잘/mag )
+              (V 알/pvg+시/ep+다시피/ecs))
+         (VP
+              (NP 통신/ncn+이/jp+란/jxc )
+              (PP (AP (PP (AP 한/nnc )
+                           (PP 지역/ncn+에서/jca))
+                       (AP 다르/paa+ㄴ/etm))
+                   (PP 지역/ncn+으로/jca))
+              (NP 사람/ncn+이/jcs )
+              (ADVP 직접/mag )
+              (V (V 가/pvg+지/ecx )
+                  (AUXP 않/px+고도/ecc)))
+         (VP
+              (NP (AP (NP (AP 서로/ncn+의/jcm )
+                            (NP 의사/ncn+를/jco))
+                       (AP 교화/ncpa+하/xsv+는/etm))
+                  (NP 것/nbn+을/jco))
+              (V 말/ncpa+하/xsv+ㅂ니다/ef)))+./sf)
+
+
+; 통신 수단이라 하면 우리는 가장 쉽게 전화를 예로 들 수 있습니다 .
+(S
+    (VP
+         (VP
+              (AP 통신/ncn )
+              (V (V 수단/ncn+이/jp+라/ef)
+                  (V 하/pvg+면/ecs)))
+         (VP
+              (NP 우리/npp+는/jxc )
+              (ADVP 가장/mag )
+              (V 쉽/paa+게/ecc))
+         (VP
+              (NP 전화/ncn+를/jco )
+              (NP (AP (PP 예/ncn+로/jca )
+                       (AP 들/pvg+ㄹ/etm))
+                   (NP 수/nbn))
+              (V 있/paa+습니다/ef)))+./sf)
+
+
+; 상대방의 모습은 볼 수 없지만 , 전화를 통한 음성의 교류로 서로의 안부 , 혹은 새로운 정보를 교환 할 수 있기 때문입니다 .
+(S
+    (VP
+         (VP
+              (NP (AP (NP (AP 상대방/ncn+의/jcm )
+                            (NP 모습/ncn+은/jxc))
+                       (AP 보/pvg+ㄹ/etm))
+                   (NP 수/nbn))
+              (V 없/paa+지만/ecs))+,/sp
+         (VP
+              (PP (AP (NP 전화/ncn+를/jco )
+                       (AP 통하/pvg+ㄴ/etm))
+                   (PP (AP 음성/ncn+의/jcm)
+                        (PP 교류/ncn+로/jca)))
+              (NP (AP 서로/ncn+의/jcm )
+                   (NP 안부/ncn))+,/sp
+              (ADVP 혹은/maj)
+              (NP (NP (AP (NP (AP 새롭/paa+ㄴ/etm)
+                                 (NP 정보/ncn+를/jco))
+                            (AP 교환/ncpa+하/xsv+ㄹ/etm))
+                        (NP 수/nbn))
+                   (NP 있/paa+기/etn))
+              (V 때문/nbn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 컴퓨터 통신이란 바로 이와 같은 전화의 원리를 한층 더 응용하여 자신의 컴퓨터와 다른  곳의 컴퓨터를 연결시켜 사용하는 것을 말합니다 .
+(S
+    (VP
+         (VP
+              (NP (AP 컴퓨터/ncn )
+                   (NP 통신/ncn+이/jp+라/ef+ㄴ/jxc))
+              (ADVP 바로/mag )
+              (NP (AP (PP 이/npd+와/jct)
+                        (AP 같/paa+ㄴ/etm))
+                   (NP (AP 전화/ncn+의/jcm)
+                        (NP 원리/ncn+를/jco)))
+              (ADVP 한층/mag )
+              (ADVP 더/mag )
+              (V 응용/ncpa+하/xsv+어/ecc))
+         (VP
+              (NP (AP (NP (AP (AP (PP (AP 자신/ncn+의/jcm )
+                                         (PP 컴퓨터/ncn+와/jct ))
+                                     (AP 다르/paa+ㄴ/etm ))
+                                 (AP 곳/ncn+의/jcm ))
+                             (NP 컴퓨터/ncn+를/jco))
+                        (AP (V 연결/ncpa+시키/xsv+어/ecs)
+                             (AP 사용/ncpa+하/xsv+는/etm)))
+                    (NP 것/nbn+을/jco))
+              (V 말/ncpa+하/xsv+ㅂ니다/ef)))+./sf)
+
+
+; 이때 반드시 ` 모뎀 ( Modem )` 이라는 특수한 장치가 있어야 합니다 .
+(S
+    (VP
+         (ADVP 이때/ncn)
+         (ADVP 반드시/mag)
+         (NP (AP `/sl++모뎀/ncn+(/sl+Modem/f+)/sr+`/sr이/jp+라/ef+는/etm)
+              (AP 특수/ncps+하/xsm+ㄴ/etm )
+              (NP 장치/ncn+가/jcs))
+         (V (V 있/paa+어야/ecs )
+             (V 하/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 모뎀과 통신용 소프트웨어에 대해서는 뒤에서 자세히 다루도록 하겠습니다 .
+(S
+    (VP
+         (NP (PP (AP 모뎀/ncn+과/jcj)
+                  (AP 통신/ncn+용/xsn)
+                  (PP 소프트웨어/ncn+에/jca))
+              (NP 대하/pvg+어서/ecs+는/jxc))
+         (PP 뒤/ncn+에서/jca )
+         (ADVP 자세/ncn+히/xsa)
+         (V (V 다루/pvg+도록/ecs )
+             (V 하/pvg+겠/ep+습니다/ef)))+./sf)
+
+
+; 정보화 시대를 출발시킨 것이 컴퓨터라면 , 특히 통신망과 결합되는 뉴미디어들의 발전의 정보의 공유를 한층 강화시키며 정보화  시대를 발전시키는 결정적인 요인이 됩니다 .
+(S
+    (VP 
+         (VP
+              (NP (AP (NP (AP 정보화/ncn )
+                            (NP 시대/ncn+를/jco))
+                       (AP 출발/ncpa+시키/xsv+ㄴ/etm))
+                   (NP 것/nbn+이/jcs))
+              (V 컴퓨터/ncn+라/ef+면/ecs))+,/sp
+         (VP
+              (ADVP 특히/mag)
+              (NP (AP (PP 통신망/ncn+과/jct)
+                        (AP 결합/ncpa+되/xsv+는/etm))
+                   (NP (AP 뉴미디어/ncn+들/xsn+의/jcm)
+                        (AP 발전/ncn+의/jcm )
+                        (AP 정보/ncn+의/jcm )
+                        (NP 공유/ncn+를/jco)))
+              (ADVP 한층/mag)
+              (V 강화/ncpa+시키/xsv+며/ecc))
+         (VP 
+              (NP (AP (NP (AP 정보화/ncn )
+                            (NP 시대/ncn+를/jco))
+                        (AP 발전/ncpa+시키/xsv+는/etm))
+                   (NP (AP 결정/ncn+적/xsn+이/jp+ㄴ/etm )
+                        (NP 요인/ncn+이/jcc)))
+              (NP 되/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 통신망과 결합된 컴퓨터들은 흩어져 있으면서도 사실상 합쳐져 있는 효과를 내는 셈입니다 .
+(S
+    (VP
+         (VP
+              (NP (AP (PP 통신망/ncn+과/jct)
+                        (AP 결합/ncpa+되/xsv+ㄴ/etm))
+                   (NP 컴퓨터/ncn+들/xsn+은/jxc))
+              (V (V 흩/pvg+어/ecx+지/px+어/ecx)
+                  (V 있/px+으면서/ecs+도/jxc)))
+         (VP
+              (AP (NP (AP (ADVP 사실/ncn+상/xsn )
+                            (AP (V 합치/pvg+어/ecx+지/px+어/ecx )
+                                 (AP 있/px+는/etm)))
+                       (NP 효과/ncn+를/jco))
+                   (AP 내/pvg+는/etm))
+              (V 셈/nbn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 예를 들어 , 다른 사람들이 입력한 정보 중에 나에게 필요한 정보가 있다면 찾아 사용하고 , 내가  입력한 정보를 다른 사람들이 역시 유용하게 사용한다면 , 정보 수집과 추적에 들어가는 막대한 인적 , 물적 자원을 아낄 수 있으니까요 .
+(S
+    (VP
+         (VP 
+              (IP (NP 예/ncn+를/jco)
+                  (V 들/pvg+어/ecs))+,/sp
+              (PP (AP (NP (AP 다르/paa+ㄴ/etm )
+                             (NP 사람/ncn+들/xsn+이/jcs))
+                        (AP 입력/ncpa+하/xsv+ㄴ/etm))
+                   (PP (AP 정보/ncn)
+                        (PP 중/ncn+에/jca)))
+              (NP (AP (PP 나/npp+에게/jca )
+                       (AP 필요/ncps+하/xsm+ㄴ/etm))
+                   (NP 정보/ncn+가/jcs))
+              (V (V 있/paa+다/ef+면/ecs)
+                  (V 찾/pvg+아/ecs)
+                  (V 사용/ncpa+하/xsv+고/ecc)))+,/sp
+         (VP
+              (NP (AP (NP 내/npp+가/jcs )
+                       (AP 입력/ncpa+하/xsv+ㄴ/etm))
+                    (NP 정보/ncn+를/jco))
+              (NP (AP 다르/paa+ㄴ/etm )
+                   (NP 사람/ncn+들/xsn+이/jcs))
+              (ADVP 역시/mag )
+              (V (V 유용/ncpa+하/xsv+게/ecx)
+                  (V 사용/ncpa+하/xsv+ㄴ다/ef+면/ecs)))+,/sp
+         (VP
+              (NP (AP (NP (AP (PP (AP 정보/ncn )
+                                       (PP (NP 수집/ncn+과/jcj)
+                                            (PP 추적/ncn+에/jca)))
+                                  (AP 들/pvg+어/ecx+가/px+는/etm))
+                             (NP (AP 막대/ncps+하/xsm+ㄴ/etm )
+                                  (NP (NP 인/ncn+적/xsn)+,/sp
+                                       (NP 물/ncn+적/xsn)
+                                       (NP 자원/ncn+을/jco))))
+                        (AP 아끼/pvg+ㄹ/etm))
+                   (NP 수/nbn))
+              (V 있/paa+으니까/ef+요/jxf)))+./sf)
+
+
+; 그러므로 컴퓨터와 통신은 앞으로 뗄래야 뗄 수 없는 관계로 계속 무한대로 발전할 것입니다 .
+(S
+    (VP
+         (IP 그러므로/maj )
+         (NP (NP 컴퓨터/ncn+와/jcj)
+              (NP 통신/ncn+은/jxc))
+         (PP (AP (NP (AP (PP 앞/ncn+으로/jca )
+                           (AP (V 떼/pvg+ㄹ래야/ecs )
+                                (AP 떼/pvg+ㄹ/etm)))
+                        (NP 수/nbn))
+                   (AP 없/paa+는/etm))
+              (PP 관계/ncn+로/jca))
+         (ADVP 계속/mag )
+         (VP (AP (PP 무한/ncn+대로/jca )
+                  (AP 발전/ncpa+하/xsv+ㄹ/etm))
+              (V 것/nbn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 지금부터 여러분도 컴퓨터라는 램프의 확실한 주인이 되어야 합니다 .
+(S
+    (VP (PP 지금/ncn+부터/jxc )
+         (NP 여러분/npp+도/jxc )
+         (NP (AP 컴퓨터/ncn+라/ef+는/etm )
+              (AP 램프/ncn+의/jcm )
+              (AP 확실/ncps+하/xsm+ㄴ/etm )
+              (NP 주인/ncn+이/jcc))
+         (V (V 되/pvg+어야/ecs )
+             (V 하/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 주문만 적당히 외워 주면 , 요 컴퓨터라는 마술 램프를 마음대로 써먹을 수 있으니까요 .
+(S
+    (VP 
+         (VP
+              (NP 주문/ncn+만/jxc )
+              (ADVP 적당/ncn+히/xsa )
+              (V (V 외우/pvg+어/ecx )
+                  (AUXP 주/px+면/ecs)))+,/sp
+         (VP
+              (NP (AP 요/mmd)
+                   (AP 컴퓨터/ncn+라/ef+는/etm )
+                   (AP 마술/ncn )
+                   (NP 램프/ncn+를/jco))
+              (NP (AP (PP 마음/ncn+대로/jca)
+                       (AP 써먹/pvg+ㄹ/etm))
+                   (NP 수/nbn))
+              (V 있/paa+으니까/ef+요/jxf)))+./sf)
+
+
+; 자 , 가볍고 부드럽게 컴퓨터 글자판 ( Keygoard ) 에 손을 올려 봅시다 .
+(S
+    (VP
+         (VP
+             (IP 자/ii )+,/sp
+             (V (V 가볍/paa+고/ecc )
+                 (V 부드럽/paa+게/ecc)))
+         (VP
+             (PP (AP 컴퓨터/ncn )
+                 (PP 글자판/ncn+(/sl+Keygoard/f+)/sr+에/jca))
+             (NP 손/ncn+을/jco )
+             (V (V 올리/pvg+어/ecx )
+                 (AUXP 보/px+ㅂ시/ep+다/ef))))+./sf)
+
+
+; 글자판 ( Keyboard ) 을 쳐 보세요 컴퓨터에 정보를 입력하거나 어떤 명령을 주려면 , 반드시 글자판 ( 키보드 ) 을 두드려야 합니다 .
+(S
+    (VP
+         (VP (NP 글자판/ncn+(/sl+Keyboard/f+)/sr+을/jco)
+              (V (V 치/pvg+어/ecx )
+                  (AUXP 보/px+시/ep+에요/ef)))
+         (VP
+              (PP 컴퓨터/ncn+에/jca )
+              (NP 정보/ncn+를/jco )
+              (V 입력/ncpa+하/xsv+거나/ecc))
+         (VP
+              (NP (AP 어떻/pad+ㄴ/etm )
+                   (NP 명령/ncn+을/jco))
+              (V 주/pvg+려면/ecs))+,/sp
+         (VP
+              (ADVP 반드시/mag )
+              (NP 글자판/ncn+(/sl+키보드/ncn+)/sr+을/jco)
+              (V (V 두드리/pvg+어야/ecs )
+                  (V 하/pvg+ㅂ니다/ef))))+./sf)
+
+
+; 그러므로 효율적으로 컴퓨터를 사용하려면 , 우선 무엇보다도 타자 실력을 높여야 합니다 .
+(S
+    (VP
+         (VP
+              (IP 그러므로/maj )
+              (PP 효율/ncn+적/xsn+으로/jca )
+              (NP 컴퓨터/ncn+를/jco )
+              (V 사용/ncpa+하/xsv+려면/ecs))+,/sp
+         (VP
+              (ADVP 우선/mag )
+              (PP 무엇/npd+보다/jca+도/jxc )
+              (NP (AP 타자/ncn )
+                   (NP 실력/ncn+을/jco))
+              (V (V 높이/pvg+어야/ecs )
+                  (V 하/pvg+ㅂ니다/ef))))+./sf)
+
+
+; 그저 꾸준히 연습을 해서 마치 연필로 글씨를 쓰듯 컴퓨터의 글자판이 손에 익어야 합니다 .
+(S
+    (VP
+         (VP
+              (ADVP 그저/mag )
+              (ADVP 꾸준/ncn+히/xsa )
+              (NP 연습/ncn+을/jco )
+              (V 하/pvg+어서/ecs))
+         (VP
+              (ADVP 마치/mag )
+              (PP 연필/ncn+로/jca )
+              (NP 글씨/ncn+를/jco )
+              (V 쓰/pvg+듯/ecs))
+         (VP 
+              (NP (AP 컴퓨터/ncn+의/jcm )
+                   (NP 글자판/ncn+이/jcs))
+              (PP 손/ncn+에/jca )
+              (V (V 익/pvg+어야/ecs )
+                 (V 하/pvg+ㅂ니다/ef))))+./sf)
+
+
+; 알아두면 좋지요 타자를 잘 치려면 .....?
+(S
+    (VP
+         (VP 
+              (VP 알/pvg+아/ecx+두/px+면/ecs )
+              (VP 좋/paa+지/ef+요/jxf))
+         (VP
+              (NP 타자/ncn+를/jco )
+              (ADVP 잘/mag )
+              (V 치/pvg+려면/ef)))+....../se+?/sf)
+
+
+; 당시 형편으로서는 꽤 거금을 주고 산 것이라 그냥 놔둘 수는 없다고 생각했습니다 .
+(S
+    (VP
+         (VP
+              (PP (AP 당시/ncn )
+                  (PP 형편/ncn+으로서/jca+는/jxc))
+              (ADVP 꽤/mag )
+              (VP (AP (NP 거금/ncn+을/jco )
+                       (AP (V 주/pvg+고/ecs )
+                            (AP 사/pvg+ㄴ/etm)))
+                   (V 것/nbn+이/jp+라/ecs)))
+         (VP
+              (NP (NP (AP (ADVP 그냥/mag )
+                            (AP 놔두/pvg+ㄹ/etm))
+                       (NP 수/nbn+는/jxc))
+                  (NP 없/paa+다/ef+고/jcr))
+              (V 생각/ncpa+하/xsv+었/ep+습니다/ef)))+./sf)
+
+
+; 경쾌한 음악을 들으며 ` 마치 독수리가 먹이를 쪼듯 ` 치며 하루 이틀 계속하다 보니 손톱이 들떠서 무척 아팠습니다 .
+(S
+    (VP
+         (VP
+              (NP (AP 경쾌하/paa+ㄴ/etm )
+                   (NP 음악/ncn+을/jco))
+              (V 들/pvg+으며/ecs))
+         (VP
+              (ADVP `/sl+마치/mag)
+              (NP 독수리/ncn+가/jcs )
+              (NP 먹이/ncn+를/jco )
+              (V (V 쪼/pvg+듯/ecs+`/sr)
+                  (V 치/pvg+며/ecc)))
+         (VP
+              (NP (NP 하루/ncn)
+                   (NP 이틀/ncn))
+              (V (V 계속/ncpa+하/xsv+다/ecx)
+                  (AUXP 보/px+니/ecs)))
+         (VP 
+              (NP 손톱/ncn+이/jcs )
+              (V 들뜨/pvg+어서/ecs))
+         (VP (ADVP 무척/mag )
+              (V 아프/paa+았/ep+습니다/ef)))+./sf)
+
+
+; 기타도 제대로 못 치는지라 여기서 그만두면 영영 못 배우겠다는 생각이 들어 , 손톱에 스카치 테이프를 감아 계속 쳤습니다 .
+(S
+    (VP
+         (VP (NP 기타/ncn+도/jxc )
+              (ADVP 제대로/mag )
+              (ADVP 못/mag )
+              (V 치/pvg+는지라/ecs))
+         (VP
+              (PP 여기/npd+서/jca )
+              (V 그만두/pvg+면/ecs))
+         (VP
+              (ADVP 영영/mag )
+              (NP (AP (ADVP 못/mag )
+                       (AP 배우/pvg+겠/ep+다/ef+는/etm))
+                   (NP 생각/ncn+이/jcs))
+              (V 들/pvg+어/ecs))+,/sp
+         (VP
+              (PP 손톱/ncn+에/jca )
+              (NP (AP 스카치/ncn )
+                   (NP 테이프/ncn+를/jco))
+              (V 감/pvg+아/ecs))
+         (VP (ADVP 계속/mag )
+              (V 치/pvg+었/ep+습니다/ef)))+./sf)
+
+
+; 예를 들어 , 이런 식이었지요 .
+(S
+    (VP
+         (IP (NP 예/ncn+를/jco )
+              (V 들/pvg+어/ecs))+,/sp
+         (VP (AP 이렇/pad+ㄴ/etm )
+              (V 식/nbn+이/jp+었/ep+지/ef+요/jxf)))+./sf)
+
+
+; 정말 재미가 없어서 라디오를 꼭 켜놓고 똑같이 반복하여 연습만 했습니다 .
+(S
+    (VP
+         (VP (ADVP 정말/mag )
+              (NP 재미/ncn+가/jcs )
+              (V 없/paa+어서/ecs))
+        (VP (NP 라디오/ncn+를/jco )
+             (ADVP 꼭/mag )
+             (V (V 키/pvg+어/ecx )
+                 (AUXP 놓/px+고/ecc)))
+        (VP (ADVP 똑같/paa+이/xsa )
+             (V 반복/ncpa+하/xsv+어/ecs))
+        (VP (NP 연습/ncn+만/jxc )
+             (V 하/pvg+었/ep+ㅂ니다/ef)))+./sf)
+
+
+; 지루하기도 했지만 계속 꾸준하게 연습했습니다 .
+(S
+    (VP
+         (VP (NP 지루/ncps+하/xsm+기/etn+도/jxc )
+              (V 하/pvg+었/ep+지만/ecs))
+         (VP (ADVP 계속/mag )
+              (V (V 꾸준하/paa+게/ecs )
+                  (V 연습/ncpa+하/xsv+었/ep+습니다/ef))))+./sf)
+
+
+; 글자판을 보면서 치면 별로 낳아지지가 않는다고 해서 절대 보지 않았지요 .
+(S
+    (VP
+         (VP (NP 글자판/ncn+을/jco )
+              (V (V 보/pvg+면서/ecc )
+                  (V 치/pvg+면/ecs)))
+         (VP
+              (NP (ADVP 별로/mag )
+                   (NP (V 나아지/pvg+지/ecx+가/jcs )
+                        (NP 않/px+는다/ef+고/jcr)))
+              (V 하/pvg+어서/ecs))
+         (VP
+              (ADVP 절대/ncn )
+              (V (V 보/pvg+지/ecx )
+                  (AUXP 않/px+았/ep+지/ef+요/jxf))))+./sf)
+
+
+; 처음엔 약간 어색하더니 놀라울 정도로 속력이 붙기 시작하였습니다 .
+(S
+    (VP
+         (VP (PP 처음/ncn+에/jca+ㄴ/jxc )
+              (ADVP 약간/mag )
+              (V 어색/ncps+하/xsm+더니/ecs))
+         (VP 
+              (PP (AP 놀랍/paa+ㄹ/etm )
+                   (PP 정도/nbn+로/jca))
+              (NP (NP 속력/ncn+이/jcs )
+                   (NP 붙/pvg+기/etn))
+              (V 시작/ncpa+하/xsv+었/ep+습니다/ef)))+./sf)
+
+
+; 손톱이 처음엔 약간 어색하더니 놀라울 정도로 속력이 붙기 시작하였습니다 .
+(S
+    (VP 
+         (VP
+              (NP \/sy+손톱/ncn+이/jcs )
+              (PP 처음/ncn+에/jca+ㄴ/jxc )
+              (ADVP 약간/mag )
+              (V 어색/ncps+하/xsm+더니/ecs))
+         (VP 
+              (PP (AP 놀랍/paa+ㄹ/etm )
+                   (PP 정도/nbn+로/jca))
+              (NP (NP 속력/ncn+이/jcs )
+                   (NP 붙/pvg+기/etn))
+              (V 시작/ncpa+하/xsv+었/ep+습니다/ef)))+./sf)
+
+
+; 손톱이 들뜰 정도로 연습하였기 때문에 손가락 힘도 어느 정도 붙어 그렇게 되지 않았나 합니다 .
+(S
+    (VP
+         (PP (NP (PP (AP (NP 손톱/ncn+이/jcs )
+                           (AP 들뜨/pvg+ㄹ/etm))
+                      (PP 정도/nbn+로/jca))
+                  (NP 연습/ncpa+하/xsv+었/ep+기/etn))
+             (PP 때문/nbn+에/jca))
+         (NP (AP 손가락/ncn )
+              (NP 힘/ncn+도/jxc))
+         (NP (AP 어느/mmd )
+              (NP 정도/nbn))
+         (V (V 붙/pvg+어/ecs)
+             (V 그렇/pad+게/ecx)
+             (AUXP 되/px+지/ecx )
+             (AUXP 않/px+았/ep+나/ef)
+             (V 하/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 그리고 무엇보다도 처음 타자를 치면서 자꾸 받게 되는 유혹을 견뎌냈기 때문이겠지요 .
+(S
+    (VP
+         (VP
+              (IP 그리고/maj )
+              (PP 무엇/npd+보다/jca+도/jxc )
+              (ADVP 처음/mag )
+              (NP 타자/ncn+를/jco )
+              (V 치/pvg+면서/ecc))
+         (VP
+              (NP (NP (AP (ADVP 자꾸/mag )
+                            (AP (V 받/pvg+게/ecx)
+                                 (AP 되/px+는/etm)))
+                        (NP 유혹/ncn+을/jco))
+                   (NP 견디/pvg+어/ecx+내/px+ㅆ/ep+기/etn))
+              (V 때문/nbn+이/jp+겠/ep+지/ef+요/jxf)))+./sf)
+
+
+; 사실 타자기로 찍혀 나오는 글자를 보면 신기한 나머지 꾸준한 연습도 없이 자꾸 문자를 만들고 싶어집니다 .
+(S
+    (VP 
+         (VP (ADVP 사실/ncn )
+              (NP (AP (PP 타자기/ncn+로/jca )
+                       (AP (V 찍히/pvg+어/ecx )
+                            (AP 나오/px+는/etm)))
+                  (NP 글자/ncn+를/jco))
+              (V 보/pvg+면/ecs))
+         (VP 
+              (NP (AP 신기/ncps+하/xsm+ㄴ/etm )
+                   (NP 나머지/ncn))
+              (ADVP (NP (AP 꾸준/ncps+하/xsm+ㄴ/etm )
+                          (NP 연습/ncn+도/jxc))
+                  (ADVP 없/paa+이/xsa))
+              (ADVP 자꾸/mag )
+              (NP 문자/ncn+를/jco )
+              (V (V 만들/pvg+고/ecx )
+                  (AUXP 싶/px+어/ecx+지/px+ㅂ니다/ef))))+./sf)
+
+
+; 섣불리 문장을 만들다 보면 좋지 않은 타자 습관이 붙어서 영영 효율적으로 치기 힘들어집니다 .
+(S
+    (VP
+         (VP (ADVP 섣불리/mag )
+              (NP 문장/ncn+을/jco )
+              (V (V 만들/pvg+다/ecs )
+                  (AUXP 보/px+면/ecs)))
+         (VP
+              (NP (AP (V 좋/paa+지/ecx )
+                        (AP 않/px+ㄴ/etm))
+                   (NP (AP 타자/ncn)
+                        (NP 습관/ncn+이/jcs)))
+              (V 붙/pvg+어서/ecs))
+         (VP (ADVP 영영/mag )
+              (NP (PP 효율/ncn+적/xsn+으로/jca )
+                   (NP 치/pvg+기/etn))
+              (V 힘/ncn+들/pvg+어/ecx+지/px+ㅂ니다/ef)))+./sf)
+
+
+; 대신 , 꾸준하게 반복 연습을 하라 !
+(S
+    (VP
+         (ADVP 대신/ncn)+,/sp
+         (V 꾸준/ncps+하/xsm+게/ecs))
+    (VP
+         (NP (AP 반복/ncn )
+              (NP 연습/ncn+을/jco )
+         (V 하/pvg+라/ef)))+!/sf)
+
+
+; 그런데 지금은 타자 실력을 높여 주는 여러 가지 타자 연습용 소프트웨어들도 많이 나와 있으니, 그것을 이용하는 것도 좋겠지요.
+(S
+    (VP
+         (VP
+              (IP 그런데/maj)
+              (ADVP 지금/ncn+은/jxc)
+              (NP (AP (NP (AP 타자/ncn)
+                            (NP 실력/ncn+을/jco))
+                        (AP (V 높이/pvg+어/ecx)
+                             (AP 주/px+는/etm)))
+                   (NP (AP 여러/mma)
+                        (AP 가지/nbu)
+                        (NP (AP 타자/ncn)
+                             (AP 연습/ncn+용/xsn)
+                             (NP 소프트웨어/ncn+들/xsn+도/jxc))))
+              (ADVP 많/paa+이/xsa)
+              (V (V 나오/pvg+아/ecx)
+                  (AUXP 있/px+으니/ecs)))+,/sp
+         (VP
+              (NP (AP (NP 그것/npd+을/jco )
+                        (AP 이용/ncpa+하/xsv+는/etm))
+                   (NP 것/nbn+도/jxc))
+              (V 좋/paa+겠/ep+지/ef+요/jxf)))+./sf)
+
+
+; 101키 커서(Cursor) 이동키와 각종 특수 키를 따로 설치해 놓고, 86키보드의 왼쪽에 있는 기능키를 글자판 제일 윗줄에 놓았다는 점이 다릅니다.
+(S
+    (VP
+         (VP
+              (NP 101키/ncn+는/jxc )
+              (NP (NP (AP 커서/ncn+(/sl+Cursor/f+)/sr)
+                        (NP 이동/ncn+키/ncn+와/jcj))
+                   (NP (AP 각종/ncn )
+                        (AP 특수/ncn )
+                        (NP 키/ncn+를/jco)))
+              (ADVP 따로/mag )
+              (V (V 설치/ncpa+하/xsv+어/ecx )
+                  (AUXP 놓/px+고/ecc)))+,/sp
+         (VP 
+              (NP (AP (PP (AP 86키보드/ncn+의/jcm )
+                            (PP 왼쪽/ncn+에/jca))
+                        (AP 있/paa+는/etm))
+                   (NP 기능키/ncn+를/jco))
+              (NP (AP (PP (AP 글자판/ncn )
+                            (AP 제일/ncn )
+                            (PP 윗줄/ncn+에/jca))
+                        (AP 놓/pvg+았/ep+다/ef+는/etm))
+                   (NP 점/ncn+이/jcs))
+              (V 다르/paa+ㅂ니다/ef)))+./sf)
+
+
+; 복잡한 나머지 두려워 뭔가 만져 보는 것도 망설여집니다 .
+(S
+    (VP
+         (VP 
+              (NP (AP 복잡/ncps+하/xsm+ㄴ/etm )
+                   (NP 나머지/ncn))
+              (V 두렵/paa+어/ecs))
+         (VP 
+              (NP (AP (NP 뭐/npd+ㄴ가/ef )
+                        (AP (V 만지/pvg+어/ecx )
+                             (AP 보/px+는/etm)))
+                   (NP 것/nbn+도/jxc))
+              (V 망설이/pvg+어/ecx+지/px+ㅂ니다/ef)))+./sf)
+
+
+; 괜히 잘못 두드려서 컴퓨터가 망가지지나 않을까 .
+(S
+    (VP
+         (VP (ADVP 괜히/mag )
+              (ADVP 잘못/mag )
+              (V 두드리/pvg+어서/ecs))
+         (VP (NP 컴퓨터/ncn+가/jcs )
+              (V (V 망가지/pvg+지/ecx+나/ecx)
+                  (AUXP 않/px+ㄹ까/ef))))+./sf)
+
+
+; 수십만 번 , 수백만 번 두드려도 고장나는 법이 거의 없습니다.
+(S
+    (VP
+         (VP
+              (NP (AP 수십만/nnc )
+                   (NP 번/nbu))+,/sp
+              (NP (AP 수백만/nnc )
+                   (NP 번/nbu))
+              (V 두드리/pvg+어도/ecs))
+         (VP 
+              (NP (AP 고장ncn+나/pvg+는/etm )
+                   (NP 법/ncn+이/jcs))
+              (ADVP 거의/mag )
+              (V 없/paa+습니다/ef)))+./sf)
+
+
+; 그리고 보면 , 글자판은 단순한 입력 장치로서 그 원리도 무척 간단합니다 .
+(S
+    (VP
+         (VP (IP 그리고/maj )
+              (V 보/pvg+면/ecs))+,/sp
+         (VP (NP 글자판/ncn+은/jxc )
+              (PP (AP 단순/ncpa+하/xsv+ㄴ/etm )
+                   (AP 입력/ncn )
+                   (PP 장치/ncn+로서/jca))
+              (NP (AP 그/mmd )
+                   (NP 원리/ncn+도/jxc))
+              (ADVP 무척/mag )
+              (V 간단/ncpa+하/xsv+ㅂ니다/ef)))+./sf)
+
+
+; ` 3 ` 을 치면 그것을 기계적으로 변화시켜서 컴퓨터의 명령 처리 장치로 보내 주는 역할을 할 뿐입니다 .
+(S
+    (VP
+         (VP (NP `/sl+3/nnc+`/sr+을/jco)
+              (V 치/pvg+면/ecs))
+         (VP (NP 그것/npd+을/jco )
+              (PP 기계/ncn+적/xsn+으로/jca )
+              (V 변화/ncpa+시키/xsv+어서/ecs))
+         (VP (AP (NP (AP (PP (AP 컴퓨터/ncn+의/jcm)
+                                (PP (AP 명령/ncn )
+                                     (AP 처리/ncn )
+                                     (PP 장치/ncn+로/jca)))
+                             (AP (V 보내/pvg+어/ecx)
+                                  (AP 주/px+는/etm)))
+                        (NP 역할/ncn+을/jco))
+                   (AP 하/pvg+ㄹ/etm))
+              (V 뿐/nbn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 그러므로 고장날까 두려워하지 말고 열심히 글자판을 두드려야 합니다 .
+(S
+    (VP
+         (VP
+             (IP 그러므로/maj)
+             (V (V 고장/ncn+나/pvg+ㄹ까/ef )
+                 (V 두렵/paa+어/ecx+하/px+지/ecx )
+                 (AUXP 말/px+고/ecc)))
+         (VP (ADVP 열심/ncn+히/xsa)
+              (NP 글자판/ncn+을/jco )
+              (V (V 두드리/pvg+어야/ecs )
+                  (V 하/pvg+ㅂ니다/ef))))+./sf)
+
+
+; 우선 글자판을 자유 자재로 활용하려면 , 두드리는 손가락의 위치가 중요합니다 .
+(S
+    (VP
+         (VP (ADVP 우선/mag )
+              (NP 글자판/ncn+을/jco )
+              (PP (AP 자유/ncn )
+                   (PP 자재/ncn+로/jca))
+              (V 활용/ncn++하/xsv+려면/ecs))+,/sp
+         (VP 
+              (NP (AP 두드리/pvg+는/etm )
+                   (AP 손가락/ncn+의/jcm )
+                   (NP 위치/ncn+가/jcs))
+              (V 중요/ncps+하/xsm+ㅂ니다/ef)))+./sf)
+
+
+; 되도록 키는 가볍고 경쾌하게 , 오르간 연주가 아닌 실로폰 연주처럼 짧게 끊어 쳐야 합니다 .
+(S
+    (VP
+         (VP
+              (ADVP 되도록/mag )
+              (NP 키/ncn+는/jxc )
+              (V (V 가볍/paa+고/ecc )
+                  (V 경쾌/ncps+하/xsm+게/ecc)))+,/sp
+         (VP
+              (PP (AP (NP (AP 오르간/ncn )
+                            (NP 연주/ncn+가/jcc))
+                       (AP 아니/paa+ㄴ/etm))
+                   (PP (AP 실로폰/ncn)
+                        (PP 연주/ncn+처럼/jca)))
+              (V (V 짧/paa+게/ecc )
+                 (V 끊/pvg+어/ecs )
+                 (V 치/pvg+어야/ecs )
+                 (V 하/pvg+ㅂ니다/ef))))+./sf)
+
+
+; 한두 개의 손가락만 사용하지 말고 , 열 손가락을 다 사용해야 힘도 덜 들고 효율적입니다 .
+(S
+    (VP
+         (VP
+              (NP (AP 한두/nnc)
+                   (AP 개/nbu+의/jcm)
+                   (NP 손가락/ncn+만/jxc))
+              (V (V 사용/ncpa+하/xsv+지/ecx)
+                  (AUXP 말/px+고/ecc)))+,/sp
+         (VP 
+              (NP (AP 열/nnc)
+                   (NP 손가락/ncn+을/jco))
+              (ADVP 다/mag)
+              (V 사용/ncpa+하/xsv+어야/ecs))
+         (VP 
+              (NP 힘/ncn+도/jxc)
+              (ADVP 덜/mag)
+              (V (V 들/pvg+고/ecc)
+                  (V 효율/ncn+적/xsn+이/jp+ㅂ니다/ef))))+./sf)
+
+
+; 흔히 말하듯이 ` 자세 ` 가 중요합니다 .
+(S
+    (VP
+         (VP (ADVP 흔히/mag )
+              (V 말/ncpa+하/xsv+듯이/ecs))
+         (VP (NP `/sl+자세/ncn+`/sr+가/jcs )
+              (V 중요/ncps+하/xsm+ㅂ니다/ef)))+./sf)
+
+
+; 일반적으로 눈과 화면사이의 거리는 45 - 55 cm 정도 되어야 합니다 .
+(S
+    (VP (PP 일반/ncn+적/xsn+으로/jca )
+         (NP (AP (NP 눈/ncn+과/jcj )
+                   (AP 화면/ncn+사이/ncn+의/jcm))
+              (NP 거리/ncn+는/jxc))
+         (NP (AP 45/nnc+-/sd)
+              (AP 55/nnc+cm/su)
+              (NP 정도/nbn))
+         (V (V 되/pvg+어야/ecs )
+             (V 하/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 키를 칠 때의 유의 사항은 팔과 손을 거의 일직선으로 유지시켜야 한다는 점입니다.
+(S
+   (VP
+         (NP (AP (AP (NP 키/ncn+를/jco )
+                       (AP 치/pvg+ㄹ/etm))
+                  (AP 때/ncn+의/jcm))
+              (NP (AP 유의/jcm)
+                   (NP 사항/ncn+은/jxc)))
+         (NP (NP 팔/ncn+과/jcj)
+              (NP 손/ncn+을/jco))
+         (ADVP 거의/mag )
+         (VP (AP (PP 일직선/ncn+으로/jca )
+                  (AP (V 유지/ncpa+시키/xsv+어야/ecs )
+                       (AP 하/pvg+ㄴ다/ef+는/etm)))
+              (V 점/nbu+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 사용하고 있는 소프트웨어에 따라 다소 차이는 있으나 , 대략 다음과 같은 역할을 합니다 .
+(S
+    (VP
+         (VP
+              (PP (AP (V 사용/ncpa+하/xsv+고/ecx )
+                       (AP 있/px+는/etm))
+                   (PP 소프트웨어/ncn+에/jca))
+              (V 따르/pvg+아/ecs))
+         (VP (ADVP 다소/mag )
+              (NP 차이/ncn+는/jxc )
+              (V 있/paa+으나/ecs))+,/sp
+         (VP (ADVP 대략/ncn )
+              (NP (AP (PP 다음/ncn+과/jct )
+                       (AP 같/paa+ㄴ/etm))
+                   (NP 역할/ncn+을/jco))
+              (V 하/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 우리들이 ` 컴퓨터를 사용해서 일을 끝마쳤다 ` 는 말을 할 수 있기 위해서는 , ` 딱딱한  기계 ` ( Hardware ) 와 이를 돕는 ` 말랑말랑한 프로그램 ` ( Software ) 을 함께 사용해야 합니다 .
+(S
+    (VP 
+         (VP
+              (NP 우리/npp+들/xsn+이/jcs )
+              (NP `/sl+컴퓨터/ncn+를/jco )
+              (V 사용/ncpa+하/xsv+어서/ecs))
+         (VP
+              (NP (NP (NP (AP (NP (AP (NP 일/ncn+을/jco )
+                                          (AP 끝마치/pvg+었/ep+다/ef+`/sr+는/etm))
+                                     (NP 말/ncn+을/jco))
+                                 (AP 하/pvg+ㄹ/etm))
+                            (NP 수/nbn))
+                       (NP 있/paa+기/etn))
+                   (NP 위하/pvg+어서/ecs+는/jxc))+,/sp
+              (NP (NP (AP '/sl+딱딱하/paa+ㄴ/etm )
+                        (NP 기계/ncn+`/sr+(/sl+Hardware/f+)/sr+와/jcj))
+                   (NP (AP (NP 이/npd+를/jco )
+                            (AP 돕/pvg+는/etm ))
+                        (NP (AP `/sl+말랑말랑하/paa+ㄴ/etm )
+                            (NP 프로그램/ncn+`/sr+(/sl+Software/f+)/sr+을/jco))))
+              (ADVP 함께/mag )
+              (V (V 사용/ncpa+하/xsv+어야/ecs )
+                  (V 하/pvg+ㅂ니다/ef))))+./sf)
+
+
+; 소프트웨어란 흔히 하드웨어와 대비하여 많이 쓰는 말입니다 .
+(S
+    (VP
+         (VP
+              (NP 소프트웨어/ncn+란/jxc )
+              (ADVP 흔히/mag )
+              (PP 하드웨어/ncn+와/jct)
+              (V 대비/ncpa+하/xsv+어/ecs))
+         (VP
+              (AP (ADVP 많/paa+이/xsa )
+                  (AP 쓰/pvg+는/etm ))
+             (V 말/ncn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 단순히 프로그램이라는 뜻으로 사용되기도 하지만 , 작동방법과 절차 , 관련된 지식들 모두를 아울러 뜻하는 셈이지요 .
+(S
+    (VP
+         (VP
+              (ADVP 단순/ncn+히/xsa )
+              (NP (PP (AP 프로그램/ncn+이/jp+라/ef+는/etm )
+                       (PP 뜻/ncn+으로/jca))
+                   (NP 사용/ncpa+되/xsv+기/etn+도/jxc))
+              (V 하/pvg+지만/ecs))+,/sp
+         (VP
+              (AP (NP (NP (NP 작동/ncn+방법/ncn+과/jcj )
+                            (NP 절차/ncn))+,/sp
+                        (NP (AP 관련/ncpa+되/xsv+ㄴ/etm )
+                             (NP 지식/ncn+들/xsn))
+                        (NP 모두/ncn+를/jco))
+                   (AP (V 아우르/pvg+어/ecs )
+                        (AP 뜻하/pvg+는/etm)))
+              (V 셈/nbn+이/jp+지/ef+요/jxf)))+./sf)
+
+
+; 뒤에서 다시 설명하겠지만 , 소프트웨어란 ( 1 ) 하드웨어를 움직이게 만드는 운용 프로그램과, ( 2 ) 그 결과 움직인 하드웨어를 다시 어떤 일을 하도록 시키는 프로그램으로 볼 수 있습니다 
+(S
+    (VP 
+         (VP
+              (PP 뒤/ncn+에서/jca)
+              (ADVP 다시/mag)
+              (V 설명/ncpa+하/xsv+겠/ep+지만/ecs))+,/sp
+         (VP
+              (NP 소프트웨어/ncn+란/jxc)
+              (IP (/sl+1/nnc+)/sr)
+              (NP (AP (NP 하드웨어/ncn+를/jco )
+                        (AP (V 움직이/pvg+게/ecc)
+                             (AP 만들/pvg+는/etm)))
+                   (NP (AP 운용/ncn)
+                        (AP 프로그램/ncn+과/jcj)))+,/sp
+              (IP (/sl+2/nnc+)/sr)
+              (NP (AP 그/mmd )
+                   (NP 결과/ncn))
+              (NP (AP 움직이/pvg+ㄴ/etm )
+                   (NP 하드웨어/ncn+를/jco))
+              (ADVP 다시/mag )
+              (NP (AP (PP (AP (NP (AP 어떻/pad+ㄴ/etm )
+                                     (NP 일/ncn+을/jco))
+                                 (AP (V 하/pvg+도록/ecs )
+                                      (AP 시키/pvg+는/etm)))
+                             (PP 프로그램/ncn+으로/jca))
+                        (AP 보/pvg+ㄹ/etm))
+                   (NP 수/nbn))
+              (V 있/paa+습니다/ef)))+./sf)
+
+
+; 하드웨어니 소프트웨어니 무슨 홈웨어 같은 옷 종류인가 보다 했다가 뜻밖에 어려운 설명이 나오니 조금 곤혹스러운 것입니다 .
+(S
+    (VP
+         (VP 
+              (NP (NP 하드웨어/ncn+니/jcj )
+                   (NP 소프트웨어/ncn+니/jcj))
+              (VP (AP 무슨/mmd )
+                   (AP 홈웨어/ncn)
+                   (AP 같/paa+ㄴ/etm)
+                   (VP (AP 옷/ncn )
+                        (V (V 종류/ncn+이/jp+ㄴ가/ef )
+                            (V 보/px+다/ef )
+                            (V 하/px+었/ep+다가/ecs)))))
+         (VP
+              (PP 뜻/ncn+밖에/jxc)
+              (NP (AP 어렵/paa+ㄴ/etm )
+                   (NP 설명/ncn+이/jcs))
+              (V 나오/pvg+니/ecs))
+         (VP 
+              (AP (ADVP 조금/mag )
+                   (AP 곤혹/ncn+스럽/xsm+ㄴ/etm))
+              (V 것/nbn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 하드웨어가 눈에 보이는 장치들을 뜻한다면 , 소프트웨어란 눈에 안 보이는 명령들의 모음을 말합니다 .
+(S
+    (VP
+         (VP
+              (NP 하드웨어/ncn+가/jcs )
+              (NP (AP (PP 눈/ncn+에/jca )
+                        (AP 보이/pvg+는/etm))
+                   (NP 장치/ncn+들/xsn+을/jco))
+              (V 뜻/ncpa+하/xsv+ㄴ다/ef+면/ecs))+,/sp
+         (VP
+              (NP 소프트웨어/ncn+란/jxc )
+              (NP (AP (PP 눈/ncn+에/jca )
+                        (AP (ADVP 안/mag )
+                             (AP 보이/pvg+는/etm)))
+                   (NP (AP 명령/ncn+들/xsn+의/jcm)
+                        (NP 모음/ncn+을/jco)))
+              (V 말/ncpa+하/xsv+ㅂ니다/ef)))+./sf)
+
+
+; 그렇다면 프로그램은 눈에 안 보이는 명령어의 모음이라고 정의하면 앞뒤가 꼭꼭 들어맞지요 ?
+(S
+    (VP
+         (VP
+              (IP 그렇다면/maj )
+              (NP 프로그램/ncn+은/jxc )
+              (NP (AP (PP 눈/ncn+에/jca )
+                        (AP (ADVP 안/mag )
+                             (AP 보이/pvg+는/etm)))
+                   (NP (AP 명령어/ncn+의/jcm )
+                        (NP 모음/ncn+이/jp+라/ef+고/jcr)))
+              (V 정의/ncpa+하/xsv+면/ecs))
+         (VP
+              (NP 앞뒤/ncn+가/jcs )
+              (ADVP 꼭꼭/mag )
+              (V 들어맞/pvg+지/ef+요/jxf)))+?/sf)
+
+
+; 여기서는 먼저 하드웨어에 대해서 알아보기로 하겠습니다 .
+(S
+    (VP (PP 여기/npd+서/jca+는/jxc )
+         (ADVP 먼저/mag )
+         (PP (PP 하드웨어/ncn+에/jca )
+             (PP (V 대하/pvg+어서/ecs)
+                 (PP 알/pvg+아/ecx+보/px+기/etn+로/jca)))
+         (V 하/pvg+겠/ep+습니다/ef))+./sf)
+
+
+; 그러니까 필요에 따라서는 각 장치 부문마다 새로운 기기들을 계속해서 덧붙일 수 있다는 말이지요 .
+(S
+    (VP
+         (IP 그러니까/maj )
+         (NP (PP 필요/ncn+에/jca )
+              (NP 따르/pvg+아서/ecs+는/jxc))
+         (PP (AP 각/mma )
+              (AP 장치/ncn )
+              (PP 부문/ncn+마다/jxc))
+         (VP (AP (NP (AP (NP (AP 새롭/paa+ㄴ/etm )
+                                (NP 기기/ncn+들/xsn+을/jco))
+                           (AP (V 계속/ncpa+하/xsv+어서/ecs)
+                                (AP 덧붙이/pvg+ㄹ/etm)))
+                       (NP 수/nbn))
+                  (AP 있/paa+다/ef+는/etm))
+              (V 말/ncn+이/jp+지/ef+요/jxf)))+./sf)
+
+
+; * Scanner : 어떤 대상을 화면으로 처리하여 입력하는 장치임 .
+(S
+    (VP
+        (IP */sy+Scanner/f+:/sp)
+        (NP (AP 어떻/pad+ㄴ/etm )
+            (NP 대상/ncn+을/jco))
+        (VP (AP (PP 화면/ncn+으로/jca )
+                 (AP (V 처리/ncpa+하/xsv+어/ecs )
+                      (AP 입력/ncpa+하/xsv+는/etm)))
+             (V 장치/ncn+이/jp+ㅁ/etn)))+./sf)
+
+
+; * Joystick : 쉽게 게임이나 오락을 할 수 있도록 고안된 장치임 .
+(S
+    (VP
+         (IP */sy+Joystick/f+:/sp)
+         (ADVP 쉽/paa+게/xsa)
+         (VP (AP (NP (AP (NP (NP 게임/ncn+이나/jcj)
+                                (NP 오락/ncn+을/jco))
+                           (AP 하/pvg+ㄹ/etm))
+                       (NP 수/nbn))
+                  (AP (V 있/paa+도록/ecs)
+                       (AP 고안/ncpa+되/xsv+ㄴ/etm)))
+             (V 장치/ncn+이/jp+ㅁ/etn)))+./sf)
+
+
+; 이 세 가지 역할을 통틀어서 처리 라는 말로 표현하는 셈입니다 .
+(S
+    (VP
+         (VP
+              (NP (AP 이/mmd )
+                   (AP 세/nnc )
+                   (AP 가지/nbu )
+                   (NP 역할/ncn+을/jco))
+              (V 통틀/pvg+어서/ecs))
+         (VP
+              (AP (PP (AP 처리/ncn+라/ef+는/etm )
+                       (PP 말/ncn+로/jca))
+                   (AP 표현/ncpa+하/xsv+는/etm))
+              (V 셈/nbn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 그러므로 정리하자면 , 본체는 사람의 뇌와 같이 기억하고 , 계산도 하고 , 각 부분들을 명령대로 움직이게 하는 중추적인  역할을 합니다 .
+(S
+    (VP
+         (VP 
+              (IP 그러므로/maj )
+              (V 정리/ncpa+하/xsv+자/ef+면/ecs))+,/sp
+         (VP
+              (NP 본체/ncn+는/jxc )
+              (ADVP (PP (AP 사람/ncn+의/jcm )
+                          (PP 뇌/ncn+와/jct ))
+                     (ADVP 같/paa+이/xsa))
+              (V 기억/ncpa+하/xsv+고/ecc))+,/sp
+         (VP
+              (NP 계산/ncn+도/jxc )
+              (V 하/pvg+고/ecc))+,/sp
+         (VP
+              (NP (AP 각/mma )
+                   (NP 부분/ncn+들/xsn+을/jco ))
+              (NP (AP (PP 명령/ncn+대로/jca )
+                        (AP (V 움직이/pvg+게/ecx )
+                             (AP 하/px+는/etm )))
+                   (NP (AP 중추/ncn+적/xsn+이/jp+ㄴ/etm )
+                        (NP 역할/ncn+을/jco)))
+               (V 하/pvg+ㅂ니다/ef )))+./sf)
+
+
+; 어쩌면 본체 내부에 대한 설명은 컴퓨터를 처음 대하는 사람들에게 흥미보다는 오히려 두려움을 갖게 만들는지도 모릅니다 .
+(S
+    (VP
+         (ADVP 어쩌면/mag )
+         (NP (AP (PP (AP 본체/ncn)
+                      (PP 내부/ncn+에/jca))
+                  (AP 대하/pvg+ㄴ/etm))
+              (NP 설명/ncn+은/jxc))
+         (NP 컴퓨터/ncn+를/jco )
+         (PP (AP (ADVP 처음/mag )
+                  (AP 대하/pvg+는/etm))
+             (PP 사람/ncn+들/xsn+에게/jca))
+         (PP 흥미/ncn+보다/jca+는/jxc)
+         (ADVP 오히려/mag )
+         (NP 두렵/paa+ㅁ/etn+을/jco )
+         (V (V 갖/pvg+게/ecx )
+             (V 만들/px+는지/ecs+도/jxc )
+             (V 모르/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 읽다가 어려우면 뒤로 훌쩍훌쩍 건너뛰며 읽어도 좋습니다 .
+(S
+    (VP
+         (VP (V (V 읽/pvg+다가/ecs )
+                  (V 어렵/paa+으면/ecs)))
+         (VP (PP 뒤/ncn+로/jca )
+              (ADVP 훌쩍훌쩍/mag )
+              (V (V 건너뛰/pvg+며/ecc)
+                  (V 읽/pvg+어도/ecs )
+                  (V 좋/paa+습니다/ef))))+./sf)
+
+
+; 자동차 운전을 하기 위해서 자동차 부품을 일일이 알아야 할 필요는 없을 테니까요 .
+(S
+    (VP
+         (VP
+              (NP (NP (AP 자동차/ncn )
+                       (NP 운전/ncn+을/jco))
+                   (NP 하/pvg+기/etn))
+              (V 위하/pvg+어서/ecs))
+         (VP 
+              (NP (AP 자동차/ncn )
+                   (NP 부품/ncn+을/jco))
+              (VP (AP (NP (AP (ADVP 일일이/mag)
+                                (AP (V 알/pvg+아야/ecs )
+                                    (V 하/pvg+ㄹ/etm)))
+                            (NP 필요/ncn+는/jxc))
+                       (AP 없/paa+ㄹ/etm))
+                  (V 터/nbn+이/jp+니까/ecs+요/jxf))))+./sf)
+
+
+; 하지만 전혀 모른 것보다는 최소한 부품들의 이름만이라도 알아두면 좋기야 좋지요 .
+(S
+    (VP
+         (IP 하지만/maj )
+         (PP (AP (ADVP 전혀/mag )
+                  (AP 모르/pvg+ㄴ/etm))
+              (PP 것/nbn+보다/jca+는/jxc))
+         (NP (NP (AP 최소/ncps+하/xsm+ㄴ/etm )
+                  (AP 부품/ncn+들/xsn+의/jcm )
+                  (NP 이름/ncn+만/jxc+이/jp+라도/jxc))
+              (NP (V 알/pvg+아/ecx+두/px+면/ecs)
+                   (NP 좋/paa+기/etn+야/jxc)))
+         (V 좋/paa+지/ef+요/jxf))+./sf)
+
+
+; 고장난 차를 끌고 정비소에 가더라도 좀 아는 척을 해야 싸게 고치지요 .
+(S
+    (VP
+         (VP
+              (NP (AP 고장나/pvg+ㄴ/etm )
+                   (NP 차/ncn+를/jco))
+              (V 끌/pvg+고/ecc))
+         (VP (PP 정비소/ncn+에/jca )
+              (V 가/pvg+더라도/ecs))
+         (VP
+              (NP (AP (ADVP 좀/mag )
+                       (AP 알/pvg+는/etm))
+                   (NP 척/ncn+을/jco))
+              (V (V 하/pvg+어야/ecs )
+                 (V 싸/pvg+게/ecx )
+                 (V 고치/pvg+지/ef+요/jxf))))+./sf)
+
+
+; 1 전원 공급 장치 ( Power Supply ) 제아무리 좋은 컴퓨터도 전기가 흐르지 않으면 꿈쩍도 안 합니다 .
+(S
+    (VP
+         (VP
+              (IP 1/nno )
+              (NP (AP 전원/ncn )
+                  (AP 공급/ncn)
+                  (NP 장치/ncn+(/sl+Power/f+Supply/f+)/sr))
+              (NP (AP (ADVP 제아무리/mag )
+                       (AP 좋/paa+ㄴ/etm))
+                   (NP 컴퓨터/ncn+도/jxc))
+              (NP 전기/ncn+가/jcs )
+              (V (V 흐르/pvg+지/ecx )
+                  (AUXP 않/px+으면/ecs)))
+         (VP
+             (NP 꿈쩍/ncn+도/jxc )
+             (ADVP 안/mag )
+             (V 하/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 그러므로 컴퓨터 내부에 전원을 공급해 주는 ` 전원 공급 장치 ( Power Supply )` 가 반드시 있어야 합니다 .
+(S
+    (VP
+         (IP 그러므로/maj )
+         (PP (AP 컴퓨터/ncn )
+              (PP 내부/ncn+에/jca))
+         (NP (AP (NP 전원/ncn+을/jco )
+                  (AP (V 공급/ncpa+하/xsv+어/ecx )
+                       (AP 주/px+는/etm)))
+              (NP (AP `/sl+전원/ncn )
+                   (AP 공급/ncn )
+                   (NP 장치/ncn+(/sl+Power/f+Supply/f+)/sr+`/sl+가/jcs)))
+         (ADVP 반드시/mag )
+         (V (V 있/paa+어야/ecs )
+             (V 하/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 컴퓨터가 작동이 되면 뒤에서 ` 윙 ` 하는 소리가 들리는데 이것이 바로 전원 공급 장치에 있는 냉각 팬이 돌아가는 소리랍니다 .
+(S
+    (VP
+         (VP
+              (NP 컴퓨터/ncn+가/jcs )
+              (NP 작동/ncn+이/jcc )
+              (V 되/pvg+면/ecs))
+         (VP
+              (PP 뒤/ncn+에서/jca )
+              (NP (AP (AP `/sl+윙/ncn+`/sr)
+                       (AP 하/pvg+는/etm))
+                   (NP 소리/ncn+가/jcs))
+              (V 들리/pvg+는데/ecs))
+         (VP
+              (NP 이것/npd+이/jcs )
+              (ADVP 바로/mag )
+              (VP (AP (NP (AP (PP (AP 전원/ncn )
+                                      (AP 공급/ncn)
+                                      (PP 장치/ncn+에/jca))
+                                  (AP 있/paa+는/etm))
+                             (NP (AP 냉각/ncn)
+                                  (NP 팬/ncn+이/jcs)))
+                        (AP 돌아가/pvg+는/etm))
+                   (V 소리/ncn+라/ef+ㅂ니다/ef))))+./sf)
+
+
+; 전원 공급 장치는 일반 가정에 들어오는 교류 전원을 직류 전원 (보통 5V 또는 12V)로 바꾸어 각 기판에 공급해 주는 역할을 맡아 합니다.
+(S
+    (VP
+         (VP
+              (NP (AP 전원/ncn)
+                   (AP 공급/ncn)
+                   (NP 장치/ncn+는/jxc))
+              (NP (AP (PP (AP 일반/ncn )
+                            (PP 가정/ncn+에/jca))
+                       (AP 들어오/pvg+는/etm))
+                  (NP (AP 교류/ncn )
+                       (NP 전원/ncn+을/jco)))
+              (PP (AP 직류/ncn)
+                  (PP 전원/ncn))
+                        (ADVP (/sl+보통/ncn)
+                        (NP 5/nnc+V/sy)
+                        (ADVP 또는/maj)
+                        (PP 12/nnc+V/sy+)/sr+으로/jca)
+              (V 바꾸/pvg+어/ecs))
+         (VP
+              (NP (AP (PP (AP 각/mma)
+                           (PP 기판/ncn+에/jca))
+                       (AP (V 공급/ncpa+하/xsv+어/ecx)
+                            (AP 주/px+는/etm)))
+                   (NP 역할/ncn+을/jco))
+             (V (V 맡/pvg+아/ecc)
+                 (V 하/pvg+ㅂ니다/ef))))+./sf)
+
+
+; 따라서 이 장치가 불안정하면 컴퓨터가 자주 서게 ( down ) 되므로 , 충분한 수용량을 가진 안전한 공급기를 사용해야 되겠지요 .
+(S
+    (VP
+         (VP
+              (IP 따라서/maj)
+              (NP (AP 이/mmd )
+                   (NP 장치/ncn+가/jcs))
+              (V 불안정/ncpa+하/xsv+면/ecs))
+         (VP
+              (NP 컴퓨터/ncn+가/jcs )
+              (ADVP 자주/mag )
+              (V (V 서/pvg+게/ecx+(/sl+down/f+)/sr)
+                  (AUXP 되/px+므로/ecs)))+,/sp
+         (VP 
+              (NP (AP (NP (AP 충분/ncps+하/xsm+ㄴ/etm)
+                            (NP 수용량/ncn+을/jco))
+                        (AP 가지/pvg+ㄴ/etm))
+                   (NP (AP 안전/ncps+하/xsm+ㄴ/etm)
+                        (NP 공급기/ncn+를/jco)))
+              (V (V 사용/ncpa+하/xsv+어야/ecs)
+                  (V 되/pvg+겠/ep+지/ef+요/jxf))))+./sf)
+
+
+; 마치 우물 안을 들여다보듯 자세히 보면 여러 개의 기판 ( Card ) 들이 수직으로 꽃혀 있는 큼직한 평판이 눈에 뜨입니다 .
+(S
+    (VP
+         (VP
+              (ADVP 마치/mag )
+              (NP (AP 우물/ncn )
+                   (NP 안/ncn+을/jco))
+              (V 들여다보/pvg+듯/ecs))
+         (VP
+              (ADVP 자세/ncn+히/xsa )
+              (V 보/pvg+면/ecs))
+         (VP
+              (NP (AP 여러/mma )
+                   (AP 개/nbu+의/jcm )
+                   (NP 기판/ncn+(/sl+Card/f+)/sr+들/xsn+이/jcs))
+              (NP (AP (PP 수직/ncn+으로/jca)
+                       (AP (V 꽃히/pvg+어/ecx)
+                            (AP 있/px+는/etm)))
+                  (NP (AP 큼직/ncps+하/xsm+ㄴ/etm)
+                       (NP 평판/ncn+이/jcs)))
+              (PP 눈/ncn+에/jca )
+              (V 뜨이/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 이 엄마 보드는 다른 기판들을 마치 어머니처럼 보살피며 , 인간의 머리와 같은 역할을 합니다 .
+(S
+    (VP
+         (VP
+              (NP (AP 이/mmd)
+                   (AP 엄마/ncn)
+                   (NP 보드/ncn+는/jxc))
+              (NP (AP 다르/paa+ㄴ/etm )
+                   (NP 기판/ncn+들/xsn+을/jco))
+              (ADVP 마치/mag )
+              (PP 어머니/ncn+처럼/jca )
+              (V 보살피/pvg+며/ecc))+,/sp
+         (VP
+              (NP (AP (PP (AP 인간/ncn+의/jcm )
+                            (PP  머리/nbn+와/jct))
+                        (AP 같/paa+ㄴ/etm))
+                   (NP 역할/ncn+을/jco ))
+              (V 하/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 바로 그것이 컴퓨터의 두뇌라 할 수 있는 ` 중앙 처리 장치 ( CPU : Central Processing Unit )` 랍니다 .
+(S
+    (VP
+         (ADVP 바로/mag )
+         (NP 그것/npd+이/jcs )
+         (VP (AP (NP (AP 컴퓨터/ncn+의/jcm )
+                       (AP 두뇌/paa+라/ef )
+                       (AP 하/pvg+ㄹ/etm )
+                       (NP 수/nbn))
+                  (AP 있/paa+는/etm))
+             (VP (AP `/sl 중앙/ncn )
+                  (AP 처리/ncn )
+                  (V 장치/ncn+(/sl+CPU/f+:/sp+Central/f+Processing/f+Unit/f+)/sr+`/sr+라/ef+ㅂ니다/ef))))+./sf)
+
+
+; 알아두면 좋지요 우리가 쓰는 컴퓨터는 CPU 가 하나의 집적 회로 ( IC : Integrated Circuit ) 로 이루어져 있는데 , 이처럼 하나의 IC 로 이루어진 CPU 를 ` 마이크로프로세서 ( Microprocessor )` 라고 합니다 .
+(S
+    (VP
+         (VP
+              (V (V 알/pvg+아/ecx+두/px+면/ecs )
+                  (V 좋/paa+지/ef+요/jxf)))
+         (VP
+              (NP (AP (NP 우리/npp+가/jcs )
+                       (AP 쓰/pvg+는/etm))
+                   (NP 컴퓨터/ncn+는/jxc))
+              (NP CPU/f+가/jcs)
+              (PP (AP 하나/nnc+의/jcm )
+                   (AP 집적/ncn)
+                   (PP 회로/ncn+(/sl+IC/f+:/sp+Integrated/f+Circuit/f+)/sr+로/jca))
+              (V (V 이루/pvg+어/ecx+지/px+어/ecx)
+                  (AUXP 있/px+는데/ecs)))+,/sp
+         (VP
+              (PP 이/npd+처럼/jca )
+              (NP (NP (AP (PP (AP 하나/ncn+의/jcm )
+                                (PP IC/f+로/jca))
+                            (AP 이루/pvg+어/ecx+지/px+ㄴ/etm))
+                       (NP CPU/f+를/jco))
+                  (NP `/sl+마이크로프로세서/ncn+(/sl+Microprocessor/f+)/sr+`/sr+라고/jcr))
+              (V 하/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 마이크로프로세서는 컴퓨터의 CPU 로 이용될 뿐만 아니라 , 프린터나 디스크 장치 , 단말기 등에 두루 사용됩니다 .
+(S
+    (VP
+         (VP
+              (NP 마이크로프로세서/ncn+는/jxc )
+              (NP (AP (PP (AP 컴퓨터/ncn+의/jcm )
+                           (PP CPU/f+로/jca))
+                       (AP 이용/ncpa+되/xsv+ㄹ/etm))
+                   (NP 뿐/nbn+만/jxc))
+              (V 아니/paa+라/ecs))+,/sp
+         (VP
+              (PP (NP (NP (NP 프린터/ncn+나/jcj )
+                           (NP (AP 디스크/ncn)
+                                (NP 장치/ncn)))+,/sp
+                       (NP 단말기/ncn))
+                  (PP 등/nbn+에/jca))
+             (ADVP 두루/mag )
+             (V 사용/ncpa+되/xsv+ㅂ니다/ef)))+./sf)
+
+
+; ` 주기억 장치 ` 를 찾아야 하니까요 .
+(S
+    (VP
+         (NP (AP `/sl+주기억/ncn)
+             (NP 장치/ncn+`/sr+를/jco))
+         (V (V 찾/pvg+아야/ecs )
+             (V 하/pvg+니까/ecs+요/jxf)))+./sf)
+
+
+; 이 칩들을 ` 램 ( RAM : Random Access Memory )` 이라고 부르는데 ,  CPU 가 직접적으로 처리할 수 있는 기억 장치로서 작업에 필요한 정보를 저장해 둡니다 .
+(S
+    (VP
+         (VP
+              (NP (NP (AP 이/mmd )
+                       (NP 칩/ncn+들/xsn+을/jco ))
+                  (NP `/sl+램/ncn+(/sl+RAM/sy+:/sp+Random/f+Access/f+Memory/f+)/sr+`/sr+이/jp+라/ef+고/jcr))
+              (V 부르/pvg+는데/ecs))+,/sp
+         (VP
+              (NP CPU/f+가/jcs )
+              (PP (AP (NP (AP (PP 직접/ncn+적/xsn+으로/jca )
+                                  (AP 처리/ncpa+하/xsv+ㄹ/etm ))
+                             (NP 수/nbn ))
+                        (AP 있/paa+는/etm ))
+                   (PP (AP 기억/mma)
+                        (PP 장치/ncn+로서/jca)))
+              (NP (AP (PP 작업/ncn+에/jca )
+                        (AP 필요/ncpa+하/xsv+ㄴ/etm ))
+                   (NP 정보/ncn+를/jco ))
+              (V (V 저장/ncpa+하/xsv+어/ecx )
+                  (AUXP 두/px+ㅂ니다/ef ))))+./sf)
+
+
+; 하지만 이 램이라는 장치는 전기가 끊어지면 갖고 있던 정보들이 모두 소실되는 특성이 있습니다 .
+(S
+    (VP
+         (VP
+              (IP 하지만/maj )
+              (NP (AP 이/mmd )
+                   (AP 램/ncn+이/jp+라/ef+는/etm)
+                   (NP 장치/ncn+는/jxc ))
+              (NP 전기/ncn+가/jcs )
+              (V 끊/pvg+어/ecx+지/px+면/ecs))
+         (VP
+              (NP (AP (V 갖/pvg+고/ecx )
+                       (AP 있/px+던/etm ))
+                   (NP 정보/ncn+들/xsn+이/jcs ))
+              (NP (AP (ADVP 모두/mag)
+                        (AP 소실/ncpa+되/xsv+는/etm ))
+                   (NP 특성/ncn+이/jcs ))
+              (V 있/paa+습니다/ef)))+./sf)
+
+
+; 그래서 오래 기억해야 할 정보들은 ` 보조 기억 장치 ` 에 옮겨놓아야 합니다 .
+(S
+    (VP
+         (IP 그래서/maj)
+         (NP (AP (ADVP 오래/mag )
+                   (AP (V 기억/ncpa+하/xsv+어야/ecs )
+                        (AP 하/pvg+ㄹ/etm )))
+              (NP 정보/ncn+들/xsn+은/jxc ))
+         (PP (AP '/sl+보조/ncn )
+              (AP 기억/nnc)
+              (PP 장치/ncn+`/sr+에/jca ))
+         (V (V 옮기/pvg+어/ecx+놓/px+아야/ecs )
+             (V 하/pvg+ㅂ니다/ef )))+./sf)
+
+
+; 롬은 램과 달리 저장된 내용은 하되 변경할 수 없는 특징이 있습니다 .
+(S
+    (VP
+         (VP
+              (NP 롬/ncn+은/jxc)
+              (ADVP (PP 램/ncn+과/jct)
+                      (V 다르/paa+이/xsa))
+              (NP (AP 저장/ncpa+되/xsv+ㄴ/etm )
+                   (NP 내용/ncn+은/jxc ))
+              (V 하/pvg+되/ecs ))
+         (VP
+              (NP (AP (NP (AP 변경/ncpa+하/xsv+ㄹ/etm )
+                            (NP 수/nbn ))
+                       (AP 없/paa+는/etm ))
+                  (NP 특징/ncn+이/jcs ))
+              (V 있/paa+습니다/ef)))+./sf)
+
+
+; 그리고 역시 램과는 달리 전원이 끊어져도 그 내용이 남아 있으므로 , 주로 시스템이 항상 기억하고 있어야 하는 부분들을 저장하는 목적으로 사용됩니다 .
+(S
+    (VP
+         (VP
+              (IP 그리고/maj )
+              (ADVP 역시/mag )
+              (ADVP (PP 램/ncn+과/jcj+는/jxc )
+                      (ADVP 다르/paa+이/xsa ))
+              (NP 전원/ncn+이/jcs )
+              (V 끊어지/pvg+어도/ecs ))
+         (VP
+              (NP (AP 그/mmd )
+                   (NP 내용/ncn+이/jcs ))
+              (V (V 남/pvg+아/ecx )
+                  (AUXP 있/px+으므로/ecs )))+,/sp
+         (VP
+              (ADVP 주로/mag )
+              (NP 시스템/ncn+이/jcs )
+              (PP (AP (NP (AP (ADVP 항상/mag )
+                                (AP (V 기억/ncpa+하/xsv+고/ecx )
+                                     (AUXP 있/px+어야/ecs)
+                                     (AP 하/pvg+는/etm)))
+                             (NP 부분/ncn+들/xsn+을/jco ))
+                        (AP 저장/ncpa+하/xsv+는/etm ))
+                   (PP 목적/ncn+으로/jca ))
+              (V 사용/ncpa+되/xsv+ㅂ니다/ef )))+./sf)
+
+
+; 출력 장치를 사용하게 되는데 여러분이 컴퓨터를 켰을 때 처음 화면에 나오는 메시지들은 바로 그 제품을 만든 회사에서 미리 롬에 저장시켜 놓은 기본 자료들인 것입니다 .
+(S
+    (VP
+         (VP
+              (NP (AP 출력/ncn )
+                   (NP 장치/ncn+를/jco ))
+              (V (V 사용/ncpa+하/xsv+게/ecx )
+                  (AUXP 되/px+는데/ecs )))
+         (VP 
+              (NP 여러분/npp+이/jcs )
+              (PP (AP (NP 컴퓨터/ncn+를/jco )
+                       (AP 키/pvg+었/ep+ㄹ/etm ))
+                   (PP 때/ncn ))
+              (ADVP 처음/ncn )
+              (NP (AP (PP 화면/ncn+에/jca )
+                        (AP 나오/pvg+는/etm ))
+                   (NP 메시지/ncn+들/xsn+은/jxc ))
+              (ADVP 바로/mag )
+              (PP (AP (NP (AP 그/mmd )
+                             (NP 제품/ncn+을/jco ))
+                        (AP 만들/pvg+ㄴ/etm ))
+                   (PP 회사/ncn+에서/jca ))
+              (ADVP 미리/mag )
+              (VP (AP (PP 롬/ncn+에/jca )
+                       (AP (V 저장/ncpa+시키/xsv+어/ecx )
+                            (AP 놓/px+ㄴ/etm)))
+                  (VP (AP 기본/ncn )
+                       (AP 자료/ncn+들/xsn+이/jp+ㄴ/etm)
+                       (V 것/nbn+이/jp+ㅂ니다/ef)))))+./sf)
+
+
+; 출력 장치를 사용하게 되는데 , 이때는 하나의 장치에 하나의 기판이 필요하게 됩니다 .
+(S
+    (VP
+         (VP 
+              (NP (AP 출력/ncn )
+                   (NP 장치/ncn+를/jco ))
+              (V (V 사용/ncpa+하/xsv+게/ecx )
+                  (AUXP 되/px+는데/ecs )))+,/sp
+         (VP
+              (NP 이때/ncn+는/jxc )
+              (PP (AP 하나/nnc+의/jcm )
+                   (PP 장치/ncn+에/jca ))
+              (NP (AP 하나/nnc+의/jcm )
+                   (NP 기판/ncn+이/jcs ))
+              (V (V 필요/ncps+하/xsm+게/ecx )
+                  (AUXP 되/px+ㅂ니다/ef))))+./sf)
+
+
+; 예를 들어 컴퓨터 음악을 연주하기 원한다면 , 그러한 기능을 가진 기판을 엄마 보드에 연결시켜 컴퓨터 시스탬을 다시 짜야 하겠지요 .
+(S
+    (VP
+         (VP
+              (IP (NP 예/ncn+를/jco )
+                  (V 들/pvg+어/ecs ))
+              (NP (NP (AP 컴퓨터/ncn )
+                        (NP 음악/ncn+을/jco ))
+                   (NP 연주/ncpa+하/xsv+기/etn))
+              (V 원하/pvg+ㄴ다/ef+면/ecs))+,/sp
+         (VP
+              (NP (AP (NP (AP 그러하/pad+ㄴ/etm )
+                            (NP 기능/ncn+을/jco ))
+                        (AP 가지/pvg+ㄴ/etm ))
+                   (NP 기판/ncn+을/jco ))
+              (PP (AP 엄마/ncn )
+                   (PP 보드/ncn+에/jca ))
+              (V 연결/ncpa+시키/xsv+어/ecc))
+         (VP
+              (NP (AP 컴퓨터/ncn )
+                   (NP 시스탬/ncn+을/jco ))
+              (ADVP 다시/mag )
+              (V (V 짜/pvg+야/ecs )
+                  (V 하/pvg+겠/ep+지/ef+요/jxf))))+./sf)
+
+
+; 그러므로 마더보드에는 다른 기판을  꽂을 수 있는 옴폭한 부분이 만들어져 있어야 합니다 .
+(S
+    (VP
+         (IP 그러므로/maj )
+         (PP 마더보드/ncn+에/jca+는/jxc )
+         (NP (AP (NP (AP (NP (AP 다르/paa+ㄴ/etm )
+                                 (NP 기판/ncn+을/jco ))
+                             (AP 꽃/pvg+을/jco ))
+                        (NP 수/nbn ))
+                   (AP 있/paa+는/etm ))
+              (NP (AP 옴폭/ncps+하/xsm+ㄴ/etm)
+                   (NP 부분/ncn+이/jcs)))
+         (V (V 만들/pvg+어/ecx+지/px+어/ecx )
+             (AUXP 있/px+어야/ecs)
+             (V 하/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 이 움푹한 부분을 대개 ` 슬롯 ( Slot )` 이라고 부릅니다 .
+(S
+    (VP
+         (NP (AP 이/mmd )
+              (AP 움푹/ncps+하/xsm+ㄴ/etm)
+              (NP 부분/ncn+을/jco))
+         (NP (ADVP 대개/mag )
+              (NP `/sl+슬롯/ncn+(/sl+Slot/f+)/sr+`/sr+이/jp+라/ef+고/jcr))
+         (V 부르/pvg+ㅂ니다/ef))+./sf)
+
+
+; 통상 8 개의 슬롯이 마더보드에 있는데 , 제품에 따라 다소 차이가 있습니다 .
+(S
+    (VP
+         (VP (ADVP 통상/mag )
+              (NP (AP 8/nnc )
+                   (AP 개/nbu+의/jcm)
+                   (NP 슬롯/ncn+이/jcs))
+              (PP 마더보드/ncn+에/jca )
+              (V 있/paa+는데/ecs ))+,/sp
+         (VP (PP 제품/ncn+에/jca )
+              (V 따르/pvg+아/ecs ))
+         (VP (ADVP 다소/mag )
+              (NP 차이/ncn+가/jcs )
+              (V 있/paa+습니다/ef )))+./sf)
+
+
+; 어떤 컴퓨터 ( 마더보드 ) 는 3-4개의 슬롯을 갖기도 하는데 , 슬롯은 여러 개의 호가장 장치를 꽃을 수  있으므로 아무래도 많을수록 좋습니다.
+(S
+    (VP
+         (VP
+              (NP (AP 어떻/pad+ㄴ/etm )
+                   (NP 컴퓨터/ncn+(/sl+마더보드/ncn+)/sr+는/jxc))
+              (NP (AP 3/nnc -/sd 4/nnc )
+                   (AP 개/nbu+의/jcm)
+                   (NP 슬롯/ncn+을/jco))
+              (V (V 갖/pvg+기/etn+도/jxc )
+                  (V 하/pvg+는데/ecs)))+,/sp
+         (VP
+              (NP 슬롯/ncn+은/jxc )
+              (NP (AP (NP (AP 여러/mma )
+                            (AP 개/nbu+의/jcm)
+                            (AP 호가장/ncn)
+                            (NP 장치/ncn+를/jco ))
+                       (AP 꽂/pvg+을/etm ))
+                  (NP 수/nbn ))
+              (V (V 있/paa+으므로/jca)
+                  (V 아무렇/pad+어도/ecs)
+                  (V 많/paa+ㄹ수록/ecs)
+                  (V 좋/paa+습니다/ef))))+./sf)
+
+
+; 본체 내부를 들여다보면 앞쪽에 상자 같은 모양의 ` 플로피 디스크 드라이브 ( FDD : Floppy Disk  Drive )` 와 ` 하드 디스크 드라이브 
+( HDD : Hard Disk Drive )` 가 있습니다 .
+(S
+    (VP
+         (VP 
+              (NP (AP 본체/ncn )
+                   (NP 내부/ncn+를/jco ))
+              (V 들여다보/pvg+면/ecs ))
+         (VP 
+              (PP 앞/ncn+쪽/xsn+에/jca)
+              (NP (AP 상자/ncn )
+                   (AP 같/paa+ㄴ/etm)
+                   (AP 모양/ncn+의/jcm)
+                   (NP (NP `/sl+플로피/ncn+디스크/ncn+드라이브/ncn+(/sl+FDD/f+:/sp+Floppy/f+Disk/f+Drive/f+)/sr+`/sr+와/jcj)
+                        (NP `/sl+하드/ncn+디스크/ncn+드라이브/ncn+(/sl+HDD/f+:/sp+Hard/f+Disk/f+Drive/f+)/sr+`/sr+가/jcs)))
+              (V 있/paa+습니다/ef)))+./sf)
+
+
+; 플로피 디스크 드라이브는 여러 장의 디스켓을 넣었다 뺐다 할 수 있도록 앞쪽에 홈이 패어 있으며 버튼 또는 레버가 달려 있습니다 .
+(S
+    (VP 
+         (VP
+              (NP (AP 플로피/ncn)
+                   (AP 디스크/ncn)
+                   (NP 드라이브/ncn+는/jxc))
+              (NP (AP (NP (AP 여러/mma )
+                            (AP 장/nbu+의/jcm)
+                            (NP 디스켓/ncn+을/jco))
+                        (AP (V 넣/pvg+었/ep+다/ef)
+                             (V 빼/pvg+ㅆ/ep+다/ef)
+                             (AP 하/px+ㄹ/etm)))
+                   (NP 수/nbn))
+              (V 있/paa+도록/ecs))
+         (VP
+              (PP 앞/ncn+쪽/xsn+에/jca )
+              (NP 홈/ncn+이/jcs )
+              (V (V 패이/pvg+어/ecx )
+                  (VAUXP 있/px+으며/ecs )))
+         (VP
+              (NP 버튼/ncn )
+              (IP 또는/maj )
+              (NP 레버/ncn+가/jcs )
+              (V (V 달리/pvg+어/ecx )
+                  (AUXP 있/paa+습니다/ef ))))+./sf)
+
+
+; 하드 디스크 드라이브는 아예 하드 디스크와 붙어 있기 때문에 별도로 그런 장치가 없습니다 .
+(S
+    (VP
+         (NP (AP 하드/ncn )
+              (AP 디스크/ncn)
+              (NP 드라이브/ncn+는/jxc ))
+         (ADVP 아예/mag )
+         (PP (NP (PP (AP 하드/ncn )
+                      (PP 디스크/ncn+와/jct ))
+                  (NP (V 붙/pvg+어/ecx )
+                      (NP 있/px+기/etn )))
+              (PP 때문/nbn+에/jca))
+         (PP 별도/ncn+로/jca )
+         (NP (AP 그렇/pad+ㄴ/etm )
+              (NP 장치/ncn+가/jcs ))
+         (V 없/paa+습니다/ef))+./sf)
+
+
+; 플로피 디스크 드라이브는 , 디스켓을 빠른 속도로 회전시키면서 원하는 정보를 찾거나 , 비어 있는 곳을 찾아 정보를 저장해 줍니다 .
+(S
+    (VP
+         (VP
+              (NP (AP 플로피/ncn )
+                   (AP 디스크/ncn)
+                   (NP 드라이브/ncn+는/jxc ))+,/sp
+              (NP 디스켓/ncn+을/jco )
+              (PP (AP 빠르/paa+ㄴ/etm )
+                   (PP 속도/ncn+로/jca))
+              (V 회전/ncpa+시키/xsv+면서/ecc))
+         (VP
+              (NP (AP 원하/pvg+는/etm )
+                   (NP 정보/ncn+를/jco ))
+              (V 찾/pvg+거나/ecc ))+,/sp
+         (VP
+              (NP (AP (V 비/paa+어/ecx )
+                       (AP 있/px+는/etm ))
+                   (NP 곳/ncn+을/jco ))
+              (V 찾/pvg+아/ecs))
+         (VP
+              (NP 정보/ncn+를/jco)
+              (V (V 저장/ncpa+하/xsv+어/ecx )
+                  (AUXP 주/px+ㅂ니다/ef))))+./sf)
+
+
+; 하드 디스크 드라이브도 역시 하드 디스크를 빠른 속도로 회전시키면서 정보를 입수합니다 .
+(S
+    (VP
+         (VP
+              (NP (AP 하드/ncn )
+                   (AP 디스크/ncn)
+                   (NP 드라이브/ncn+도/jxc))
+              (ADVP 역시/mag)
+              (NP (AP 하드/ncn )
+                   (NP 디스크/ncn+를/jco))
+              (PP (AP 빠르/paa+ㄴ/etm)
+                   (PP 속도/ncn+로/jca))
+              (V 회전/ncpa+시키/xsv+면서/ecc))
+         (VP
+              (NP 정보/ncn+를/jco)
+              (V 입수/ncpa+하/xsv+ㅂ니다/ef)))+./sf)
+
+
+; 알아두면 좋지요 앞으로 디스크 ( Disk ) 와 디스켓 ( Diskette ) 이라는 말이 뒤섞여 있는 곳을 종종 보시게 될 것입니다 .
+(S
+    (VP
+         (VP
+              (V (V 알/pvg+아/ecx+두/px+면/ecs )
+                  (V 좋/paa+지/ef+요/jxf )))
+         (VP
+              (PP 앞/ncn+으로/jca )
+              (NP (AP (NP (AP (NP 디스크/ncn+(/sl+Disk/f+)/sr+와/jcj)
+                                 (AP 디스켓/ncn+(/sl+Diskette/f+)/sr+이/jp+라/ef+는/etm))
+                             (NP 말/ncn+이/jcs))
+                        (AP (V 뒤섞이/pvg+어/ecx )
+                             (AP 있/px+는/etm)))
+                   (NP 곳/ncn+을/jco ))
+              (VP (AP (ADVP 종종/mag )
+                       (AP (V 보/pvg+시/ep+게/ecx)
+                            (AP 되/px+ㄹ/etm)))
+                  (V 것/nbn+이/jp+ㅂ니다/ef))))+./sf)
+
+
+; 그런데 미국의 한 디스크 판매 회사에서 자사의 상품을 광고하는  가운데 디스크라는 말 대신 작고 예쁘다라는 뜻을 가진 어미  `- ett ` 를 디스크 뒤에 붙여 사용한 것이 널리 알려져 , 이제는 디스크보다는 디스켓이라는 말을 더 많이 사용하게 된 것 같습니다 .
+(S
+    (VP
+         (VP
+              (IP 그런데/maj )
+              (PP (AP (NP (AP자사/ncn+의/jcm )
+                            (NP 상품/ncn+을/jco ))
+                       (AP 광고/ncpa+하/xsv+는/etm ))
+                  (PP 가운데/ncn ))
+              (NP (AP (NP (AP (PP (NP (AP 디스크/ncn+라/ef+는/etm )
+                                         (NP 말/ncn ))
+                                     (PP 대신/ncn ))
+                                (AP (V 작/paa+고/ecx )
+                                     (AP 예쁘/paa+다/ef+라/ef+는/etm)))
+                            (NP 뜻/ncn+을/jco ))
+                       (AP 가지/pvg+ㄴ/etm ))
+                   (NP (AP 어미/ncn )
+                        (NP `/sl+-/sd+ett/f+`/sr+를/jco)))
+              (NP (AP (PP (AP 디스크/ncn )
+                            (PP 뒤/ncn+에/jca ))
+                        (AP (V 붙이/pvg+어/ecs )
+                             (AP 사용/ncpa+하/xsv+ㄴ/etm)))
+                   (NP 것/nbn+이/jcs))
+              (ADVP 널리/mag )
+              (V 알리/pvg+어/ecx+지/px+어/ecs))+,/sp
+         (VP
+              (ADVP 이제/ncn+는/jxc )
+              (NP (AP (NP 디스크/ncn+보다/jca+는/jxc )
+                       (AP 디스켓/ncn+이/jp+라/ef+는/etm ))
+                   (NP 말/ncn+을/jco ))
+              (ADVP 더/mag )
+              (NP (AP (ADVP 많/paa+이/xsa )
+                       (AP (V 사용/ncpa+하/xsv+게/ecx )
+                            (AP 되/px+ㄴ/etm)))
+                   (NP 것/nbn))
+              (V 같/paa+습니다/ef )))+./sf)
+
+
+; 그래서 앞으로 이 책에서는 하드 디스크는 디스크로 , 플로피 디스크는 디스켓으로 쓰고 , 둘 다를 지칭해야 할 때에는 그냥 디스크로 쓰기로 하겠습니다 .
+(S
+    (VP
+         (VP
+              (IP 그래서/maj )
+              (PP 앞/ncn+으로/jca )
+              (PP (AP 이/mmd )
+                   (PP 책/ncn+에서/jca+는/jxc ))
+              (NP (AP 하드/ncn )
+                   (NP 디스크/ncn+는/jxc ))
+              (PP 디스크/ncn+로/jca )+,/sp
+              (NP (AP 플로피/ncn )
+                   (NP 디스크/ncn+는/jxc ))
+              (PP 디스켓/ncn+으로/jca )
+              (V 쓰/pvg+고/ecc ))+,/sp
+         (VP 
+              (PP (AP (NP (AP 둘/nnc )
+                            (NP 다/mag+를/jco))
+                        (AP (V 지칭/ncpa+하/xsv+어야/ecs )
+                             (AP 하/pvg+ㄹ/etm)))
+                   (PP 때/ncn+에/jca+는/jxc ))
+              (ADVP 그냥/mag )
+              (PP (PP 디스크/ncn+로/jca )
+                   (PP 쓰/pvg+기/etn+로/jca ))
+              (V 하/pvg+겠/ep+습니다/ef )))+./sf)
+
+
+; 우리가 사용하는 비디오 테이프나 오디오 테이프에서 귀중한 자료를 지우지 않고 오랫동안 보관하기  위해 비디오 테이프와 오디오 테이프에 있는 녹음 방지용 탭을 떼어 본 경험이 있을 것입니다 .
+(S
+    (VP
+         (VP
+              (PP (AP (NP 우리/npp+가/jcs )
+                        (AP 사용/ncpa+하/xsv+는/etm ))
+                   (PP (NP (AP 비디오/ncn )
+                             (NP 테이프/ncn+나/jcj ))
+                        (PP (AP 오디오/ncn )
+                             (PP 테이프/ncn+에서/jca ))))
+              (NP (AP 귀중/ncps+하/xsm+ㄴ/etm )
+                   (NP 자료/ncn+를/jco ))
+              (V (V 지우/pvg+지/ecx )
+                  (AUXP 않/px+고/ecc )))
+         (VP
+              (NP (ADVP 오랫동안/ncn )
+                   (NP 보관/ncpa+하/xsv+기/etn))
+              (V 위하/pvg+어/ecs))
+         (VP
+              (AP (NP (AP (NP (AP (PP (NP (AP 비디오/ncn )
+                                              (NP 테이프/ncn+와/jcj ))
+                                         (PP (AP 오디오/ncn )
+                                              (PP 테이프/ncn+에/jca )))
+                                     (AP 있/paa+는/etm ))
+                                 (NP (AP 녹음/ncn )
+                                     (AP 방지/ncn+용/xsn)
+                                     (NP 탭/ncn+을/jco)))
+                           (AP (V 떼/pvg+어/ecx )
+                                (AP 보/px+ㄴ/etm )))
+                      (NP 경험/ncn+이/jcs ))
+                  (AP 있/paa+ㄹ/etm))
+              (V 것/nbn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 컴퓨터서는 이와 반대로 디스켓에서 쓰기 방지 홈에 테이프를 붙이면 자료를 쓸 수 없고 읽기만 가능하게 됩니다 .
+(S
+    (VP
+         (VP
+              (PP 컴퓨터/ncn+서/jca+는/jxc )
+              (PP (PP 이/npd+와/jct )
+                   (PP 반대/ncn+로/jca ))
+              (PP 디스켓/ncn+에서/jca )
+              (PP (AP (NP 쓰/pvg+기/etn )
+                       (AP 방지/ncn))
+                   (PP 홈/ncn+에/jca))
+              (NP 테이프/ncn+를/jco )
+              (V 붙이/pvg+면/ecs ))
+         (VP
+              (NP (AP (NP 자료/ncn+를/jco )
+                       (AP 쓰/pvg+ㄹ/etm ))
+                   (NP 수/nbn ))
+              (V 없/paa+고/ecc ))
+         (VP
+              (NP 읽/pvg+기/etn+만/jxc )
+              (V (V 가능/ncps+하/xsm+게/ecx )
+                  (AUXP 되/px+ㅂ니다/ef ))))+./sf)
+
+
+; 중요한 디스켓에는 꼭 탭을 붙여 놓아 귀중한 자료를 안전하게 보관하기 바랍니다 .
+(S
+    (VP
+         (VP
+              (PP (AP 중요/ncps+하/xsm+ㄴ/etm )
+                   (PP 디스켓/ncn+에/jca+는/jxc ))
+              (ADVP 꼭/mag )
+              (NP 탭/ncn+을/jco )
+              (V (V 붙이/pvg+어/ecx )
+                  (AUXP 놓/px+아/ecs )))
+         (VP
+              (NP (NP (AP 귀중/ncps+하/xsm+ㄴ/etm )
+                        (NP 자료/ncn+를/jco ))
+                   (NP (V 안전/ncps+하/xsm+게/ecx )
+                        (NP 보관/ncpa+하/xsv+기/etn)))
+              (V 바라/pvg+ㅂ니다/ef )))+./sf)
+
+
+; 읽고 쓰는 부분을 손으로 만지거나 , 먼지가 들어가거나 , 음료수를 쏟게 되면 디스켓이 망가져  귀중한 자료를 잃게 되는 경우도 있으니 디스켓 취급에 주의해야 합니다 .
+(S
+    (VP
+         (VP
+              (NP (AP (AP 읽/pvg+고/ecc )
+                        (AP 쓰/pvg+는/etm ))
+                   (NP 부분/ncn+을/jco ))
+              (PP 손/ncn+으로/jca )
+              (V 만지/pvg+거나/ecc ))+,/sp
+         (VP (NP 먼지/ncn+가/jcs )
+              (V 들/pvg+어/ecx+가/px+거나/ecc ))+,/sp
+         (VP (NP 음료수/ncn+를/jco )
+              (V (V 쏟/pvg+게/ecx )
+                  (AUXP 되/px+면/ecs)))
+         (VP
+              (VP (NP 디스켓/ncn+이/jcs )
+                   (V 망가지/pvg+어/ecs ))
+         (VP
+              (NP (AP (NP (AP 귀중/ncps+하/xsm+ㄴ/etm )
+                            (NP 자료/ncn+를/jco ))
+                       (AP (V 잃/pvg+게/ecx )
+                            (AP 되/px+는/etm)))
+                   (NP 경우/ncn+도/jxc))
+              (V 있/paa+으니/ecs )))
+         (VP 
+              (PP (AP 디스켓/ncn )
+                   (PP 취급/ncn+에/jca ))
+              (V (V 주의/ncpa+하/xsv+어야/ecs )
+                  (V 하/pvg+ㅂ니다/ef ))))+./sf)
+
+
+; 또 자석을 가까이하면 철가루의 배열이 흩어져서 자료를 잃게 되는 수도 있습니다 .
+(S
+    (VP
+         (VP (IP 또/maj )
+              (NP 자석/ncn+을/jco )
+              (V 가까이/ncpa+하/xsv+면/ecs ))
+         (VP  
+              (NP (AP 철가루/ncn+의/jcm )
+                   (NP 배열/ncn+이/jcs ))
+              (V 흩/pvg+어/ecx+지/px+어서/ecs ))
+         (VP
+              (NP (AP (NP 자료/ncn+를/jco )
+                       (AP (V 잃/pvg+게/ecx )
+                            (AP 되/px+는/etm)))
+                   (NP 수/nbn+도/jxc ))
+              (V 있/paa+습니다/ef )))+./sf)
+
+
+; 특히 지하철을 자주 탈 경우 지하철 두 번째 칸처럼 지하철 천정에 동력이 연결되어 있는 칸은 25 , 000 볼트의 높은 전압이 흐르기 때문에 디스켓의 자료가 망가지는 경우도 있으므로 , 그 칸에는 타지 않도록 주의해야 합니다 .
+(S
+    (VP
+         (VP
+              (ADVP 특히/mag )
+              (NP 지하철/ncn+을/jco )
+              (PP (AP (ADVP 자주/mag )
+                       (AP 타/pvg+ㄹ/etm ))
+                   (PP 경우/ncn ))
+              (PP (AP 지하철/ncn )
+                   (AP 두/nno)
+                   (AP 번/nbu+째/xsn)
+                   (PP 칸/ncn+처럼/jca))
+              (PP (AP 지하철/ncn )
+                   (PP 천장/ncn+에/jca ))
+              (NP (AP (NP 동력/ncn+이/jcs )
+                       (AP (V 연결/ncpa+되/xsv+어/ecx )
+                            (AP 있/px+는/etm)))
+                   (NP 칸/ncn+은/jxc ))
+              (PP (NP (NP (AP 25/nnc+,/sp+000/nnc )
+                           (AP 볼트/ncn+의/jcm)
+                           (NP (AP 높/paa+ㄴ/etm)
+                                (NP 전압/ncn+이/jcs)))
+                       (NP 흐르/pvg+기/etn))
+                  (PP 때문/nbn+에/jca))
+              (NP (AP (NP (AP 디스켓/ncn+의/jcm )
+                             (NP 자료/ncn+가/jcs ))
+                        (AP 망가지/pvg+는/etm ))
+                   (NP 경우/ncn+도/jxc ))
+              (V 있/paa+으므로/ecs ))+,/sp
+         (VP 
+              (PP (AP 그/mmd )
+                  (PP 칸/ncn+에/jca+는/jxc ))
+              (V (V 타/pvg+지/ecx )
+                 (AUXP 않/px+도록/ecs)
+                 (V 주의/ncpa+하/xsv+어야/ecs )
+                 (AUXP 하/pvg+ㅂ니다/ef))))+./sf)
+
+
+; 지하철을 자주 타는 경우에는 음식을 요리할 때 사용하는  쿠킹 호일로 디스켓을 싸가지고 다니면 정전기 차폐의  효과가 있어 디스켓은 자료를 잃지 않고 안전하게 사용할 수 있습니다 .
+(S
+    (VP
+         (VP
+              (NP 지하철/ncn+을/jco )
+              (PP (AP (ADVP 자주/mag )
+                       (AP 타/pvg+는/etm ))
+                  (PP 경우/ncn+에/jca+는/jxc ))
+              (PP (AP (PP (AP (NP 음식/ncn+을/jco )
+                                (AP 요리/ncpa+하/xsv+ㄹ/etm ))
+                           (PP 때/ncn ))
+                       (AP 사용/ncpa+하/xsv+는/etm ))
+                  (PP (AP 쿠킹/ncn)
+                       (PP 호일/ncn+로/jca)))
+              (NP 디스켓/ncn+을/jco )
+              (V (V 싸/pvg+아/ecx+가지/px+고/ecc )
+                  (V 다니/pvg+면/ecs )))
+         (VP
+              (NP (AP 정전기/ncn )
+                   (AP 차폐/ncn+의/jcm)
+                   (NP 효과/ncn+가/jcs))
+              (V 있/paa+어/ecs ))
+         (VP
+              (NP 디스켓/ncn+은/jxc )
+              (NP 자료/ncn+를/jco )
+              (V (V 잃/pvg+지/ecx )
+                  (AUXP 않/px+고/ecc)))
+         (VP
+              (NP (AP (V 안전/ncpa+하/xsv+게/ecx )
+                       (AP 사용/ncpa+하/xsv+ㄹ/etm))
+                   (NP 수/nbn ))
+              (V 있/paa+습니다/ef )))+./sf)
+
+
+; 손을 움직이기가 조금 힘든 분들을 위하여 , 그리고 글자판을 열 손가락으로 두드리는 것에 대해서 심한 거부감을 느끼는 분들을  위하여 마우스라는 좀더 간편한 입력 장치도 있기는 합니다 .
+(S
+    (VP
+         (VP
+              (NP (NP 손/ncn+을/jco )
+                   (NP 움직이/pvg+기/etn+가/jcs ))
+              (NP (AP (ADVP 조금/mag )
+                       (AP 힘/ncn+들/pvg+ㄴ/etm ))
+                  (NP 분/nbn+들/xsn+을/jco ))
+              (V 위하/pvg+어/ecs ))+,/sp
+         (VP
+              (IP 그리고/maj )
+              (NP 글자판/ncn+을/jco )
+              (PP (AP (PP (AP 열/nnc )
+                           (PP 손가락/ncn+으로/jca ))
+                       (AP 두드리/pvg+는/etm ))
+                  (PP 것/nbn+에/jca ))
+              (V 대하/pvg+어서/ecs ))
+         (VP
+              (NP (AP (NP (AP 심하/paa+ㄴ/etm )
+                            (NP 거부감/ncn+을/jco ))
+                       (AP 느끼/pvg+는/etm ))
+                   (NP 분/nbn+들/xsn+을/jco ))
+              (V 위하/pvg+어/ecs ))
+         (VP
+              (NP (NP (AP 마우스/ncn+라/ef+는/etm )
+                        (NP (AP (ADVP 좀더/mag )
+                                  (AP 간편/ncps+하/xsm+ㄴ/etm ))
+                             (NP (AP 입력/ncn )
+                                  (NP 장치/ncn+도/jxc))))
+                   (NP 있/paa+기/etn+는/jxc ))
+              (V 하/pvg+ㅂ니다/ef )))+./sf)
+
+
+; 그러나 아무래도 당분간 글자판은 입력 장치들의 대표 선수로 계속 남아 있을 듯합니다 .
+(S
+    (VP
+         (VP (IP 그러나/maj )
+              (V 아무렇/pad+어도/ecs ))
+         (VP (ADVP 당분간/mag )
+              (NP 글자판/ncn+은/jxc )
+              (PP (AP 입력/ncn )
+                   (AP 장치/ncn+들/xsn+의/jcm)
+                   (AP 대표/ncn)
+                   (PP 선수/ncn+로/jca))
+              (VP (AP (ADVP 계속/mag )
+                       (AP (V 남/pvg+아/ecx )
+                            (AP 있/px+ㄹ/etm)))
+                   (V 듯/nbn+하/paa+ㅂ니다/ef))))+./sf)
+
+
+; 혹은 더 먼 미래에는 마음에서 마음으로 통하듯 인간이 기계에 마음으로 명령할지도 모릅니다 .
+(S
+    (VP
+         (VP
+              (IP 혹은/maj )
+              (PP (AP 더/mag )
+                  (AP 멀/paa+ㄴ/etm)
+                  (PP 미래/ncn+에/jca+는/jxc ))
+              (PP 마음/ncn+에서/jca )
+              (PP 마음/ncn+으로/jca )
+              (V 통하/pvg+듯/ecs))
+         (VP
+              (NP 인간/ncn+이/jcs )
+              (PP 기계/ncn+에/jca )
+              (PP 마음/ncn+으로/jca )
+              (V (V 명령/ncpa+하/xsv+ㄹ지도/ecs )
+                  (V 모르/pvg+ㅂ니다/ef))))+./sf)
+
+
+; 모니터에 대해서 간략하게 알아볼까요 .
+(S
+    (VP
+         (PP 모니터/ncn+에/jca )
+         (V (V 대하/pvg+어서/ecs)
+             (V 간략/ncps+하/xsm+게/ecs )
+             (V 알/pvg+아/ecx+보/px+ㄹ까/ef+요/jxf)))+./sf)
+
+
+; 색상에 따라 단색 모니터와 컬러 모니터로 나눌 수 있지요 .
+(S
+    (VP
+         (VP (PP 색상/ncn+에/jca )
+              (V 따르/pvg+아/ecs ))
+         (VP 
+              (NP  (AP (PP (NP (AP 단색/ncn )
+                                 (NP 모니터/ncn+와/jcj ))
+                            (PP (AP 컬러/ncn )
+                                 (PP 모니터/ncn+로/jca )))
+                        (AP 나누/pvg+ㄹ/etm ))
+                   (NP 수/nbn ))
+              (V 있/paa+지/ef+요/jxf )))+./sf)
+
+
+; 모니터가 기능을 발휘하려면 , 우선 모니터를 지원하는 그래픽 카드 ( Graphic Card ) 를 잘 선택해야 합니다 .
+(S
+    (VP
+         (VP (NP 모니터/ncn+가/jcs )
+              (NP 기능/ncn+을/jco )
+              (V 발휘/ncpa+하/xsv+려면/ecs ))+,/sp
+         (VP (ADVP 우선/mag )
+              (NP (AP (NP 모니터/ncn+를/jco )
+                        (AP 지원/ncpa+하/xsv+는/etm ))
+                   (NP (AP 그래픽/ncn )
+                        (NP 카드/ncn+(/sl+Graphic/f+Card/f+)/sr+를/jco)))
+              (ADVP 잘/mag )
+              (V (V 선택/ncpa+하/xsv+어야/ecs )
+                  (V 하/pvg+ㅂ니다/ef))))+./sf)
+
+
+; 일명 ` 디스플레이 어댑터 ( Display Adapter )` 라고도 불리는 그래픽 카드는 마더보드의 슬롯에  설치하여 모니터와 중앙 처리 장치 사이를 연결해 줍니다 .
+(S
+    (VP
+         (VP
+              (ADVP 일명/ncn )
+              (NP (AP (NP '/sl+디스플레이/ncn+어댑터/ncn+(/sl+Display/f+Adapter/f+)/sr+`/sr+라/ef+고/jcr+도/jxc)
+                       (AP 불리/pvg+는/etm))
+                   (NP (AP 그래픽/ncn )
+                       (NP 카드/ncn+는/jxc)))
+              (PP (AP 마더보드/ncn+의/jcm )
+                   (PP 슬롯/ncn+에/jca ))
+              (V 설치/ncpa+하/xsv+어/ecs ))
+         (VP
+              (NP (NP (NP 모니터/ncn+와/jcj )
+                       (NP
+                           (AP 중앙/ncn )
+                           (AP 처리/ncn )
+                           (NP 장치/ncn)))
+                   (NP 사이/ncn+를/jco ))
+              (V (V 연결/ncpa+하/xsv+어/ecx )
+                  (AUXP 주/px+ㅂ니다/ef ))))+./sf)
+
+
+; 현재 사용되고 있는 그래픽 카드로는 , 최초로 개발된 단색 턱스트 전용의 MDA ( Monochrome Disply Adapter ), 고해상도로 단색 텍스트는 물론 그래픽을 지원하는 HGC ( Hercules Graphic Card ), MDA 를 보완하여 텍스트 모드와 그래픽  모드를 지원하며 16 가지의 색 가운데에서 두 가지나 네 가지의 색을 선택하여 초보적인 컬러 시대를 열었던 CGA ( Golor Graphic Adapter ), 기존의 어댑터가 가진 특성을 모두 지니면서  64 가지의 색  가운데에서 16 가지의  색을 화면에 나타내며  본격적인 컬러 그래픽  시대를 연 EGA  ( Enhanced Graphic Adapter ), 256 가지의 색상을 지원하며 어떤 종류의 모니터와도 연결이 가능한 고해상도의 VGA ( Video Graphic Adapter ) 등이 있습니다 .
+(S
+    (VP
+         (VP 
+              (PP (AP (ADVP 현재/mag )
+                       (AP (V 사용/ncpa+되/xsv+고/ecx )
+                             (AP 있/px+는/etm)))
+                  (PP (AP 그래픽/ncn )
+                      (PP 카드/ncn+로/jca+는/jxc)))+,/sp
+              (NP (AP (PP 최초/ncn+로/jca )
+                        (AP 개발/ncpa+되/xsv+ㄴ/etm ))
+                   (NP (AP 단색/ncn )
+                        (AP 턱스트/ncn)
+                        (AP 전용/ncn+의/jcm)
+                        (NP MDA/f+(/sl+Monochrome/f+Disply/f+Adapter/f+)/sr)))+,/sp
+              (PP 고해상도/ncn+로/jca)
+              (NP (AP 단색/ncn )
+                   (NP 텍스트/ncn+는/jxc))
+              (ADVP 물론/mag )
+              (NP (AP (NP 그래픽/ncn+을/jco )
+                       (AP 지원/ncpa+하/xsv+는/etm ))
+                   (NP HGC/f+(/sl+Hercules/f+Graphic/f+Card/f+)/sr))+,/sp
+              (NP MDA/f+를/jco)
+              (V 보완/ncpa+하/xsv+어/ecs))
+         (VP 
+              (NP (NP (AP 텍스트/ncn )
+                       (NP 모드/ncn+와/jcj ))
+                   (NP (AP 그래픽/ncn )
+                       (NP 모드/ncn+를/jco)))
+              (V 지원/ncpa+하/xsv+며/ecc ))
+         (VP 
+              (PP (AP 16/nnc )
+                   (AP 가지/nbu+의/jcm)
+                   (AP 색/ncn)
+                   (PP 가운데/ncn+에서/jca ))
+              (NP (AP (NP (AP 두/nnc )
+                            (NP 가지/nbu+나/jcj))
+                       (AP (AP 네/nnc )
+                            (AP 가지/ncn+의/jcm)))
+                   (NP 색/ncn+을/jco))
+              (V 선택/ncpa+하/xsv+어/ecs ))
+         (VP
+              (NP (AP (NP (AP 초보/ncn+적/xsn+이/jp+ㄴ/etm )
+                             (NP (AP 컬러/ncn)
+                                  (NP 시대/ncn+를/jco)))
+                        (AP 열/pvg+었/ep+던/etm ))
+                   (NP CGA/f+(/sl+Golor/f+Graphic/f+Adapter/f+)/sr))+,/sp
+              (NP (AP (NP (AP 기존/ncn+의/jcm )
+                            (NP 어댑터/ncn+가/jcs ))
+                        (AP 가지/pvg+ㄴ/etm ))
+                   (NP 특성/ncn+을/jco ))
+              (ADVP 모두/mag )
+              (V 지니/pvg+면서/ecc ))
+         (VP
+              (PP (AP 64/nnc )
+                   (AP 가지/nbu+의/jcm)
+                   (AP 색/ncn)
+                   (PP 가운데/ncn+에서/jca ))
+              (NP (AP 16/nnc )
+                   (AP 가지/nbu+의/jcm)
+                   (NP 색/ncn+을/jco))
+              (PP 화면/ncn+에/jca )
+              (V 나타내/pvg+며/ecc))
+         (VP
+              (NP (AP (NP (AP 본격/ncn+적/xsn+이/jp+ㄴ/etm )
+                             (NP (AP 컬러/ncn)
+                                  (AP 그래픽/ncn)
+                                  (NP 시대/ncn+를/jco)))
+                        (AP 열/pvg+ㄴ/etm ))
+                   (NP EGA/f+(/sl+Enhanced/f+Graphic/f+Adapter/f+)/sr))+,/sp
+              (NP (AP 256/nnc )
+                   (AP 가지/nbu+의/jcm)
+                   (NP 색상/ncn+을/jco))
+              (V 지원/ncpa+하/xsv+며/ecc ))
+         (VP
+              (PP (AP 어떻/pad+ㄴ/etm )
+                   (AP 종류/ncn+의/jcm)
+                   (PP 모니터/ncn+와/jct+도/jxc))
+              (NP (NP (AP (NP 연결/ncn+이/jcs)
+                             (AP 가능/ncps+하/xsm+ㄴ/etm ))
+                        (NP (AP 고해상도/ncn+의/jcm )
+                             (NP VGA/f+(/sl+Video/f+Graphic/f+Adapter/f+)/sr)))
+                   (NP 등/nbn+이/jcs ))
+              (V 있/paa+습니다/ef)))+./sf)
+
+
+; 알아두면 좋지요 얼마 전에 들은 이야기인데요 .
+(S
+    (VP
+         (VP
+              (V (V 알/pvg+아/ecx+두/px+면/ecs )
+                  (V 좋/paa+지/ef+요/jxf)))
+         (VP 
+              (AP (PP (ADVP 얼마/mag )
+                        (PP 전/ncn+에/jca))
+                   (AP 들/pvg+ㄴ/etm))
+              (V 이야기/ncn+이/jp+ㄴ데/ecs+요/jxf )))+./sf)
+
+
+; 컴퓨터를 구입하려는 사람이 모회사에서 컴퓨터를 다른 회사보다 훨씬  싼 가격으로 판다고 신문에 광고해 놓은 것을  보고 거기에 나와 있는 금액대로 돈을 가지고 매장으로 갔답니다 .
+(S
+    (VP
+         (VP
+              (NP (AP (NP 컴퓨터/ncn+를/jco )
+                       (AP 구입/ncpa+하/xsv+려는/etm ))
+                   (NP 사람/ncn+이/jcs ))
+              (PP 모회사/ncn+에서/jca )
+              (NP 컴퓨터/ncn+를/jco )
+              (PP (AP 다르/paa+ㄴ/etm )
+                   (PP 회사/ncn+보다/jca ))
+              (NP (PP (AP (ADVP 훨씬/mag )
+                            (AP 싸/paa+ㄴ/etm ))
+                       (PP 가격/ncn+으로/jca ))
+                   (NP 팔/pvg+ㄴ다/ef+고/jcr))
+              (NP (AP (PP 신문/ncn+에/jca )
+                       (AP (V 광고/ncpa+하/xsv+어/ecx )
+                            (AP 놓/px+ㄴ/etm )))
+                  (NP 것/nbn+을/jco))
+              (V 보/pvg+고/ecc ))
+         (VP
+              (PP (AP (PP 거기/npd+에/jca )
+                        (AP (V 나오/pvg+아/ecx )
+                             (AP 있/px+는/etm )))
+                   (PP 금액/ncn+대로/jca ))
+              (NP 돈/ncn+을/jco )
+              (V 가지/pvg+고/ecc))
+         (VP (PP 매장/ncn+으로/jca )
+              (V 가/pvg+ㅆ/ep+다/ef+ㅂ니다/ef )))+./sf)
+
+
+; 그리고 그 돈을 내놓으니까 , 컴퓨터를 주긴 주는데 키보드와 모니터는 빼고 달랑 본체만 주더랍니다 .
+(S
+    (VP
+         (VP (IP 그리고/maj )
+              (NP (AP 그/mmd )
+                   (NP 돈/ncn+을/jco ))
+              (V 내놓/pvg+으니까/ecs ))+,/sp
+         (VP (NP (NP 컴퓨터/ncn+를/jco )
+                   (NP 주/pvg+기/etn+ㄴ/jxc))
+              (V 주/pvg+는데/ecs ))
+         (VP
+              (NP (NP 키보드/ncn+와/jcj )
+                   (NP 모니터/ncn+는/jxc ))
+              (V 빼/pvg+고/ecc ))
+         (VP (ADVP 달랑/mag )
+              (NP 본체/ncn+만/jxc )
+              (V 주/pvg+더/ep+라/ef+ㅂ니다/ef )))+./sf)
+
+
+; 그래서 신문 광고와 다르다고 항의를 하니 , 판매원이 다시 그 신문을 주면서 자세히 보라고 했답니다 .
+(S
+    (VP
+         (VP
+              (IP 그래서/maj )
+              (NP (PP (AP 신문/ncn )
+                       (PP 광고/ncn+와/jct ))
+                   (NP 다르/paa+다/ef+고/jcr ))
+              (NP 항의/ncn+를/jco )
+              (V 하/pvg+니/ecs ))+,/sp
+         (VP (NP 판매원/ncn+이/jcs )
+              (ADVP 다시/mag )
+              (NP (AP 그/mmd )
+                   (NP 신문/ncn+을/jco ))
+              (V 주/pvg+면서/ecc ))
+         (VP 
+              (NP (ADVP 자세/ncn+히/xsa )
+                   (NP 보/pvg+라/ef+고/jcr ))
+              (V 하/pvg+었/ep+다/ef+ㅂ니다/ef )))+./sf)
+
+
+; 그래서 다시 자세히 보니 가격 옆은 괄호 안에 ` 모니터 , 키보드 별매 , 부가세 별도 ` 라고 쓰여 있었답니다 .
+(S
+    (VP
+         (VP (IP 그래서/maj )
+              (ADVP 다시/mag )
+              (ADVP 자세/ncn+히/xsa )
+              (V 보/pvg+니/ecs ))
+         (VP 
+              (NP (AP 가격/ncn )
+                   (NP 옆/ncn+은/jxc ))
+              (PP (AP 괄호/ncn )
+                   (PP 안/ncn+에/jca ))
+              (NP (NP (NP `/sl+모니터/ncn )+,/sp
+                       (NP 키보드/ncn))
+                   (NP 별매/ncn ))+,/sp
+              (NP (AP 부가세/ncn )
+                   (NP 별도/ncn+`/sr+라고/jcr ))
+              (V (V 쓰이/pvg+어/ecx )
+                  (AUXP 있/px+었/ep+다/ef+ㅂ니다/ef ))))+./sf)
+
+
+; 자세히 안 본 것이 잘못인지 , 아니면 컴퓨터라고 하면 당연히 모니터와 키보드가 포함되어 있을  것이라고 생각한 것이 잘못인지 , 아무튼 그냥 들아올 수밖에 없었다는 이야기를 들었습니다 .
+(S
+    (VP
+         (VP
+              (ADVP 자세/ncn+히/xsa )
+              (NP (AP (ADVP 안/mag )
+                       (AP 보/pvg+ㄴ/etm ))
+                   (NP 것/nbn+이/jcs ))
+              (V 잘못/ncn+이/jp+ㄴ지/ecs))+,/sp
+         (VP
+              (IP 아니/paa+면/ecs)
+              (NP 컴퓨터/ncn+라고/jcr)
+              (V 하/pvg+면/ecs))
+         (VP
+              (ADVP 당연/ncn+히/xsa )
+              (NP (AP (NP (AP (NP (NP 모니터/ncn+와/jcj )
+                                      (NP 키보드/ncn+가/jcs ))
+                                 (AP (V 포함/ncpa+되/xsv+어/ecx )
+                                      (AP 있/px+ㄹ/etm)))
+                             (NP 것/nbn+이/jp+라/ef+고/jcr ))
+                        (AP 생각/ncpa+하/xsv+ㄴ/etm ))
+                   (NP 것/nbn+이/jcs ))
+              (V 잘못/ncn+이/jp+ㄴ지/ecs ))+,/sp
+         (VP
+              (ADVP 아무튼/mag )
+              (NP (AP (PP (AP (ADVP 그냥/mag )
+                                (AP 들아오/pvg+ㄹ/etm ))
+                            (PP 수/nbn+밖에/jxc ))
+                       (AP 없/paa+었/ep+다/ef+는/etm ))
+                   (NP 이야기/ncn+를/jco ))
+              (V 들/pvg+었/ep+습니다/ef)))+./sf)
+
+
+; 가격 옆에 괄호가 있나 없나 말입니다 .
+(S
+    (VP
+         (PP (AP 가격/ncn )
+              (PP 옆/ncn+에/jca ))
+         (NP 괄호/ncn+가/jcs )
+         (V (V 있/paa+나/ecs )
+             (V 없/paa+나/ecs)
+             (V 말/ncn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 프린터는 나중에 구입한다는 사람들이 적지 않은데 , 분명히 그릇된 생각입니다 .
+(S
+    (VP
+         (VP
+              (NP 프린터/ncn+는/jxc )
+              (NP (AP (PP 나중/ncn+에/jca )
+                        (AP 구입/ncpa+하/xsv+다/ef+는/etm ))
+                   (NP 사람/ncn+들/xsn+이/jcs ))
+              (V (V 적/pvg+지/ecx )
+                  (AUXP 않/px+ㄴ데/ecs )))+,/sp
+         (VP (AP (ADVP 분명/ncn+히/xsa )
+                  (AP 그릇/mag+되/pvg+ㄴ/etm))
+              (V 생각/ncn+이/jp+ㅂ니다/ef )))+./sf)
+
+
+; 우리가 컴퓨터를 사용하여 작업을 한다는 것은 프린터로 무엇인가 의미 있는 결과를 찍어내기 위한 것이라고 확신합니다 .
+(S
+    (VP
+         (VP (NP 우리/npp+가/jcs )
+              (NP 컴퓨터/ncn+를/jco )
+              (V 사용/ncpa+하/xsv+어/ecs ))
+         (VP
+              (NP (AP (NP 작업/ncn+을/jco )
+                        (AP 하/pvg+ㄴ다/ef+는/etm ))
+                   (NP 것/nbn+은/jxc ))
+              (PP 프린터/ncn+로/jca)
+              (V 무엇/npd+이/jp+ㄴ가/ef))
+         (VP
+              (NP (AP (NP (NP (AP (NP 의미/ncn)
+                                     (AP 있/pvg+는/etm ))
+                                 (NP 결과/ncn+를/jco ))
+                            (NP 찍/pvg+어/ecx+내/px+기/etn))
+                        (AP 위하/pvg+ㄴ/etm ))
+                   (NP 것/nbn+이/jp+라/ef+고/jcr ))
+              (V 확신/ncpa+하/xsv+ㅂ니다/ef)))+./sf)
+
+
+; 다양한 컴퓨터의 기능을 만끽하려면 프린터라는 출력 장치를 꼭 갖추어야 합니다 .
+(S
+    (VP
+         (VP
+              (NP (AP 다양/ncps+하/xsm+ㄴ/etm )
+                   (AP 컴퓨터/ncn+의/jcm )
+                   (NP 기능/ncn+을/jco ))
+              (V 만끽/ncpa+하/xsv+려면/ecs ))
+         (VP
+              (NP (AP 프린터/ncn+라/ef+는/etm )
+                   (NP (AP 출력/ncn)
+                        (NP 장치/ncn+를/jco)))
+             (ADVP 꼭/mag )
+             (V (V 갖추/pvg+어야/ecs )
+                 (V 하/pvg+ㅂ니다/ef ))))+./sf)
+
+
+; 프린터는 인쇄 방식에 따라 ` 도트 매트릭스 프린터 ( Dot Matrix printr )` 와 ` 레이저 프린터 ( Laser Beam Printer )` 가 있습니다 .
+(S
+    (VP
+         (VP
+              (NP 프린터/ncn+는/jxc )
+              (PP (AP 인쇄/ncn )
+                   (PP 방식/ncn+에/jca ))
+              (V 따르/pvg+아/ecs ))
+         (VP
+              (NP (NP `/sl+도트/ncn+매트릭스/ncn+프린터/ncn+(/sl+Dot/f+Matrix/f+printr/f+)/sr+`/sr+와/jcj)
+                   (NP `/sl+레이저/ncn+프린터/ncn+(/sl+Laser/f+Beam/f+Printer/f+)/sr+`/sr+가/jcs))
+              (V 있/paa+습니다/ef)))+./sf)
+
+
+; 도트 매트릭스 프린터는 , 프린터의 헤드 ( Head ) 에 있는 여러 개의 핀 ( Pin ) 이 잉크가 묻어 있는  헝겊 리본을 점을 찍듯 두들겨서 인쇄하는 방식을 취합니다 .
+(S
+    (VP
+         (NP (AP 도트/ncn )
+              (AP 매트릭스/ncn)
+              (NP 프린터/ncn+는/jxc))+,/sp
+         (NP (AP (PP (AP 프린터/ncn+의/jcm )
+                       (PP 헤드/ncn+(/sl+Head/f+)/sr+에/jca))
+                   (AP 있/paa+는/etm ))
+              (NP (AP 여러/mma )
+                   (AP 개/nbu+의/jcm)
+                   (NP 핀/ncn+(/sl+Pin/f+)/sr+이/jcs)))
+         (NP (AP (NP 잉크/ncn+가/jcs )
+                   (AP (V 묻/pvg+어/ecx )
+                        (AP 있/px+는/etm )))
+              (NP (AP 헝겊/ncn)
+                   (NP 리본/ncn+을/jco)))
+         (NP (AP (NP 점/ncn+을/jco )
+                  (AP (V 찍/pvg+듯/ecs)
+                       (V 두들기/pvg+어서/ecs)
+                       (AP 인쇄/ncpa+하/xsv+는/etm)))
+              (NP 방식/ncn+을/jco))
+         (V 취하/pvg+ㅂ니다/ef))+./sf)
+
+
+; 그러나 꽤 시끄러운 소음이 있고 , 레이저 프린터에 비해 인쇄 상태가 거칠어 그림 등을 출력할 경우에는 적당하지 않습니다 .
+(S
+    (VP
+         (VP
+              (IP 그러나/maj)
+              (NP  (AP (ADVP 꽤/mag)
+                        (AP 시끄럽/paa+ㄴ/etm))
+                   (NP 소음/ncn+이/jcs))
+              (V 있/paa+고/ecc))+,/sp
+         (VP
+              (PP (AP 레이저/ncn)
+                   (PP 프린터/ncn+에/jca))
+              (V 비하/pvg+어/ecc))
+         (VP
+              (NP (AP 인쇄/ncn)
+                   (NP 상태/ncn+가/jcs))
+              (V 거칠/paa+어/ecc))
+         (VP
+              (PP (AP (NP (AP 그림/ncn)
+                            (NP 등/nbn+을/jco))
+                        (AP 출력/ncpa+하/xsv+ㄹ/etm))
+                   (PP 경우/ncn+에/jca+는/jxc))
+              (V (V 적당/ncps+하/xsm+지/ecx )
+                  (AUXP 않/px+습니다/ef))))+./sf)
+
+
+; 현재는 24 핀 프린터가 많이 사용되고 있으며 , 또 가로로 찍을 수 있는 문자의 수에 따라 80 컬럼 ( Column ) 과 136 칼럼 (  Column ) 으로 나누어집니다 .
+(S
+    (VP
+         (VP
+              (ADVP 현재/ncn+는/jxc)
+              (NP (AP 24/nnc)
+                   (AP 핀/ncn)
+                   (NP 프린터/ncn+가/jcs))
+              (AUXP 많/paa+이/xsa)
+              (V (V 사용/ncpa+되/xsv+고/ecx)
+                  (AUXP 있/px+으며/ecs)))+,/sp
+         (VP
+              (IP 또/maj)
+              (PP (AP (NP (AP (PP 가로/ncn+로/jca )
+                                (AP 찍/pvg+ㄹ/etm ))
+                            (NP 수/nbn ))
+                        (AP 있/paa+는/etm ))
+                   (PP (AP 문자/ncn+의/jcm)
+                       (PP 수/ncn+에/jca)))
+              (V 따르/pvg+아/ecs))
+         (VP
+              (PP (NP 80/nnc+컬럼/nbu+(/sl+Column/f+)/sr+과/jcj)
+                   (PP 136/nnc+칼럼/nbu+(/sl+Column/f+)/sr+으로/jca))
+              (V 나누/pvg+어/ecx+지/px+ㅂ니다/ef)))+./sf)
+
+
+; 레이저 프린터는 레이저 빔을 이용하여 복사기와 같은 원리로 인쇄를 합니다 .
+(S
+    (VP 
+         (VP 
+              (NP (AP 레이저/ncn )
+                   (NP 프린터/ncn+는/jxc ))
+              (NP (AP 레이저/ncn )
+                   (NP 빔/ncn+을/jco ))
+              (V 이용/ncpa+하/xsv+어/ecs ))
+         (VP
+              (PP (AP (PP 복사기/ncn+와/jct )
+                       (AP 같/paa+ㄴ/etm ))
+                   (PP 원리/ncn+로/jca ))
+              (NP 인쇄/ncn+를/jco )
+              (V 하/pvg+ㅂ니다/ef )))+./sf)
+
+
+; 소음이 적고 인쇄 결과가 매우 선명하여 그림 역시 사진처럼 정교하게 출력시켜 줍니다 .
+(S
+    (VP
+         (VP (NP 소음/ncn+이/jcs )
+              (V 적/paa+고/ecx ))
+         (VP 
+              (NP (AP 인쇄/ncn )
+                   (NP 결과/ncn+가/jcs ))
+              (ADVP 매우/mag )
+              (V 선명/ncps+하/xsm+어/ecs ))
+         (VP (NP 그림/ncn )
+              (ADVP 역시/mag )
+              (PP 사진/ncn+처럼/jca )
+              (V (V 정교/ncps+하/xsm+게/ecs )
+                  (V 출력/ncpa+시키/xsv+어/ecx )
+                  (AUXP 주/px+ㅂ니다/ef))))+./sf)
+
+
+; 그러나 가격이 비싼 단점이 있어 주로 전문적인 분야 , 예를 들어 전자 출판 등에 많이 사용되고 있습니다 .
+(S
+    (VP
+         (VP
+              (IP 그러나/maj )
+              (NP (AP (NP 가격/ncn+이/jcs )
+                       (AP 비싸/paa+ㄴ/etm ))
+                   (NP 단점/ncn+이/jcs ))
+              (V 있/paa+어/ecs ))
+         (VP
+              (NP (AP (ADVP 주로/mag )
+                        (AP 전문/ncn+적/xsn+이/jp+ㄴ/etm ))
+                   (NP 분야/ncn ))+,/sp  
+              (IP (NP 예/ncn+를/jco )
+                  (V 들/pvg+어/ecs))
+              (PP (NP (NP 전자/ncn )
+                        (NP 출판/ncn ))
+                   (PP 등/nbn+에/jca ))
+              (ADVP 많/paa+이/xsa )
+              (V (V 사용/ncpa+되/xsv+고/ecx )
+                  (AUXP 있/px+습니다/ef ))))+./sf)
+
+
+; 이것들은 도트 매트릭스 프린터와 비슷한 가격으로 레이저 프린터 비슷한 해상도의 출력을 얻을 수  있는 장점이 있어 많이 보급되고 있습니다 .
+(S
+    (VP
+         (VP
+              (NP 이것/npd+들/xsn+은/jxc )
+              (PP (AP (PP (AP 도트/ncn )
+                             (AP 매트릭스/ncn)
+                             (PP 프린터/ncn+와/jct ))
+                       (AP 비슷/ncps+하/xsm+ㄴ/etm ))
+                  (PP 가격/ncn+으로/jca ))
+              (NP (AP (NP (AP (NP (AP 레이저/ncn )
+                                     (AP 프린터/ncn)
+                                     (AP 비슷/ncps+하/xsm+ㄴ/etm)
+                                     (AP 해상도/ncn+의/jcm)
+                                     (NP 출력/ncn+을/jco))
+                                 (AP 얻/pvg+ㄹ/etm ))
+                             (NP 수/ncn ))
+                        (AP 있/paa+는/etm ))
+                   (NP 장점/ncn+이/jcs ))
+              (V 있/paa+어/ecs ))
+         (VP (ADVP 많/paa+이/xsa )
+              (V (V 보급/ncpa+되/xsv+고/ecx )
+                  (AUXP 있/px+습니다/ef ))))+./sf)
+
+
+; 마우스는 두 개의 버튼이 붙어 있는 것과 세 개의 버튼이 붙어 있는 것 두 종류가 있으나 기능상 별차이가 없습니다 .
+(S
+    (VP
+         (VP (NP 마우스/ncn+는/jxc )
+              (PP (AP (NP (AP 두/nnc )
+                             (AP 개/nbu+의/jcm)
+                             (NP 버튼/ncn+이/jcs ))
+                        (AP (V 붙/pvg+어/ecx )
+                             (AP 있/px+는/etm )))
+                   (PP 것/nbn+과/jct ))
+              (NP (AP (NP (AP 세/nnc )
+                             (AP 개/nbu+의/jcm)
+                             (NP 버튼/ncn+이/jcs ))
+                        (AP (V 붙/pvg+어/ecx )
+                             (AP 있/px+는/etm )))
+                   (NP 것/nbn ))
+              (NP (AP 두/nnc )
+                   (NP 종류/ncn+가/jcs ))
+              (V 있/paa+으나/ecs ))
+         (VP (ADVP 기능/ncn+상/xsn )
+              (NP 별/mma+차이/ncn+가/jcs)
+              (V 없/paa+습니다/ef )))+./sf)
+
+
+; 볼 마우스는 어떤 장소에서나 사용할 수 있지만 , 광학 마우스는 특별히 제작된 판이 있어야 사용할 수 있습니다 .
+(S
+    (VP
+         (VP
+              (NP (AP 볼/ncn )
+                   (NP 마우스/ncn+는/jxc ))
+              (NP (AP (PP (AP 어떻/pad+ㄴ/etm )
+                            (PP 장소/ncn+에서/jca+나/jxc ))
+                        (AP 사용/ncpa+하/xsv+ㄹ/etm ))
+                   (NP 수/nbn ))
+              (V 있/paa+지만/ecs ))+,/sp
+         (VP 
+              (NP (AP 광학/ncn )
+                   (NP 마우스/ncn+는/jxc ))
+              (NP (AP (NP (AP (ADVP 특별/ncn+히/xsa )
+                                 (AP 제작/ncpa+되/xsv+ㄴ/etm ))
+                             (NP 판/ncn+이/jcs ))
+                        (AP (V 있/paa+어야/ecs)
+                             (AP 사용/ncpa+하/xsv+ㄹ/etm)))
+                   (NP 수/nbn ))
+              (V 있/paa+습니다/ef )))+./sf)
+
+
+; 마우스는 비교적 최근에 등장한 입력 장치이므로 기존의 소프트웨어 가운데는 마우스를 지원하지 않는 것들이 있습니다 .
+(S
+    (VP
+         (VP
+              (NP 마우스/ncn+는/jxc )
+              (VP (AP (PP (AP 비교/ncn+적/xsn )
+                            (PP 최근/ncn+에/jca ))
+                        (AP 등장/ncpa+하/xsv+ㄴ/etm ))
+                   (VP (AP 입력/ncn )
+                        (V 장치/ncn+이/jp+므로/ecs))))
+         (VP
+              (NP (AP 기존/ncn+의/jcm )
+                   (AP 소프트웨어/ncn)
+                   (NP 가운데/ncn+는/jxc ))
+              (NP (AP (NP 마우스/ncn+를/jco )
+                        (AP (V 지원/ncpa+하/xsv+지/ecx )
+                             (AP 않/px+는/etm )))
+                   (NP 것/nbn+들/xsn+이/jcs ))
+              (V 있/paa+습니다/ef )))+./sf)
+
+
+; 모뎀 ( Modem ) 마우스 이상으로 많이 사용되고 있는 ` 모뎀 ( Modem )` 은 통신을 위하여 꼭 필요한 주변기기입니다 .
+(S
+    (VP
+         (VP
+              (PP (AP 모뎀/ncn+(/sl+Modem/f+)/sr)
+                   (AP 마우스/ncn)
+                   (PP 이상/ncn+으로/jca ))
+              (NP (AP (ADVP 많/paa+이/xsa )
+                        (AP (V 사용/ncpa+되/xsv+고/ecx )
+                             (AP 있/px+는/etm )))
+                   (NP `/sl+모뎀/ncn+(/sl+Modem/f+)/sr+`/sl+은/jxc))
+              (NP 통신/ncn+을/jco )
+              (V 위하/pvg+어/ecs))
+         (VP
+              (AP (ADVP 꼭/mag )
+                   (AP 필요/ncps+하/xsm+ㄴ/etm ))
+              (V 주변/ncn+기기/ncn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 또한 모뎀은 정보화 시대에 가장 주목받는 주변 기기라고 할 수 있는데 , 자세한 설명은 뒤에서 다시 하겠습니다 .
+(S
+    (VP
+         (VP (IP 또한/maj )
+              (NP 모뎀/ncn+은/jxc )
+              (PP (AP 정보화/ncn )
+                   (PP 시대/ncn+에/jca ))
+              (NP (AP (NP (AP (ADVP 가장/mag )
+                                 (AP 주목/ncn+받/pvg+는/etm ))
+                             (NP (AP 주변/ncn)
+                                  (NP 기기/ncn+라고/jcr)))
+                        (AP 하/pvg+ㄹ/etm ))
+                   (NP 수/nbn ))
+              (V 있/paa+는데/ecs ))+,/sp
+         (VP
+              (NP (AP 자세/ncps+하/xsm+ㄴ/etm )
+                   (NP 설명/ncn+은/jxc ))
+              (PP 뒤/ncn+에서/jca )
+              (ADVP 다시/mag )
+              (V 하/pvg+겠/ep+습니다/ef )))+./sf)
+
+
+; 얼마 전까지만 하더라도 가격이 너무 비쌌기 때문에 스캐너가 많이 사용되지 못했습니다 .
+(S
+    (VP
+         (VP
+              (PP (ADVP 얼마/mag )
+                   (PP 전/ncn+까지/jxc+만/jca ))
+              (V 하/pvg+더라도/ecs ))
+         (VP
+              (NP 가격/ncn+이/jcs )
+              (PP (NP (ADVP 너무/mag )
+                       (NP 비싸/paa+ㅆ/ep+기/etn ))
+                   (PP 때문/nbn+에/jca ))
+              (NP 스캐너/ncn+가/jcs )
+              (ADVP 많/paa+이/xsa )
+              (V (V 사용/ncpa+되/xsv+지/ecx )
+                  (AUXP 못하/pvg+었/ep+습니다/ef ))))+./sf)
+
+
+; 그러나 최근에는 가격도 저렴하고 사용하기도 편리한 스캐너들이 많이 개발되어서 점차 대중화 되고 있는 추세입니다 .
+(S
+    (VP
+         (VP
+              (IP 그러나/maj )
+              (PP 최근/ncn+에/jca+는/jxc )
+              (NP 가격/ncn+도/jxc )
+              (V 저렴/ncps+하/xsm+고/ecc))
+         (VP
+              (NP (AP (NP 사용/ncpa+하/xsv+기/etn+도/jxc )
+                       (AP 편리/ncps+하/xsm+ㄴ/etm ))
+                   (NP 스캐너/ncn+들/xsn+이/jcs ))
+              (ADVP 많/paa+이/xsa )
+              (V 개발/ncpa+되/xsv+어서/ecs ))
+         (VP
+              (AP (ADVP 점차/mag )
+                   (AP (V 대중화/ncpa+되/xsv+고/ecx )
+                        (AP 있/px+는/etm)))
+              (V 추세/ncn+이/jp+ㅂ니다/ef )))+./sf)
+
+
+; 라이트 펜은 볼펜 모양의 입력 장치로서 , 모니터에 대고 점을 찍건 그림을 그리면 그대로 화면에 입력되면 특수 입력 장치입니다 .
+(S
+    (VP
+         (VP
+              (NP (AP 라이트/ncn )
+                   (NP 펜/ncn+은/jxc ))
+              (PP (AP 볼펜/ncn )
+                   (AP 모양/ncn+의/jcm)
+                   (AP 입력/ncn )
+                   (PP 장치/ncn+로서/jca ))+,/sp
+              (PP 모니터/ncn+에/jca )
+              (V 대/pvg+고/ecc))
+         (VP
+              (NP 점/ncn+을/jco)
+              (V 찍/pvg+건/ecc))
+         (VP (NP 그림/ncn+을/jco )
+              (V 그리/pvg+면/ecs ))
+         (VP (ADVP 그대로/mag )
+              (PP 화면/ncn+에/jca )
+              (V 입력/ncpa+되/xsv+면/ecs ))
+         (VP (AP 특수/ncn)
+              (AP 입력/ncn)
+              (V 장치/ncn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 태블렛은 한자나 특수 문자 , 기호 , 도형 등이 그려져 있는 특수한 판 위에서 입력할 문자가  있는 부분을 손으로 누르거나 특수 펜으로 누르면 화면에 해당되는 문자가 자동적으로 입력되는 장치입니다 .
+(S
+    (VP
+         (VP
+              (NP 태블렛/ncn+은/jxc )
+              (PP (AP (NP (NP (NP 한자/ncn+나/jcj )
+                                (NP (AP 특수/ncn )
+                                     (NP 문자/ncn ))+,/sp
+                                (NP 기호/ncn )+,/sp
+                                (NP 도형/ncn))
+                           (NP 등/ncn+이/jcs ))
+                      (AP (V 그리/pvg+어/ecx+지/px+어/ecx )
+                           (AP 있/px+는/etm)))
+                   (PP (AP 특수/ncps+하/xsm+ㄴ/etm )
+                        (AP 판/ncn)
+                        (PP 위/ncn+에서/jca)))
+              (NP (AP (NP (AP 입력/ncpa+하/xsv+ㄹ/etm )
+                             (NP 문자/ncn+가/jcs ))
+                        (AP 있/paa+는/etm ))
+                   (NP 부분/ncn+을/jco ))
+              (PP 손/ncn+으로/jca )
+              (V 누르/pvg+거나/ecc ))
+         (VP
+              (PP (AP 특수/ncn )
+                   (PP 펜/ncn+으로/jca ))
+              (V 누르/pvg+면/ecs))
+         (VP
+              (NP (AP (PP 화면/ncn+에/jca )
+                        (AP 해당/ncpa+되/xsv+는/etm ))
+                   (NP 문자/ncn+가/jcs ))
+              (VP (AP (PP 자동/ncn+적/xsn+으로/jca )
+                        (AP 입력/ncpa+되/xsv+는/etm ))
+                   (V 장치/ncn+이/jp+ㅂ니다/ef))))+./sf)
+
+
+; 앞에서도 잠깐 설명을 드렸지만 , 게임을 할 때나 음성이 필요한 프로그램을 사용할 때 반드시 필요한 주변 장치입니다 .
+(S
+    (VP
+         (VP (PP 앞/ncn+에서/jca+도/jxc )
+              (ADVP 잠깐/mag )
+              (NP 설명/ncn+을/jco )
+              (V 드리/pvg+었/ep+지만/ecs ))+,/sp
+         (VP
+              (PP
+                   (NP (AP (NP 게임/ncn+을/jco )
+                             (AP 하/pvg+ㄹ/etm ))
+                        (NP 때/ncn+나/jcj ))
+                   (PP (AP (NP (AP (NP 음성/ncn+이/jcs)
+                                     (AP 필요/ncps+하/xsm+ㄴ/etm ))
+                                 (NP 프로그램/ncn+을/jco ))
+                            (AP 사용/ncpa+하/xsv+ㄹ/etm ))
+                        (PP 때/ncn)))
+              (VP (AP (ADVP 반드시/mag )
+                        (AP 필요/ncps+하/xsm+ㄴ/etm ))
+                   (VP (AP 주변/ncn )
+                        (V 장치/ncn+이/jp+ㅂ니다/ef)))))+./sf)
+
+
+; 어렵사리 사전을 뒤지니까 뭐라고 나오긴 나오는데 더 어렵게 설명하여 난처해질 수밖에 없었습니다 .
+(S
+    (VP
+         (VP
+              (ADVP 어렵사리/mag )
+              (NP 사전/ncn+을/jco )
+              (V 뒤지/pvg+니까/ecs ))
+         (VP
+              (NP (NP 뭐/npd+라/ef+고/jcr )
+                   (NP 나오/pvg+기/etn+ㄴ/jxc ))
+              (V 나오/pvg+는데/ecs))
+         (VP
+              (ADVP 더/mag )
+              (V (V 어렵/paa+게/ecx )
+                  (V 설명/ncpa+하/xsv+어/ecs)))
+         (VP
+              (PP (AP 난처/ncps+하/xsm+어/ecx+지/px+ㄹ/etm )
+                  (PP 수/nbn+밖에/jxc ))
+              (V 없/paa+었/ep+습니다/ef)))+./sf)
+
+
+; 한마디로 ` 부팅 ` 이란 전원을 껐다가 켜는 일입니다 .
+(S
+    (VP (PP 한마디/ncn+로/jca )
+         (NP `/sl+부팅/ncn+`/sr+이/jp+라/ef+ㄴ/jxc)
+         (VP (AP (NP 전원/ncn+을/jco )
+                  (AP (V 끄/pvg+었/ep+다가/ecc)
+                       (AP 켜/pvg+는/etm)))
+              (V 일/ncn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 쉬워도 불만인가요 ?
+(S
+    (VP (V 쉽/paa+어도/ecs )
+         (V 불만/ncn+이/jp+ㄴ가/ef+요/jxf))+?/sf )
+
+
+; 좀더 구체적으로 말해 , 부팅이란 ` DOS ` 체제를 메모리에 불러들이는 과정 ` 입니다.
+(S
+    (VP
+         (VP
+              (ADVP 좀더/mag )
+              (PP 구체/ncn+적/xsn+으로/jca )
+              (V 말/ncpa+하/xsv+어/ecs ))+,/sp
+         (VP
+              (NP 부팅/ncn+이/jp+라/ef+ㄴ/jxc)
+              (NP (AP `/sl+DOS/f+`/sl)
+                   (NP 체제/ncn+를/jco ))
+              (VP (AP (PP 메모리/ncn+에/jca )
+                       (AP 불러들이/pvg+는/etm ))
+                   (V 과정/ncn+`/sr+이/jp+ㅂ니다/ef))))+./sf)
+
+
+; 이렇게 이야기하면 컴퓨터 초보 운전자들은 오히려 궁금증 두 가지만 더 생길 것입니다 .
+(S
+    (VP
+         (VP (V 이렇/pad+게/ecc)
+              (V 이야기/ncpa+하/xsv+면/ecs ))
+         (VP
+              (NP (AP 컴퓨터/ncn )
+                   (AP 초보/ncn)
+                   (NP 운전자/ncn+들/xsn+은/jxc ))
+              (ADVP 오히려/mag )
+              (NP (AP 궁금증/ncn )
+                   (AP 두/nnc )
+                   (NP 가지/nbu+만/jxc))
+              (VP (AP (ADVP 더/mag )
+                       (AP 생기/pvg+ㄹ/etm ))
+                   (V 것/nbn+이/jp+ㅂ니다/ef))))+./sf)
+
+
+; 우선 DOS 에 대해서 간단하게 말씀드리겠습니다 .
+(S
+    (VP
+         (ADVP 우선/mag )
+         (PP DOS/f+에/jca )
+         (V (V 대하/pvg+어서/ecs)
+             (V 간단/ncpa+하/xsv+게/ecs )
+             (V 말씀/ncn+드리/pvg+겠/ep+습니다/ef )))+./sf)
+
+
+; DOS 는 딱딱한 쇠붙이와 플라스틱으로 이루어진 컴퓨터 ( 이것을 하드웨어라고  부른다고 했죠 ) 에 없어서는 안 될 , 인간으로 말하면 가장 기본적인 정신이라고 할 수 있습니다 .
+(S
+    (VP
+         (NP DOS/f+는/jxc )
+         (VP (AP (NP (PP (AP (PP (NP (AP 딱딱하/paa+ㄴ/etm )
+                                        (NP 쇠붙이/ncn+와/jcj ))
+                                    (PP 플라스틱/ncn+으로/jca ))
+                                (AP 이루/pvg+어/ecx+지/px+ㄴ/etm ))
+                            (PP 컴퓨터/ncn
+                                  (VP
+                                       (NP (NP (NP (/sl+이것/npd+을/jco)
+                                                 (NP 하드웨어/ncn+라고/jcr))
+                                            (NP 부르/pvg+ㄴ다/ef+고/jcr))
+                                        (V 하/pvg+었/ep+죠/ef+)/sr))+에/jca))
+                       (NP 없/paa+어서/ecs+는/jxc ))
+                  (AP (ADVP 안/mag )
+                        (AP 되/pvg+ㄹ/etm)))+,/sp
+              (VP (IP (PP 인간/ncn+으로/jca )
+                       (V 말/ncpa+하/xsv+면/ecs))
+                   (NP (AP (NP (AP (ADVP 가장/mag )
+                                (AP 기본/ncn+적/xsn+이/jp+ㄴ/etm))
+                            (NP 정신/ncn+이/jp+라/ef+고/jcr))
+                        (AP 하/pvg+ㄹ/etm ))
+                   (NP 수/ncn))
+                   (V 있/paa+습니다/ef))))+./sf)
+
+
+; 앞에서 컴퓨터의 용도에 대해서 설명을 할 때 여러 가지 소프트웨어 프로그램들에  대해서 말씀드렸는데 , DOS 는 그런 소프트웨어들과 하드웨어를 중간적인 위치에서 연결시켜주는 중요한 역할을 수행하고 있습니다 .
+(S
+    (VP
+         (VP
+              (PP 앞/ncn+에서/jca )
+              (PP (AP 컴퓨터/ncn+의/jcm )
+                  (PP 용도/ncn+에/jca ))
+              (V 대하/pvg+어서/ecs ))
+         (VP 
+              (PP (AP (NP 설명/ncn+을/jco )
+                        (AP 하/pvg+ㄹ/etm ))
+                   (PP 때/ncn))
+              (PP (AP 여러/mma )
+                   (AP 가지/nbu)
+                   (AP 소프트웨어/ncn)
+                   (PP 프로그램/ncn+들/xsn+에/jca ))
+              (V (V 대하/pvg+어서/ecs)
+                  (V 말씀/ncn+드리/pvg+었/ep+는데/ecs)))+,/sp
+         (VP
+              (NP DOS/f+는/jxc )
+              (NP (AP 그런/mmd)
+                   (NP (AP 소프트웨어/ncn+들/xsn+과/jcj)
+                        (NP 하드웨어/ncn+를/jco)))
+              (NP (AP (PP (AP 중간/ncn+적/xsn+이/jp+ㄴ/etm )
+                             (PP 위치/ncn+에서/jca ))
+                        (AP 연결/ncpa+시키/xsv+어/ecx+주/px+는/etm ))
+                   (NP (AP 중요/ncps+하/xsm+ㄴ/etm )
+                        (NP 역할/ncn+을/jco)))
+              (V (V 수행/ncpa+하/xsv+고/ecx )
+                  (AUXP 있/px+습니다/ef ))))+./sf)
+
+
+; 그러나 물과 공기처럼 인간이 생존하는 데 없어서는 안 될 필수적인 존재들의 중요성을 우리가 가끔씩 잊고 살듯이 , 컴퓨터를 약간 안다는 사람들도 가끔 DOS 의 중요성을 가볍게 생각하는 경우가 적지 않습니다 .
+(S
+    (VP
+         (VP
+              (IP 그러나/maj )
+              (PP (NP 물/ncn+과/jcj )
+                  (PP 공기/ncn+처럼/jca ))
+              (NP (AP (NP (PP (AP (NP 인간/ncn+이/jcs )
+                                     (AP 생존/ncpa+하/xsv+는/etm ))
+                                 (PP 데/nbn ))
+                             (NP 없/paa+어서/ecs+는/jxc ))
+                        (AP (ADVP 안/mag )
+                             (AP 되/pvg+ㄹ/etm)))
+                   (NP (AP 필수/ncn+적/xsn+이/jp+ㄴ/etm )
+                        (AP 존재/ncn+들/xsn+의/jcm)
+                        (NP 중요성/ncn+을/jco)))
+              (NP 우리/npp+가/jcs )
+              (ADVP 가끔씩/mag )
+              (V (V 잊/pvg+고/ecs )
+                  (V 살/pvg+듯이/ecs)))+,/sp
+         (VP
+              (NP 컴퓨터/ncn+를/jco)
+              (NP (AP (ADVP 약간/mag )
+                        (AP 알/pvg+ㄴ다/ef+는/etm ))
+                   (NP 사람/ncn+들/xsn+도/jxc ))
+              (ADVP 가끔/mag )
+              (NP (AP (NP (AP DOS/f+의/jcm)
+                             (NP 중요성/ncn+을/jco ))
+                        (AP (V 가볍/paa+게/ecx )
+                             (AP 생각/ncpa+하/xsv+는/etm)))
+                   (NP 경우/ncn+가/jcs ))
+              (V (V 적/paa+지/ecx )
+                  (AUXP 않/px+습니다/ef ))))+./sf)
+
+
+; 그 다음으로 메모리에 대해서 알아봅시다 .
+(S
+    (VP 
+         (PP (AP 그/mmd )
+              (PP 다음/ncn+으로/jca ))
+         (PP 메모리/ncn+에/jca )
+         (V (V 대하/pvg+어서/ecs)
+             (V 알아보/pvg+ㅂ시/ep+다/jca)))+./sf)
+
+
+; 자 , 이제 복습을 겸해서 다시 설명할 테니 정리하세요 .
+(S
+    (VP
+         (VP
+              (IP 자/ii )+,/sp
+              (ADVP 이제/mag )
+              (NP 복습/ncn+을/jco )
+              (V 겸하/pvg+어서/ecs ))
+         (VP 
+              (AP (ADVP 다시/mag )
+                   (AP 설명/ncpa+하/xsv+ㄹ/etm ))
+              (V (V 터/nbn+이니/ecs)
+                  (V 정리/ncpa+하/xsv+시/ep+에요/ef))))+./sf)
+
+
+; ( 보통 ` 메모리 ` 라고 부르지요 ) 이와 달리 , 그냥 읽기만 할 수 있는 메모리인 ` ROM `( Read Only Memory ) 이 있습니다 .
+(S
+    (VP
+         (VP 
+              (ADVP (/sl+보통/ncn )
+              (NP `/sl+메모리/ncn+`/sr+라고/jcr)
+              (V 부르/pvg+지/ef+요/jxf+)/sr))
+         (VP
+              (ADVP (PP 이/npd+와/jct )
+                  (ADVP 다르/paa+이/xsa ))+,/sp
+              (NP (AP (AP (NP (AP (NP (ADVP 그냥/mag )
+                                          (NP 읽/pvg+기/etn+만/jxc))
+                                     (AP 하/pvg+ㄹ/etm ))
+                                (NP 수/nbn ))
+                            (AP 있/paa+는/etm ))
+                       (AP 메모리/ncn+이/jp+ㄴ/etm ))
+                   (NP `/sl+ROM/sy+`/sl+(/sl+Read/f+Only/f+Memory/f+)/sr+이/jcs))
+              (V 있/paa+습니다/ef )))+./sf)
+
+
+; 줄여서 ` 롬바이오스 ( ROM BIOS : Basic Input Output System )` 라고 부르는데 , 이 ` 롬바이오스 ` 는 하드웨어와 아주 밀접한 관련이 있습니다 따라서 컴퓨터 시스템에서 매우 중요한 위치를 차지하고 있습니다 .
+(S
+    (VP
+         (VP
+              (IP 줄이/pvg+어서/ecs )
+              (NP `/sl+롬바이오스/ncn+(/sl+ROM/f+BIOS/f+:/sp+Basic/f+Input/f+Output/f+System/f+)/sr+`/sr+라고/jcr)
+              (V 부르/pvg+는데/ecs))+,/sp
+         (VP
+              (NP (AP 이/mmd )
+                   (NP `/sl+롬바이오스/ncn+`/sr+는/jxc))
+              (PP 하드웨어/ncn+와/jct )
+              (NP (AP (ADVP 아주/mag )
+                       (AP 밀접/ncps+하/xsm+ㄴ/etm ))
+                   (NP 관련/ncn+이/jcs ))
+              (V 있/paa+습니다/ef))
+         (VP
+              (IP 따라서/maj )
+              (PP (AP 컴퓨터/ncn )
+                   (PP 시스템/ncn+에서/jca ))
+              (NP (AP (ADVP 매우/mag )
+                       (AP 중요/ncpa+하/xsv+ㄴ/etm ))
+                   (NP 위치/ncn+를/jco ))
+             (V (V 차지/ncpa+하/xsv+고/ecx )
+                 (AUXP 있/px+습니다/ef))))+./sf)
+
+
+; 자 , 그러면 다시 부팅에 대해서 체계적으로 정리해 봅시다 .
+(S
+    (VP
+         (VP
+              (IP 자/ii )+,/sp
+              (IP 그러면/maj )
+              (ADVP 다시/mag )
+              (PP 부팅/ncn+에/jca )
+              (V 대하/pvg+어서/ecs ))
+         (VP
+              (PP 체계/ncn+적/xsn+으로/jca )
+              (V (V 정리/ncpa+하/xsv+어/ecx )
+                  (V 보/px+ㅂ시다/ef ))))+./sf)
+
+
+; 그럼 , 처음 컴퓨터의 스위치를 켰을 때부터 커서가 화면에 나타나기까지의 과정을 차례대로 알아보기로 합시다 .
+(S
+    (VP
+         (IP 그럼/ii)+,/sp
+         (PP (AP (NP (AP 처음/ncn )
+                        (AP 컴퓨터/ncn+의/jcm)
+                        (NP 스위치/ncn+를/jco ))
+                   (AP 켜/pvg+었/ep+ㄹ/etm ))
+              (PP 때/ncn+부터/jxc ))
+         (NP 커서/ncn+가/jcs )
+         (PP (PP (NP (AP (PP 화면/ncn+에/jca )
+                           (AP 나타나/pvg+기/etn+까지/jxc+의/jcm ))
+                      (NP 과정/ncn+을/jco ))
+                  (PP 차례/ncn+대로/jca))
+              (PP 알/pvg+아/ecx+보/px+기/etn+로/jca ))
+         (V 하/pvg+ㅂ시/ep+다/jca))+./sf)
+
+
+; 혹시 미처 설명을 못한 용어가 나오더라도 , 그냥 읽어 두시면 뒤에 반드시 그 용어를 이해할 수 있는 대목이 나올 것입니다 .
+(S
+    (VP 
+         (VP (ADVP 혹시/mag )
+              (ADVP 미처/mag )
+              (NP (AP (NP 설명/ncn+을/jco )
+                        (AP 못하/pvg+ㄴ/etm ))
+                   (NP 용어/ncn+가/jcs ))
+              (V 나오/pvg+더라도/ecs ))+,/sp
+         (VP (ADVP 그냥/mag )
+              (V (V 읽/pvg+어/ecx )
+                  (AUXP 두/px+시/ep+면/ecs )))
+         (VP
+              (PP 뒤/ncn+에/jca )
+              (VP (AP (ADVP 반드시/mag )
+                       (AP (NP (AP (NP (AP (NP (AP 그/mmd )
+                                                   (NP 용어/ncn+를/jco ))
+                                              (AP 이해/ncpa+하/xsv+ㄹ/etm ))
+                                          (NP 수/nbn ))
+                                     (AP 있/paa+는/etm ))
+                                (NP 대목/ncn+이/jcs))
+                            (AP 나오/pvg+ㄹ/etm)))
+                    (V 것/nbn+이/jp+ㅂ니다/ef))))+./sf)
+
+
+; 사실은 CPU 가 먼저 전기적인 신호를 받고 롬바이오서의 부트 프로그램을 실행시킨 것이지요 .
+(S
+    (VP
+         (VP
+              (NP 사실/ncn+은/jxc )
+              (NP CPU/f+가/jcs )
+              (ADVP 먼저/mag )
+              (NP (AP 전기/ncn+적/xsn+이/jp+ㄴ/etm )
+                   (NP 신호/ncn+를/jco ))
+              (V 받/pvg+고/ecc ))
+         (VP
+              (AP (NP (AP 롬바이오서/ncn+의/jcm )
+                       (AP 부트/ncn)
+                       (NP 프로그램/ncn+을/jco ))
+                   (AP 실행/ncpa+시키/xsv+ㄴ/etm))
+              (V 것/nbn+이/jp+지/ef+요/jxf)))+./sf)
+
+
+; 그 다음엔 일련의 시스템 검사를 마치고 , 마치 큰 시계 초침 소리와 비슷한 소리가 나면서 메모리를 테스트합니다 .
+(S
+    (VP
+         (VP 
+              (PP (AP 그/mmd )
+                   (PP 다음/ncn+에/jca+ㄴ/jxc ))
+              (NP (AP 일련/ncn+의/jcm )
+                   (AP 시스템/ncn)
+                   (NP 검사/ncn+를/jco ))
+              (V 마치/pvg+고/ecc ))+,/sp
+         (VP
+              (ADVP 마치/mag )
+              (NP (AP (PP (AP 크/paa+ㄴ/etm )
+                             (AP 시계/ncn)
+                             (AP 초침/ncn)
+                             (PP 소리/ncn+와/jct ))
+                        (AP 비슷/ncps+하/xsm+ㄴ/etm ))
+                   (NP 소리/ncn+가/jcs ))
+              (V 나/pvg+면서/ecc ))
+         (VP (NP 메모리/ncn+를/jco )
+              (V 테스트/ncpa+하/xsv+ㅂ니다/ef )))+./sf)
+
+
+; 아무래도 메모리의 용량은 큰 편이 좋겠지요 .
+(S
+    (VP (IP 아무렇/pad+어도/ecs )
+         (NP (AP 메모리/ncn+의/jcm )
+              (NP 용량/ncn+은/jxc ))
+         (NP (AP 크/paa+ㄴ/etm )
+              (NP 편/ncn+이/jcs ))
+         (V 좋/paa+겠/ep+지/ef+요/jxf ))+./sf)
+
+
+; 출력 장치 검사를 하고 DOS 가 담겨 있는 디스크를 찾습니다 .
+(S
+    (VP
+         (VP
+              (NP (AP 출력/ncn )
+                   (AP 장치/ncn)
+                   (NP 검사/ncn+를/jco ))
+              (V 하/pvg+고/ecc ))
+         (VP 
+              (NP (AP (NP DOS/f+가/jcs )
+                       (AP (V 담기/pvg+어/ecx )
+                            (AP 있/px+는/etm )))
+                   (NP 디스크/ncn+를/jco ))
+              (V 찾/pvg+습니다/ef )))+./sf)
+
+
+; COM 은 자동 시행 파일을 찾아 일련의 명령들을 수행시킵니다 .
+(S
+    (VP
+         (VP
+              (NP COM/f+은/jxc)
+              (NP (AP 자동/ncn )
+                   (AP 시행/ncn)
+                   (NP 파일/ncn+을/jco ))
+              (V 찾/pvg+아/ecs))
+         (VP
+              (NP (AP 일련/ncn+의/jcm )
+                   (NP 명령/ncn+들/xsn+을/jco ))
+              (V 수행/ncpa+시키/xsv+ㅂ니다/ef)))+./sf)
+
+
+; 제대로 부팅이 되었다면 , 화면에 아래와 같은 모양의 프롬프트 ( Prompt ) 가 나타날 것입니다 .
+(S
+    (VP
+         (VP (ADVP 제대로/mag)
+              (NP 부팅/ncn+이/jcc)
+              (V 되/pvg+었/ep+다/ef+면/ecs ))+,/sp
+         (VP 
+              (PP 화면/ncn+에/jca )
+              (VP (AP (NP (AP (AP (PP 아래/ncn+와/jct )
+                                     (AP 같/paa+ㄴ/etm ))
+                                 (AP 모양/ncn+의/jcm ))
+                            (NP 프롬프트/ncn+(/sl+Prompt/f+)/sr+가/jcs ))
+                       (AP 나타나/pvg+ㄹ/etm ))
+                   (V 것/nbn+이/jp+ㅂ니다/ef))))+./sf)
+
+
+; 이렇게 프롬프트와 커서가 나타나면 , 이제부터는 컴퓨터가 일을 할 수 있는 준비 상태임을 뜻합니다 .
+(S
+    (VP
+         (VP (ADVP 이렇/pad+게/xsa)
+              (NP (NP 프롬프트/ncn+와/jcj )
+                   (NP 커서/ncn+가/jcs ))
+              (V 나타나/pvg+면/ecs ))+,/sp 
+         (VP
+              (PP 이제/ncn+부터/jxc+는/jxc )
+              (NP 컴퓨터/ncn+가/jcs )
+              (NP (AP (NP (AP (NP 일/ncn+을/jco )
+                                 (AP 하/pvg+ㄹ/etm ))
+                             (NP 수/nbn ))
+                        (AP 있/paa+는/etm ))
+                   (NP (AP 준비/ncn )
+                        (NP 상태/ncn+이/jp+ㅁ/etn+을/jco)))
+              (V 뜻/ncpa+하/xsv+ㅂ니다/ef )))+./sf)
+
+
+; 더구나 이런 복잡한 작업은 여러분이 컴퓨터 스위치를 올리면 컴퓨터가 스스로 알아서 불과 몇십 초 안에 해내는 것이랍니다 .
+(S
+    (VP
+        (VP
+              (ADVP 더구나/mag )
+              (NP (AP 이런/mmd)
+                   (AP 복잡/ncps+하/xsm+ㄴ/etm)
+                   (NP 작업/ncn+은/jxc))
+              (NP 여러분/npp+이/jcs )
+              (NP (AP 컴퓨터/ncn )
+                   (NP 스위치/ncn+를/jco ))
+              (V 올리/pvg+면/ecs ))
+         (VP
+              (NP 컴퓨터/ncn+가/jcs )
+              (ADVP 스스로/mag )
+              (V 알/pvg+아서/ecs ))
+         (VP
+              (ADVP 불과/mag )
+              (VP (AP (PP (AP 몇십/nnc )
+                            (AP 초/nbu)
+                            (PP 안/ncn+에/jca ))
+                       (AP 하/pvg+어/ecx+내/px+는/etm ))
+                  (V 것/nbn+이/jp+라/ef+ㅂ니다/ef))))+./sf)
+
+
+; 금속판으로 싸여 있어 겉으로는 볼 수 없습니다 .
+(S
+    (VP
+         (VP
+             (PP 금속판/ncn+으로/jca )
+             (V (V 싸이/pvg+어/ecx )
+                 (AUXP 있/px+어/ecs)))
+         (VP
+              (NP (AP (PP 겉/ncn+으로/jca+는/jxc )
+                        (AP 보/pvg+ㄹ/etm ))
+                   (NP 수/nbn ))
+             (V 없/paa+습니다/ef)))+./sf)
+
+
+; 용량이 크고 정보를 처리하는 속도가 매우 빨라 이제는 거의 필수적인 장치가 되었습니다 .
+(S
+    (VP
+         (VP
+              (NP 용량/ncn+이/jcs )
+              (V 크/paa+고/ecc ))
+         (VP
+              (NP (AP (NP 정보/ncn+를/jco )
+                        (AP 처리/ncpa+하/xsv+는/etm ))
+                   (NP 속도/ncn+가/jcs ))
+              (ADVP 매우/mag )
+              (V 빠르/paa+아/ecs))
+         (VP
+              (ADVP 이제/ncn+는/jxc )
+              (NP (AP (ADVP 거의/mag )
+                        (AP 필수/ncn+적/xsn+이/jp+ㄴ/etm ))
+                   (NP 장치/ncn+가/jcc))
+              (V 되/pvg+었/ep+습니다/ef)))+./sf)
+
+
+; ( 3 ) 가끔 컴퓨터가 작동이 안 될 경우에는 재부팅을 해야만 합니다 .
+(S
+    (VP
+         (IP (/sl+3/nno+)/sr)
+         (ADVP 가끔/mag )
+         (NP 컴퓨터/ncn+가/jcs )
+         (NP 작동/ncn+이/jcc )
+         (PP (AP (ADVP 안/mag )
+                  (AP 되/pvg+ㄹ/etm ))
+              (PP 경우/ncn+에/jca+는/jxc ))
+         (NP 재부팅/ncn+을/jco )
+         (V (V 하/pvg+어야/ecs+만/jxc )
+             (V 하/pvg+ㅂ니다/ef )))+./sf)
+
+
+; 웜부트는 < Ctrl >-< Alt >-< Del > 키를 동시에 누르면 됩니다 .
+(S
+    (VP (NP 웜부트/ncn+는/jxc )
+         (NP (AP </sl+Ctrl/f+>/sr+-/sd+</sl+Alt/f+>/sr+-/sd+</sl+Del/f+>/sr)
+              (NP 키/ncn+를/jco ))
+         (PP 동시/ncn+에/jca )
+         (V (V 누르/pvg+면/ecs )
+             (V 되/pvg+ㅂ니다/ef )))+./sf)
+
+
+; 콜드 부트는 컴퓨터의 리셋 스위치를 눌렀다 놓거나 , 컴퓨터를 아예 껐다가 다시 켜는 것을 말합니다 .
+(S
+    (VP
+         (VP
+              (NP (AP 콜드/ncn )
+                   (NP 부트/ncn+는/jxc ))
+              (NP (AP 컴퓨터/ncn+의/jcm )
+                   (AP 리셋/ncn)
+                   (NP 스위치/ncn+를/jco ))
+              (V (V 누르/pvg+었/ep+다/ef )
+                  (V 놓/pvg+거나/ecs )))+,/sp
+         (VP
+              (NP 컴퓨터/ncn+를/jco )
+              (ADVP 아예/mag )
+              (V 끄/pvg+었/ep+다가/ecs ))
+         (VP
+              (NP (AP (ADVP 다시/mag )
+                       (AP 켜/pvg+는/etm ))
+                   (NP 것/nbn+을/jco ))
+              (V 말/ncpa+하/xsv+ㅂ니다/ef)))+./sf)
+
+
+; 컬퓨터를 오래 사용하려면 , 되도록 콜드 부팅은 하지 않는 것이 좋습니다 .
+(S
+    (VP
+         (VP (NP 컬퓨터/ncn+를/jco )
+              (ADVP 오래/mag )
+              (V 사용/ncpa+하/xsv+려면/ecs ))+,/sp
+         (VP (ADVP 되도록/mag )
+              (NP (AP (NP (AP 콜드/ncn )
+                             (NP 부팅/ncn+은/jxc ))
+                        (AP (V 하/pvg+지/ecx )
+                             (AP 않/px+는/etm )))
+                   (NP 것/nbn+이/jcs ))
+              (V 좋/paa+습니다/ef )))+./sf)
+
+
+; 컴퓨터를 부팅시킨 다음에는 컴퓨터에게 여러 가지 명령을 해 주어야 합니다 .
+(S
+    (VP
+         (PP (AP (NP 컴퓨터/ncn+를/jco )
+                   (AP 부팅/ncpa+시키/xsv+ㄴ/etm ))
+              (PP 다음/ncn+에/jca+는/jxc ))
+         (PP 컴퓨터/ncn+에게/jca )
+         (NP (AP 여러/mma )
+              (AP 가지/nbu)
+              (NP 명령/ncn+을/jco ))
+         (V (V 하/pvg+어/ecx )
+             (AUXP 주/px+어야/ecs)
+             (V 하/pvg+ㅂ니다/ef )))+./sf)
+
+
+; 그들 명령어 중 명령을 하지 않아도 부팅될 때 자동으로 실행되는 명령은 환경 설정 프로그램입니다 .
+(S
+    (VP
+         (PP (AP 그/npd+들/xsn )
+              (AP 명령어/ncn)
+              (PP 중/xsn ))
+         (PP (AP (NP 명령/ncn+을/jco )
+                  (AP (V 하/pvg+지/ecx )
+                       (AUXP 않/px+아도/ecs)
+                       (AP 부팅/ncpa+되/xsv+ㄹ/etm)))
+              (PP 때/ncn ))
+         (NP (AP (PP 자동/ncn+으로/jca )
+                   (AP 실행/ncpa+되/xsv+는/etm ))
+              (NP 명령/ncn+은/jxc ))
+         (VP (AP 환경/ncn )
+              (AP 설정/ncn)
+              (V 프로그램/ncn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 컴퓨터를 처음 배울 때 가장 먼저 해야 할 일은 자판 연습입니다 .
+(S
+    (VP
+         (NP 컴퓨터/ncn+를/jco )
+         (PP (AP (ADVP 처음/mag )
+                   (AP 배우/pvg+ㄹ/etm ))
+              (PP 때/ncn ))
+         (NP (AP (ADVP 가장/mag )
+                   (ADVP 먼저/mag )
+                   (AP (V 하/pvg+어야/ecs )
+                        (AP 하/pvg+ㄹ/etm)))
+              (NP 일/ncn+은/jxc ))
+         (VP (AP 자판/ncn )
+              (V 연습/ncn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 어느 정도 숙달이 되었으면 , 컴퓨터의 운영 구조에 대해서도 약간은 알아야 됩니다 .
+(S
+    (VP
+         (VP
+              (NP (AP 어느/mmd )
+                   (AP 정도/nbn)
+                   (NP 숙달/ncn+이/jcc))
+              (V 되/pvg+었/ep+으면/ecs ))+,/sp
+         (VP
+              (NP (PP (AP 컴퓨터/ncn+의/jcm )
+                       (AP 운영/ncn)
+                       (PP 구조/ncn+에/jca ))
+                  (NP 대하/pvg+어서/ecs+도/jxc ))
+              (NP 약간/mag+은/jxc )
+              (V (V 알/pvg+아야/ecs )
+                  (V 되/pvg+ㅂ니다/ef))))+./sf)
+
+
+; 앞에서 잠깐 설명을 드렸지만 , 지금부터는 DOS 란 무엇인가에 대해서 차례대로 알아보기로 하겠습니다 .
+(S
+    (VP
+         (VP (PP 앞/ncn+에서/jca )
+              (ADVP 잠깐/mag )
+              (NP 설명/ncn+을/jco )
+              (V 드리/pvg+었/ep+지만/ecs ))+,/sp
+         (VP (PP 지금/ncn+부터/jxc+는/jxc )
+              (NP DOS/f+란/jxc )
+              (PP 무엇/npd+이/jp+ㄴ가/ef+에/jca )
+              (V 대하/pvg+어서/ecs ))
+         (VP
+              (PP (PP 차례/ncn+대로/jca )
+                   (PP 알/pvg+아/ecx+보/px+기/etn+로/jca ))
+              (V 하/pvg+겠/ep+습니다/ef )))+./sf)
+
+
+; 그대로 해석하면 디스크 운영 체제라고 할 수 있습니다 .
+(S
+    (VP
+         (VP
+              (ADVP 그대로/mag )
+              (V 해석/ncpa+하/xsv+면/ecs ))
+         (VP 
+              (NP (AP (NP (AP 디스크/ncn )
+                             (AP 운영/ncn)
+                             (NP 체제/ncn+라/ef+고/jcr ))
+                   (AP 하/pvg+ㄹ/etm ))
+              (NP 수/nbn ))
+              (V 있/paa+습니다/ef)))+./sf)
+
+
+; 즉 , 컴퓨터를 원활하게 사용하도록 해 주며 , 컴퓨터 시스템의 동작에서 가장 중요한 역할을 수행하고 , 하드웨어와 가장  밀접한 부분을 담당하는 기보 바탕 소프트웨어랍니다 .
+(S
+    (VP
+         (VP
+              (ADVP 즉/mag )+,/sp
+              (NP 컴퓨터/ncn+를/jco )
+              (V (V 원활/ncps+하/xsm+게/ecs )
+                  (V 사용/ncpa+하/xsv+도록/ecs )
+                  (V 하/pvg+어/ecx)
+                  (AUXP 주/px+며/ecc)))+,/sp
+         (VP 
+              (PP (AP 컴퓨터/ncn )
+                   (AP 시스템/ncn+의/jcm)
+                   (PP 동작/ncn+에서/jca ))
+              (NP (AP (ADVP 가장/mag )
+                        (AP 중요/ncps+하/xsm+ㄴ/etm ))
+                   (NP 역할/ncn+을/jco ))
+              (V 수행/ncpa+하/xsv+고/ecc ))+,/sp
+         (VP 
+              (PP 하드웨어/ncn+와/jct )
+              (VP (AP (NP (AP (ADVP 가장/mag )
+                                 (AP 밀접/ncpa+하/xsv+ㄴ/etm ))
+                            (NP 부분/ncn+을/jco ))
+                        (AP 담당/ncpa+하/xsv+는/etm ))
+                   (VP (AP 기보/ncn )
+                        (AP 바탕/ncn)
+                        (V 소프트웨어/ncn+라/ef+ㅂ니다/ef)))))+./sf)
+
+
+; 그림에서 볼 수 있듯 , 가장 아래쪽에 하드웨어가 있고 , 위쪽에 응용 소프트웨어 , 가운데에 운영 체제 소프트웨어가 존재합니다 .
+(S
+    (VP
+         (VP
+              (NP (AP (PP 그림/ncn+에서/jca )
+                        (AP 보/pvg+ㄹ/etm ))
+                   (NP 수/nbn ))
+              (V 있/paa+듯/ecs ))+,/sp
+         (VP
+              (ADVP 가장/mag )
+              (PP 아래/ncn+쪽/xsn+에/jca)
+              (NP 하드웨어/ncn+가/jcs )
+              (V 있/paa+고/ecc ))+,/sp
+         (VP (PP 위/ncn+쪽/xsn+에/jca )
+              (NP (AP 응용/ncn )
+                   (NP 소프트웨어/ncn ))+,/sp
+              (PP 가운데/ncn+에/jca )
+              (NP (AP 운영/ncn )
+                   (AP 체제/ncn)
+                   (NP 소프트웨어/ncn+가/jcs ))
+              (V 존재/ncpa+하/xsv+ㅂ니다/ef )))+./sf)
+
+
+; 쉽게 말해서 운영체제 프로그램의 대명사인 도스 ( DOS ) 는  하드웨어와 가장 밀접한 관계를 가진 소프트웨어로서 , 상부 구조의 응용 소프트웨어 , 컴퓨터 언어 처리 소프트웨어와 하부 구조인 하드웨어 사이의 중개자 역할을 수행한다고 볼 수 있습니다 .
+(S
+    (VP
+         (IP (V 쉽/paa+게/ecc)
+             (V 말/ncpa+하/xsv+어서/ecs))
+         (NP (AP 운영/ncn+체제/ncn )
+              (AP 프로그램/ncn+의/jcm)
+              (AP 대명사/ncn+이/jp+ㄴ/etm)
+              (NP 도스/ncn+(/sl+DOS/f+)/sr+는/jxc ))
+         (PP 하드웨어/ncn+와/jct )
+         (PP (AP (NP (AP (ADVP 가장/mag )
+                            (AP 밀접/ncpa+하/xsv+ㄴ/etm ))
+                       (NP 관계/ncn+를/jco ))
+                  (AP 가지/pvg+ㄴ/etm ))
+              (PP 소프트웨어/ncn+로서/jca ))+,/sp
+         (NP (AP (NP (NP (AP (NP (NP (AP 상부/ncn )
+                                          (AP 구조/ncn+의/jcm)
+                                          (AP 응용/ncn)
+                                          (NP 소프트웨어/ncn ))+,/sp
+                                     (NP (NP (AP 컴퓨터/ncn )
+                                               (AP 언어/ncn)
+                                               (AP 처리/ncn )
+                                               (NP 소프트웨어/ncn+와/jcj))
+                                           (NP (AP 하부/ncn )
+                                                (AP 구조/ncn+이/jp+ㄴ/etm )
+                                                 (NP 하드웨어/ncn))))
+                                  (AP 사이/ncn+의/jcm))
+                             (NP (AP 중개자/ncn)
+                                  (NP 역할/ncn+을/jco)))
+                        (NP 수행/ncpa+하/xsv+ㄴ다/ef+고/jcr))
+                   (AP 보/pvg+ㄹ/etm ))
+              (NP 수/nbn ))
+         (V 있/paa+습니다/ef))+./sf)
+
+
+; 1 머슴 고르기 어렵고 힘든 가정 형편에서도 구두쇠 주인 마님이 백여만 원 이상이 드는 돌쇠 ( PC ) 를 구입하기로 했습니다 .
+(S
+    (VP
+         (VP
+              (IP 1/nno )
+              (NP (AP 머슴/ncn )
+                   (NP 고르/pvg+기/etn ))
+              (V 어렵/paa+고/ecc ))
+         (VP 
+              (PP (AP 힘들/pvg+ㄴ/etm )
+                   (AP 가정/ncn)
+                   (PP 형편/ncn+에서/jca+도/jxc ))
+              (NP (AP 구두쇠/ncn )
+                   (AP 주인/ncn)
+                   (NP 마님/ncn+이/jcs ))
+              (PP (NP (AP (NP (AP 백여만/nnc )
+                                  (AP 원/nbu)
+                                  (NP 이상/ncn+이/jcs ))
+                             (AP 들/pvg+는/etm ))
+                        (NP 돌쇠/ncn+(/sl+PC/f+)/sr+를/jco ))
+                   (PP 구입/ncpa+하/xsv+기/etn+로/jca ))
+              (V 하/pvg+었/ep+습니다/ef )))+./sf)
+
+
+; 값은 저렴하면서도 튼튼하고 , 기억력도 좋아야 하겠고 , 주인 마님이 시키는 일을 빨리 처리할 수 있어야 한다는 생각에 여러 가지로 따져 보았습니다 .
+(S
+    (VP
+         (VP
+              (NP (NP 값/ncn+은/jxc )
+                   (NP 저렴/ncps+하/xsm+면서/ecs+도/jxc))
+              (V 튼튼/ncps+하/xsm+고/ecc))+,/sp
+         (VP
+              (NP 기억력/ncn+도/jxc )
+              (V (V 좋/paa+아야/ecs )
+                  (V 하/pvg+겠/ep+고/ecc )))+,/sp
+         (VP
+              (NP (AP (NP (AP 주인/ncn )
+                            (NP 마님/ncn+이/jcs ))
+                       (AP 시키/pvg+는/etm ))
+                   (NP 일/ncn+을/jco ))
+              (PP (AP (NP (AP (ADVP 빨리/mag )
+                                  (AP 처리/ncpa+하/xsv+ㄹ/etm ))
+                             (NP 수/nbn ))
+                        (AP (V 있/paa+어야/ecs )
+                             (AP 하/pvg+ㄴ다/ef+는/etm )))
+                   (PP 생각/ncn+에/jca ))
+              (PP (AP 여러/mma )
+                   (PP 가지/nbu+로/jca ))
+              (V (V 따지/pvg+어/ecx )
+                  (AUXP 보/px+았/ep+습니다/ef ))))+./sf)
+
+
+; 86 개짜리도 있고 101 개 , 103 개짜리도 있었습니다 .
+(S
+    (VP
+         (VP
+              (NP (AP 86/nnc )
+                   (NP 개/nbu+짜리/xsn+도/jxc ))
+              (V 있/paa+고/ecc ))
+         (VP 
+              (NP (NP (AP 101/nnc )
+                        (NP 개/nbu ))+,/sp
+                   (NP (AP 103/nnc )
+                        (NP 개/nbu+짜리/xsn+도/jxc)))
+              (V 있/paa+었/ep+습니다/ef )))+./sf)
+
+
+; 25 인치 디스켓을 넣는 드라이브가 있었고 , 어떤 것은 둘 다 있는 것도 있었습니다 .
+(S
+    (VP
+         (VP
+              (NP (AP (NP (AP 25/nnc )
+                             (AP 인치/nbu)
+                             (NP 디스켓/ncn+을/jco ))
+                        (AP 넣/pvg+는/etm ))
+                   (NP 드라이브/ncn+가/jcs ))
+              (V 있/paa+었/ep+고/ecc ))+,/sp
+         (VP
+              (NP (AP 어떻/pad+ㄴ/etm )
+                   (NP 것/nbn+은/jxc ))
+              (NP 둘/nnc )
+              (NP (AP (ADVP 다/mag )
+                        (AP 있/paa+는/etm ))
+                   (NP 것/nbn+도/jxc ))
+              (V 있/paa+었/ep+습니다/ef )))+./sf)
+
+
+; 세번째로 주인 마님은 하인인 돌쇠가 얼마나 자료를 보관할 수 있나 알아보았습니다 .
+(S
+    (VP
+         (PP 세/nno+번/nbu+째/xsn+로/jca )
+         (NP (AP 주인/ncn )
+              (NP 마님/ncn+은/jxc ))
+         (NP (AP 하인/ncn+이/jp+ㄴ/etm )
+              (NP 돌쇠/ncn+가/jcs ))
+         (ADVP 얼마나/mag )
+         
+         (NP (AP (NP 자료/ncn+를/jco )
+                   (AP 보관/ncpa+하/xsv+ㄹ/etm ))
+              (NP 수/nbn ))
+         (V (V 있/paa+나/ecs)
+              (V 알/pvg+아/ecx+보/px+았/ep+습니다/ef)))+./sf)
+
+
+; 종류는 매우 다양하여 50 MB , 80 MB , 100 MB, 120 MB , 180 MB , 200 MB , 250 MB 등이 있었습니다.
+(S
+    (VP
+         (VP (NP 종류/ncn+는/jxc )
+              (ADVP 매우/mag )
+              (V 다양/ncps+하/xsm+어/ecs ))
+         (VP
+              (NP (NP (NP 50/nnc+MB/sy)+,/sp
+                       (NP 80/nnc+MB/sy)+,/sp
+                       (NP 100/nnc+MB/sy)+,/sp
+                       (NP 120/nnc+MB/sy)+,/sp
+                       (NP 180/nnc+MB/sy)+,/sp
+                       (NP 200/nnc+MB/sy)+,/sp
+                       (NP 250/nnc+MB/sy))+,/sp
+                   (NP 등/nbn+이/jcs ))
+              (V 있/paa+었/ep+습니다/ef )))+./sf)
+
+
+; 물론 MB 용량이 커질수록 값도 비싸지기 때문에 구두쇠 주인 마님은 갈등을 하고 계산해 보았습니다 .
+(S
+    (VP
+         (VP
+              (ADVP 물론/mag )
+              (NP (AP MB/sy )
+                   (NP 용량/ncn+이/jcs ))
+              (V 크/paa+어/ecx+지/px+ㄹ수록/ecs ))
+         (VP
+              (PP (NP (NP 값/ncn+도/jxc )
+                        (NP 비싸/paa+아/ecx+지/px+기/etn ))
+                   (PP 때문/nbn+에/jca ))
+              (NP (AP 구두쇠/ncn )
+                   (AP 주인/ncn)
+                   (NP 마님/ncn+은/jxc ))
+              (NP 갈등/ncn+을/jco )
+              (V (V 하/pvg+고/ecc)
+                  (V 계산/ncpa+하/xsv+어/ecx )
+                  (AUXP 보/px+았/ep+습니다/ef))))+./sf)
+
+
+; 그 정도면 좋을 듯싶어서 하드 디스크 용량은 120 MB 로 선택했습니다 .
+(S
+    (VP
+         (VP (AP 그/mmd )
+              (V 정도/ncn+면/ecs ))
+         (VP (AP 좋/paa+ㄹ/etm )
+              (V 듯/nbn+싶/paa+어서/ecs ))
+         (VP
+              (NP (AP 하드/ncn )
+                   (AP 디스크/ncn)
+                   (NP 용량/ncn+은/jxc ))
+               (PP 120/nnc+MB/sy+로/jca)
+               (V 선택/ncpa+하/xsv+었/ep+습니다/ef )))+./sf)
+
+
+; 네번째로 주인 마님은 하인인 돌쇠가 어느 정도 기억력이 좋은지 램 ( RAM ) 의 용량을 알아보았습니다 .
+(S
+    (VP
+         (VP
+             (PP 네/nno+번/nbu+째/xsn+로/jca )
+             (NP (AP 주인/ncn )
+                  (NP 마님/ncn+은/jxc ))
+              (NP (AP 하인/ncn+이/jp+ㄴ/etm )
+                   (NP 돌쇠/ncn+가/jcs ))
+              (NP
+                   (AP 어느/mmd )
+                   (AP 정도/nbn)
+                   (NP 기억력/ncn+이/jcs ))
+              (V 좋/paa+ㄴ지/ecs ))
+         (VP
+              (NP (AP 램/nq+(/sl+RAM/sy+)/sr+의/jcm )
+                   (NP 용량/ncn+을/jco ))
+              (V 알/pvg+아/ecx+보/px+았/ep+습니다/ef)))+./sf)
+
+
+; 단위가 클수록 주인 마님이 시키는 심부름을 많이 기억할 수 있을 것 같습니다 .
+(S
+    (VP
+         (VP (NP 단위/ncn+가/jcs )
+              (V 크/paa+ㄹ수록/ecs ))
+         (VP
+              (NP (AP (NP (AP 주인/ncn )
+                             (NP 마님/ncn+이/jcs ))
+                        (AP 시키/pvg+는/etm ))
+                   (NP 심부름/ncn+을/jco ))
+              (NP (AP (NP (AP (ADVP 많/paa+이/xsa )
+                                  (AP 기억/ncpa+하/xsv+ㄹ/etm ))
+                             (NP 수/nbn ))
+                        (AP 있/paa+ㄹ/etm ))
+                   (NP 것/nbn ))
+              (V 같/paa+습니다/ef )))+./sf)
+</tdmsfile>

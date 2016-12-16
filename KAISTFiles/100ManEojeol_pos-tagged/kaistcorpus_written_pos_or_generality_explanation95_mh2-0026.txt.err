@@ -1,0 +1,27 @@
+notag:13	6	5	0	*	었	.
+notag:14	21	6	0	*	ㅆ었	.
+notag:42	8	2	0	*		+
+notag:221	5	6	0	*	이	.
+notag:235	8	3	0	*	아ecs	.
+replace tag:235	8	3	0	*	아	ecs	.
+notag:248	13	5	0	*	기	.
+notag:256	10	5	0	*	으로	.
+notag:269	24	6	0	*	ㄴ다	.
+notag:339	4	5	0	*	는	.
+notag:342	20	6	0	*	고	.
+notag:346	17	5	0	*	마저	.
+notag:380	8	6	0	*	는데	.
+notag:382	2	5	0	*	의	.
+notag:400	5	4	0	*	의	.
+notag:405	3	4	0	*	이	.
+notag:406	2	5	0	*		.
+notag:406	33	4	0	*	의	.
+notag:469	4	4	0	*	는	.
+notag:479	2	6	0	*	ㄹ	.
+notag:563	2	7	0	*	ㄹ	.
+notag:564	8	4	0	*	라고	.
+notag:576	3	1	0	도로망이	도로ncn	+
+replace tag:576	3	1	0	도로망이	도로	ncn	+
+notag:576	3	2	0	*		.
+notag:576	8	4	0	*	으로	.
+notag:719	5	3	0	*		+

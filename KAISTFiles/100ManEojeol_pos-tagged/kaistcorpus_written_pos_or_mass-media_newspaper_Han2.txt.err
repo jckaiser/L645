@@ -1,0 +1,23 @@
+notag:19	16	1	0	했으면	하pvg	+
+replace tag:19	16	1	0	했으면	하	pvg	+
+notag:19	16	2	0	*		.
+notag:70	9	1	0	자유였다.	자유ncn	+
+replace tag:70	9	1	0	자유였다.	자유	ncn	+
+notag:70	9	2	0	*		.
+notag:74	14	2	0	*	하xsv	+
+replace tag:74	14	2	0	*	하	xsv	+
+notag:74	14	3	0	*		.
+notag:140	10	2	0	*	었ep	+
+replace tag:140	10	2	0	*	었	ep	+
+notag:140	10	3	0	*		.
+notag:180	11	4	0	*	다ef	+
+replace tag:180	11	4	0	*	다	ef	+
+notag:180	11	5	0	*		.
+notag:255	7	4	0	*	라ef	+
+replace tag:255	7	4	0	*	라	ef	+
+notag:255	7	5	0	*		.
+notag:754	3	1	0	학습시스템'	`EQ학습	+
+notag:754	3	2	0	*	기억법	+
+notag:754	3	3	0	*	100%	.
+notag:854	9	2	0	*		+
+notag:932	17	2	0	*		+

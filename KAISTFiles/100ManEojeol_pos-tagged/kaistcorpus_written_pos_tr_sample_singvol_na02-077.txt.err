@@ -1,0 +1,4 @@
+notag:1	2	1	0			-
+notag:59	8	4	0	*	Àºetm	.
+replace tag:59	8	4	0	*	Àº	etm	.
+notag:81	5	1	0	227,	3351,	-

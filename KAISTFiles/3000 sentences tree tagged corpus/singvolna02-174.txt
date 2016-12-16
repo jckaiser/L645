@@ -1,0 +1,5229 @@
+<tdmsfile>
+
+
+; 자연이 만든 투명하고 멋진 일곱 가지 색을 가진, 그러나 순간적으로 터지고 마는 비눗방울.
+(S   
+     (NP  
+           (AP  
+                 (NP  (AP   (NP  자연/ncn+이/jcs)
+                             (AP  만들/pvg+ㄴ/etm))
+                       (AP  (V    투명/ncps+하/xsm+고/ecc)
+                             (AP  멋지/paa+ㄴ/etm))
+                       (AP  (AP   일곱/mma)
+                             (AP  가지/nbu))
+                       (NP  색/ncn+을/jco))
+                 (AP     가지/pvg+ㄴ/etm))+,/sp
+           (IP   그러나/maj)
+           (AP  
+                 (PP   순간/ncn+적/xsn+으로/jca)
+                 (AP (V  터지/pvg+고/ecx)
+                     (AP 말/px+는/etm)))
+           (N 비눗방울/ncn))+./sf)
+
+
+; 그래서 우리는 그것보다 더 아름답고,  그것보다 더 오래가는 비눗방울을 만들고  싶어지는 것은 아닐까요?
+(S   
+     (VP  
+           (IP   그래서/maj)
+           (NP  우리/npp+는/jxc)
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  
+                                   (AP  
+                                         (VP  (NP   그것/npd+보다/jca)
+                                               (ADVP  더/mag)
+                                               (V 아름답/paa+고/ecc))+,/sp
+                                         (PP   그것/npd+보다/jca)
+                                         (ADVP  더/mag)
+                                         (AP  오래/mag+가/pvg+는/etm))
+                                   (NP  비눗방울/ncn+을/jco))
+                             (AP  (V    만들/pvg+고/ecx)
+                                   (AP  싶/px+어/ecx+지/px+는/etm)))
+                       (NP  것/nbn+은/jxc))
+                 (V    아니/paa+ㄹ까/ef+요/jxf)))+?/sf)
+
+
+; 그렇게 아름답고 신비하며 터지지 않고 오래가는 비눗방울을 만들기 위해서는 다음과 같은 사항에 주의해야 합니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (NP  
+                             (AP  (V 그렇/pad+게/ecs)
+                                   (V 아름답/paa+고/ecc)
+                                   (V 신비/ncps+하/xsm+며/ecc)
+                                   (V    (V 터지/pvg+지/ecx)
+                                         (AUXP  않/px+고/ecc))
+                                   (AP  오래/mag+가/pvg+는/etm))
+                             (NP  비눗방울/ncn+을/jco))
+                       (NP  만들/pvg+기/etn))
+                 (V 위하/pvg+어서/ecs+는/jxc))
+           (VP  
+                 (PP   
+                       (AP  (PP   다음/ncn+과/jct)
+                             (AP  같/paa+ㄴ/etm))
+                       (PP   사항/ncn+에/jca))
+                 (V (V   주의/ncpa+하/xsv+어야/ecs)
+                    (V    하/pvg+ㅂ니다/ef))))+./sf)
+
+
+; 비누를 뜨겁게 물에 녹여 칠한 다음 두 손을 모아 엄지와 집게손가락으로 마름모를 만들면서 살살 벌려보면 비누막이 만들어집니다.
+(S   
+     (VP  
+           (PP   
+                 (AP  
+                       (VP  (NP   비누/ncn+를/jco)
+                             (V    뜨겁/paa+게/ecs))
+                       (VP  (PP   물/ncn+에/jca)
+                             (V    녹이/pvg+어/ecs))
+                       (AP  칠하/pvg+ㄴ/etm))
+                 (PP   다음/ncn))   
+           (VP  
+                 (NP  (AP   두/nnc)
+                       (NP  손/ncn+을/jco))
+                 (V    모으/pvg+아/ecs))
+           (VP  
+                 (PP   (NP  엄지/ncn+와/jcj)
+                       (PP   집게손가락/ncn+으로/jca))
+                 (NP  마름모/ncn+를/jco)
+                 (V    만들/pvg+면서/ecc))
+           (VP  
+                 (ADVP  살살/mag)
+                 (V    (V 벌리/pvg+어/ecx)
+                       (AUXP  보/px+면/ecs)))
+           (VP  
+                 (NP  비누막/ncn+이/jcs)
+                 (V    (V 만들/pvg+어/ecx)
+                       (AUXP  지/px+ㅂ니다/ef))))+./sf)
+
+
+; 어린 동생들이 초콜릿이나 케이크 등을 먹고 난 다음  씻지도 않고 비눗방울을 만들려고 덤벼들면 비눗방울은 더러운 손을 싫어 한단다.
+(S   
+     (VP  
+           (VP  
+                 (NP  (AP   어리/paa+ㄴ/etm)
+                       (NP  동생/ncn+들/xsn+이/jcs))
+                 (PP   
+                       (AP  
+                             (NP  (NP   초콜릿/ncn+이나/jcj)
+                                   (N 케이크/ncn)
+                                   (NP  등/nbn+을/jco))
+                             (AP (V 먹/pvg+고/ecx)
+                                 (AP 나/px+ㄴ/etm)))
+                       (PP   다음/ncn))
+                 (V (V 씻/pvg+지/ecs+도/jxc)
+                    (AUXP  않/px+고/ecc))
+                 (VP  (NP   비눗방울/ncn+을/jco)
+                       (V (V 만들/pvg+려고/ecs)
+                          (V 덤벼들/pvg+면/ecs))))
+           (VP  
+                 (NP  비눗방울/ncn+은/jxc)
+                 (NP  (AP   더럽/paa+ㄴ/etm)
+                       (NP  손/ncn+을/jco))
+                 (V    (V   싫/paa+어/ecx)
+                       (AUXP  하/px+ㄴ단다/ef))))+./sf)
+
+
+; 크게 만들어 보려면 손을 잘 씻고 와라고 말해 주세요.
+(S   
+     (VP  
+           (VP  
+                 (V    (V 크/paa+게/ecs)
+                       (V 만들/pvg+어/ecx)    
+                       (AUXP  보/px+려면/ecs))
+                 (NP  손/ncn+을/jco) 
+                 (ADVP  잘/mag)
+                 (V    (V 씻/pvg+고/ecs)
+                       (V 오/pvg+아/ef))+ 라고/jcr)
+           (V    (V 말/ncpa+하/xsv+어/ecx)
+                 (AUXP  주/px+시/ep+어요/ef)))+./sf)
+
+
+; 물론 이런 설명은 재미는 있지만 우리의 궁금증을 해결하는 데는 별로 도움이 되지 못합니다.
+(S   
+     (VP  
+           (ADVP  물론/mag)
+           (VP  
+                 (NP  (AP   이런/mmd)
+                       (NP  설명/ncn+은/jxc))
+                 (NP  재미/ncn+는/jxc)
+                 (V    있/paa+지만/ecs))
+           (PP   
+                 (AP  
+                       (NP  (AP   우리/npp+의/jcm)
+                             (NP  궁금증/ncn+을/jco))
+                       (AP  해결/ncpa+하/xsv+는/etm))
+                 (PP   데/nbn+는/jxc))
+           (ADVP  별로/mag)
+           (NP  도움/ncn+이/jcc)
+           (V    (V 되/pvg+지/ecx)
+                 (AUXP  못하/px+ㅂ니다/ef)))+./sf)
+
+
+; 습기에 의해 공기 중에 있는 먼지와 티끌이 거의 떨어져 버리기 때문에 비눗방울이 잘 만들어지고 오래 유지되는 데 방해를 받지 않습니다.
+(S   
+     (VP  
+           (PP   
+                 (NP  
+                       (VP  (PP   습기/ncn+에/jca)
+                             (V    의하/pvg+어/ecs))
+                       (NP  
+                             (AP  
+                                   (PP   (AP  공기/ncn)
+                                         (PP   중/nbn+에/jca))
+                                   (AP  있/paa+는/etm))
+                             (NP  (NP   먼지/ncn+와/jcj)
+                                   (NP  티끌/ncn+이/jcs)))
+                       (ADVP  거의/mag)
+                       (V    (V 떨어지/pvg+어/ecx)
+                             (NP  버리/px+기/etn)))
+                 (PP   때문/nbn+에/jca))
+           (PP   
+                 (AP  
+                       (VP  (NP   비눗방울/ncn+이/jcs)
+                             (ADVP  잘/mag)
+                             (V 만들/pvg+어/ecx+지/px+고/ecc))
+                       (ADVP  오래/mag)
+                       (AP  유지/ncpa+되/xsv+는/etm))
+                 (PP   데/nbn))
+           (NP  방해/ncn+를/jco)
+           (V    (V   받/pvg+지/ecx)
+                 (AUXP  않/px+습니다/ef)))+./sf)
+
+
+; 강한 조명빛 때문에 뜨거울 뿐 아니라 카메라와 마이크는  습기에 약하기 때문에 건조하기 이를 데 없습니다.
+(S   
+     (VP  
+           (VP  
+                 (PP   
+                       (NP  (AP   강하/paa+ㄴ/etm)
+                             (N 조명/ncn+빛/ncn))
+                       (PP   때문/nbn+에/jca))
+                 (NP  (AP   뜨겁/paa+ㄹ/etm)
+                       (N 뿐/nbn))
+                 (V 아니/paa+라/ecs))
+           (VP  
+                 (PP   
+                       (NP  
+                             (NP  카메라/ncn+와/jcj)
+                             (NP  마이크/ncn+는/jxc)
+                             (PP   습기/ncn+에/jca)
+                             (N 약하/paa+기/etn))
+                       (PP   때문/nbn+에/jca))
+                 (NP  
+                       (AP  (N 건조/ncpa+하/xsv+기/etn)
+                             (AP  이르/pvg+ㄹ/etm))
+                       (N 데/nbn))
+                 (V 없/paa+습니다/ef)))+./sf)
+
+
+; 궂은 날이나 악조건 속에서도 살아갈 수 있어야만 씩씩한 비눗방울이 될 수 있지요.
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  
+                             (PP   
+                                   (NP  (AP   궂/paa+은/etm)
+                                         (NP  날/ncn+이나/jcj))
+                                   (AP  악조건/ncn)
+                                   (PP   속/ncn+에서/jca+도/jxc))
+                             (AP  살/pvg+아/ecx+가/px+ㄹ/etm))
+                       (N 수/nbn))
+                 (V    있/paa+어야/ecs+만/jxc))
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  (AP   씩씩/ncps+하/xps+ㄴ/etm)
+                                   (NP  비눗방울/ncn+이/jcc))
+                             (AP  되/pvg+ㄹ/etm))
+                       (N 수/nbn))
+                 (V 있/paa+지/ef+요/jxf)))+./sf)
+
+
+; 비눗물도 잘 만들고 손도 잘 씻었는데 잘 안 만들어질 때가 있습니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  비눗물/ncn+도/jxc)
+                 (ADVP  잘/mag)
+                 (V    만들/pvg+고/ecc))
+           (VP  
+                 (NP  손/ncn+도/jxc)
+                 (ADVP  잘/mag)
+                 (V    씻/pvg+었/ep+는데/ecs))
+           (VP  
+                 (NP  
+                       (AP  (ADVP   잘/mag)
+                             (ADVP  안/mag)
+                             (AP  만들/pvg+어/ecx+지/px+ㄹ/etm))
+                       (NP  때/ncn+가/jcs))
+                 (V 있/paa+습니다/ef)))+./sf)
+
+
+; 처음 사용하는 플라스틱 컵 등은 아무리 깨끗하게 보여도 제조 공정에서 특수 기름이 묻었을 수도 있기 때문이지요.
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  
+                             (N 처음/ncn)
+                             (AP  사용/ncpa+하/xsv+는/etm))
+                       (NP  
+                             (NP  (AP   플라스틱/ncn)
+                                   (N 컵/ncn))
+                             (NP  등/nbn+은/jxc)))
+                 (ADVP  아무리/mag)
+                 (V (V 깨끗하/paa+게/ecs)
+                    (V 보이/pvg+어도/ecs)))
+           (VP  
+                 (NP  
+                       (NP  
+                             (AP  
+                                   (PP   (AP  제조/ncn)
+                                         (PP   공정/ncn+에서/jca))
+                                   (NP  (AP   특수/ncn)
+                                         (NP  기름/ncn+이/jcs))
+                                   (AP  묻/pvg+었/ep+ㄹ/etm))
+                             (NP  수/nbn+도/jxc))
+                       (N 있/paa+기/etn))
+                 (V 때문/nbn+이/jp+지/ef+요/jxf)))+./sf)
+
+
+; 문방구에서 팔고 있는 비눗방울 빨대조차 처음 네다섯 번 사용할 때는 빨대에 비눗물을 묻혀 불어도, 방울이 잘 만들어 지지 않을 때가 있습니다.
+(S   
+     (VP  
+           (PP   
+                 (AP  
+                       (PP   문방구/ncn+에서/jca)
+                       (AP (V  팔/pvg+고/ecx)
+                           (AP 있/px+는/etm)))
+                 (PP   (AP  비눗방울/ncn)
+                       (PP   빨대/ncn+조차/jxc)))
+           (NP  
+                 (AP  (N 처음/ncn)
+                       (NP  (AP   네다섯/nnc)
+                             (NP  번/nbu))
+                       (AP  사용/ncpa+하/xsv+ㄹ/etm))
+                 (NP  때/ncn+는/jxc))
+           (VP  
+                 (PP   빨대/ncn+에/jca)
+                 (NP  비눗물/ncn+을/jco)
+                 (V (V 묻히/pvg+어/ecs)
+                    (V 불/pvg+어도/ecs)))+,/sp
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  방울/ncn+이/jcs)
+                             (ADVP  잘/mag)
+                             (V    (V 만들/pvg+어/ecx)
+                                   (AUXP  지/px+지/ecx)
+                                   (AP  않/px+ㄹ/etm)))
+                       (NP  때/ncn+가/jcs))
+                 (V 있/paa+습니다/ef)))+./sf)
+
+
+; 이와 같은 기름과 더러운 것들이 씻겨 없어질 때까지는 비눗방울이 잘 만들어지지 않습니다.
+(S   
+     (VP  
+           (NP  
+                 (NP  (AP   (PP  이/npd+와/jct)
+                             (AP  같/paa+ㄴ/etm))
+                       (NP  기름/ncn+과/jcj))
+                 (NP  (AP   더럽/paa+ㄴ/etm)
+                       (NP  것/nbn+들/xsn+이/jcs)))
+           (PP   
+                 (AP  (V 씻기/pvg+어/ecs)
+                       (AP  없/paa+어/ecx+지/px+ㄹ/etm))
+                 (PP   때/ncn+까지/jxc+는/jxc))
+           (VP  
+                 (NP  비눗방울/ncn+이/jcs)
+                 (ADVP  잘/mag)
+                 (V    (V 만들/pvg+어/ecx+지/px+지/ecx)
+                       (AUXP  않/px+습니다/ef))))+./sf)
+
+
+; 깨끗한 도구와 그릇을 이용해야 하고 깨끗한 손으로 해야 한다는 것도 알았습니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (VP  
+                             (NP  (AP   깨끗/ncps+하/xsm+ㄴ/etm)
+                                   (NP  도구/ncn+와/jcj)
+                                   (NP  그릇/ncn+을/jco))
+                             (V (V   이용/ncpa+하/xsv+어야/ecs)
+                                (V 하/pvg+고/ecc)))
+                       (AP  (PP   (AP  깨끗/ncps+하/xsm+ㄴ/etm)
+                                   (PP   손/ncn+으로/jca))
+                             (AP (V  하/pvg+어야/ecs)
+                                 (AP 하/pvg+ㄴ다/ef+는/etm))))
+                 (NP  것/nbn+도/jxc))
+           (V 알/pvg+았/ep+습니다/ef))+./sf)
+
+
+; 돌을 높이 쌓으면 쌓을수록 정성이  하늘에 닿아 자기가 원하는 바를  이룰 수 있으리라는 기대 때문에 그런 관습이 이어져 내려온 것 같아요.
+(S   
+     (VP  
+           (PP   
+                 (NP  
+                       (AP  
+                             (VP  (NP   돌/ncn+을/jco)
+                                   (ADVP  높/paa+이/xsa)
+                                   (V (V   쌓/pvg+으면/ecs)
+                                      (V    쌓/pvg+ㄹ수록/ecs)))
+                             (VP  (NP   정성/ncn+이/jcs)
+                                   (PP   하늘/ncn+에/jca)
+                                   (V    닿/pvg+아/ecs))
+                             (NP  
+                                   (AP  
+                                         (NP  
+                                               (AP  (NP   자기/npp+가/jcs)
+                                                     (AP  원하/pvg+는/etm))
+                                               (NP  바/nbn+를/jco))
+                                         (AP  이루/pvg+ㄹ/etm))
+                                   (NP  수/nbn))
+                             (AP  있/paa+으리/ep+라/ef+는/etm))
+                       (N 기대/ncn))
+                 (PP   때문/nbn+에/jca))
+           (NP  (AP   (NP  (AP   그런/mmd)
+                             (NP  관습/ncn+이/jcs))
+                       (AP (V  잇/pvg+어/ecx+지/px+어/ecs)
+                           (AP 내리/pvg+어/ecx+오/px+ㄴ/etm)))
+                 (N 것/nbn))
+           (V 같/paa+아/ef+요/jxf))+./sf)
+
+
+; 비눗방울이 왜 깨끗한 것을 좋아하느냐라는 이유를 찾다가 웬 서낭당 이야기를 하느냐구요?
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  비눗방울/ncn+이/jcs)
+                             (ADVP  왜/mag)
+                             (NP  (AP   깨끗/ncps+하/xsm+ㄴ/etm)
+                                   (NP  것/nbn+을/jco))
+                             (AP  좋/paa+아/ecx+하/px+느냐/ef+라/jcr+는/jxc))
+                       (NP  이유/ncn+를/jco))   
+                 (V 찾/pvg+다가/ecs))
+           (VP  
+                 (NP  
+                       (AP  웬/mma)
+                       (AP  서낭당/ncn)
+                       (NP  이야기/ncn+를/jco))
+                 (V 하/pvg+느냐/ef+구/ef+요/jxf)))+?/sf)
+
+
+; 이런 과학문제를 풀어 나가려면 조급한 마음을 가지는 것은 절대 금물이랍니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  (AP   이런/mmd)
+                       (NP  과학/ncn+문제/ncn+를/jco))
+                 (V (V 풀/pvg+어/ecs)
+                    (V 나가/pvg+려면/ecs)))
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  (AP   조급/ncps+하/xsm+ㄴ/etm)
+                                   (NP  마음/ncn+을/jco))
+                             (AP  가지/pvg+는/etm))
+                       (NP  것/nbn+은/jxc))
+                 (ADVP  절대/mag) 
+                 (V 금물/ncn+이/jp+랍니다/ef)))+./sf)
+
+
+; 이렇게 실패하는 것을 자꾸 해보는 것은 지금 우리가 해결하려는 문제와 무슨 관련이 있는 것이 아닐까요?
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  
+                             (AP  (V 이렇/pad+게/ecs)
+                                   (AP  실패/ncpa+하/xsv+는/etm))
+                             (NP  것/nbn+을/jco))
+                       (ADVP  자꾸/mag) 
+                       (AP  하/pvg+어/ecx+보/px+는/etm))   
+                 (NP  것/nbn+은/jxc))
+           (VP  
+                 (NP  
+                       (AP  
+                             (PP   
+                                   (AP  (ADVP   지금/mag)
+                                         (NP  우리/npp+가/jcs)
+                                         (AP  해결/ncpa+하/xsv+려/ecs+는/etm))
+                                   (PP   문제/ncn+와/jct))
+                             (NP  (AP   무슨/mmd)
+                                   (NP  관련/ncn+이/jcs))
+                             (AP  있/paa+는/etm))
+                       (NP  것/nbn+이/jcc))
+                 (V 아니/paa+ㄹ까/ef+요/jxf)))+?/sf)
+
+
+; 여러분이 열 개 쌓기도 힘들었던 돌멩이들은 그 모양이  비슷하고 납작할수록 쌓기가 좋았을 겁니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  여러분/npp+이/jcs)
+                       (NP  
+                             (NP  (AP   열/nnc)
+                                   (NP  개/nbu))
+                             (NP  쌓/pvg+기/etn+도/jxc))
+                       (AP  힘들/pvg+었/ep+더/ep+ㄴ/etm))
+                 (NP  돌멩이/ncn+들/xsn+은/jxc))
+           (VP  
+                 (NP  (AP   그/mmd)
+                       (NP  모양/ncn+이/jcs))
+                 (V (V 비슷/ncps+하/xsm+고/ecc)
+                    (V 납작/ncps+하/xsm+ㄹ수록/ecs)))
+           (VP  
+                 (AP  
+                       (NP  쌓/pvg+기/etn+가/jcs)
+                       (AP  좋/paa+았/ep+ㄹ/etm))
+                 (V 거/nbn+ㅂ니다/ef)))+./sf)
+
+
+; 비눗방울도 위에서처럼 물과 비누가 규칙적으로 연결되어 있는데  다른 불순물이 들어가게 되면 그 규칙성이 깨지게 됩니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  비눗방울/ncn+도/jxc)
+                 (PP   위/ncn+에서/jca+처럼/jca)
+                 (NP  (NP   물/ncn+과/jcj)
+                       (NP  비누/ncn+가/jcs))
+                 (ADVP  규칙/ncn+적/xsn+으로/jca)
+                 (V    (V 연결/ncpa+되/xsv+어/ecx)
+                       (AUXP  있/px+는데/ecs)))
+           (VP  
+                 (NP  (AP   다른/mma)
+                       (NP  불순물/ncn+이/jcs))
+                 (V    (V   들어가/pvg+게/ecx)
+                       (AUXP  되/px+면/ecs)))
+           (VP  
+                 (NP  (AP   그/mmd)
+                       (NP  규칙성/ncn+이/jcs))
+                 (V    (V   깨/pvg+어/ecx+지/px+게/ecx)
+                       (AUXP  되/px+ㅂ니다/ef))))+./sf)
+
+
+; 그렇게 되면 비누와 물이 서로 잡아당겨 이루어진 커다란 비눗방울을 만들 수 없게 됩니다.
+(S   
+     (VP  
+           (V (V   그렇/pad+게/ecx)
+              (AUXP  되/px+면/ecs))
+           (VP  
+                 (NP  
+                       (AP  
+                             (AP  
+                                   (NP  (NP   비누/ncn+와/jcj)
+                                         (NP  물/ncn+이/jcs))
+                                   (ADVP  서로/mag) 
+                                   (AP (V   잡아당기/pvg+어/ecs)      
+                                       (AP 이루/pvg+어/ecx+지/px+ㄴ/etm)))
+                             (NP  (AP   커다랗/paa+ㄴ/etm)
+                                   (NP  비눗방울/ncn+을/jco))
+                             (AP  만들/pvg+ㄹ/etm))
+                       (N 수/nbn))
+                 (V    (V   없/paa+게/ecx)
+                       (AUXP  되/px+ㅂ니다/ef))))+./sf)
+
+
+; 비누를 너무 적게 풀거나 너무 많이 풀어도 비눗방울은 잘 안 만들어집니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  비누/ncn+를/jco)
+                 (ADVP  너무/mag)
+                 (V (V 적/paa+게/ecs)
+                    (V    풀/pvg+거나/ecc)))
+           (VP  
+                 (ADVP  너무/mag)
+                 (ADVP  많/paa+이/xsa)
+                 (V    풀/pvg+어도/ecs))
+           (VP  
+                 (NP  비눗방울/ncn+은/jxc)
+                 (ADVP  잘/mag)
+                 (ADVP  안/mag)
+                 (V (V   만들/pvg+어/ecx)
+                    (AUXP  지/px+ㅂ니다/ef))))+./sf)
+
+
+; 물에 비누를 조금씩 녹이면서 비눗방울이 언제 제일 잘 만들어지는가를 조사해 봅시다.
+(S   
+     (VP  
+           (VP  
+                 (PP   물/ncn+에/jca)
+                 (NP  비누/ncn+를/jco)
+                 (ADVP  조금/ncn+씩/xsn)
+                 (V 녹이/pvg+면서/ecc))
+           (NP  
+                 (VP  
+                       (NP  비눗방울/ncn+이/jcs)
+                       (ADVP  언제/mag)
+                       (ADVP  제일/mag)
+                       (ADVP  잘/mag)
+                       (NP  만들/pvg+어/ecx+지/px+는가/ef+를/jco)))
+           (V    (V 조사/ncpa+하/xsv+어/ecx)
+                 (AUXP  보/px+ㅂ시다/ef)))+./sf)
+
+
+; 비누는 물에 잘 녹지만, 비누를 가루로  만들어 뜨거운 물에 저어가면서 녹이면 더  빨리 녹습니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  비누/ncn+는/jxc)
+                 (PP   물/ncn+에/jca)
+                 (ADVP  잘/mag)
+                 (V    녹/pvg+지만/ecs))+,/sp
+           (VP  
+                 (NP  비누/ncn+를/jco)
+                 (PP   가루/ncn+로/jca)
+                 (V    만들/pvg+어/ecs))
+           (VP  
+                 (PP   (AP  뜨겁/paa+ㄴ/etm)
+                       (PP   물/ncn+에/jca))
+                 (V (V 젓/pvg+어/ecx+가/px+면서/ecc)
+                    (V 녹이/pvg+면/ecs)))
+           (VP  
+                 (ADVP  더/mag)
+                 (ADVP  빠르/paa+이/xsa)
+                 (V 녹/pvg+습니다/ef)))+./sf)
+
+
+; 특히 비누는 고대 메소포타미아와 이집트의 기록에도 나타나는 것으로  보아 무척 오래 전인 기원전 1000년부터 사용했을 것이라고 합니다.
+(S   
+     (VP  
+           (ADVP  특히/mag)
+           (NP  비누/ncn+는/jxc)
+           (VP  
+                 (PP   
+                       (AP  (AP   고대/ncn)
+                             (AP  메소포타미아/nq+와/jcj)
+                             (AP  이집트/nq+의/jcm))
+                       (PP   기록/ncn+에/jca+도/jxc))
+                 (PP   (AP  나타나/pvg+는/etm)
+                       (PP   것/nbn+으로/jca))
+                 (V    보/pvg+아/ecs))
+           (VP  
+                 (AP  
+                       (PP   
+                             (AP  (ADVP   무척/mag)
+                                   (ADVP  오래/mag)
+                                   (AP  전/ncn+이/jp+ㄴ/etm))
+                             (AP  기원/ncn+전/ncn)
+                             (PP   1000/nnc+년/nbu+부터/jxc))
+                       (AP  사용/ncpa+하/xsv+었/ep+ㄹ/etm))
+                 (VP  (V 것/nbn+이/jp+라/ef+고/jcr)
+                       (V    하/pvg+ㅂ니다/ef))))+./sf)
+
+
+; 근대에 와서 처음 공업적으로 비누를 만든 사람은  셔브뢸(Chevreul, 1786)이라는 프랑스의 과학자입니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (VP  (PP   근대/ncn+에/jca)
+                             (V    오/pvg+아서/ecs))
+                       (ADVP  처음/mag)
+                       (NP  공업/ncn+적/xsn+으로/jca)
+                       (NP  비누/ncn+를/jco)
+                       (AP  만들/pvg+ㄴ/etm))
+                 (NP  사람/ncn+은/jxc))
+           (V 
+              (AP  셔브뢸/nq+(/sl+Chevreul/f+,/sp+1786/nnc+)/sr+이/jp+라/ef+는/etm)
+              (AP  프랑스/nq+의/jcm)
+              (V    과학자/ncn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 그는 수치와 지방을 섞은 것에 해초의 재와 석회를 같은  양으로 넣어 만든 잿물을 부어 넣어서 비누를 만들었습니다.
+(S   
+     (VP  
+           (NP  그/npp+는/jxc)
+           (PP   
+                 (AP  (NP   (NP  수치/ncn+와/jcj)
+                             (NP  지방/ncn+을/jco))
+                       (AP  섞/pvg+은/etm))
+                 (PP   것/nbn+에/jca))
+           (VP  
+                 (NP  
+                       (AP  
+                             (PP   
+                                   (AP  
+                                         (NP  (AP   해초/ncn+의/jcm)
+                                               (NP  재/ncn+와/jcj)
+                                               (NP  석회/ncn+를/jco))
+                                         (AP  같/paa+ㄴ/etm))
+                                   (PP   양/ncn+으로/jca))   
+                             (AP (V  넣/pvg+어/ecs)
+                                 (AP 만들/pvg+ㄴ)))
+                       (NP  잿물/ncn+을/jco))
+                 (V (V 붓/pvg+어/ecs)
+                    (V 넣/pvg+어서/ecs)))
+           (VP  (NP   비누/ncn+를/jco)
+                 (V    만들/pvg+었/ep+습니다/ef)))+./sf)
+
+
+; 이렇게 출발한 비누는 우리 생활에 없어서는 안 될 중요한 것이 되었습니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  (V    이렇/pad+게/ecs)
+                       (AP  출발/ncpa+하/xsv+ㄴ/etm))
+                 (NP  비누/ncn+는/jxc))   
+           (NP  
+                 (AP  
+                       (VP  
+                             (PP   (AP  우리/npp)
+                                   (PP   생활/ncn+에/jca))
+                             (V 없/paa+어서/ecs+는/jxc))
+                       (ADVP  안/mag)
+                       (AP  되/pvg+ㄹ/etm))
+                 (AP  중요/ncps+하/xsm+ㄴ/etm)
+                 (NP  것/nbn+이/jcc))
+           (V 되/pvg+었/ep+습니다/ef))+./sf)
+
+
+; 그러나 1차 세계대전중에 지방, 즉 이 기름이  화약재료로 쓰이면서 많이 모자라게 되자, 독일에서 최초로 대용품으로 합성세제를 개발했습니다.
+(S   
+     (VP  
+           (IP 그러나/maj)
+           (VP  
+                 (VP  
+                       (PP   (AP  1/nnc+차/xsn)
+                             (AP  세계/ncn+대전/ncn)
+                             (PP   중/nbn+에/jca))
+                       (NP  (N 지방/ncn)+,/sp
+                             (IP   즉/mag)
+                             (AP  이/mmd)
+                             (NP  기름/ncn+이/jcs))
+                       (PP   화약/ncn+재료/ncn+로/jca)
+                       (V    쓰이/pvg+면서/ecc))
+                 (VP  (ADVP   많/paa+이/xsa)
+                       (V (V 모자라/pvg+게/ecx)
+                          (AUXP  되/px+자/ecs))))+,/sp
+           (VP  
+                 (PP   독일/nq+에서/jca)
+                 (PP   최초/ncn+로/jca)
+                 (PP   대용품/ncn+으로/jca)
+                 (NP  합성세제/ncn+를/jco)
+                 (V    개발/ncpa+하/xsv+었/ep+습니다/ef)))+./sf)
+
+
+; 우리나라에서 합성세제를 사용하기 시작한 것은 1967년부터이고, 세탁기의 보급과 함께 합성세제의 사용량도 급격히 증가했습니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  (PP   우리나라/ncn+에서/jca)
+                                   (NP  합성세제/ncn+를/jco)
+                                   (N 사용/ncpa+하/xsv+기/etn))
+                             (AP  시작/ncpa+하/xsv+ㄴ/etm))
+                       (NP  것/nbn+은/jxc))
+                 (V 1967/nnc+년/nbu+부터/jxc+이/jp+고/ecc))+,/sp
+           (VP  
+                 (ADVP  
+                       (PP   (AP  세탁기/ncn+의/jcm)
+                             (PP   보급/ncn+과/jct))
+                       (ADVP  함께/mag))
+                 (NP  (AP   합성세제/ncn+의/jcm)
+                       (NP  사용량/ncn+도/jxc)))
+                 (ADVP  급격/ncn+히/xsa)
+                 (V 증가/ncn+하/pvg+었/ep+습니다/ef)))+./sf)
+
+
+; 인류가 사용한 지 수천 년이  흘렀으니 환경을 오염시킨다거나 인체에  해롭다는 것은 찾아보기 어렵습니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  (NP   인류/ncn+가/jcs)
+                             (AP  사용/ncpa+하/xsv+ㄴ/etm))
+                       (N 지/nbn))
+                 (NP  (AP   수천/nnc)
+                       (NP  년/nbu+이/jcs))
+                 (V 흐르/pvg+었/ep+으니/ecs))
+           (NP  
+                 (AP  
+                       (VP  (NP   환경/ncn+을/jco)
+                             (V    오염/ncpa+시키/xsv+ㄴ다/ef+거나/ecc))
+                       (AP  (PP   인체/ncn+에/jca)
+                             (AP  해롭/pvg+다/ef+는/etm)))
+                 (NP  것/nbn+은/jxc))
+           (N 찾/pvg+아/ecx+보/px+기/etn)
+           (V    어렵/paa+습니다/ef))+./sf)
+
+
+; 이것들의 독성은 익히 알려져 있어 강을 오염 시키는 주범으로 등장하게 되었습니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  이것/npd+들/xsn+의/jcm)
+                 (NP  독성/ncn+은/jxc))
+           (VP  
+                 (ADVP  익히/mag)
+                 (V (V   알리/pvg+어/ecx+지/px+어/ecx)
+                    (AUXP  있/px+어/ecs)))
+           (VP  
+                 (PP   
+                       (AP  (NP   강/ncn+을/jco)
+                             (AP  오염/ncn+시키/pvg+는/etm))
+                       (PP   주범/ncn+으로/jca))
+                 (V    (V   등장/ncpa+하/xsv+게/ecx)
+                       (AUXP  되/px+었/ep+습니다/ef))))+./sf)
+
+
+; 세제의 독성에 대하여 주방용 세제를 바퀴벌레에 뿌리면 그 자리에서 죽는다라든지 설거지 물을 잔디에 뿌렸더니 잔디는 물론 그곳에 나와 있던 지렁이까지도 죽었다라는 말을 들어  본 적이 있습니까?
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  
+                             (AP  
+                                   (VP  
+                                         (PP   (AP  세제/ncn+의/jcm)
+                                               (PP   독성/ncn+에/jca))
+                                         (V 대하/pvg+어/ecs))      
+                                   (VP  
+                                         (VP  
+                                               (VP  
+                                                     (NP  (AP   주방용/ncn)
+                                                           (NP  세제/ncn+를/jco))
+                                                     (PP   바퀴벌레/ncn+에/jca)    
+                                                     (V    뿌리/pvg+면/ecs))   
+                                               (VP  (PP   (AP  그/mmd)
+                                                           (PP   자리/ncn+에서/jca))
+                                                     (V    죽/pvg+는다/ef)))
+                                         (PP   라/jcr+든지/jcc))            
+                                   (VP  
+                                         (VP  
+                                               (NP  (AP   설거지/ncn)
+                                                     (NP  물/ncn+을/jco))
+                                               (PP   잔디/ncn+에/jca)
+                                               (V    뿌리/pvg+었/ep+더니/ecs))
+                                         (VP  
+                                               (NP  잔디/ncn+는/jxc)
+                                               (ADVP  물론/mag)
+                                               (PP   
+                                                     (AP  (PP   그곳/npd+에/jca)
+                                                           (AP (V  나오/pvg+아/ecx)
+                                                               (AP 있/px+더/ep+ㄴ/etm)))
+                                                     (PP   지렁이/ncn+까지/jxc+도/jxc))
+                                               (V 죽/pvg+었/ep+다/ef)))
+                                   (AP  라/jcr+는/etm))
+                             (NP  말/ncn+을/jco))
+                       (AP (V  듣/pvg+어/ecx)
+                           (AP 보/px+ㄴ/etm)))
+                 (NP  적/nbn+이/jcs))
+           (V 있/paa+습니까/ef))+?/sf)
+
+
+; 이처럼 합성세제의 독성은 생각보다 심각하다는 것을 우리 주위에서 일어나는 일에 조금만 관심을 기울이면 쉽게 알 수 있습니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (PP   이/npd+처럼/jca)
+                       (NP  (AP   합성세제/ncn+의/jcm)
+                             (NP  독성/ncn+은/jxc))
+                       (PP   생각/ncn+보다/jca)
+                       (AP  심각/ncps+하/xsm+다/ef+는/etm))
+                 (NP  것/nbn+을/jco))   
+           (NP  
+                 (AP  
+                       (VP  
+                             (PP   
+                                   (AP  
+                                         (PP   (AP  우리/npp)
+                                               (PP   주위/ncn+에서/jca))
+                                         (AP  일어나/pvg+는/etm))
+                                   (PP   일/ncn+에/jca))
+                             (ADVP  조금/ncn+만/jxc)
+                             (NP  관심/ncn+을/jco)
+                             (V 기울이/pvg+면/ecs))
+                       (AP (V  쉽/paa+게/ecs)
+                           (AP 알/pvg+ㄹ/etm)))
+                 (N 수/nbn))
+           (V 있/paa+습니다/ef))+./sf)
+
+
+; 이렇게 강력한 독성은 계면활성제를 농약에 섞어 뿌리면 그  약효가 오래 지속된다는 농부의 말을 생각해 보아도 알 수 있습니다.
+(S   
+     (VP  
+           (NP  (AP   (V 이렇/pad+게/ecs)
+                       (AP  강력/ncps+하/xsm+ㄴ/etm))
+                 (NP  독성/ncn+은/jxc))
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  
+                                   (AP  
+                                         (VP  (NP   계면활성제/ncn+를/jco)
+                                               (PP   농약/ncn+에/jca)
+                                               (V (V 섞/pvg+어/ecs)
+                                                  (V 뿌리/pvg+면/ecs)))
+                                         (NP  (AP   그/mmd)
+                                               (NP  약효/ncn+가/jcs))
+                                         (ADVP  오래/mag)
+                                         (AP  지속/ncpa+되/xsv+ㄴ다/ef+는/etm))
+                                   (AP  농부/ncn+의/jcm)
+                                   (NP  말/ncn+을/jco))
+                             (AP (V  생각/ncpa+하/xsv+어/ecx)
+                                 (AUXP 보/px+아도/ecs)
+                                 (AP 알/pvg+ㄹ/etm)))
+                       (N 수/nbn))
+                 (V 있/paa+습니다/ef)))+./sf)
+
+
+; 비눗방울 놀이를 할 수 있는 세제가 이렇게 위험하다니 하고 놀라는 사람도 있겠지만 이것은 사실이랍니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  
+                             (VP  
+                                   (VP  
+                                         (NP  
+                                               (AP  
+                                                     (NP  
+                                                           (AP  
+                                                                 (NP  
+                                                                    (AP  비눗방울/ncn)
+                                                                    (NP  놀이/ncn+를/jco))
+                                                                 (AP  하/pvg+ㄹ/etm))   
+                                                           (N 수/nbn))
+                                                     (AP  있/paa+는/etm))
+                                               (NP  세제/ncn+가/jcs))
+                                         (V (V 이렇/pad+게/ecs)
+                                            (V 위험/ncps+하/xsm+다니/ef)))
+                                   (V 하/px+고/ecc))
+                             (AP  놀라/pvg+는/etm))
+                       (NP  사람/ncn+도/jxc))
+                 (V    있/paa+겠/ep+지만/ecs))
+           (VP  (NP   이것/npd+은/jxc)
+                 (V    사실/ncn+이/jp+랍니다/ef)))+./sf)
+
+
+; 계면활성제의 강력한 세척력은 옷이나 식기의 때뿐만 아니라  피부보호막까지 녹여내는 등 피부에 악영향을 끼칩니다.
+(S   
+     (VP  
+           (NP  (AP   계면활성제/ncn+의/jcm)
+                 (AP  강력/ncps+하/xsm+ㄴ/etm)
+                 (NP  세척력/ncn+은/jxc))
+           (VP  
+                 (NP  
+                       (AP  
+                             (VP  
+                                   (NP  (AP   (NP  옷/ncn+이나/jcj)
+                                               (AP  식기/ncn+의/jcm))
+                                         (NP  때/ncn+뿐/nbn+만/jxc))
+                                   (V 아니/paa+라/ecs))
+                             (PP   피부보호막/ncn+까지/jxc)
+                             (AP  녹이/pvg+어/ecx+내/px+는/etm))
+                       (N 등/nbn))
+                 (PP   피부/ncn+에/jca)
+                 (NP  악영향/ncn+을/jco)
+                 (V 끼치/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 또 옷, 식기, 머리카락 등에 남아 몸으로 들어가면 간장  장애, 생신 장애, 태아의 발육부진 등을 일으키며 머리카락을 가늘게 하며 탈모현상을 촉진시킨다니 놀랍죠?
+(S   
+     (VP  
+           (IP 또/maj)
+           (VP  
+                 (PP   (N 옷/ncn)+,/sp
+                       (N 식기/ncn)+,/sp
+                       (N 머리카락/ncn)
+                       (PP   등/nbn+에/jca))
+                 (V    남/paa+아/ecs))
+           (VP  
+                 (PP   몸/ncn+으로/jca)
+                 (V    들어가/pvg+면/ecs))
+           (VP  
+                 (NP  
+                       (NP  (AP   간장/ncn)
+                             (N 장애/ncn))+,/sp
+                       (NP  (AP   생신/ncn)
+                             (N 장애/ncn))+,/sp
+                       (NP  (AP   태아/ncn+의/jcm)
+                             (N 발육/ncn+부진/ncn))
+                       (NP  등/nbn+을/jco))
+                 (V    일으키/pvg+며/ecc))
+           (VP  
+                 (NP  머리카락/ncn+을/jco)
+                 (V (V 가늘/paa+게/ecx)
+                    (AUXP  하/px+며/ecc)))
+           (VP  
+                 (NP  탈모/ncn+현상/ncn+을/jco)
+                 (V    촉진/ncpa+시키/xsv+ㄴ다/ef+니/ecs))
+           (V 놀랍/paa+지/ef+요/jxf))+?/sf)
+
+
+; 이미 1956년 로마에서 열린 국제암협의회에서 합성세제는 암을 일으키는 물질이라고 공식발표했답니다.
+(S   
+     (VP  
+           (ADVP  이미/mag)
+           (PP   
+                 (AP  
+                       (PP   1956/nnc+년/nbu)
+                       (PP   로마/nq+에서/jca)
+                       (AP  열리/pvg+ㄴ/etm))
+                 (PP   국제암협의회/nq+에서/jca))
+           (AP  (NP   합성세제/ncn+는/jxc)
+                 (NP  암/ncn+을/jco)
+                 (AP  일으키/pvg+는/etm))
+           (VP  (V 물질/ncn+이/jp+라/ef+고/jcr)
+                 (V 공식발표/ncpa+하/xsv+었/ep+답니다/ef)))+./sf)
+
+
+; 다른 면으로 계면활성제의 친유성 부분은 미생물에 의한 분해도가  매우 낮아 강이나 호수로 들어가 거품을 일으켜 산소와 햇빛을 차단합니다.
+(S   
+     (VP  
+           (PP   (AP  다른/mma)
+                 (PP   면/nbn+으로/jca))
+           (NP  (AP   계면활성제/ncn+의/jcm)
+                 (AP  친유성/ncn)
+                 (NP  부분/ncn+은/jxc))
+           (VP  
+                 (NP  
+                       (AP  (PP   미생물/ncn+에/jca)
+                             (AP  의하/pvg+ㄴ/etm))
+                       (NP  분해도/ncn+가/jcs))
+                 (ADVP  매우/mag)
+                 (V    낮/paa+아/ecs))
+           (VP  
+                 (PP   (NP  강/ncn+이나/jcj)
+                       (PP   호수/ncn+로/jca))
+                 (V    들어가/pvg+아/ecs))
+           (VP  
+                 (NP  거품/ncn+을/jco)
+                 (V    일으키/pvg+어/ecs))
+           (VP  
+                 (NP  산소/ncn+와/jcj)
+                 (NP  햇빛/ncn+을/jco)
+                 (V    차단/ncpa+하/xsv+ㅂ니다/ef)))+./sf)
+
+
+; 각 가정마다 그 가정을 대표할 수 있는 음식이 있듯이, 여러분들도 각자 집으로 할 수 있는 독특한 방법으로 만들어 보세요.
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  
+                                   (AP  
+                                         (PP   (AP  각/mma)
+                                               (PP   가정/ncn+마다/jxc))
+                                         (NP  (AP   그/mmd)
+                                               (NP  가정/ncn+을/jco))
+                                         (AP  대표/ncpa+하/xsv+ㄹ/etm))
+                                   (N 수/nbn))
+                             (AP  있/paa+는/etm))
+                       (NP  음식/ncn+이/jcs))
+                 (V 있/paa+듯이/ecs))+,/sp
+           (VP  
+                 (NP  여러분/npp+들/xsn+도/jxc)
+                 (PP   
+                       (AP  
+                             (NP  
+                                   (AP  (N 각자/ncn)
+                                         (PP   집/ncn+으로/jca)
+                                         (AP     하/pvg+ㄹ/etm))
+                                   (N 수/nbn))
+                             (AP  있/paa+는/etm))
+                       (AP  독특/ncps+하/xsm+ㄴ/etm)
+                       (PP   방법/ncn+으로/jca))
+                 (V (V 만들/pvg+어/ecx)
+                    (AUXP  보/px+시/ep+어요/ef))))+./sf)
+
+
+; 재료에 따라 비눗방울에 미묘한 차이가 있는 것에 주의해야 합니다.
+(S   
+     (VP  
+           (VP  (PP   재료/ncn+에/jca)
+                 (V    따르/pvg+아/ecs))
+           (PP   
+                 (AP  
+                       (PP   비눗방울/ncn+에/jca)
+                       (NP  (AP   미묘/ncps+하/xsm+ㄴ/etm)
+                             (NP  차이/ncn+가/jcs))
+                       (AP  있/paa+는/etm))
+                 (PP   것/nbn+에/jca))
+           (V (V 주의/ncps+하/xsv+어야/ecs)
+              (V 하/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 부모 곁에서 잠시도 떨어지기를 싫어하는 아이들도 조금 크면 친구들과 노는 데 정신이 팔려 밥먹는 것도 잊고 놀려고만 합니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (PP   (AP  부모/ncn)
+                             (PP   곁/ncn+에서/jca))
+                       (ADVP  잠시/ncn+도/jxc)
+                       (NP  떨어지/pvg+기/etn+를/jco)
+                       (AP  싫/paa+어/ecx+하/px+는/etm))
+                 (NP  아이/ncn+들/xsn+도/jxc))
+           (VP  (ADVP   조금/mag)
+                 (V 크/paa+면/ecs))
+           (VP  
+                 (PP   
+                       (AP  (PP   친구/ncn+들/xsn+과/jct)
+                             (AP  놀/pvg+는/etm))
+                       (PP   데/nbn))
+                 (NP  정신/ncn+이/jcs)
+                 (V    팔리/pvg+어/ecs))
+           (VP  
+                 (NP  (AP   밥/ncn+먹/pvg+는/etm)
+                       (NP  것/nbn+도/jxc))
+                 (V 잊/pvg+고/ecc))
+           (V    (V 놀/pvg+려고/ecs+만/jxc)
+                 (V 하/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 혼자서 노는 경우 아이들은 자신의 세계로 들어가서 큰 꿈을 키웁니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  (ADVP   혼자서/mag)
+                       (AP  놀/pvg+는/etm))
+                 (N 경우/ncn))
+           (NP  아이/ncn+들/xsn+은/jxc)
+           (VP  
+                 (PP   (AP  자신/ncn+의/jcm)
+                       (PP   세계/ncn+로/jca))
+                 (V 들어가/pvg+서/ecs))   
+           (VP  
+                 (NP  (AP   크/paa+ㄴ/etm)
+                       (NP  꿈/ncn+을/jco))
+                 (V 키우/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 비눗방울이 날아가는 모습에 반하기도 하고 어떤 때에는 오색 무지개 빛을 넋을 잃고 보기도 합니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (VP  
+                             (PP   
+                                   (AP  (NP   비눗방울/ncn+이/jcs)
+                                         (AP  날/pvg+아/ecx+가/px+는/etm))
+                                   (PP   모습/ncn+에/jca))
+                             (NP  반하/pvg+기/etn+도/jxc)))
+                 (V 하/pvg+고/ecc))
+           (VP  
+                 (PP   (AP  어떤/mmd)
+                       (PP   때/ncn+에/jca+는/jxc))
+                 (NP  
+                       (VP  
+                             (NP  (AP   오색/ncn)
+                                   (AP  무지개/ncn)
+                                   (NP  빛/ncn+을/jco))
+                             (VP  (NP   넋/ncn+을/jco)
+                                   (V    잃/pvg+고/ecc))
+                             (NP  보/pvg+기/etn+도/jxc)))
+                 (V 하/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 잘못하다가 비눗물을 힘껏 빨아도 삼킬 수 없는 그릇을 주십시오.
+(S   
+     (VP  
+           (V 잘못/ncpa+하/xsv+다가/ecs)
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  
+                                   (AP  (NP   비눗물/ncn+을/jco)
+                                         (ADVP  힘껏/mag)
+                                         (AP (V     빨/pvg+아도/ecs)
+                                             (AP 삼키/pvg+ㄹ/etm)))
+                                   (N 수/nbn))
+                             (AP  없/paa+는/etm))
+                       (NP  그릇/ncn+을/jco))
+                 (V 주/pvg+시/ep+ㅂ시오/ef)))+./sf)
+
+
+; 평소 어린이가 물을 마실 때 쓰는 컵을 절대로 사용해서는 안 됩니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (N 평소/ncn)
+                       (NP  어린이/ncn+가/jcs)
+                       (PP   (AP  (NP  물/ncn+을/jco)
+                                   (AP  마시/pvg+ㄹ/etm))
+                             (PP   때/ncn))
+                       (AP  쓰/pvg+는/etm))
+                 (NP  컵/ncn+을/jco))
+           (ADVP  절대로/mag)
+           (V 사용/ncpa+하/xsv+어서/ecs+는/jxc)
+           (VP  (ADVP   안/mag)
+                 (V 되/pvg+ㅂ니다/ef)))+./sf) 
+
+
+; 빨대 중간에 공기 구멍을 두세 개 뚫어 그 끝을 방사형으로 쪼개면 됩니다.
+(S   
+     (VP  
+           (PP   (AP  빨대/ncn)
+                 (PP   중간/ncn+에/jca))
+           (VP  
+                 (NP  (AP   공기/ncn)
+                       (NP  구멍/ncn+을/jco))
+                 (NP  (AP   두세/nnc)
+                       (NP  개/nbu))
+                 (V 뚫/pvg+어/ecs))
+           (VP  
+                 (NP  (AP   그/mmd)
+                       (NP  끝/ncn+을/jco))
+                 (PP   방사형/ncn+으로/jca)
+                 (V (V 쪼개/pvg+면/ecs)
+                    (V 되/pvg+ㅂ니다/ef))))+./sf)
+
+
+; 특히 독성이 있는 비눗물은 안전하게 다룰 수 있도록 지도해 주십시오.
+(S   
+     (VP  
+           (ADVP  특히/mag)
+           (VP  
+                 (NP  
+                       (AP  (NP   독성/ncn+이/jcs)
+                             (AP  있/paa+는/etm))
+                       (NP  비눗물/ncn+은/jxc))
+                 (VP  
+                       (NP  
+                             (AP  (V    안전/ncps+하/xsm+게/ecs)
+                                   (AP  다루/pvg+ㄹ/etm))
+                             (N 수/nbn))
+                       (V 있/paa+도록/ecs)))
+           (V    (V 지도/ncpa+하/xsv+어/ecx)
+                 (AUXP  주/px+시/ep+ㅂ시오/ef)))+./sf)
+
+
+; 가능한 한 비누조각을 작게 만들어서, 아이가 얼굴에 그것을 뒤집어 쓰는 일이  없도록 비눗방울이 작게 만들어지도록 하십시오.
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  가능/ncps+하/xsm+ㄴ/etm)
+                       (N 한/nbn))
+                 (NP  (NP   비누/ncn+조각/ncn+을/jco))
+                 (V (V 작/paa+게/ecs) 
+                    (V 만들/pvg+어서/ecs)))+,/sp
+           (VP  
+                 (NP  
+                       (AP  (NP   아이/ncn+가/jcs)
+                             (PP   얼굴/ncn+에/jca)
+                             (NP  그/mmd+것/nbn+을/jco)
+                             (AP (V  뒤집/pvg+어/ecs) 
+                                 (AP 쓰/pvg+는/etm)))
+                       (NP  일/ncn+이/jcs))
+                 (V    없/paa+도록/ecs))
+           (VP  
+                 (NP  비눗방울/ncn+이/jcs)
+                 (V (V 작/paa+게/ecs)
+                    (V 만들/pvg+어/ecx+지/px+도록/ecs)
+                    (V 하/pvg+시/ep+ㅂ시오/ef))))+./sf)
+
+
+; 유치원에서 비눗방울을 만들 때는 비눗물을 각각의 컵에 따로  만들지 않고 한꺼번에 많이 만듭니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  (PP   유치원/ncn+에서/jca)
+                       (NP  비눗방울/ncn+을/jco)
+                       (AP  만들/pvg+ㄹ/etm))
+                 (NP  때/ncn+는/jxc))   
+           (VP  
+                 (NP   비눗물/ncn+을/jco)   
+                 (PP   (AP  각각/ncn+의/jcm)
+                       (PP   컵/ncn+에/jca))
+                 (ADVP  따로/mag)
+                 (V (V 만들/pvg+지/ecx)
+                    (AUXP  않/px+고/ecc)))
+           (VP  
+                 (ADVP  한꺼번에/mag)
+                 (ADVP  많/paa+이/xsa)
+                 (V 만들/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 20l 부피의 물과 야자기름으로 만든 천연비누(큰 슈퍼마켓에서 판매함)를 8를 녹여 만듭니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (AP  20/nnc+l/su 부피/ncn+의/jcm)
+                       (PP   (NP  물/ncn+과/jcj)
+                             (PP   야자기름/ncn+으로/jca))
+                       (AP  만들/pvg+ㄴ/etm))
+                 (NP  천연/ncn+비누/ncn
+                          (/sl+(NP 
+                                   (VP  (PP   (AP  크/paa+ㄴ/etm)
+                                               (NP  슈퍼마켓/ncn+에서/jca))
+                                         (N 판매/ncpa+하/xsv+ㅁ/etn)))+)/sr
+                                         +를/jco))
+           (NP  8/nnc +를/jco)
+           (V (V 녹이/pvg+어/ecs)
+              (V 만들/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 개개인이 컵으로 비눗물을 만들 때, 여러 가지 형태의 비누를 부수어 액체를 만드는 경쟁을 시키는 것도 좋습니다.
+(S   
+     (VP  
+           (PP   
+                 (AP  (NP   개개인/ncn+이/jcs)
+                       (PP   컵/ncn+으로/jca)
+                       (NP  비눗물/ncn+을/jco)
+                       (AP  만들/pvg+ㄹ/etm))
+                 (PP   때/ncn))+,/sp
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  
+                                   (AP  
+                                         (VP  
+                                               (NP  (AP   (AP  여러/mma)
+                                                           (AP  가지/nbu))
+                                                     (AP  형태/ncn+의/jcm)
+                                                     (NP  비누/ncn+를/jco))
+                                               (V    부수/pvg+어/ecs))
+                                         (AP  (NP   액체/ncn+를/jco)
+                                               (AP  만들/pvg+는/etm)))
+                                   (NP  경쟁/ncn+을/jco))
+                             (AP  시키/pvg+는/etm))
+                       (NP  것/nbn+도/jxc))
+                 (V 좋/paa+습니다/ef)))+./sf)
+
+
+; 철사를 사용하여 비눗방울을 만들 경우, 선생님은 반드시 철사 끝을 둥글게 구부린  뒤에 아이들에게 건네 주십시오.
+(S   
+     (VP  
+           (VP  
+                 (NP  철사/ncn+를/jco)
+                 (V    사용/ncpa+하/xsv+어/ecs))
+           (PP   
+                 (AP  (NP   비눗방울/ncn+을/jco)
+                       (AP  만들/pvg+ㄹ/etm))
+                 (N 경우/ncn))+,/sp
+           (VP  
+                 (NP  선생/ncn+님/xsn+은/jxc)
+                 (PP   
+                       (AP  (ADVP   반드시/mag)
+                             (NP  (AP   철사/ncn)
+                                   (NP  끝/ncn+을/jco))
+                             (AP (V  둥글/paa+게/ecs)
+                                 (AP 구부리/pvg+ㄴ/etm)))
+                       (PP   뒤/ncn+에/jca))
+                 (PP   아이/ncn+들/xsn+에게/jca)
+                 (V (V 건네/pvg+어/ecx)
+                    (AUXP  주/px+시/ep+ㅂ시오/ef))))+./sf)
+
+
+; 그리고 철사로 만든 비누막 뜨개를 만드는 경우 눈을 찌르는 등의 사고가 일어나지 않도록 충분히 주의를 주십시오.
+(S   
+     (VP  
+           (IP 그리고/maj)
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  
+                                   (AP  (PP   철사/ncn+로/jca)
+                                         (AP  만들/pvg+ㄴ/etm))
+                                   (AP  비누막/ncn)
+                                   (NP  뜨개/ncn+를/jco))
+                             (AP  만들/pvg+는/etm))
+                       (N 경우/ncn))
+                 (NP  
+                       (AP  
+                             (AP  (NP   눈/ncn+을/jco)
+                                   (AP  찌르/pvg+는/etm))
+                             (AP  등/nbn+의/jcm))
+                       (VP  사고/ncn+가/jcs))
+                 (V (V   일어나/pvg+지/ecx)
+                    (AUXP  않/px+도록/ecs)))
+           (VP  
+                 (ADVP  충분/ncn+히/xsa)
+                 (NP  주의/ncn+를/jco)
+                 (V    주/pvg+시/ep+ㅂ시오/ef)))+./sf)
+
+
+; 손잡이가 없으면 손에 비눗물을 흘리기가  쉽고, 실험대 위에 흘리거나 넘어뜨릴  위험이 있습니다.
+(S   
+     (VP  
+           (VP  (NP   손잡이/ncn+가/jcs)
+                 (V    없/paa+으면/ecs))
+           (VP  
+                 (NP  
+                       (VP  (PP   손/ncn+에/jca)
+                             (NP  비눗물/ncn+을/jco)
+                             (NP  흘리/pvg+기/etn+가/jcs)))
+                 (V 쉽/paa+고/ecc))+,/sp
+           (VP  
+                 (NP  
+                       (AP  
+                             (PP   (AP  실험대/ncn)
+                                   (PP   위/ncn+에/jca))
+                             (AP (V  흘리/pvg+거나/ecc)
+                                 (AP 넘어뜨리/pvg+ㄹ/etm)))
+                       (NP  위험/ncps+이/jcs))
+                 (V 있/paa+습니다/ef)))+./sf)
+
+
+; 실험기구를 사용하여 국민학생이 되면 비눗방울 놀이만 강조하던  데에서 이제 실험하는 분위기를 강조할 필요가 있게 됩니다.
+(S   
+     (VP  
+           (VP  (NP   실험/ncn+기구/ncn+를/jcoa)
+                 (V    사용/ncpa+하/xsv+어/ecs))
+           (VP  (NP   국민학생/ncn+이/jcc)
+                 (V    되/pvg+면/ecs))
+           (VP  
+                 (NP  
+                       (AP  
+                             (PP   
+                                   (AP  
+                                         (NP  (AP   비눗방울/ncn)
+                                               (NP  놀이/ncn+만/jxc))
+                                         (AP  강조/ncpa+하/xsv+더/ep+ㄴ/etm))
+                                   (PP   데/nbn+에서/jca))
+                             (ADVP  이제/mag)
+                             (NP  (AP   실험/ncpa+하/xsv+는/etm)
+                                   (NP  분위기/ncn+를/jco))
+                             (AP  강조/ncpa+하/xsv+ㄹ/etm))
+                       (NP  필요/ncps+가/jcs))
+                 (V (V 있/paa+게/ecx)
+                    (AUXP  되/px+ㅂ니다/ef))))+./sf)
+
+
+; 자연스럽게 실험실에 있는 기구를 다루는 법도 배우게 되고 비눗방울 놀이가 이제는 과학실험으로 탈바꿈할 수도 있는 것이로구나 하는 것을 배우게도 됩니다.
+(S   
+     (VP  
+           (VP  
+                 (V 자연/ncps+스럽/xsm+게/ecs)
+                 (NP  
+                       (AP  
+                             (NP  
+                                   (AP  (PP   실험실/ncn+에/jca)
+                                         (AP  있/paa+는/etm))
+                                   (NP  기구/ncn+를/jco))
+                             (AP  다루/pvg+는/etm))
+                       (NP  법/nbn+도/jxc))
+                 (V (V   배우/pvg+게/ecx)
+                    (AUXP  되/px+고/ecc)))
+           (VP  
+                 (NP  
+                       (AP  
+                             (VP  
+                                   (NP  
+                                         (AP  
+                                               (NP  (AP   비눗방울/ncn)
+                                                     (NP  놀이/ncn+가/jcs))
+                                               (ADVP  이제/ncn+는/jxc)
+                                               (PP   과학/ncn+실험/ncn+으로/jca)
+                                               (AP  탈바꿈/ncpa+하/xsv+ㄹ/etm))
+                                         (NP  수/nbn+도/jxc))
+                                   (AP  있/paa+는/etm)
+                                   (V 것/nbn+이/jp+로구나/ef))
+                             (AP  하/pvg+는/etm))
+                       (NP  것/nbn+을/jco))
+                 (V (V 배우/pvg+게/ecx+도/jxc)
+                    (AUXP  되/px+ㅂ니다/ef))))+./sf)
+
+
+; 철사를 펜치로 구부리고 여러 가지 모양의 비누막 뜨개를 만들어 보는 것도 좋을 겁니다.
+(S   
+     (VP  
+           (AP  
+                 (NP  
+                       (AP  
+                             (VP  (NP   철사/ncn+를/jco)
+                                   (PP   펜치/ncn+로/jca)
+                                   (V    구부리/pvg+고/ecc))
+                             (AP  
+                                   (NP  
+                                         (AP  (AP   여러/mma)
+                                               (AP  가지/nbu))
+                                         (AP  모양/ncn+의/jcm)
+                                         (AP  비누막/ncn)
+                                         (AP  뜨개/ncn+를/jco))
+                                   (AP (V  만들/pvg+어/ecx)
+                                       (AP 보/px+는/etm))))
+                       (NP  것/nbn+도/jxc))
+                 (AP  좋/paa+ㄹ/etm))
+           (V 거/nbn+ㅂ니다/ef))+./sf)
+
+
+; 아빠나 엄마와 같이 여러 가지 모양의 비누막 뜨개를 만들어 해보는 것도 재미있지요.
+(S   
+     (VP  
+           (ADVP  
+                    (PP
+                          (NP  아빠/ncn+나/jcj)
+                          (PP   엄마/ncn+와/jct))
+                    (ADVP  같/paa+이/xsa))
+           (NP  
+                 (AP  
+                       (NP  
+                             (AP  (AP   여러/mma)
+                                   (AP  가지/nbu))
+                             (AP  모양/ncn+의/jcm)
+                             (AP  비누막/ncn)
+                             (NP  뜨개/ncn+를/jco))
+                       (AP  (V 만들/pvg+어/ecs)
+                            (V 하/pvg+어/ecx)
+                            (AP 보/px+는/etm)))
+                 (NP  것/nbn+도/jxc))
+           (V 재미/ncn+있/paa+지/ef+요/jxf))+./sf)
+
+
+; 여러 가지 농도의 비눗물을 만들어  어느 농도의 비눗물이 제일 큰  비눗방울을 만들 수 있는지 알아 봅시다.
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  (AP   여러/mma)
+                             (AP  가지/nbu))
+                       (AP  농도/ncn+의/jcm)
+                       (NP  비눗물/ncn+을/jco))
+                 (V 만들/pvg+어/ecs))   
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  (AP   어느/mmd)
+                                   (AP  농도/ncn+의/jcm)
+                                   (NP  비눗물/ncn+이/jcs))
+                             (NP  (ADVP   제일/mag)
+                                   (AP  크/paa+ㄴ/etm)
+                                   (NP  비눗방울/ncn+을/jco))
+                             (AP  만들/pvg+ㄹ/etm))
+                       (N 수/nbn))
+                 (VP  있/paa+는지/ef))
+           (V (V 알/pvg+아/ecx)
+              (AUXP  보/px+ㅂ시다/ef)))+./sf)
+
+
+; 농도에는 용매(물)와 용질(비누)의 질량비로 %  농도로 나타낼 수도 있으나,  여기서는 대략적인 것으로 차숟가락의 부피의 비로 생각해 보는 것이 좋을 듯합니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  
+                             (PP   농도/ncn+에/jca+는/jxc)
+                             (PP   (AP  (NP  용매/ncn (/sl 물/ncn )/sr 와/jcj)
+                                         (AP  용질/ncn (/sl 비누/ncn )/sr 의/jcm))
+                                   (PP   질량비/ncn+로/jca))
+                             (PP   %/su 농도/ncn+로/jca)
+                             (AP  나타내/pvg+ㄹ/etm))
+                       (NP  수/nbn+도/jxc))
+                 (V 있/paa+으나/ecc))+,/sp
+           (VP  
+                 (PP   여기/npd+서/jca+는/jxc)
+                 (NP  
+                       (AP  
+                             (NP  
+                                   (AP  (PP   (AP  대략/ncn+적/xsn+이/jp+ㄴ/etm)
+                                               (PP   것/nbn+으로/jca))
+                                         (PP   (AP  차숟가락/ncn+의/jcm)
+                                               (AP  부피/ncn+의/jcm)
+                                               (PP   비/ncn+로/jca))
+                                         (AP (V  생각/ncpa+하/xsv+어/ecx)    
+                                             (AP 보/px+는/etm)))
+                                   (NP  것/nbn+이/jcs))
+                             (AP  좋/paa+ㄹ/etm))
+                       (N 듯/nbn))
+                 (V 하/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 농도가 40%, 50%, 60% 인 세 종류의 비눗물을 만들어 어느 비눗물이 잘 만들어지고  오래 견디는지를 표로 만들어 알아 봅시다.
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  (NP   농도/ncn+가/jcs)
+                             (NP  40/nnc+%/su)+,/sp
+                             (NP  50/nnc+%/su)+,/sp
+                             (AP  60/nnc+%/su+이/jp+ㄴ/etm))
+                       (AP  (AP   세/nnc)
+                             (AP  종류/ncn+의/jcm))
+                       (NP  비눗물/ncn+을/jco))
+                 (V    만들/pvg+어/ecs))   
+           (VP  
+                 (NP  
+                       (VP  
+                             (NP  (AP   어느/mmd)
+                                   (NP  비눗물/ncn+이/jcs))
+                             (ADVP  잘/mag)
+                             (V 만들/pvg+어/ecx+지/px+고/ecc)
+                             (ADVP  오래/mag)
+                             (NP  견디/pvg+는지/ef+를/jco)))
+                 (PP   표/ncn+로/jca)
+                 (V (V 만들/pvg+어/ecs)
+                    (V 알/pvg+아/ecx)
+                    (AUXP  보/px+ㅂ시다/ef))))+./sf)
+
+
+; 첨가물을 넣어서 위의 실험을 통해서 비눗방울이 제일 잘  만들어지는 비눗물을 만들 수 있었습니까?
+(S   
+     (VP  
+           (VP  (NP   첨가물/ncn+을/jco)
+                 (V    넣/pvg+어서/ecs))
+           (VP  
+                 (NP  (AP   위/ncn+의/jcm)
+                       (NP  실험/ncn+을/jco))
+                 (V 통하/pvg+어서/ecs))      
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  
+                                   (AP  (NP   비눗방울/ncn+이/jcs)
+                                         (ADVP  제일/mag)
+                                         (ADVP  잘/mag)
+                                         (AP     만들/pvg+어/ecx+지/px+는/etm))
+                                   (NP  비눗물/ncn+을/jco))
+                             (AP  만들/pvg+ㄹ/etm))
+                       (N 수/nbn))
+                 (V 있/paa+었/ep+습니까/ef)))+?/sf)
+
+
+; 비눗방울이 제일 잘 생기는 농도의 비눗물에 여러 가지 물질을 넣어 봅시다.
+(S   
+     (VP  
+           (PP   
+                 (AP  
+                       (NP  비눗방울/ncn+이/jcs)
+                       (ADVP  제일/mag)
+                       (ADVP  잘/mag)
+                       (AP  생기/pvg+는/etm))
+                 (AP  농도/ncn+의/jcm)
+                 (PP   비눗물/ncn+에/jca))
+           (NP  
+                 (AP  여러/mma)
+                 (AP  가지/nbu)
+                 (NP  물질/ncn+을/jco))
+           (V    (V   넣/pvg+어/ecx)
+                 (AUXP  보/px+ㅂ시다/ef)))+./sf)
+
+
+; 먼저 비눗방울을 크고 오래가게 하려면 비눗물이 좀더 끈기를 가지고 있어야겠지요.
+(S   
+     (VP  
+           (ADVP  먼저/mag)
+           (VP  
+                 (NP  비눗방울/ncn+을/jco)
+                 (V (V 크/paa+고/ecc)
+                    (V 오래/mag+가/pvg+게/ecx)
+                    (AUXP  하/px+려면/ecs)))
+           (VP  
+                 (NP  비눗물/ncn+이/jcs)
+                 (ADVP  좀더/mag)
+                 (NP  끈기/ncn+를/jco)
+                 (V (V 가지/pvg+고/ecx)
+                    (AUXP  있/px+어야/ecs+겠/ep+지/ef+요/jxf))))+./sf)
+
+
+; 바닐라유, 그 밖의 여러 향을 넣으면 비눗방울이 터질 때 즐거운 향내 가득한 방을 만들 수 있을 겁니다.
+(S   
+     (VP  
+           (AP  
+                 (NP  
+                       (AP  
+                             (VP  
+                                   (NP  (N 바닐라유/ncn)+,/sp
+                                         (AP  (AP   그/mmd)
+                                               (AP  밖/ncn+의/jcm))
+                                         (AP  여러/mma)
+                                         (NP  향/ncn+을/jco))
+                                   (V    넣/pvg+으면/ecs))
+                             (PP   (AP  (NP  비눗방울/ncn+이/jcs)
+                                         (AP  터지/pvg+ㄹ/etm))
+                                   (PP   때/ncn))   
+                             (NP  (AP   즐겁/paa+ㄴ/etm)    
+                                   (AP  (AP   향내/ncn)
+                                         (AP  가득/ncpa+하/xsv+ㄴ/etm))
+                                   (NP  방/ncn+을/jco))   
+                             (AP  만들/pvg+ㄹ/etm))
+                       (N 수/nbn))
+                 (AP  있/paa+ㄹ/etm))
+           (V 거/nbn+ㅂ니다/ef))+./sf)
+
+
+; 그때마다 비눗물 만들랴 빨대 구하랴 허둥댈 필요가 없도록 미리 준비해 두는 것이 좋을 듯합니다.
+(S   
+     (VP  
+           (PP   그/mmd+때/ncn+마다/jxc)
+           (VP  (N 비눗물/ncn)
+                 (V    만들/pvg+랴/ef))
+           (VP  (N 빨대/ncn)
+                 (V    구하/pvg+랴/ef))
+           (VP  
+                 (NP  (AP   허둥대/pvg+ㄹ/etm)
+                       (NP  필요/ncps+가/jcs))
+                 (V 없/paa+도록/ecs))
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  
+                                   (AP  (ADVP   미리/mag)
+                                         (AP (V  준비/ncpa+하/xsv+어/ecx)
+                                             (AP 두/px+는/etm)))
+                                   (NP  것/nbn+이/jcs))
+                             (AP  좋/paa+ㄹ/etm))
+                       (N 듯/nbn))
+                 (V 하/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 또한 비눗물의 독성으로 인해 다른 사람들에게 어떤 피해를  주게 될지도 모르니 언제라도 놀이나 실험을 해볼 수 있는 비눗물 전용 용기를 마련해 두는 것도 필요합니다.
+(S   
+     (VP  
+           (IP 또한/maj)
+           (VP  
+                 (PP   (AP  비눗물/ncn+의/jcm)
+                       (PP   독성/ncn+으로/jca))
+                 (V    인하/pvg+어/ecs))   
+           (VP  
+                 (NP  
+                       (PP   (AP  다른/mma)
+                             (PP   사람/ncn+들/xsn+에게/jca))
+                       (NP  (AP   어떤/mmd)
+                             (NP  피해/ncn+를/jco))
+                       (V (V   주/pvg+게/ecx)
+                          (NP  되/px+ㄹ지/ef+도/jxc))
+                 (V    모르/pvg+니/ecs)))
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  
+                                   (AP  
+                                         (NP  
+                                               (AP  (ADVP   언제/mag+라도/jxc)
+                                                     (NP  놀이/ncn+나/jxc)
+                                                     (NP  실험/ncn+을/jco)
+                                                     (AP (V  하/pvg+어/ecx)
+                                                         (AP 보/px+ㄹ/etm)))
+                                               (N 수/nbn))
+                                         (AP  있/paa+는/etm))
+                                   (NP  (AP   비눗물/ncn)
+                                         (AP  전용/ncn)
+                                         (NP  용기/ncn+를/jco)))
+                             (AP (V  마련/ncpa+하/xsv+어/ecx)
+                                 (AP 두/px+는/etm)))
+                       (NP  것/nbn+도/jxc))
+                 (V 필요/ncps+하/xsm+ㅂ니다/ef)))+./sf)
+
+
+; 특히 여러분들이 귀중하게 만들어 놓은 비눗물도 다시 한번 얻기 위해서는 더 많은 시간이 걸릴지도 모르니 자신이 쉽게 실험할 수 있도록 비눗물 컵 등의 용기를 정해 두는 것이 좋겠지요.
+(S   
+     (VP  
+           (ADVP  특히/mag)
+           (VP  
+                 (NP  
+                       (AP  (NP   여러분/npp+들/xsn+이/jcs)
+                             (AP (V  귀중/ncps+하/xsv+게/ecs)
+                                 (V   만들/pvg+어/ecx)
+                                 (AP 놓/px+ㄴ/etm)))
+                       (NP  비눗물/ncn+도/jxc))
+                 (VP  (NP   (ADVP  다시/mag)
+                             (ADVP  한/nnc+번/nbu)
+                             (N 얻/pvg+기/etn))
+                       (V    위하/pvg+어서/ecs+는/jxc)))      
+           (VP  
+                 (NP  (ADVP   더/mag)
+                       (AP  많/paa+ㄴ/etm)
+                       (NP  시간/ncn+이/jcs))
+                 (V (V   걸리/pvg+ㄹ지/ecs+도/jxc)
+                    (V    모르/pvg+니/ecs)))
+           (VP  
+                 (NP  
+                       (AP  (NP   자신/ncn+이/jcs)
+                             (AP (V  쉽/paa+게/ecs)
+                                 (AP 실험/ncpa+하/xsv+ㄹ/etm)))
+                       (N 수/nbn))
+                 (V 있/paa+도록/ecs))
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  (AP   (N   비눗물/ncn)
+                                         (N    컵/ncn)
+                                         (AP  등/nbn+의/jcm))
+                                   (NP  용기/ncn+를/jco))
+                             (AP (V  정하/pvg+어/ecx)
+                                 (AP 두/px+는/etm)))
+                       (NP  것/nbn+이/jcs))
+                 (V 좋/paa+겠/ep+지/ef+요/jxf)))+./sf)
+
+
+; 집에서 버리는 폐품 중에도 훌륭한 실험도구가 있으니 한 번 찾아보십시오.
+(S   
+     (VP  
+           (PP   
+                 (AP  (PP   집/ncn+에서/jca)
+                       (AP  버리/pvg+는/etm))
+                 (N 폐품/ncn)    
+                 (PP   중/nbn+에/jca+도/jxc))   
+           (VP  
+                 (NP  (AP   훌륭/ncps+하/xsm+ㄴ/etm)
+                       (NP  실험/ncn+도구/ncn+가/jcs))
+                 (V 있/paa+으니/ecs))
+           (VP  
+                 (ADVP  (AP   한/nnc)
+                          (N 번/nbu))
+                 (V (V 찾/pvg+아/ecx)
+                    (AUXP  보/px+시/ep+ㅂ시오/ef))))+./sf)
+
+
+; 중학생 중학생이 되면서 학생들은 친구들을 더욱 폭넓게 사귀기 시작하며 자연현상에 대한 좀더 깊이있는 생각을 하게 됩니다.
+(S   
+     (N 중학생/ncn)
+     (VP  
+           (VP  
+                 (NP  중학생/ncn+이/jcc)
+                 (V    되/pvg+면서/ecc))
+           (NP  학생/ncn+들/xsn+은/jxc)    
+           (VP  
+                 (NP  
+                       (NP  친구/ncn+들/xsn+을/jco)
+                       (ADVP  더욱/mag)
+                       (V    폭넓/paa+게/ecs) 
+                       (N 사귀/pvg+기/etn))
+                 (V 시작/ncpa+하/xsv+며/ecc))
+           (VP  
+                 (NP  
+                       (AP  (PP   자연/ncn+현상/ncn+에/jca)
+                             (AP  대하/pvg+ㄴ/etm))
+                       (AP  (ADVP   좀더/mag)
+                             (AP  깊/paa+이/xsn+있/paa+는/etm))
+                       (VP  생각/ncn+을/jco))
+                 (V (V   하/pvg+게/ecx)
+                    (AUXP  되/px+ㅂ니다/ef))))+./sf)
+
+
+; 비눗방울 놀이에 관해 보다 구체적인 관심을 가질 수 있는 시기가 된 것입니다.
+(S   
+     (VP  
+           (AP  
+                 (NP  
+                       (AP  
+                             (NP  
+                                   (AP  
+                                         (VP  (PP   (AP  비눗방울/ncn)
+                                                     (PP   놀이/ncn+에/jca))
+                                               (V 관하/pvg+어/ecs))   
+                                         (NP  (ADVP   보다/mag) 
+                                               (AP  구체/ncn+적/xsn+이/jp+ㄴ/etm)
+                                               (NP  관심/ncn+을/jco))   
+                                         (AP  가지/pvg+ㄹ/etm))
+                                   (N 수/nbn))
+                             (AP  있/paa+는/etm))
+                       (NP  시기/ncn+가/jcc))
+                 (AP  되/pvg+ㄴ/etm))
+           (V 것/nbn+이/jp+ㅂ니다/ef))+./sf)
+
+
+; 예를 들어 비누와 설탕은 물에 잘 녹고, 후추나 모래는 물에 잘 녹지 않습니다.
+(S   
+     (VP  
+           (IP 예/ncn+를/jco 들/pvg+어/ecs)
+           (VP  
+                 (NP  (AP   비누/ncn+와/jcj)
+                       (NP  설탕/ncn+은/jxc))
+                 (PP   물/ncn+에/jca)
+                 (ADVP  잘/mag)
+                 (V 녹/pvg+고/ecc))+,/sp
+           (VP  
+                 (NP  (NP   후추/ncn+나/jcj)
+                       (NP  모래/ncn+는/jxc))
+                 (PP   물/ncn+에/jca)
+                 (ADVP  잘/mag)
+                 (V (V 녹/pvg+지/ecx)
+                    (AUXP  않/px+습니다/ef))))+./sf)
+
+
+; 또 친구들과 함께 [ 비눗방울 진단표 ] 를 만들어 두면 편리합니다.
+(S   
+     (VP  
+           (IP 또/maj)
+           (ADVP  (PP   친구/ncn+들/xsn+과/jct)
+                    (ADVP  함께/mag))
+           (NP  [/sl 비눗방울/ncn 진단표/ncn ]/sr+를/jco)
+           (V    (V 만들/pvg+어/ecx)
+                 (AUXP  두/px+면/ecs)
+                 (V 편리/ncps+하/xsm+ㅂ니다/ef)))+./sf)
+
+
+; 고등학생 고등학생이 되면 자기가 생각한 것은 웬만큼 다 만들어 실험할 수 있습니다.
+(S   
+     (N 고등학생/ncn)
+     (VP  
+           (VP  (NP   고등학생/ncn+이/jcc)
+                 (V    되/pvg+면/ecs))
+           (VP  
+                 (NP  
+                       (AP  (NP   자기/npp+가/jcs)
+                             (AP  생각/ncpa+하/xsv+ㄴ/etm))
+                       (NP  것/nbn+은/jxc))
+                 (NP  
+                       (AP  (ADVP   웬만큼/mag)
+                             (ADVP  다/mag)
+                             (AP (V  만들/pvg+어/ecs)
+                                 (AP 실험/ncpa+하/xsv+ㄹ/etm)))
+                       (N 수/nbn))
+                 (V 있/paa+습니다/ef)))+./sf)
+
+
+; 학교에서 배우는 과학도 여러 과목으로 늘어나고 보다 전문적인 접근이 가능하게 됩니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  (PP   학교/ncn+에서/jca)
+                             (AP  배우/pvg+는/etm))
+                       (NP  과학/ncn+도/jxc))
+                 (PP   (AP  여러/mma)
+                       (PP   과목/ncn+으로/jca))
+                 (V 늘어나/pvg+고/ecc))
+           (VP  
+                 (NP  (ADVP   보다/mag)
+                       (AP  전문/ncn+적/xsn+이/jp+ㄴ/etm)
+                       (NP  접근/ncn+이/jcs))
+                 (V (V 가능/ncpa+하/xsv+게/ecx)
+                    (AUXP  되/px+ㅂ니다/ef))))+./sf)
+
+
+; 물리 시간에 배운 빛의 파동과 간접무늬에 대해 생각해 볼 수도 있습니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (VP  
+                             (PP   
+                                   (AP  
+                                         (PP   (AP  물리/ncn)
+                                               (PP   시간/ncn+에/jca))
+                                         (AP  배우/pvg+ㄴ/etm))
+                                   (AP  빛/ncn+의/jcm)
+                                   (AP  파동/ncn+과/jcj)
+                                   (PP   간접/ncn+무늬/ncn+에/jca))
+                             (V 대하/pvg+어/ecs))
+                       (AP (V  생각/ncpa+하/xsv+어/ecx)
+                           (AP 보/px+ㄹ/etm)))
+                 (NP  수/nbn+도/jxc))
+           (V 있/paa+습니다/ef))+./sf)
+
+
+; 화학 시간에 배운 유기화학 물질을 이용해 좀더 오래 견딜 수 있는 풍선을 만들 수도 있습니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  
+                             (PP   (AP  화학/ncn)
+                                   (PP   시간/ncn+에/jca))
+                             (AP  배우/pvg+ㄴ/etm))
+                       (AP  유기/ncn+화학/ncn)
+                       (NP  물질/ncn+을/jco))
+                 (V 이용/ncpa+하/xsv+어/ecs))
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  
+                                   (AP  
+                                         (NP  
+                                               (AP  (ADVP   좀더/mag)
+                                                     (ADVP  오래/mag)
+                                                     (AP  견디/pvg+ㄹ/etm))
+                                               (N 수/nbn))
+                                         (AP  있/paa+는/etm))
+                                   (NP  풍선/ncn+을/jco))
+                             (AP  만들/pvg+ㄹ/etm))
+                       (NP  수/nbn+도/jxc))
+                 (V 있/paa+습니다/ef)))+./sf)
+
+
+; 물리 수업에 응용 물리 수업과 관련시켜 비눗방울 실험을 해봅시다.
+(S   
+     (VP  
+           (VP  
+                 (PP   (AP  물리/ncn)
+                       (PP   수업/ncn+에/jca))
+                 (NP  (AP   응용/ncn)
+                       (AP  물리/ncn)
+                       (NP  수업/ncn+과/jct))
+                 (V 관련/ncpa+시키/xsv+어/ecs))
+           (VP  
+                 (NP  (AP   비눗방울/ncn)
+                       (NP  실험/ncn+을/jco))
+                 (V (V 하/pvg+어/ecx)
+                    (AUX P 보/px+ㅂ시다/ef))))+./sf)
+
+
+; 화학약품을 사용하는 등의 수준높은 실험이므로, 재료를 신중하게 선택하고 녹여서 실험합시다.
+(S   
+     (VP  
+           (VP  
+                 (AP  
+                       (AP  (NP   화학/ncn+약품/ncn+을/jco)
+                             (AP  사용/ncpa+하/xsv+는/etm)
+                             (AP  등/nbn+의/jcm))
+                       (AP  수준/ncn+높/paa+은/etm))
+                 (V    실험/ncn+이/jp+므로/ecs))+,/sp
+           (VP  (NP   재료/ncn+를/jco)
+                 (V (V 신중/ncps+하/xsm+게/ecs)
+                    (V 선택/ncpa+하/xsv+고/ecc))
+                 (V (V 녹이/pvg+어서/ecs)
+                    (V 실험/ncpa+하/xsv+ㅂ시다/ef))))+./sf)
+
+
+; 가능한 한 순수한 화장비누를 선택하여 비교적 뜨거운 물에 녹입니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  (AP   가능/ncps+하/xsm+ㄴ/etm)
+                       (N 한/nbn)
+                       (AP  순수/ncps+하/xsm+ㄴ/etm))
+                 (NP  화장/ncn+비누/ncn+를/jco))
+           (V 선택/ncpa+하/xsv+어/ecs)
+           (VP  
+                 (PP   (AP  비교/ncn+적/xsn)
+                       (AP  뜨겁/paa+ㄴ/etm)
+                       (PP   물/ncn+에/jca))
+                 (V 녹이/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 이렇게 해도 녹지 않는 찌꺼기는 제거하고, 글리세린을 한두  방울 첨가해 봅시다(글리세린의 효과에 대해서는 뒤에 설명하겠습니다).
+(S   
+     (VP  
+           (V (V 이렇/pad+게/ecs)
+              (V 하/pvg+어도/ecs))
+           (VP  
+                 (NP  
+                       (AP  (V    녹/pvg+지/ecx)
+                             (AP  않/px+는/etm))
+                       (NP  찌꺼기/ncn+는/jxc))
+                 (V    제거/ncpa+하/xsv+고/ecc))+,/sp
+           (VP  
+                 (NP  글리세린/ncn+을/jco)
+                 (NP  (AP   한두/nnc)
+                       (NP  방울/nbu))
+                 (V (V   첨가/ncpa+하/xsv+어/ecx)
+                    (AUXP  보/px+ㅂ시다/ef))))
+     (/sl+(VP 
+              (VP  
+                    (PP   (AP  글리세린/ncn+의/jcm)
+                          (PP   효과/ncn+에/jca))
+                    (V 대하/pvg+어서/ecs+는/jxf))
+              (VP  (PP   뒤/ncn+에/jca)
+                 (V    설명/ncpa+하/xsv+겠/ep+습니다/ef)))+)/sr   +./sf)
+
+
+; 축제(학예제의 일종)에서 비눗방울에 대한  연구 결과를 발표하기도  하고, 모의판매대에서 판매 해봅시다.
+(S   
+     (VP  
+           (VP  
+                 (PP   축제/ncn+(/sl+학예제/ncn+의/jcm+일종/ncn+)/sr+에서/jca)
+                 (NP  
+                       (AP  (PP   비눗방울/ncn+에/jca)
+                             (AP  대하/pvg+ㄴ/etm))
+                       (AP  연구/ncn)
+                       (NP  결과/ncn+를/jco))
+                 (NP  발표/ncpa+하/xsv+기/etn+도/jxc)
+                 (V    하/pvg+고/ecc))+,/sp
+           (VP  
+                 (PP   모의/ncn+판매대/ncn+에서/jca)
+                 (N 판매/ncn)
+                 (V (V 하/pvg+어/ecx)
+                    (AUXP  보/px+ㅂ시다/ef))))+./sf)
+
+
+; 화학 수업에 응용 물질의 구조가  입자적으로 이루어져 있는지 연속적으로  되어 있는지를 알아 보기 위한 실험으로 구성할 수도 있습니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (PP   
+                             (AP  
+                                   (PP   (AP  화학/ncn)
+                                         (PP   수업/ncn+에/jca))
+                                   (NP  (AP   응용/ncn)
+                                         (AP  물질/ncn+의/jcm)
+                                         (NP  구조/ncn+가/jcs))
+                                   (NP  
+                                         (VP  (PP   입자/ncn+적/xsn+으로/jca)
+                                               (V (V 이루/pvg+어/ecx+지/px+어/ecx)
+                                                  (AUXP  있/px+는지/ecs)))
+                                         (VP  (PP   연속/ncn+적/xsn+으로/jca)
+                                               (V (V 되/pvg+어/ecx)
+                                                  (NP  있/px+는지/ef+를/jco))))
+                                   (NP  (V    알/pvg+아/ecx)
+                                         (N 보/px+기/etn))
+                                   (AP  위하/pvg+ㄴ/etm))
+                             (PP   실험/ncn+으로/jca))
+                       (AP  구성/ncpa+하/xsv+ㄹ/etm))
+                 (NP  수/nbn+도/jxc))
+           (V    있/paa+습니다/ef))+./sf)
+
+
+; 또는 비누막을 무한히 크게 할 수 있을까 등의 문제를  풀어 봄으로써 물질에 대한 기본적인 입장을 확인해 볼 수 있습니다(자세한 자료는 뒤에). 또 화학의 극성물질과 비극성 물질간의 결합을 설명하면서 비누가 때를 씻을 수 있는지를 알아 봅니다.
+(S   
+     (VP  
+           (IP 또는/maj)
+           (PP   
+                 (NP  
+                       (AP  
+                             (VP  
+                                   (NP  
+                                         (AP  (NP   비누막/ncn+을/jco)
+                                               (ADVP  무한/ncn+히/xsa)
+                                               (AP (V  크/paa+게/ecs)
+                                                   (AP 하/pvg+ㄹ/etm)))
+                                         (N 수/nbn))
+                                   (V 있/paa+ㄹ까/ef))      
+                             (AP  등/nbn+의/jcm))
+                       (NP  문제/ncn+를/jco))
+                 (V     풀/pvg+어/ecx)
+                 (PP   보/px+ㅁ/etn+으로써/jca))
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  
+                                   (AP  (PP   물질/ncn+에/jca)
+                                         (AP  대하/pvg+ㄴ/etm))
+                                   (AP  기본/ncn+적/xsn+이/jp+ㄴ/etm)    
+                                   (NP  입장/ncn+을/jco))   
+                             (AP  (V 확인/ncpa+하/xsv+어/ecx)             
+                                   (AP  보/px+ㄹ/etm)))
+                       (N 수/nbn))
+                 (V 있/paa+습니다/ef)))
+     (PP   
+           (/sl+ (AP   자세/ncps+하/xsm+ㄴ/etm)
+                 (NP  자료/ncn+는/jxc)
+                 (PP   뒤/ncn+에/jca))+/sr)+./sf)
+(S   
+     (VP  
+           (IP 또/maj)
+           (VP  
+                 (NP  (AP   화학/ncn+의/jcm)
+                       (AP  (NP   극성/ncn+물질/ncn+과/jcj)
+                             (AP  (AP   비극성/ncn)
+                                   (AP  물질/ncn+간/xsn+의/jcm)))
+                       (NP  결합/ncn+을/jco))
+                 (V 설명/ncpa+하/xsv+면서/ecc))
+           (VP  
+                 (NP  
+                       (NP  
+                             (AP  (NP   비누/ncn+가/jcs)
+                                   (NP  때/ncn+를/jco)
+                                   (AP  씻/pvg+ㄹ/etm))
+                             (N 수/nbn))
+                       (NP  있/paa+는지/ef+를/jco))
+                 (V (V 알/pvg+아/ecx)
+                    (AUXP  보/px+ㅂ니다/ef))))+./sf)
+
+
+; 여러 가지 비누막 뜨개로 만들어 본 비눗방울의 모양을 예측하게 하고, 왜 그렇게 되는가를 생각해 봅시다.
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  
+                             (PP   (AP  여러/mma)
+                                   (AP  가지/nbu)
+                                   (AP  비누막/ncn)
+                                   (PP   뜨개/ncn+로/jca))
+                             (AP (V  만들/pvg+어/ecx)
+                                 (AP 보/px+ㄴ/etm)))
+                       (AP  비눗방울/ncn+의/jcm)
+                       (NP  모양/ncn+을/jco))
+                 (V (V 예측/ncpa+하/xsv+게/ecx)
+                    (AUXP  하/px+고/ecc)))+,/sp
+           (VP  
+                 (NP  (ADVP   왜/mag)
+                       (V 그렇/pad+게/ecs)
+                       (NP  되/pvg+는가/ef+를/jco))
+                 (V (V 생각/ncpa+하/xsv+어/ecx)
+                    (AUXP  보/px+ㅂ시다/ef))))+./sf)
+
+
+; 또 몇 가지 비누막 뜨개를 이용하면 쉽게 간단한 기체분자의 모양을 만들어 보일 수 있습니다.
+(S   
+     (VP  
+           (IP 또/maj)
+           (VP  
+                 (NP  (AP   몇/mma)
+                       (AP  가지/nbu)
+                       (AP  비누막/ncn)
+                       (NP  뜨개/ncn+를/jco))
+                 (V    이용/ncpa+하/xsv+면/ecs))
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  
+                                   (AP  (V 쉽/paa+게/ecs)
+                                         (AP  간단/ncps+하/xsm+ㄴ/etm)
+                                         (AP  기체/ncn+분자/ncn+의/jcm))
+                                   (NP  모양/ncn+을/jco))
+                             (AP (V  만들/pvg+어/ecx)
+                                 (AP 보이/px+ㄹ/etm)))
+                       (N 수/nbn))
+                 (V 있/paa+습니다/ef)))+./sf)
+
+
+; Boys 가 1959 년에 출판했던 비눗방울이라는 책에서도 볼 수 있듯이 비눗방울 속에 숨겨진 과학은 평생을 걸려 연구해도 모자랄 만큼 다양하고도 재미있는 과학소재로 꽉 차 있습니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  
+                             (PP   
+                                   (AP  (NP   Boys/f+가/jcs)
+                                         (PP   1959/nnc+년/nbu+에/jca)
+                                         (AP  출판/ncpa+하/xsv+었/ep+더/ep+ㄴ/etm)
+                                         (AP  비눗방울/nq +이/jp+라/ef+는/etm))
+                                   (PP   책/ncn+에서/jca+도/jxc))
+                             (AP  보/pvg+ㄹ/etm))
+                       (N 수/nbn))
+                 (V 있/paa+듯이/ecs))
+           (VP  
+                 (NP  
+                       (AP  
+                             (PP   (AP  비눗방울/ncn)
+                                   (PP   속/ncn+에/jca))
+                             (AP  숨기/pvg+어/ecx+지/px+ㄴ/etm))
+                       (NP  과학/ncn+은/jxc))
+                 (NP  
+                       (AP  (NP   평생/ncn+을/jco)
+                             (V    걸리/pvg+어/ecs)
+                             (V    연구/ncpa+하/xsv+어도/ecs)
+                             (AP  모자라/pvg+ㄹ/etm))
+                       (N 만큼/nbn))
+                 (PP   
+                       (AP  (V    다양/ncps+하/xsm+고/ecc+도/jxc)
+                             (AP  재미/ncn+있/xsm+는/etm))
+                       (PP   과학/ncn+소재/ncn+로/jca))
+                 (VP  
+                       (ADVP  꽉/mag)
+                       (V (V 차/pvg+아/ecx)
+                          (AUXP  있/px+습니다/ef)))))+./sf)
+
+
+; 대학 도서관에는 많은 자료가 있고, 연구실에는 여러 가지 약품이 진열되어 있습니다.
+(S   
+     (VP  
+           (PP   (AP  대학/ncn)
+                 (NP  도서관/ncn+에/jca+는/jxc))
+           (NP  (AP   많/paa+ㄴ/etm)
+                 (NP  자료/ncn+가/jcs))
+           (V    있/paa+고/ecc))+,/sp
+     (VP  
+           (PP   연구실/ncn+에/jca+는/jxc)
+           (NP  (AP   여러/mma)
+                 (AP  가지/nbu)
+                 (NP  약품/ncn+이/jcs))
+           (V (V 진열/ncpa+되/xsv+어/ecx)
+              (AUXP  있/px+습니다/ef)))+./sf)
+
+
+; 이런 약품(재료)들이 설마 아이들의 손이 닿는 곳에 있지는 않겠지만 주의하여 보관해야 합니다.
+(S   
+     (VP  
+           (NP  (AP   이런/mmd)
+                 (NP  약품/ncn+ (/sl 재료/ncn )/sr +들/xsn+이/jcs))
+           (VP  (ADVP   설마/mag)
+                 (PP   
+                       (AP  
+                             (NP  (AP   아이/ncn+들/xsn+의/jcm)
+                                   (NP  손/ncn+이/jcs))
+                             (AP  닿/pvg+는/etm))
+                       (PP   곳/ncn+에/jca))
+                 (V (V 있/paa+지/ecx+는/jxf)
+                    (AUXP  않/px+겠/ep+지만/ecs)))
+           (V    (V 주의/ncpa+하/xsv+어/ecs)
+                 (V 보관/ncpa+하/xsv+어야/ecs)
+                 (V 하/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 증류수로 만들기 비눗방울에 대한 연구를  본격적으로 해보려면 먼저 비누에  대해 확실히 알고 있어야 합니다.
+(S   
+     (NP  
+           (PP   증류수/ncn+로/jca)
+           (N 만들/pvg+기/etn))
+     (VP  
+           (VP  
+                 (NP  (PP   비눗방울/ncn+에/jca)
+                       (AP  대하/pvg+ㄴ/etm)
+                       (NP  연구/ncn+를/jco))
+                 (PP   본격/ncn+적/xsn+으로/jca)
+                 (V (V 하/pvg+어/ecx)
+                    (AUXP  보/px+려면/ecs)))
+           (VP  
+                 (ADVP  먼저/mag)
+                 (VP  (PP   비누/ncn+에/jca)
+                       (V 대하/pvg+어/ecs))
+                 (ADVP  확실/ncn+히/xsa)
+                 (V (V 알/pvg+고/ecx)
+                    (AUXP  있/px+어야/ecs)
+                    (V 하/pvg+ㅂ니다/ef))))+./sf)
+
+
+; 그러므로 물과 기름 양쪽이 모두 순수해야만 비누의 성질과 역할을 이해하기 쉬워지겠지요.
+(S   
+     (VP  
+           (IP 그러므로/maj)
+           (VP  
+                 (NP  (AP   물/ncn+과/jcj)
+                       (AP  기름/ncn)
+                       (NP  양쪽/ncn+이/jcs))
+                 (ADVP  모두/mag)
+                 (V 순수/ncps+하/xsm+어야/ecs+만/jxc))
+           (VP  
+                 (NP  (AP   비누/ncn+의/jcm)
+                       (NP  성질/ncn+과/jcj)
+                       (NP  역할/ncn+을/jco))
+                 (N 이해/ncpa+하/xsv+기/etn)
+                 (V (V 쉽/paa+어/ecx)
+                    (AUXP  지/px+겠/ep+지/ef+요/jxf))))+./sf)
+
+
+; 비누의 역할 비누의 소수기는 길어서 물 속에 들어가려면  에너지가 많이 필요하기 때문에 비누 분자가 하나씩 떨어져 물에 녹아 들어 가기는 쉽지 않습니다.
+(S   
+     (NP  (AP   비누/ncn+의/jcm)
+           (N 역할/ncn))
+     (VP  
+           (VP  
+                 (NP  (AP   비누/ncn+의/jcm)
+                       (NP  소수기/ncn+는/jxc))
+                 (V    길/paa+어서/ecs))   
+           (VP  
+                 (PP   (AP  물/ncn)
+                       (PP   속/ncn+에/jca))
+                 (V    들어가/pvg+려면/ecs))
+           (VP  (PP   
+                       (NP  (NP   에너지/ncn+가/jcs)
+                             (ADVP  많/paa+이/xsa)
+                             (N 필요/ncps+하/xsm+기/etn))
+                       (PP   때문/nbn+에/jca))
+                 (VP  
+                       (NP  (AP   비누/ncn)
+                             (NP  분자/ncn+가/jcs))
+                       (ADVP  하나/nnc+씩/xsn)
+                       (V    떨어지/pvg+어/ecs))
+                 (VP  
+                       (NP  
+                             (AP  (PP   물/ncn+에/jca)
+                                   (V (V   녹/pvg+아/ecx)
+                                      (AP  들/px+어/ecx)))
+                             (NP  가/px+기/etn+는/jxc))
+                       (V (V 쉽/paa+지/ecx)
+                          (AUXP  않/px+습니다/ef)))))+./sf)
+
+
+; 그래서 물에 비누를 풀면 소수기는  물에서 튕겨나와 소수기를 물  표면으로 밀어내고 친수기가 물속에 있는 그런 형태를 취하게 됩니다.
+(S   
+     (VP  
+           (IP 그래서/maj)
+           (VP  
+                 (PP   물/ncn+에/jca)
+                 (NP  비누/ncn+를/jco)
+                 (V    풀/pvg+면/ecs))
+           (VP  
+                 (NP  소수기/ncn+는/jxc)
+                 (PP   물/ncn+에서/jca)
+                 (V    튕겨나오/pvg+아/ecs))
+           (VP  
+                 (NP  소수기/ncn+를/jco)
+                 (PP   (AP  물/ncn)
+                       (PP   표면/ncn+으로/jca))
+                 (V 밀어내/pvg+고/ecc))
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  친수기/ncn+가/jcs)
+                             (PP   물/ncn+속/ncn+에/jca)
+                             (AP  있/paa+는/etm))
+                       (AP  그런/mmd)
+                       (NP  형태/ncn+를/jco))
+                 (V (V 취하/pvg+게/ecx)
+                    (AUXP  되/px+ㅂ니다/ef))))+./sf)
+
+
+; 비누분자가 몇 개 모여서 친수기를 바깥쪽으로 돌리고 소수기는  안쪽으로 모여 물과 접하지 않은 것 같은 집합체(이것을 미셸이라고 부른다)를 만듭니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  비누/ncn+분자/ncn+가/jcs)
+                 (NP  (AP   몇/mma)
+                       (NP  개/nbu))
+                 (V    모이/pvg+어서/ecs))
+           (VP  
+                 (NP  친수기/ncn+를/jco)
+                 (PP   바깥쪽/ncn+으로/jca)
+                 (V    돌리/pvg+고/ecc))
+           (VP  
+                 (NP  소수기/ncn+는/jxc)
+                 (PP   안쪽/ncn+으로/jca)
+                 (V    모이/pvg+어/ecs))
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  
+                                   (AP  (NP   물/ncn+과/jct)
+                                         (AP (V  접하/pvg+지/ecx)
+                                             (AP 않/px+ㄴ/etm)))
+                                   (N 것/nbn))
+                             (AP  같/paa+ㄴ/etm))
+                       (NP  집합체/ncn 
+                                +(/sl + (VP (NP  이것/npd+을/jco)
+                                            (VP  (V 미셸/ncn+이/jp+라/ef+고/jcr)
+                                                  (V    부르/pvg+ㄴ다/ef))) + )/sr+
+                                         +를/jco))
+                 (V 만들/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 아래 그림을 보면 수면이 마치 기름에 덮여진 것 같이 보이는 것도 바로 이 때문입니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  (AP   아래/ncn)
+                       (NP  그림/ncn+을/jco))
+                 (V 보/pvg+면/ecs))
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  
+                                   (AP  (NP   수면/ncn+이/jcs)
+                                         (ADVP  마치/mag)
+                                         (PP   기름/ncn+에/jca)
+                                         (AP  덮이/pvg+어/ecx+지/px+ㄴ/etm))
+                                   (NP  것/nbn+같이/jxc))
+                             (AP  보이/pvg+는/etm))
+                       (NP  것/nbn+도/jxc))
+                 (ADVP  바로/mag)
+                 (VP  (AP   이/mmd)
+                       (V 때문/nbn+이/jp+ㅂ니다/ef))))+./sf)
+
+
+; 올레인산 비누로 만들기 비누의 역할을 알아  보려면 순수한 비누, 즉 착향료가 들어  있지 않은 비누를 이용해야만 합니다.
+(S   
+     (NP  
+           (PP   (AP  올레인산/ncn)
+                 (PP   비누/ncn+로/jca))
+           (N 만들/pvg+기/etn))
+     (VP  
+           (VP  
+                 (NP  (AP   비누/ncn+의/jcm)
+                       (NP  역할/ncn+을/jco))
+                 (V (V   알/pvg+아/ecx)
+                    (AUXP  보/px+려면/ecs)))
+           (VP  
+                 (NP  (AP   순수/ncps+하/xsm+ㄴ/etm)
+                       (N 비누/ncn))+,/sp
+                 (IP 즉/mag)
+                 (NP  
+                       (AP  
+                             (NP  착향료/ncn+가/jcs)
+                             (AP (V  들/pvg+어/ecx)
+                                 (AUXP 있/paa+지/ecx)
+                                 (AP 않/px+ㄴ/etm)))
+                       (NP  비누/ncn+를/jco))
+                 (VP  
+                       (V    이용/ncpa+하/xsv+어야/ecs+만/jxc)
+                       (V    하/pvg+ㅂ니다/ef))))+./sf)
+
+
+; 올레산 동식물에 널리 존재하는 지방산의 하나인데 화학식은 C18H34O2이며, 이중결합을 1개 가지는 불포화성지방산으로 녹는점 12 끓는점 360인 무색무취의 기름 모양의 액체입니다.
+(S   
+     (VP  
+           (VP  
+                 (AP  
+                       (PP   (AP  올레산/ncn)
+                             (PP   동식물/ncn+에/jca))
+                       (ADVP  널리/mag)
+                       (AP  존재/ncpa+하/xsv+는/etm))
+                 (AP  지방산/ncn+의/jcm)
+                 (V    하나/nnc+이/jp+ㄴ데/ef))
+           (VP  
+                 (NP  화학식/ncn+은/jxc)
+                 (V    C18H34O2/f+이/jp+며/ecc))+,/sp
+           (VP  
+                 (PP   
+                       (AP  (NP   이중/ncn+결합/ncn+을/jco)
+                             (NP  1/nnc+개/nbu)
+                             (AP  가지/pvg+는/etm))
+                       (PP   불포화성/ncn+지방산/ncn+으로/jca))
+                 (VP  
+                       (AP  녹는점/ncn 12/nnc+끓는점/ncn 360/nnc+이/jp+ㄴ/etm)
+                       (AP  무색/ncn+무취/ncn+의/jcm)
+                       (AP  (AP   기름/ncn)
+                             (AP  모양/ncn+의/jcm))
+                       (V    액체/ncn+이/jp+ㅂ니다/ef))))+./sf)
+
+
+; 올리브유나 동백기름 등 식물성 기름에 특히 많이 포함되어 있고, 소나 돼지의 기름에 많이 들어 있습니다.
+(S   
+     (VP  
+           (VP  
+                 (PP   
+                       (NP  올리브유/ncn+나/jcj)
+                       (NP  동백기름/ncn 등/nbn)
+                       (AP  식물성/ncn)
+                       (PP   기름/ncn+에/jca))
+                 (ADVP  특히/mag)
+                 (ADVP  많/paa+이/xsa)
+                 (V (V 포함/ncpa+되/xsv+어/ecx)
+                    (AUXP  있/px+고/ecc)))+,/sp
+           (VP  
+                 (PP   (AP  소/ncn+나/jcj)
+                       (AP  돼지/ncn+의/jcm)
+                       (PP   기름/ncn+에/jca))
+                 (ADVP  많/paa+이/xsa)
+                 (V (V 들/pvg+어/ecx)
+                    (AUXP  있/px+습니다/ef))))+./sf)
+
+
+; 음이온 계면활성제 유지를 수산화나트륨 수용액으로  비누화하여 얻어지는 지방산나트륨염인 비누는 Ca2 + Mg2 + 이 들어  있는 센물에서는 물에 잘 녹지 않는 염을  만들기 때문에 세척력이 떨어집니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  (AP   음이온/ncn)
+                             (AP  계면활성제/ncn)
+                             (NP  유지/ncn+를/jco))
+                       (PP   (AP  수산화나트륨/ncn)
+                             (PP   수용액/ncn+으로/jca))
+                       (AP  (V 비누화/ncpa+하/xsv+어/ecs)
+                             (AP  얻/pvg+어/ecx+지/px+는/etm)))
+                 (AP  지방산나트륨염/ncn+이/jp+ㄴ/etm)
+                 (NP  비누/ncn+는/jxc))
+           (PP   
+                 (NP  
+                       (VP  
+                             (PP   
+                                   (AP  (NP   Ca2/f +/sy Mg2/f +/sy 이/jcs)
+                                         (AP (V  들/pvg+어/ecx)
+                                             (AP 있/px+는/etm)))
+                                   (PP   센물/ncn+에서/jca+는/jxc))
+                             (NP  
+                                   (AP  (PP   물/ncn+에/jca)
+                                         (ADVP  잘/mag)
+                                         (AP (V  녹/pvg+지/ecx)
+                                             (AP 않/px+는/etm)))
+                                   (NP  염/ncn+을/jco))
+                             (N 만들/pvg+기/etn)))
+                 (PP   때문/nbn+에/jca))
+           (NP  세척력/ncn+이/jcs)
+           (V 떨어지/pvg+ㅂ니다/ef))+./sf)
+
+
+; 2 RCOONa + Ca2 + ( RCOO ) 2 Ca + 2 Na + 따라서 비누는 센물에서 사용할 수 없어서 만든 것이 합성세제(계면활성제)입니다.
+(S   
+     (NP  2/nncRCOONa/f+/syCa2/f+/sy(/slRCOO/f)/sr2/nncCa/f+/sy2/nncNa/f+/sy)
+     (VP  
+           (IP 따라서/maj)
+           (VP  
+                 (NP  
+                       (AP  (NP   비누/ncn+는/jxc)
+                             (PP   센물/ncn+에서/jca)
+                             (AP  사용/ncpa+하/xsv+ㄹ/etm))
+                       (N 수/nbn))
+                 (V    없/paa+어서/ecs))
+           (VP  
+                 (NP  (AP   만들/pvg+ㄴ/etm)
+                       (NP  것/nbn+이/jcs))
+                 (V 합성세제/ncn (/sl 계면활성제/ncn )/sr 이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 비누가 물의 표면에 모여 표면을 가능한 넓게 하려고  하기 때문에 물보다 비눗물의 표면장력이 떨어지게 됩니다.
+(S   
+     (VP  
+           (PP   
+                 (NP  
+                       (VP  
+                             (NP  비누/ncn+가/jcs)
+                             (PP   (AP  물/ncn+의/jcm)
+                                   (PP   표면/ncn+에/jca))
+                             (V    모이/pvg+어/ecs))
+                       (VP  
+                             (NP  표면/ncn+을/jco)
+                             (AP  가능/ncps+하/xsm+ㄴ/etm)
+                             (V (V   넓/paa+게/ecx)
+                                (AUXP  하/px+려고/ecx)))
+                       (N 하/px+기/etn))   
+                 (PP   때문/nbn+에/jca))
+           (PP   물/ncn+보다/jca)
+           (NP  
+                 (AP  비눗물/ncn+의/jcm)
+                 (NP  표면/ncn+장력/ncn+이/jcs))
+           (V    (V   떨어지/pvg+게/ecx)
+                 (AUXP  되/px+ㅂ니다/ef)))+./sf)
+
+
+; 계면활성제 중에서 물에 녹아 활성제의 주체가 음이온이 되는 경우를 음이온 계면활성제라고 합니다.
+(S   
+     (VP  
+           (PP   (AP  계면활성제/ncn)
+                 (PP   중/nbn+에서/jca))
+           (NP  
+                 (AP  
+                       (PP   물/ncn+에/jca)
+                       (V 녹/pvg+아/ecs)
+                       (NP  (AP   활성제/ncn+의/jcm)
+                             (NP  주체/ncn+가/jcs))
+                       (NP  음이온/ncn+이/jcc)
+                       (AP  되/pvg+는/etm))
+                 (NP  경우/ncn+를/jco))
+           (AP  음이온/ncn)
+           (VP  (V 계면활성제/ncn+라/ef+고/jcr)
+                 (V 하/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 술폰산나트륨염에 계면활성제를 혼합하고, 암모니아나 극소량의 글리세린을 가합니다.
+(S   
+     (VP  
+           (VP  
+                 (PP   술폰산나트륨염/ncn+에/jca)
+                 (NP  계면활성제/ncn+를/jco)
+                 (V    혼합/ncpa+하/xsv+고/ecc))+,/sp
+           (VP  
+                 (NP  
+                       (NP  암모니아/ncn+나/jcj)
+                       (NP  (AP   극소량/ncn+의/jcm)
+                             (NP  글리세린/ncn+을/jco)))
+                 (V 가하/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 절대 눈에 들어가지 않도록 하고, 만약 눈에 들어가면 즉시 씻도록 하십시오.
+(S   
+     (VP  
+           (VP  
+                 (ADVP  절대/mag)
+                 (PP   눈/ncn+에/jca)
+                 (V (V   들어가/pvg+지/ecx)
+                    (AUXP  않/px+도록/ecs)
+                    (V 하/pvg+고/ecc)))+,/sp
+           (VP  
+                 (ADVP  만약/mag)
+                 (PP   눈/ncn+에/jca)
+                 (V    들어가/pvg+면/ecs))
+           (VP  
+                 (ADVP  즉시/mag)
+                 (V 씻/pvg+도록/ecs)
+                 (V 하/pvg+시/ep+ㅂ시오/ef)))+./sf)
+
+
+; 겨울철, 추울 때 난로를 쬐면서 비눗방울을 만들어 보고 싶을 때가 있지요?
+(S   
+     (VP  
+           (PP   겨울철/ncn)+,/sp
+           (PP   (AP  춥/paa+ㄹ/etm)
+                 (PP   때/ncn))
+           (VP  
+                 (NP  난로/ncn+를/jco)
+                 (V    쬐/pvg+면서/ecc))
+           (VP  
+                 (NP  
+                       (AP  (NP   비눗방울/ncn+을/jco)
+                             (AP (V  만들/pvg+어/ecx)
+                                 (AUXP 보/px+고/ecx)
+                                 (AP 싶/paa+ㄹ/etm)))
+                       (NP  때/ncn+가/jcs))
+                 (V 있/paa+지/ef+요/jxf)))+?/sf)
+
+
+; 난로 앞에서 만든 비눗방울은 수분이 증발되어 금방 터져버리고 맙니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (PP   (AP  난로/ncn)
+                             (PP   앞/ncn+에서/jca))
+                       (AP  만들/pvg+ㄴ/etm))
+                 (NP  비눗방울/ncn+은/jxc))
+           (VP  
+                 (NP  수분/ncn+이/jcs)
+                 (V    증발/ncpa+되/xsv+어/ecx))
+           (VP  
+                 (ADVP  금방/mag)
+                 (V (V   터지/pvg+어/ecx)
+                    (AUXP  버리/px+고/ecx)
+                    (AUXP  말/px+ㅂ니다/ef))))+./sf)
+
+
+; 이때 비눗방울을 좀더 두껍게 만들 수 있다면 비눗방울을 훨씬 오래가게 할 수 있습니다.
+(S   
+     (VP  
+           (VP  
+                 (PP   이/mmd+때/ncn)
+                 (NP  
+                       (AP  
+                             (NP  비눗방울/ncn+을/jco)
+                             (ADVP  좀더/mag)
+                             (AP (V  두껍/paa+게/ecs)
+                                 (AP 만들/pvg+ㄹ/etm)))
+                       (N 수/nbn))   
+                 (V 있/paa+다면/ecs))
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  비눗방울/ncn+을/jco)
+                             (ADVP  훨씬/mag)
+                             (AP (V  오래/mag+가/pvg+게/ecx)
+                                 (AP 하/px+ㄹ/etm)))
+                       (N 수/nbn))
+                 (V 있/paa+습니다/ef)))+./sf)
+
+
+; 이렇게 난로 앞에서 만들어도 터지지  않는 비눗방울을 만들려면 어떤  비눗물을 사용해야 할까요?
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  
+                             (V 이렇/pad+게/ecs)
+                             (PP   (AP  난로/ncn)
+                                   (PP   앞/ncn+에서/jca))
+                             (AP  (V    만들/pvg+어도/ecs)
+                                   (V    터지/pvg+지/ecx)
+                                   (AP  않/px+는/etm)))
+                       (NP  비눗방울/ncn+을/jco))
+                 (V    만들/pvg+려면/ecs))
+           (VP  
+                 (NP  (AP   어떤/mmd)
+                       (NP  비눗물/ncn+을/jco))
+                 (V (V   사용/ncpa+하/xsv+어야/ecs)
+                    (V    하/pvg+ㄹ까/ef+요/jxf))))+?/sf)
+
+
+; 150 cc의 물로 청각채를 끓이고, 거기에 주방용 액체비누를 큰 잔으로 세 잔 정도 넣습니다.
+(S   
+     (VP  
+           (VP  
+                 (PP   (AP  150/nnc+cc/su+의/jcm)
+                       (PP   물/ncn+로/jca))
+                 (NP  청각채/ncn+를/jco)    
+                 (V    끓이/pvg+고/ecc))+,/sp
+           (VP  
+                 (PP   거기/npd+에/jca)
+                 (NP  (AP   주방용/ncn)
+                       (NP  액체/ncn+비누/ncn+를/jco))
+                 (PP   (AP  크/paa+ㄴ/etm)
+                       (PP   잔/ncn+으로/jca))
+                 (NP  (AP   세/nnc)
+                       (AP  잔/nbu)
+                       (N 정도/ncn))
+                 (V 넣/pvg+습니다/ef)))+./sf)
+
+
+; 이렇게 만든 비눗방울은 그다지 크지는 않으나 잘 보존하면 대단히 오래갑니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  (V 이렇/pad+게/ecs)
+                       (AP  만들/pvg+ㄴ/etm))
+                 (NP  비눗방울/ncn+은/jxc))
+           (VP  
+                 (ADVP  그다지/mag)
+                 (V (V 크/paa+지/ecx+는/jxc)
+                    (AUXP  않/px+으나/ecs)))
+           (VP  
+                 (ADVP  잘/mag)
+                 (V 보존/ncpa+하/xsv+면/ecs))   
+           (VP  
+                 (ADVP  대단히/mag)
+                 (V 오래/mag+가/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 청각 녹조식물 청각과에 속하는 바닷말로 깊은 곳, 파도의 영향을 적게 받는 곳에서 자라며 우리나라 전 연안에서 볼 수 있습니다.
+(S   
+     (VP  
+           (VP  
+                 (PP   
+                       (AP  
+                             (PP   (AP  청각/ncn)
+                                   (AP  녹조식물/ncn)
+                                   (PP   청각과/ncn+에/jca))
+                             (AP  속하/pvg+는/etm))
+                       (PP   바닷말/ncn+로/jca))
+                 (PP   
+                       (NP  (AP   깊/paa+ㄴ/etm)
+                             (N 곳/ncn))+,/sp
+                       (AP  (NP   (AP  파도/ncn+의/jcm)
+                                   (NP  영향/ncn+을/jco))
+                             (AP  (V    적/paa+게/ecs)
+                                   (AP  받/pvg+는/etm)))
+                       (PP   곳/ncn+에서/jca))
+                 (V 자라/pvg+며/ecc))
+           (VP  
+                 (NP  
+                       (AP  
+                             (PP   
+                                   (AP  우리나라/ncn)
+                                   (AP  전/mma)
+                                   (PP   연안/ncn+에서/jca))
+                             (AP  보/pvg+ㄹ/etm))
+                       (N 수/nbn))
+                 (V 있/paa+습니다/ef)))+./sf)
+
+
+; 비눗방울의 색깔을 감상하려면 색깔을 즐기기 위한 비눗방울의 막은 얇아야 합니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  (AP   비눗방울/ncn+의/jcm)
+                       (NP  색깔/ncn+을/jco))
+                 (V    감상/ncpa+하/xsv+려면/ecs))
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  색깔/ncn+을/jco)
+                             (N 즐기/pvg+기/etn)
+                             (AP  위하/pvg+ㄴ/etm))
+                       (AP  비눗방울/ncn+의/jcm)
+                       (NP  막/ncn+은/jxc))
+                 (V    (V 얇/paa+아야/ecs)
+                       (V 하/pvg+ㅂ니다/ef))))+./sf)
+
+
+; 얇은 막일수록 가시과선 영역의 파장과 두께가 비슷해져서 간섭현상이 잘 일어나 아름다운 색깔을 감상할 수 있지요.
+(S   
+     (VP  
+           (VP  
+                 (AP  얇/paa+은/etm)
+                 (V    막/ncn+이/jp+ㄹ수록/ecs))
+           (VP  
+                 (NP  (AP   가시과선/ncn)
+                       (AP  영역/ncn+의/jcm)
+                       (NP  파장/ncn+과/jcj))
+                 (NP  두께/ncn+가/jcs)
+                 (V (V 비슷/ncps+하/xsm+어/ecx)
+                    (AUXP  지/px+어서/ecs)))
+           (VP  
+                 (NP  간섭/ncn+현상/ncn+이/jcs)
+                 (ADVP  잘/mag)
+                 (V 일어나/pvg+아/ecs))
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  (AP   아름답/paa+ㄴ/etm)
+                                   (NP  색깔/ncn+을/jco))
+                             (AP  감상/ncpa+하/xsv+ㄹ/etm))
+                       (N 수/nbn))
+                 (V 있/paa+지/ef+요/jxf)))+./sf)
+
+
+; 이것은 아주 가벼워서 바람이 조금만 부는 날에도 바람을 타고 아주 멀리까지 갑니다.
+(S   
+     (VP  
+           (NP  이/mmd+것/nbn+은/jxc)
+           (VP  (ADVP   아주/mag)
+                 (V 가볍/paa+어서/ecs))
+           (PP   
+                 (AP  (NP   바람/ncn+이/jcs)
+                       (ADVP  조금/ncn+만/jx)
+                       (AP  불/pvg+는/etm))
+                 (PP   날/ncn+에/jca+도/jxc))
+           (VP  
+                 (NP  바람/ncn+을/jco)
+                 (V    타/pvg+고/ecc))
+           (VP  
+                 (ADVP  아주/mag)
+                 (PP   멀리/mag+까지/jxc)
+                 (V    가/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 특히 많은 비눗방울을 만들 때에는 송진, 청각채, 꿀을 주방용 액체비누에 가하면 향기롭고 얇은 비눗방울을 만들어 즐길 수 있습니다.
+(S   
+     (VP  
+           (ADVP  특히/mag)
+           (PP   
+                 (AP  (NP   (AP  많/paa+ㄴ/etm)
+                             (NP  비눗방울/ncn+을/jco))
+                       (AP  만들/pvg+ㄹ/etm))
+                 (PP   때/ncn+에/jca+는/jxc))
+           (VP  
+                 (NP  (N 송진/ncn)+,/sp
+                       (N 청각채/ncn)+,/sp
+                       (NP  꿀/ncn+을/jco))
+                 (PP   (AP  주방용/ncn)
+                       (PP   액체/ncn+비누/ncn+에/jca))
+                 (V    가하/pvg+면/ecs))
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  
+                                   (AP  (V    향기/ncn+롭/xsm+고/ecc)
+                                         (AP  얇/paa+은/etm))
+                                   (NP  비눗방울/ncn+을/jco))
+                             (AP  (V    만들/pvg+어/ecs)
+                                   (AP  즐기/pvg+ㄹ/etm)))
+                       (N 수/nbn))
+                 (V 있/paa+습니다/ef)))+./sf)
+
+
+; 커다란 비눗방울 직경 30cm 정도를 만들기 위해서는 세탁용이나 주방용 비누를 사용합니다.
+(S   
+     (VP  
+           (PP   
+                 (NP  
+                       (NP  
+                             (AP  커다랗/paa+ㄴ/etm)
+                             (AP  비눗방울/ncn)
+                             (AP  직경/ncn)
+                             (AP  30/nnc+cm/su)
+                             (NP  정도/ncn+를/jco))
+                       (N 만들/pvg+기/etn))
+                 (PP   위하/pvg+어서/ecs+는/jxc))
+           (VP  
+                 (NP  
+                       (AP  세탁용/ncn+이나/jcj)
+                       (AP  주방용/ncn)
+                       (NP  비누/ncn+를/jco))
+                 (V 사용/ncpa+하/xsv+ㅂ니다/ef)))+./sf)
+
+
+; 빨대에 비눗물을 충분히 묻힌 채 천천히 불면 비눗방울이 30cm까지 부풀어 오릅니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  (PP   빨대/ncn+에/jca)
+                             (NP  비눗물/ncn+을/jco)
+                             (ADVP  충분/ncn+히/xsa)
+                             (AP     묻히/pvg+ㄴ/etm))
+                       (N 채/nbn))
+                 (ADVP  천천히/mag)
+                 (V    불/pvg+면/ecs))
+           (VP  
+                 (NP  비눗방울/ncn+이/jcs)
+                 (PP   30/nnc+cm/su+까지/jxc)
+                 (V (V 부풀/pvg+어/ecs)
+                    (V 오르/pvg+ㅂ니다/ef))))+./sf)
+
+
+; 비누 + 설탕 비누 + 송진 비누  + 차 찌꺼기 우려먹고 난 차(걸러서 사용)  샴푸 + 송진 주방용 세제 + 차 찌꺼기, 설탕 크기 30l는 사람의 폐활량의 한계입니다.
+(S   
+     (VP  
+           (NP  
+                 (N 비누/ncn)++/sy
+                 (NP  (AP   설탕/ncn)
+                       (N 비누/ncn))++/sy
+                 (NP  (AP   송진/ncn)
+                       (N 비누/ncn))++/sy
+                 (NP  (NP   (AP  차/ncn)
+                             (N 찌꺼기/ncn))
+                       (AP  (V    우려먹/pvg+고/ecx)
+                             (AP  나/px+ㄴ/etm))
+                       (N 차/ncn)) +(/sl (NP   (V 거르/pvg+어서/ecs)
+                                                  (N 사용/ncn))+)/sr
+                 (N 샴푸/ncn)++/sy
+                 (NP  (AP   송진/ncn)
+                       (AP  주방용/ncn)
+                       (N 세제/ncn))++/sy
+                 (NP  (AP   차/ncn)
+                       (N 찌꺼기/ncn))+,/sp
+                 (N 설탕/ncn)
+                 (NP  (AP   크/paa+기/xsn)
+                       (NP  30/nnc l/su+는/jxc)))
+           (VP  
+                 (AP  사람/ncn+의/jcm)
+                 (AP  폐활량/ncn+의/jcm)
+                 (V    한계/ncn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 기계로 비눗방울을 만드는 것은, 특수한 액으로 만든다는 것이 아니라 비눗물과 공기만으로 크게 만든다는 것입니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  (PP   기계/ncn+로/jca)
+                       (NP  비눗방울/ncn+을/jco)
+                       (AP  만들/pvg+는/etm))
+                 (NP  것/nbn+은/jxc))+,/sp
+           (VP  
+                 (NP  
+                       (AP  
+                             (PP   (AP  특수/ncps+하/xsm+ㄴ/etm)
+                                   (PP   액/ncn+으로/jca))
+                             (AP  만들/pvg+ㄴ다/ef+는/etm))
+                       (NP  것/nbn+이/jcc))
+                 (V    아니/paa+라/ecs))
+           (VP  
+                 (AP  
+                       (PP   (NP  비눗물/ncn+과/jcj)
+                             (PP   공기/ncn+만/jxc+으로/jca))
+                       (AP  (V    크/paa+게/ecs)
+                             (AP  만들/pvg+ㄴ다/ef+는/etm)))
+                 (V    것/nbn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 그 예로 칠엽수 열매는 겉보기엔 까칠까칠한 느낌이 들어 아름답다고 말할 수는  없지만, 흥미있는 실험재료입니다.
+(S   
+     (VP  
+           (PP   
+                 (AP  그/mmd)
+                 (PP   예/ncn+로/jca))
+           (NP  
+                 (AP  칠엽수/ncn)
+                 (NP  열매/ncn+는/jxc))
+           (VP  
+                 (PP   겉보기/ncn+에/jca+ㄴ/jxc)
+                 (NP  (AP   까칠까칠/a+하/xsm+ㄴ/etm)
+                       (NP  느낌/ncn+이/jcs))
+                 (V    들/pvg+어/ecs))
+           (VP  
+                 (NP  
+                       (AP  (PP   아름답/paa+다/ef+고/jcr)
+                             (AP  말/ncpa+하/xsv+ㄹ/etm))
+                       (NP  수/nbn+는/jxc))
+                 (V 없/paa+지만/ecs))+,/sp
+           (VP  
+                 (AP  흥미/ncn+있/paa+는/etm)
+                 (V    실험/ncn+재료/ncn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 칠엽수 열매의 껍질을 벗기고 얇게 썰어 즙을 내어 주둥이가 큰 병에 넣습니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  칠엽수/ncn)
+                       (AP  열매/ncn+의/jcm)
+                       (NP  껍질/ncn+을/jco))
+                 (V (V   벗기/pvg+고/ecc)
+                    (V    얇/pvg+게/ecs)
+                    (V    썰/pvg+어/ecs)))
+           (VP  
+                 (NP  즙/ncn+을/jco)
+                 (V    내/pvg+어/ecs))
+           (VP  
+                 (NP  주둥이/ncn+가/jcs)
+                 (PP   (AP  크/paa+ㄴ/etm)
+                       (PP   병/ncn+에/jca))
+                 (V 넣/pvg+습니다/ef)))+./sf)
+
+
+; 이 열매에는 수분이 있어 자체로도 괜찮지만, 더운 물을 조금 부으면 더 좋습니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  이/mmd)
+                 (NP  열매/ncn+에/jca+는/jxc))
+           (VP  
+                 (NP  수분/ncn+이/jcs)
+                 (V    있/paa+어/ecs))
+           (VP  
+                 (PP   자체/ncn+로/jca+도/jxc)
+                 (V    괜찮/paa+지만/ecs))+,/sp
+           (VP  
+                 (NP  (AP   덥/paa+ㄴ/etm)
+                       (NP  물/ncn+을/jco))
+                 (ADVP  조금/mag)
+                 (V 붓/pvg+으면/ecs))    
+           (VP  
+                 (ADVP  더/mag)
+                 (V 좋/paa+습니다/ef)))+./sf)  
+
+
+; 여기에 암모니아수를 한두 방울 떨어뜨린 후, 뚜껑을 덮고 일주일 정도 놓아 둡니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (PP   여기/npd+에/jca)
+                       (NP  암모니아수/ncn+를/jco)
+                       (NP  (AP   한두/nnc)
+                             (NP  방울/nbu))
+                       (AP  떨어뜨리/pvg+ㄴ/etm))
+                 (N 후/ncn))+,/sp
+           (VP  
+                 (NP  뚜껑/ncn+을/jco)
+                 (V    덮/pvg+고/ecc))
+           (VP  
+                 (NP  (AP   일/nnc+주일/nbu)
+                       (N 정도/ncn))
+                 (V (V 놓/pvg+아/ecx)
+                    (AUXP  두/px+ㅂ니다/ef))))+./sf)
+
+
+; 프랑스 파리의 가로수로 유명하며 우리나라에는 덕수궁 뒷문 근처에 큰 나무가 있습니다.
+(S   
+     (VP  
+           (VP  
+                 (PP   
+                       (AP  프랑스/nq)
+                       (AP  파리/nq+의/jcm)
+                       (PP   가로수/ncn+로/jca))
+                 (V    유명/ncps+하/xsm+며/ecc))
+           (VP  
+                 (PP   우리나라/ncn+에/jca+는/jxc)
+                 (PP   (AP  덕수궁/nq)
+                       (AP  뒷문/ncn)
+                       (PP   근처/ncn+에/jca))
+                 (NP  (AP   크/paa+ㄴ/etm)
+                       (NP  나무/ncn+가/jcs))
+                 (V 있/paa+습니다/ef)))+./sf)
+
+
+; 세제로 만든 비눗물은 비눗방울을 만들기 쉽다고 많은 학자와 연구자들은 말합니다만 세제는 여러 가지로 좋지 않으니 충분히 주의해야 합니다.
+(S   
+     (VP  
+           (VP  
+                 (PP   
+                       (VP  
+                             (NP  
+                                   (AP  (PP   세제/ncn+로/jca)
+                                         (AP  만들/pvg+ㄴ/etm))
+                                   (NP  비눗물/ncn+은/jxc))   
+                             (NP  비눗방울/ncn+을/jco)          
+                             (N 만들/pvg+기/etn)          
+                             (V 쉽/paa+다/ef+고/jcr)))            
+                 (NP  
+                       (AP  많/paa+ㄴ/etm)                
+                       (NP  학자/ncn+와/jcj)                
+                       (NP  연구자/ncn+들/xsn+은/jxc))               
+                 (V 말/ncpa+하/xsv+ㅂ니다/ef+만/jxc))                        
+           (VP  
+                 (NP  세제/ncn+는/jxc)                      
+                 (PP   (AP  여러/mma)                
+                       (PP   가지/nbu+로/jca))               
+                 (V (V 좋/paa+지/ecx)                   
+                    (AUXP  않/px+으니/ecs)))
+           (ADVP  충분/ncn+히/xsa)
+           (V (V 주의/ncpa+하/xsv+어야/ecs)                         
+              (V  하/pvg+ㅂ니다/ef)))+./sf)                     
+
+
+; 엄마가 주방용 세제를 컵에 담아 아이가 혼자 놀도록 직접 준다는 이야기를 들었습니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (VP  
+                             (NP  엄마/ncn+가/jcs)
+                             (NP  (AP   주방용/ncn)
+                                   (NP  세제/ncn+를/jco))
+                             (PP   컵/ncn+에/jca)
+                             (V    담/pvg+아/ecs))
+                       (AP  
+                             (VP  (NP   아이/ncn+가/jcs)
+                                   (ADVP  혼자/mag)
+                                   (V 놀/pvg+도록/ecs))
+                             (ADVP  직접/mag)
+                             (AP  주/pvg+ㄴ다/ef+는/tm)))
+                 (NP  이야기/ncn+를/jco))
+           (V 듣/pvg+었/ep+습니다/ef))+./sf)
+
+
+; 습기를 잘 유지해야 비눗방울 놀이는 재미있지만 금방 터져버려 안타깝습니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  습기/ncn+를/jco)
+                 (ADVP  잘/mag)
+                 (V 유지/ncpa+하/xsv+어야/ecs))
+           (VP  
+                 (NP  (AP   비눗방울/ncn)
+                       (NP  놀이/ncn+는/jxc))
+                 (V 재미/ncn+있/xsm+지만/ecs))
+           (VP  
+                 (ADVP  금방/mag)
+                 (V (V 터지/pvg+어/ecx+버리/px+어/ecs)
+                    (V 안타깝/paa+습니다/ef))))+./sf)
+
+
+; 잘 터지지 않고 오래가는 비눗방울을 만들려면 비눗물을 잘  만드는 것도 좋지만 무엇보다도 습기가 잘 유지되는 곳에서 비눗방울을 만드는 것이 중요합니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  
+                             (VP  (ADVP   잘/mag)
+                                   (V (V 터지/pvg+지/ecx)    
+                                      (AUXP  않/px+고/ecc)))
+                             (AP  오래/paa+가/pvg+는/etm))
+                       (NP  비눗방울/ncn+을/jco))   
+                 (V  만들/pvg+려면/ecs))           
+           (VP  
+                 (NP  
+                       (AP  (NP   비눗물/ncn+을/jco)
+                             (ADVP  잘/mag)
+                             (AP  만들/pvg+는/etm))
+                       (NP  것/nbn+도/jxc))      
+                 (V    좋/paa+지만/ecs))
+           (VP  
+                 (PP   무엇/npd+보다/jca+도/jxc)
+                 (PP   
+                       (AP  (NP   습기/ncn+가/jcs)
+                             (ADVP  잘/mag)
+                             (AP  유지/ncpa+되/xsv+는/etm))   
+                       (PP   곳/ncn+에서/jca))      
+                 (NP  
+                       (AP  (NP   비눗방울/ncn+을/jco)
+                             (AP  만들/pvg+는/etm))
+                       (NP  것/nbn+이/jcs))    
+                 (V 중요/ncps+하/xsm+ㅂ니다/ef)))+./sf)           
+
+
+; 이럴 때는 가습기를 설치한다든지, 물을 끓여 수증기를 만들어 두는 것이 좋습니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  이렇/pad+ㄹ/etm)
+                 (NP  때/ncn+는/jxc))
+           (VP  
+                 (NP  가습기/ncn+를/jco)
+                 (V    설치/ncpa+하/xsv+ㄴ다/ef+든지/ecc))+,/sp
+           (VP  
+                 (NP  물/ncn+을/jco)
+                 (V    끓이/pvg+어/ecs))
+           (VP  
+                 (NP  
+                       (AP  (NP   수증기/ncn+를/jco)
+                             (AP  (V    만들/pvg+어/ecx)
+                                   (AP  두/px+는/etm)))
+                       (NP  것/nbn+이/jcs))
+                 (V 좋/paa+습니다/ef)))+./sf)
+
+
+; 습기가 있는데도 잘 안 되는 것은 비눗방울을 만드는 기구가 깨끗한 것인지 한 번 더 살펴 보시기 바랍니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (VP  (NP   습기/ncn+가/jcs)
+                             (V    있/paa+는데도/ecs))
+                       (ADVP  잘/mag)
+                       (ADVP  안/mag)
+                       (AP  되/pvg+는/etm))
+                 (NP  것/nbn+은/jxc))
+           (NP  
+                 (AP  
+                       (NP  
+                             (AP  (NP   비눗방울/ncn+을/jco)
+                                   (AP  만들/pvg+는/etm))
+                             (NP  기구/ncn+가/jcs))
+                       (AP  깨끗/ncps+하/xsm+ㄴ/etm))
+                 (NP  것/nbn+이/jp+ㄴ지/ef))
+           (NP  
+                 (VP  
+                       (ADVP  (AP   한/nnc)
+                                (N    번/nbu))
+                       (ADVP  더/mag)
+                       (V    살피/pvg+어/ecx)
+                       (N 보/px+시/ep+기/etn)))
+           (V 바라/pvg+ㅂ니다/ef))+./sf)
+
+
+; 우리 눈에 보이지 않는 기름이나 때가 있는 그릇을 이용하면 잘 안 만들어집니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  
+                                   (AP  
+                                         (PP   (NP  우리/npp)
+                                               (PP   눈/ncn+에/jca))
+                                         (AP  (V    보이/pvg+지/ecx)
+                                               (AP  않/px+는/etm)))
+                                   (NP  기름/ncn+이나/jcj)
+                                   (NP  때/ncn+가/jcs))
+                             (AP  있/paa+는/etm))
+                       (NP  그릇/ncn+을/jco))
+                 (V 이용/ncpa+하/xsv+면/ecs))
+           (VP  
+                 (ADVP  잘/mag)
+                 (ADVP  안/mag)
+                 (V (V 만들/pvg+어/ecx)
+                    (AUXP  지/px+ㅂ니다/ef))))+./sf)
+
+
+; 비눗방울을 잡아둔다 비눗방울이 날아가는 모습도 재미있지만 오랫동안  가까이 두고 관찰해 보고 싶기도 하지요.
+(S   
+     (VP  
+           (NP  비눗방울/ncn+을/jco)
+           (V 잡/pvg+아/ecx+두/px+ㄴ다/ef))
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  (NP   비눗방울/ncn+이/jcs)
+                             (AP  날/pvg+아/ecx+가/px+는/etm))
+                       (NP  모습/ncn+도/jxc))
+                 (V    재미/ncn+있/paa+지만/ecs))   
+           (VP  
+                 (NP  
+                       (VP  
+                             (VP  (N 오랫동안/ncn)
+                                   (ADVP  가까이/mag)
+                                   (V 두/pvg+고/ecc))
+                             (NP  (V 관찰/ncpa+하/xsv+어/ecx)
+                                   (AUXP  보/px+고/ecx)
+                                   (NP  싶/px+기/etn+도/jxc))))
+                 (VP  하/pvg+지/ef+요/jxf)))+./sf)
+
+
+; 그러려면 비눗방울을 곁에 잡아두고 오랫동안 볼 수 있는 방법을 생각해 내야 합니다.
+(S   
+     (VP  
+           (IP 그러/pvg+려면/ecs)
+           (NP  
+                 (AP  
+                       (NP  
+                             (AP  
+                                   (VP  (NP   비눗방울/ncn+을/jco)
+                                         (PP   곁/ncn+에/jca)
+                                         (V 잡/pvg+아/ecx+두/px+고/ecc))
+                                   (N 오랫동안/ncn)
+                                   (AP  보/pvg+ㄹ/etm))
+                             (N 수/nbn))
+                       (AP  있/paa+는/etm))
+                 (NP  방법/ncn+을/jco))
+           (V    (V 생각/ncpa+하/xsv+어/ecx)
+                 (AUXP  내/px+야/ecs)
+                 (V 하/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 비눗방울 스탠드를 만들어 비눗방울이 편히 쉴 수 있도록 해주면 어떨까요?
+(S   
+     (VP  
+           (VP  
+                 (NP  (AP   비눗방울/ncn)
+                       (NP  스탠드/ncn+를/jco))
+                 (V 만들/pvg+어/ecs))
+           (VP  
+                 (NP  
+                       (AP  (NP   비눗방울/ncn+이/jcs)
+                             (ADVP  편히/mag)
+                             (AP  쉬/pvg+ㄹ/etm))
+                       (N 수/nbn))
+                 (V (V 있/paa+도록/ecs)
+                    (V 하/pvg+어/ecx)
+                    (AUXP  주/px+면/ecs)))
+           (VP  어떻/pad+ㄹ까/ef+요/jxf))+?/sf)
+
+
+; 재빨리 그리고 조심스럽게 하지 않으면 비눗방울이 터지고 맙니다.
+(S   
+     (VP  
+           (VP  
+                 (ADVP  재빨리/mag)
+                 (IP 그리고/maj)
+                 (V 조심/ncpa+스럽/xsm+게/ecs)
+                 (V (V 하/pvg+지/ecx)
+                    (AUXP  않/px+으면/ecs)))
+           (VP  
+                 (NP  비눗방울/ncn+이/jcs)
+                 (V (V 터지/pvg+고/ecx)
+                    (AUXP  말/px+ㅂ니다/ef))))+./sf)
+
+
+; 좀더 오랫동안 터지지 않게 만들려면 증발하는 수분을 보충할 수 있도록 둥근 테에 붕대를 감고 비눗물을 적셔 두는 것이 좋겠지요.
+(S   
+     (VP  
+           (VP  
+                 (ADVP  좀더/mag)
+                 (N 오랫동안/ncn)
+                 (V (V 터지/pvg+지/ecx)
+                    (AUXP  않/px+게/ecs)
+                    (V 만들/pvg+려면/ecs)))
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  (AP   증발/ncpa+하/xsv+는/etm)
+                                   (NP  수분/ncn+을/jco))
+                             (AP  보충/ncpa+하/xsv+ㄹ/etm))
+                       (N 수/nbn))
+                 (V    있/paa+도록/ecs))
+           (VP  
+                 (PP   
+                       (AP  둥글/paa+ㄴ/etm)
+                       (PP   테/ncn+에/jca))
+                 (NP  붕대/ncn+를/jco)
+                 (V    감/pvg+고/ecc))
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  비눗물/ncn+을/jco)
+                             (AP  (V    적시/pvg+어/ecx)
+                                   (AP  두/px+는/etm)))
+                       (NP  것/nbn+이/jcs))
+                 (V 좋/paa+겠/ep+지/ef+요/jxf)))+./sf)
+
+
+; 비눗물을 잘 보관하려면 비눗물은 경우에 따라 잘 만들어지기도 하고 그렇지 못하기도 합니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  비눗물/ncn+을/jco)
+                 (ADVP  잘/mag)
+                 (V 보관/ncpa+하/xsv+려면/ecs))
+           (NP  비눗물/ncn+은/jxc)
+           (VP  
+                 (PP   경우/ncn+에/jca)
+                 (V    따르/pvg+아/ecs))
+           (VP  
+                 (NP  
+                       (VP  (ADVP   잘/mag)
+                             (NP  만들/pvg+어/ecx+지/px+기/etn+도/jxc)))
+                 (V 하/pvg+고/ecc))
+           (VP  
+                 (NP  
+                       (V (V   그렇/pad+지/ecx)
+                          (NP  못하/px+기/etn+도/jxc)))
+                 (V    하/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 잘 만들어진 비눗물을 보관해서 비눗물  만드는 방법을 알아 두면 다음  번에 사용할 때 시간이 절약됩니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  (ADVP   잘/mag)
+                       (AP  만들/pvg+어/ecx+지/px+ㄴ/etm)
+                       (NP  비눗물/ncn+을/jco))
+                 (V 보관/ncpa+하/xsv+어서/ecs))
+           (VP  
+                 (NP  
+                       (AP  (N 비눗물/ncn)
+                             (AP  만들/pvg+는/etm))
+                       (NP  방법/ncn+을/jco))
+                 (V    (V   알/pvg+아/ecx)
+                       (AUXP  두/px+면/ecs)))
+           (PP
+                 (AP  
+                       (PP   (AP  다음/ncn)
+                             (PP   번/nbu+에/jca))
+                       (AP  사용/ncpa+하/xsv+ㄹ/etm))
+                 (PP   때/ncn))
+           (VP  
+                 (NP  시간/ncn+이/jcs)
+                 (V    절약/ncpa+되/xsv+ㅂ니다/ef)))+./sf)
+
+
+; 비눗물은 예민해서 변하기 쉬우므로  빛이 투과하지 못하는 갈색병(맥주병이나  아이스크림병)에 넣어 보관하십시오.
+(S   
+  (VP  
+     (NP  비눗물/ncn+은/jxc)
+     (V    예민/ncps+하/xsm+어서/ecs)
+     (VP  (N 변하/pvg+기/etn)
+           (V    쉽/paa+으므로/ecs))
+     (VP  
+        (PP   
+           (AP  (NP   빛/ncn+이/jcs)
+                 (AP  (V    투과/ncpa+하/xsv+지/ecx)
+                       (AP  못하/px+는/etm)))
+           (PP   갈색/ncn+병/ncn
+                    +(/sl맥주/ncn+병/ncn+이나/jcj아이스크림/ncn+병/ncn)/sr++에/jca))
+        (V (V 넣/pvg+어/ecs)
+           (V 보관/ncpa+하/xsv+시/ep+ㅂ시오/ef))))+./sf)
+
+
+; 물로 씻어도 떨어지지 않던 오물이 비눗물에는 섞이는 경우가 있으므로 잘 씻어야 합니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  
+                                   (AP  (PP   물/ncn+로/jca)
+                                         (AP  (V    씻/pvg+어도/ecs)
+                                               (V    떨어지/pvg+지/ecx)
+                                               (AP  않/px+더/ep+ㄴ/etm)))
+                                   (NP  오물/ncn+이/jcs))
+                             (PP   비눗물/ncn+에/jca+는/jxc)
+                             (AP  섞이/pvg+는/etm))
+                       (NP  경우/ncn+가/jcs))
+                 (V 있/paa+으므로/ecs))
+              (ADVP  잘/mag)
+              (V (V 씻/pvg+어야/ecs)
+                 (V 하/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 특히 녹말풀을 넣었을 때는 곰팡이가 생기지 않게 가능하면 병을 진공으로 하여 둡니다.
+(S   
+     (VP  
+           (ADVP  특히/mag)
+           (NP  
+                 (AP  (NP   녹말풀/ncn+을/jco)
+                       (AP  넣/pvg+었/ep+ㄹ/etm))
+                 (NP  때/ncn+는/jxc))
+           (VP  
+                 (NP  곰팡이/ncn+가/jcs)
+                 (V (V 생기/pvg+지/ecx)
+                    (AUXP  않/px+게/ecs)))
+           (VP  
+                 (ADVP  가능/ncps+하/xsm+면/ecs)
+                 (NP  병/ncn+을/jco)
+                 (PP   진공/ncn+으로/jca)
+                 (V (V 하/pvg+어/ecx) 
+                    (AUXP  두/px+ㅂ니다/ef))))+./sf)
+
+
+; 진공을 만드는 방법은 병을 뜨겁게 한 상태에서 밀봉을 하면 됩니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  진공/ncn+을/jco)
+                       (AP  만들/pvg+는/etm))
+                 (NP  방법/ncn+은/jxc))
+           (PP   
+                 (AP  
+                       (NP  병/ncn+을/jco)
+                       (AP  (V 뜨겁/paa+게/ecs)
+                             (AP  하/pvg+ㄴ/etm)))
+                 (PP   상태/ncn+에서/jca))
+           (NP  밀봉/ncn+을/jco)
+           (V    (V 하/pvg+면/ecs)
+                 (V 되/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 둘째마당 재료 찾아내기 첫째갈래 뜻밖의 경우 비눗방울의 재료를 찾아 떠나오긴 했는데 어디서 어떻게 찾아야 할지 막막하군요.
+(S   
+     (NP  (N 둘째/nno+마당/ncn)
+           (N 재료/ncn)
+           (N 찾/pvg+아/ecx+내/px+기/etn))
+     (NP  (AP   첫째/nno)
+           (N 갈래/nbu))
+     (VP  
+           (VP  
+                 (NP  (AP   뜻밖/ncn+의/jcm)
+                       (N 경우/ncn))
+                 (NP  
+                       (VP  
+                             (NP  (AP   비눗방울/ncn+의/jcm)
+                                   (NP  재료/ncn+를/jco))
+                             (NP  (V 찾/pvg+아/ecs)
+                                   (V 떠나오/pvg+기/etn+ㄴ/jx))))
+                 (V 하/pvg+었/ep+는데/ef))
+           (VP  
+                 (NP  
+                       (VP  (PP   어디/npd+서/jca)
+                             (V (V 어떻/pad+게/ecs)
+                                (V 찾/pvg+아야/ecs)
+                                (NP  하/pvg+ㄹ지/ef))))
+                 (V 막막/ncps+하/xsm+군/ef+요/jxf)))+./sf)
+
+
+; 남다른 아이디어로 특이한 것을 찾아 보려면 차근차근 남보다 침착하게 문제를 바라보고 주도면밀하게 분석해 보아야 합니다.
+(S   
+     (VP  
+           (VP  
+                 (PP   (AP  남다르/pvg+ㄴ/etm)
+                       (PP   아이디어/ncn+로/jca))
+                 (NP  (AP   특이/ncps+하/xsm+ㄴ/etm)
+                       (NP  것/nbn+을/jco))
+                 (V (V 찾/pvg+아/ecx)
+                    (AUXP  보/px+려면/ecs)))
+           (VP  
+                 (ADVP  차근차근/mag)
+                 (PP      남/ncn+보다/jca)
+                 (V 침착/ncps+하/xsm+게/ecs)
+                 (NP  문제/ncn+를/jco)
+                 (V    바라보/pvg+고/ecc))
+           (V    (V   주도면밀/ncpa+하/xsv+게/ecs)
+                 (V    분석/ncpa+하/xsv+어/ecx)
+                 (AUXP  보/px+아야/ecs)
+                 (V    하/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 그렇게 노력하는 사람들이라면 뜻밖의 문제라도 재미있게 해결할 수 있을 겁니다.
+(S   
+     (VP  
+           (VP  
+                 (AP  (V 그렇/pad+게/ecs)
+                       (AP  노력/ncpa+하/xsv+는/etm))
+                 (V 사람/ncn+들/xsn+이/jp+라면/ecs))
+           (VP  
+                 (AP  뜻밖/ncn+의/jcm)
+                 (V    문제/ncn+라도/jxc))
+           (VP  
+                 (AP  
+                       (NP  
+                             (AP  (V    재미/ncn+있/xsm+게/ecs)
+                                   (AP  해결/ncpa+하/xsv+ㄹ/etm))
+                             (N 수/nbn))
+                       (AP  있/paa+ㄹ/etm))
+                 (V 거/nbn+ㅂ니다/ef)))+./sf)
+
+
+; 어느 비누가 어떤 성질을 가지고 있는지 충분히 알고 있나요?
+(S   
+     (VP  
+           (VP  
+                 (NP  (AP   어느/mmd)
+                       (NP  비누/ncn+가/jcs))
+                 (VP  
+                       (NP  (AP   어떤/mmd)
+                             (NP  성질/ncn+을/jco))
+                       (V (V 가지/pvg+고/ecx)
+                          (AUXP  있/px+는지/ecs))))
+           (VP  
+                 (ADVP  충분/ncn+히/xsa)
+                 (V (V 알/pvg+고/ecx)
+                    (AUXP  있/px+나/ef+요/jxf))))+?/sf)
+
+
+; 비누에 대한 정보는 먼저 집에 있는 비누나 세제 포장용기에 쓰여진 것을 참고로 알아  보고, 더 많은 것이 필요할 때는 가까운 슈퍼에 가서 주인아저씨께 허락을 받은 후 조사해 보는 것도 좋을 듯합니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (PP   비누/ncn+에/jca)
+                       (AP  대하/pvg+ㄴ/etm))
+                 (NP  정보/ncn+는/jxc))
+           (VP  
+                 (NP  
+                       (AP  (ADVP   먼저/mag)
+                             (PP   
+                                   (AP  (PP   집/ncn+에/jca)
+                                         (AP  있/paa+는/etm))
+                                   (AP  비누/ncn+나/jcj)    
+                                   (PP   (AP  세제/ncn)
+                                         (PP   포장/ncn+용기/ncn+에/jca)))
+                             (AP  쓰이/pvg+어/ecx+지/px+ㄴ/etm))
+                       (NP  것/nbn+을/jco))
+                 (PP   참고/ncn+로/jca)
+                 (V (V 알/pvg+아/ecx)
+                    (AUXP  보/px+고/ecc)))+,/sp
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  (ADVP   더/mag)
+                                   (AP  많/paa+ㄴ/etm)
+                                   (NP  것/nbn+이/jcs))
+                             (AP  필요/ncps+하/xsm+ㄹ/etm))
+                       (NP  때/ncn+는/jxc))   
+                 (PP   (AP  가깝/paa+ㄴ/etm)
+                       (PP   슈퍼/ncn+에/jca))
+                 (V 가/pvg+서/ecs))      
+           (VP  
+                 (NP  
+                       (AP  (PP   주인/ncn+아저씨/ncn+께/jca)
+                             (NP  허락/ncn+을/jco)
+                             (AP  받/pvg+ㄴ/etm))
+                       (N 후/ncn))
+                 (NP  
+                       (AP  
+                             (NP  (AP   (V 조사/ncpa+하/xsv+어/ecx)
+                                         (AP  보/px+는/etm))
+                                   (NP  것/nbn+도/jxc))
+                             (AP  좋/paa+ㄹ/etm))
+                       (N 듯/nbn))
+                 (V 하/xsm+ㅂ니다/ef)))+./sf)
+
+
+; 그런데 [ 비누 ] 와 [ 세제 ] 는 정확히 표시되어 있으므로 구분하도록 하십시오.
+(S   
+     (VP  
+           (IP 그런데/maj)
+           (NP  (AP   [/sl   비누/ncn ]/sr+와/jcj)
+                 (NP  [/sl   세제/ncn ]/sr+는/jxc))
+           (ADVP  정확/ncn+히/xsa) 
+           (V (V 표시/ncpa+되/xsv+어/ecx)
+              (AUXP  있/px+으므로/ecs))
+           (V (V 구분/ncpa+하/xsv+도록/ecs)
+              (V 하/pvg+시/ep+ㅂ시오/ef)))+./sf)
+
+
+; * 케이크의 재료도 달걀 흰자위, 항료원액 등의 첨가물은 남대문시장 등의  식품재료 도매점에도 있지만, 케이크 재료를 전문으로 판매하는 곳에도 있습니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  */sy 케이크/ncn+의/jcm)
+                 (NP  재료/ncn+도/jxc))
+           (NP  
+                 (AP  달걀/ncn 흰자위/ncn)+,/sp
+                 (AP  항료원액/ncn 등/nbn+의/jcm)
+                 (NP  첨가물/ncn+은/jxc))
+           (VP  
+                 (PP   
+                       (AP  남대문/nq+시장/ncn 등/nbn+의/jcm)
+                       (AP  식품/ncn+재료/ncn)
+                       (PP   도매점/ncn+에/jca+도/jxc))
+                 (V 있/paa+지만/ecs))+,/sp
+           (VP  
+                 (PP   
+                       (AP  
+                             (NP  (AP   케이크/ncn)
+                                   (NP  재료/ncn+를/jco))
+                             (PP   전문/ncn+으로/jca)
+                             (AP  판매/ncpa+하/xsv+는/etm))
+                       (PP   곳/ncn+에/jca+도/jxc))
+                 (V 있/paa+습니다/ef)))+./sf)
+
+
+; 살 때의 요령은 한번에 많이 사지 않고, 조금씩 살 것을 권합니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  (AP   사/pvg+ㄹ/etm)
+                       (AP  때/ncn+의/jcm))
+                 (NP  요령/ncn+은/jxc))
+           (VP  
+                 (ADVP  한/nnc+번/nbu+에/jca)
+                 (ADVP  많/paa+이/xsa)
+                 (V (V 사/pvg+지/ecx)
+                    (AUXP  않/px+고/ecc)))+,/sp
+           (VP  
+                 (NP  
+                       (AP  (ADVP   조금/ncn+씩/xsn)
+                             (AP  사/pvg+ㄹ/etm))
+                       (NP  것/nbn+을/jco))
+                 (V 권하/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 만약 산 것이 비눗방울에 적합하지 않아도, 과자 만드는 데 사용할 수도 있기 때문입니다.
+(S   
+     (VP  
+           (ADVP  만약/mag)
+           (NP  
+                 (AP  사/pvg+ㄴ/etm)
+                 (NP  것/nbn+이/jcs))
+           (VP  
+                 (PP   비눗방울/ncn+에/jca)
+                 (V (V 적합/ncpa+하/xsv+지/ecx)
+                    (AUXP  않/px+아도/ecs)))+,/sp
+           (VP  
+                 (NP  
+                       (VP  
+                             (NP  
+                                   (AP  
+                                         (PP   
+                                               (AP  (N 과자/ncn)
+                                                     (AP  만들/pvg+는/etm))
+                                               (PP   데/nbn))
+                                         (AP  사용/ncpa+하/xsv+ㄹ/etm))
+                                   (NP  수/nbn+도/jxc))
+                             (N 있/paa+기/etn)))
+                 (V 때문/nbn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 일반적으로 물은 무색, 무미, 무취, 투명한 물질이지만,  비눗방울에 적합한 것과 그렇지 않은 것이 있습니다.
+(S   
+     (VP  
+           (VP  
+                 (PP   일반/ncn+적/xsn+으로/jca)
+                 (NP  물/ncn+은/jxc)
+                 (V 
+                    (AP  무색/ncn)+,/sp
+                    (AP  무미/ncn)+,/sp
+                    (AP  무취/ncn)+,/sp
+                    (AP  투명/ncps+하/xsm+ㄴ/etm)   
+                    (V 물질/ncn+이/jp+지만/ecs)))+,/sp
+           (VP  
+                 (NP  
+                       (AP  (PP   비눗방울/ncn+에/jca)
+                             (AP  적합/ncpa+하/xsv+ㄴ/etm))
+                       (NP  것/nbn+과/jcj))
+                 (NP  
+                       (AP  (V    그렇/pad+지/ecx)
+                             (AP  않/px+ㄴ/etm))
+                       (NP  것/nbn+이/jcs))
+                 (V 있/paa+습니다/ef)))+./sf)
+
+
+; 이 염이 물에 녹아 양이온과 음이온으로 나뉘어 친수성기를 바깥쪽으로 하여 소수성기 안쪽으로 기름이 녹아 있게 해줍니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  이/mmd)
+                 (PP   염/ncn+이/jcs))
+           (VP  
+                 (PP   물/ncn+에/jca)
+                 (V    녹/pvg+아/ecs))
+           (VP  
+                 (PP   (AP  양이온/ncn+과/jcj)
+                       (PP   음이온/ncn+으로/jca))
+                 (V    나뉘/pvg+어/ecs))   
+           (VP  
+                 (NP   친수성기/ncn+를/jco)   
+                 (PP   바깥쪽/ncn+으로/jca)
+                 (V    하/pvg+어/ecs))
+           (VP  
+                 (PP   (AP  소수성기/ncn)
+                       (PP   안쪽/ncn+으로/jca))
+                 (NP  기름/ncn+이/jcs)
+                 (V    (V 녹/pvg+아/ecx)
+                       (AUXP  있/px+게/ecx)
+                       (AUXP  하/px+어/ecx)
+                       (AUXP  주/px+ㅂ니다/ef))))+./sf)
+
+
+; 그런데 센물에는 Ca2 + 나 Mg2  + 같은 양이온이 많이 녹아  있어 비누가 물에 녹으면서 만든 음이온과 결합해서 물에 잘 안 녹는 염을 만듭니다.
+(S   
+     (VP  
+           (IP 그런데/maj)
+           (VP  
+                 (PP   센물/ncn+에/jca+는/jxc)
+                 (NP  
+                       (AP  
+                             (NP  (NP   Ca2/f +/sy 나/jcj)
+                                   (NP  Mg2/f +/sy ))
+                             (AP  같/paa+ㄴ/etm))
+                       (NP  양이온/ncn+이/jcs))
+                 (ADVP  많/paa+이/xsa)
+                 (V (V 녹/pvg+아/ecx)
+                    (AUXP  있/px+어/ecs)))
+           (VP  
+                 (PP   
+                       (AP  
+                             (NP  비누/ncn+가/jcs)
+                             (PP   물/ncn+에/jca)
+                             (AP  (V    녹/pvg+으면서/ecc)
+                                   (AP  만들/pvg+ㄴ/etm)))
+                       (PP   음이온/ncn+과/jcT))
+                 (V 결합/ncpa+하/xsv+어서/ecs))
+           (VP  
+                 (NP  
+                       (AP  
+                             (PP   물/ncn+에/jca)
+                             (ADVP  잘/mag)
+                             (ADVP  안/mag)
+                             (AP  녹/pvg+는/etm))
+                       (NP  염/ncn+을/jco))
+                 (V 만들/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 학자들은 센물에 녹아 있는 Ca + 2 Mg +  2 등의 양이온의 농도는 알아내어 경도 라는 수치로 표현합니다.
+(S   
+     (VP  
+           (NP  학자/ncn+들/xsn+은/jxc)
+           (VP  
+                 (NP  
+                       (AP  (PP   센물/ncn+에/jca)
+                             (AP  (V    녹/pvg+아/ecx)
+                                   (AP  있/px+는/etm)))
+                       (AP  Ca/f +/sy 2/nnc Mg/f +/sy 2/nnc 등/nbn+의/jcm)
+                       (AP  양이온/ncn+의/jcm)
+                       (NP  농도/ncn+는/jxc))
+                 (V 알아내/pvg+어/ecs))
+           (VP     
+                 (PP   (AP  경도/ncn 라/ef+는/etm)
+                       (PP   수치/ncn+로/jca))
+                 (V 표현/ncpa+하/xsv+ㅂ니다/ef)))+./sf)
+
+
+; 또한 센물 중에서도 가열만 하면 쉽게 단물로 돌아가는 경우가 있습니다.
+(S   
+     (VP  
+           (IP 또한/maj)
+           (PP   
+                 (AP  센물/ncn)
+                 (PP   중/nbn+에서/jca+도/jxc))
+           (VP  
+                 (NP  가열/ncn+만/jxc)
+                 (V 하/pvg+면/ecs))
+           (VP  
+                 (NP  
+                       (AP  (V 쉽/paa+게/ecs)
+                             (PP   단물/ncn+로/jca)
+                             (AP  돌아가/pvg+는/etm))
+                       (NP  경우/ncn+가/jcs))
+                 (V 있/paa+습니다/ef)))+./sf)
+
+
+; 탄산수소마그네슘( MgHCO3 )과 탄산수소칼슘( CaHCO3 )을 포함한 물이 바로 그  예에 해당하는데 이런 물을 [ 일시적인 센물 ] 이라고 합니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  탄산수소마그네슘/ncn (/sl MgHCO3/f )/sr 과/jcj)
+                             (NP  탄산수소칼슘/ncn (/sl CaHCO3/f )/sr 을/jco)
+                             (AP  포함/ncpa+하/xsv+ㄴ/etm))
+                       (NP  물/ncn+이/jcs))
+                 (PP   
+                       (ADVP  바로/mag)
+                       (AP  그/mmd)
+                       (PP   예/ncn+에/jca))
+                 (V 해당/ncpa+하/xsv+는데/ecs))
+           (VP  
+                 (NP  
+                       (AP  이런/mmd)
+                       (NP  물/ncn+을/jco))
+                 (VP  (V [/sl 일시/ncn+적/xsn+이/jp+ㄴ/etm 센물/ncn ]/sr 이/jp+라/ef+고/jcr)
+                       (V 하/pvg+ㅂ니다/ef))))+./sf)
+
+
+; 예를 들면 황산마그네슘( MgSO4 )과 황산칼슘( CaSO4 )을 포함하고  있는 물을 말하는데 이런 물은 [ 영구적인 센물 ] 이라고 부릅니다.
+(S   
+     (VP  
+           (IP 예/ncn+를/jco 들/pvg+면/ecs)
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  황산마그네슘/ncn (/sl MgSO4/f )/sr 과/jcj)
+                             (NP  황산칼슘/ncn (/sl CaSO4/f )/sr 을/jco)
+                             (AP  (V 포함/ncpa+하/xsv+고/ecx)
+                                   (AP  있/px+는/etm)))
+                       (NP  물/ncn+을/jco))
+                 (V 말/ncpa+하/xsv+는데/ecs))
+           (VP  
+                 (NP  
+                       (AP  이런/mmd)
+                       (NP  물/ncn+은/jxc))
+                 (VP  (V [/sl 영구/ncn+적/xsn+이/jp+ㄴ/etm 센물/ncn ]/sr 이/jp+라/ef+고/jcr)
+                       (V 부르/pvg+ㅂ니다/ef))))+./sf)
+
+
+; 보통 지하수나 냇물은 센물이 많고, 이 센물로 비눗방울을 만들려 해도 잘 되지 않습니다.
+(S   
+     (VP  
+           (VP  
+                 (ADVP  보통/mag)
+                 (NP  
+                       (AP  지하수/ncn+나/jcj)
+                       (NP  냇물/ncn+은/jxc))
+                 (NP  센물/ncn+이/jcs)
+                 (V    많/paa+고/ecc))+,/sp
+           (VP  
+                 (PP   
+                       (AP  이/mmd)
+                       (PP   센물/ncn+로/jca))
+                 (NP  비눗방울/ncn+을/jco)
+                 (V    (V 만들/pvg+려/ecs)
+                       (V 하/pvg+어도/ecs)))
+           (VP  
+                 (ADVP  잘/mag)
+                 (V (V 되/pvg+지/ecx)
+                    (AUXP  않/px+습니다/ef))))+./sf)
+
+
+; 위에서 설명했듯이 센물에 녹아 있는  칼슘과 마그네슘이 비누의 지방산과  결합하여 물에 녹지 않기 때문입니다.
+(S   
+     (VP  
+           (VP  
+                 (PP   위/ncn+에서/jca)
+                 (V    설명/ncpa+하/xsv+었/ep+듯이/ecs))
+           (VP  
+                 (NP  
+                       (AP  
+                             (PP   센물/ncn+에/jca)
+                             (AP  (V    녹/pvg+아/ecx)
+                                   (AP  있/px+는/etm)))
+                       (NP  
+                             (NP  칼슘/ncn+과/jcj)
+                             (NP  마그네슘/ncn+이/jcs)))
+                 (PP   
+                       (AP  비누/ncn+의/jcm)    
+                       (NP  지방산/ncn+과/jcta))
+                 (V 결합/ncpa+하/xsv+어/ecs))
+           (VP  
+                 (NP  
+                       (PP   물/ncn+에/jca)
+                       (V (V 녹/pvg+지/ecx)
+                          (N 않/px+기/etn)))
+                 (V 때문/nbn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 그 과정을 자세히 살펴보면 화학반응이 일어나기 때문이라는 것을 알 수 있습니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  (AP   그/mmd)
+                       (NP  과정/ncn+을/jco))
+                 (ADVP  자세/ncn+히/xsa)
+                 (V (V 살피/pvg+어/ecx)
+                    (AUXP  보/px+면/ecs)))
+           (VP  
+                 (NP  
+                       (AP  
+                             (AP  (NP   화학반응/ncn+이/jcs)
+                                   (N 일어나/pvg+기/etn)
+                                   (AP  때문/nbn+이/jp+라/ef+는/etm))
+                             (NP  것/nbn+을/jco)
+                             (AP  알/pvg+ㄹ/etm))
+                       (N 수/nbn))
+                 (V 있/paa+습니다/ef)))+./sf)
+
+
+; Ca2 ++ 2 CH3 ( CH2 ) 16 COO - Ca 이럴 땐 물을 끓여서 해보든지 아니면 다른 물을 찾아보아야 할 것입니다.
+(S   
+     (NP  Ca2/f++/sy++/sy+2/nnc+CH3/f+(/sl+CH2/f+)/sr+16/nnc+COO/f+-/sd+Ca/f)
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  이렇/pad+ㄹ/etm)
+                       (NP  때/ncn+ㄴ/jxc))
+                 (NP  물/ncn+을/jco)
+                 (V (V 끓이/pvg+어서/ecs)       
+                    (V 하/pvg+어/ecx+보/px+든지/ecc)
+                    (V 아니/paa+면/ecs)))
+           (VP  
+                 (AP  
+                       (NP  
+                             (AP  다른/mma)
+                             (NP  물/ncn+을/jco))
+                       (AP  (V 찾/pvg+아/ecx)
+                             (AUXP  보/px+아야/ecs)
+                             (AP  하/pvg+ㄹ/etm)))
+        (V 것/nbn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 센물에도 잘 녹는 비누를 만들기 위한 노력은 물의 질이  좋지 않아 고생을 했던 독일에서 시작되었습니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  
+                             (NP  
+                                   (AP  (PP   센물/ncn+에/jca+도/jxc)
+                                         (ADVP  잘/mag)
+                                         (AP  녹/pvg+는/etm))
+                                   (NP  비누/ncn+를/jco))
+                             (N 만들/pvg+기/etn))
+                       (AP  위하/pvg+ㄴ/etm))
+                 (NP  노력/ncn+은/jxc))
+           (PP   
+                 (AP  
+                       (VP  
+                             (NP  
+                                   (AP  물/ncn+의/jcm)
+                                   (NP  질/ncn+이/jcs))
+                             (V    (V 좋/paa+지/ecx)
+                                   (AUXP  않/px+아/ecs)))
+                       (NP  고생/ncn+을/jco)
+                       (AP  하/pvg+었/ep+더/ep+ㄴ/etm))
+                 (PP   독일/nq+에서/jca))
+           (V 시작/ncpa+되/xsv+었/ep+습니다/ef))+./sf)
+
+
+; 세탁물에 있던 기름때보다 칼슘염을 떼어 내기가 어려워 센물에서는 비눗물이 잘 녹지 않는다는 것을 알았습니다.
+(S   
+     (VP  
+           (PP   
+                 (PP   세탁물/ncn+에/jca)
+                 (AP  있/paa+더/ep+ㄴ/etm)
+                 (PP   기름때/ncn+보다/jca))
+           (VP  
+                 (NP  
+                       (NP  칼슘염/ncn+을/jco)
+                       (V 떼/pvg+어/ecx)
+                       (NP  내/px+기/etn+가/jcs))
+                 (V 어렵/paa+어/ecs))
+           (VP  
+                 (NP  
+                       (AP  
+                             (PP   센물/ncn+에서/jca+는/jxc)
+                             (NP  비눗물/ncn+이/jcs)
+                             (ADVP  잘/mag)
+                             (AP  (V 녹/pvg+지/ecx)
+                                   (AP  않/px+는다/ef+는/etm)))
+                       (NP  것/nbn+을/jco))
+                 (V 알/pvg+았/ep+습니다/ef)))+./sf)
+
+
+; 센물에서 침전되는 것을 막기 위해서는  칼슘이나 마그네슘 이온과 난용성염을  잘 만들지 않는 세제를 개발해야 합니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (PP   센물/ncn+에서/jca)
+                       (NP  
+                             (AP  침전/ncpa+되/xsv+는/etm)
+                             (NP  것/nbn+을/jco))
+                       (N 막/pvg+기/etn))
+                 (V 위하/pvg+어서/ecs+는/jxc))
+           (NP  
+                 (AP  
+                       (NP  
+                             (AP  칼슘/ncn+이나/jcj)
+                             (AP  마그네슘/ncn)
+                             (AP  이온/ncn+과/jcj)
+                             (NP  용성염/ncn+을/jco))
+                       (ADVP  잘/mag)
+                       (AP  (V 만들/pvg+지/ecx)
+                             (AP  않/px+는/etm)))
+                 (NP  세제/ncn+를/jco))
+           (V (V 개발/ncpa+하/xsv+어야/ecs)
+              (V 하/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 냇물도 산 맨 윗부분은 단물이고 아래로 내려갈수록 점차 센물이 됩니다.
+(S   
+     (VP  
+           (NP  냇물/ncn+도/jxc)
+           (VP  
+                 (NP  
+                       (AP  산/ncn)
+                       (AP  맨/mma)
+                       (NP  윗부분/ncn+은/jxc))
+                 (V 단물/ncn+이/jp+고/ecc))
+           (VP  
+                 (ADVP  아래/ncn+로/jca)
+                 (V    내려가/pvg+ㄹ수록/ecs))
+           (VP  
+                 (ADVP  점차/mag)
+                 (NP  센물/ncn+이/jcc)
+                 (V 되/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 물이 흙이나 바위 속에 녹아 있던  금속이온을 녹여내서 물에 많은 양의 Ca2  + 나 Mg + 2 을 포함하기 때문입니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  물/ncn+이/jcs)
+                 (NP  
+                       (AP  
+                             (PP   
+                                   (AP  (AP   흙/ncn+이나/jcj)
+                                         (AP  바위/ncn))
+                                   (PP   속/ncn+에/jca))
+                             (AP  (V 녹/pvg+아/ecx)
+                                   (AP  있/px+더/ep+ㄴ/etm)))
+                       (NP  금속/ncn+이온/ncn+을/jco))
+                 (V 녹이/pvg+어/ecx+내/px+서/ecs))
+           (VP  
+                 (NP  
+                       (PP   물/ncn+에/jca)
+                       (NP  
+                             (AP  
+                                   (AP  많/paa+ㄴ/etm)
+                                   (AP  양/ncn+의/jcm))
+                             (NP  
+                                   (NP  Ca2/f++/sy+나/jcj)
+                                   (NP  Mg/f++/sy+2/nnc+을/jco)))
+                       (N 포함/ncpa+하/xsv+기/etn))
+                 (V 때문/nbn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 요즈음은 대기중의 아황산가스의 농도가 높아져 바위나 토양 속에 포함되어 있던 양이온이 녹아 나오는 속도가 더 빨라졌기 때문에 이런 현상은 더욱 심각하게 되었습니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  요즈음/ncn+은/jxc)
+                 (NP  
+                       (AP  대기/ncn+중/nbn+의/jcm)
+                       (AP  아황산/ncn+가스/ncn+의/jcm)
+                       (NP  농도/ncn+가/jcs))
+                 (V 높/paa+아/ecx+지/px+어/ecs))
+           (PP   
+                 (AP  
+                       (NP  
+                             (NP  
+                                   (AP  
+                                         (NP  
+                                               (AP  
+                                                     (PP   (VP  바위/ncn+나/jcj)
+                                                           (AP  토양/ncn)
+                                                           (PP   속/ncn+에/jca))
+                                                     (AP  (V 포함/ncpa+되/xsv+어/ecx)
+                                                           (AP  있/px+더/ep+ㄴ/etm)))
+                                               (NP  양이온/ncn+이/jcs))
+                                         (AP  (V    녹/pvg+아/ecs)
+                                               (AP  나오/pvg+는/etm)))
+                                   (NP  속도/ncn+가/jcs))
+                             (ADVP  더/mag)
+                             (N 빠르/paa+아/ecx+지/px+었/ep+기/etn)))
+                 (PP   때문/nbn+에/jca))
+           (VP  
+                 (NP  (AP   이런/mmd)
+                       (NP  현상/ncn+은/jxc))
+                 (ADVP  더욱/mag)
+                 (V (V 심각/ncpa+하/xsv+게/ecx)
+                    (AUXP  되/px+었/ep+습니다/ef))))+./sf)
+
+
+; 단물의 대표적인 예로 빗물을 분석해 보면 빗물 1 리터에는 0.
+(S   (NP  
+           (PP   
+                 (AP  단물/ncn+의/jcm)
+                 (AP  대표/ncpa+적/xsn+이/jp+ㄴ/etm)
+                 (NP  예/ncn+로/jca))
+           (VP  
+                 (NP  빗물/ncn+을/jco)
+                 (V (V 분석/ncpa+하/xsv+어/ecx)  
+                    (AUXP  보/px+면/ecs)))
+           (PP   
+                 (AP  빗물/ncn)
+                 (PP   1/nnc+리터/nbu+에/jca+는/jxc))
+           (NP  0/nnc))+./sf)
+
+
+; 결론적으로, 아름답고 오래가는 비눗방울을 만들려면 물에도 주의해야 한다는 것입니다.
+(S   
+     (VP  
+           (PP   결론/ncn+적/xsn+으로/jca)+,/sp
+           (VP  
+                 (NP  
+                       (AP  (V    아름답/paa+고/ecc)
+                             (AP  오래/mag+가/pvg+는/etm))
+                       (NP  비눗방울/ncn+을/jco))
+                 (V 만들/pvg+려면/ecs))
+           (VP  
+                 (AP  
+                       (PP   물/ncn+에/jca+도/jxc)
+                       (AP  (V 주의/ncpa+하/xsv+어야/ecs)
+                             (AP  하/pvg+ㄴ다/ef+는/etm)))
+                 (V 것/nbn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 엄밀히 말하면, 물에 포함되어 있는 여러 가지 화학물질을 그 비등점을 이용하여  분류하는 것입니다.
+(S   
+     (VP  
+           (VP  
+                 (ADVP  엄밀/ncn+히/xsa)
+                 (V 말/ncpa+하/xsv+면/ecs))+,/sp
+           (AP  
+                 (NP  
+                       (AP  
+                             (PP   물/ncn+에/jca)
+                             (AP  (V 포함/ncpa+되/xsv+어/ecx)
+                                   (AP  있/px+는/etm)))
+                       (AP  여러/mma 가지/nbu)
+                       (NP  화학/ncn+물질/ncn+을/jco))
+                 (NP  
+                       (AP  그/mmd)
+                       (NP  비등점/ncn+을/jco))
+                 (AP  (V    이용/ncpa+하/xsm+어/ecs)
+                       (AP  분류/ncpa+하/xsv+는/etm)))
+           (V 것/nbn+이/jp+ㅂ니다/ef))+./sf)
+
+
+; 가정용 세제에 대하여 일반적으로 가정에서는 비누와 합성세제를 사용하고 있습니다.
+(S   
+     (VP  
+           (VP  
+                 (PP   
+                       (AP  가정용/ncn)
+                       (PP   세제/ncn+에/jca))
+                 (V 대하/pvg+어/ecs))
+           (VP  
+                 (PP   일반/ncn+적/xsn+으로/jca)
+                 (PP   가정/ncn+에서/jca+는/jxc)
+                 (NP  
+                       (NP  비누/ncn+와/jcj)
+                       (NP  합성세제/ncn+를/jco))
+                 (V    (V 사용/ncpa+하/xsv+고/ecx)
+                       (AUXP  있/px+습니다/ef))))+./sf)
+
+
+; 합성세제는 여러 가지로 연구되어 확실하고 깨끗하게 오물도 잘 씻어내지만, 인간의 피부와 점막에 닿으면 심한 독성을 나타냅니다.
+(S   
+     (VP  
+           (NP  합성세제/ncn+는/jxc)
+           (VP  
+                 (PP   
+                       (AP  여러/mma)
+                       (PP   가지/nbu+로/jca))
+                 (V 연구/ncpa+되/xsv+어/ecs))
+           (VP  
+                 (V    (V 확실/ncps+하/xsm+고/ecc)
+                       (V 깨끗/ncps+하/xsm+게/ecs))
+                 (NP  오물/ncn+도/jxc)
+                 (ADVP  잘/mag)
+                 (V 씻/pvg+어/ecx+내/px+지만/ecs))+,/sp
+           (VP  
+                 (PP   
+                       (AP  인간/ncn+의/jcm)
+                       (NP  피부/ncn+와/jcj)
+                       (PP   점막/ncn+에/jca))
+                 (V 닿/pvg+으면/ecs))
+           (VP  
+                 (NP  
+                       (AP  심하/paa+ㄴ/etm)
+                       (NP  독성/ncn+을/jco))
+                 (V    나타내/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 약 10 여 년 전의 일이지만 우리도 분말세제를 대량으로 사용하여 비눗방울을 만들었습니다.
+(S   
+     (VP  
+           (VP  
+                 (AP  
+                       (AP  약/mma)
+                       (AP  10/nnc+여/xsn+년/nbu)
+                       (AP  전/ncn+의/jcm))
+                 (V 일/ncn+이/jp+지만/ecs))   
+           (VP  
+                 (NP  우리/npp+도/jxc)
+                 (NP  분말/ncn+세제/ncn+를/jco)   
+                 (PP   대량/ncn+으로/jca)
+                 (V    사용/ncpa+하/xsv+어/ecs))
+           (VP  
+                 (NP  비눗방울/ncn+을/jco)
+                 (V 만들/pvg+었/ep+습니다/ef)))+./sf)
+
+
+; 일주일 동안 같이 작업을 하고 나면 왠지 모르게 짜증이 나며 두 사람 사이가 좋지 않게 되었습니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  일/nnc+주일/nbu)
+                       (N 동안/ncn))
+                 (ADVP  같/paa+이/xsa)
+                 (NP  작업/ncn+을/jco)
+                 (V    (V 하/pvg+고/ecx)
+                       (AUXP  나/px+면/ecs)))
+           (VP  (ADVP   왠지/mag)
+                 (V 모르/pvg+게/ecs))
+           (VP  (NP   짜증/ncn+이/jcs)
+                 (V    나/pvg+며/ecc))
+           (VP  
+                 (NP  
+                       (AP  두/nnc)
+                       (AP  사람/ncn)
+                       (NP  사이/ncn+가/jcs))
+                 (V    (V 좋/paa+지/ecx)
+                       (AUXP  않/px+게/ecx)
+                       (AUXP  되/px+었/ep+습니다/ef))))+./sf)
+
+
+; 세제 때문에 눈도 쉽게 피로해지고 피부도 거칠어지며 몸 전체가 좋지 않게 되었던 것입니다.
+(S   
+     (VP  
+           (PP   (AP  세제/ncn)
+                 (PP   때문/nbn+에/jca))
+           (VP  (NP   눈/ncn+도/jxc)
+                 (V (V 쉽/paa+게/ecs)
+                    (V    피로/ncps+하/xsm+어/ecx+지/px+고/ecc)))
+           (VP  (NP   피부/ncn+도/jxc)
+                 (V 거칠/paa+어/ecx+지/px+며/ecc))
+           (VP  
+                 (AP  
+                       (NP  (AP   몸/ncn)
+                             (NP  전체/ncn+가/jcs))
+                       (AP  (V 좋/paa+지/ecx)
+                             (AUXP  않/px+게/ecx)
+                             (AP  되/px+었/ep+더/ep+ㄴ/etm)))
+                 (V 것/nbn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 비누는 소나 돼지기름으로 만들어서 그런지 가끔 쥐들이 먹은 흔적이 있습니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  비누/ncn+는/jxc)
+                 (PP   (AP  소/ncn+나/jcj)
+                       (PP   돼지/ncn+기름/ncn+으로/jca))
+                 (V (V 만들/pvg+어서/ecs)
+                    (V 그렇/pad+ㄴ지/ef)))
+           (VP  
+                 (ADVP  가끔/mag)
+                 (NP  
+                       (AP  (NP   쥐/ncn+들/xsn+이/jcs)
+                             (AP  먹/pvg+ㄴ/etm))
+                       (NP  흔적/ncn+이/jcs))
+                 (V 있/paa+습니다/ef)))+./sf)
+
+
+; 쥐도 안 먹는 걸 사람이 잘못해서 먹는다면 큰 화를 당하겠지요.
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  (NP   쥐/ncn+도/jxc)
+                             (ADVP  안/mag)
+                             (AP  먹/pvg+는/etm)
+                             (NP  거/nbn+ㄹ/jco))
+                       (NP  사람/ncn+이/jcs))
+                 (V (V 잘못/ncpa+하/xsv+어서/ecs)
+                    (V 먹/pvg+는다/ef+면/ecs)))
+           (VP  
+                 (NP  (AP   크/paa+ㄴ/etm)
+                       (NP  화/ncn+를/jco))
+                 (V 당하/pvg+겠/ep+지/ef+요/jxf)))+./sf)
+
+
+; 여섯째, 체내에 흡수된 중금속의 체내  흡수를 촉진시킬 뿐 아니라 콜레스테롤의  흡수율을 높여 고혈압을 유발시킵니다.
+(S   
+     (VP  
+           (IP 여섯째/nno)+,/sp
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  
+                                   (AP  (PP   체내/ncn+에/jca)
+                                         (AP  흡수/ncpa+되/xsv+ㄴ/etm))
+                                   (AP  중금속/ncn+의/jcm)
+                                   (NP  (AP   체내/ncn)
+                                         (NP  흡수/ncn+를/jco)))
+                             (AP  촉진/ncpa+시키/xsv+ㄹ/etm))         
+                       (N 뿐/nbn))
+                 (V 아니/paa+라/ecs))
+           (VP  
+                 (NP  (AP   콜레스테롤/ncn+의/jcm)
+                       (NP  흡수율/ncn+을/jco))
+                 (V 높이/pvg+어/ecs))
+           (VP  
+                 (NP  고혈압/ncn+을/jco)
+                 (V    유발/ncpa+시키/xsv+ㅂ니다/ef)))+./sf)
+
+
+; 이 밖에도 합성세제가 축적되면 장내의 미생물의 균형이 깨져 설사, 구토 등을 일으킬 수 있습니다.
+(S   
+     (VP  
+           (PP   
+                 (AP  이/mmd)
+                 (PP   밖/ncn+에/jca+도/jxc))
+           (VP  
+                 (NP  합성세제/ncn+가/jcs)
+                 (V 축적/ncpa+되/xsv+면/ecs))
+           (VP  
+                 (NP  
+                       (AP  장내/ncn+의/jcm)
+                       (AP  미생물/ncn+의/jcm)
+                       (NP  균형/ncn+이/jcs))
+                 (V 깨/pvg+어/ecx+지/px+어/ecs))
+           (VP  
+                 (NP  
+                       (AP  
+                             (N 설사/ncn)+,/sp
+                             (NP  구토/ncn 등/nbn+을/jco)
+                             (AP  일으키/pvg+ㄹ/etm))
+                       (N 수/nbn))
+                 (V    있/paa+습니다/ef)))+./sf)
+
+
+; 그러므로 비눗방울을 만들 때는 성과가  별로 좋지 않아도 합성세제보다  비누를 사용하는 것이 좋습니다.
+(S   
+     (VP  
+           (IP 그러므로/maj)
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  비눗방울/ncn+을/jco)
+                             (AP  만들/pvg+ㄹ/etm))
+                       (NP  때/ncn+는/jxc))
+                 (NP  성과/ncn+가/jcs)
+                 (ADVP  별로/mag)
+                 (V (V 좋/paa+지/ecx)
+                    (AUXP  않/px+아도/ecs)))
+           (VP  
+                 (NP  
+                       (AP  
+                             (PP   합성세제/ncn+보다/jca)
+                             (NP  비누/ncn+를/jco)
+                             (AP  사용/ncpa+하/xsv+는/etm))
+                       (NP  것/nbn+이/jcs))
+                 (V 좋/paa+습니다/ef)))+./sf)
+
+
+; 주부습진에 대한 대책 세제를 사용한 뒤 손을 잘 씻지  않으면 세제가 남아 이것이 습진을 일으킵니다.
+(S   
+     (NP  
+           (AP  
+                 (PP   주부/ncn+습진/ncn+에/jca)
+                 (AP  대하/pvg+ㄴ/etm))
+           (N 대책/ncn))
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  세제/ncn+를/jco)
+                       (AP  사용/ncpa+하/xsv+ㄴ/etm))
+                 (N 뒤/ncn))
+           (VP  
+                 (NP  손/ncn+을/jco)
+                 (ADVP  잘/mag)
+                 (V    (V 씻/pvg+지/ecx)
+                       (AUXP  않/px+으면/ecs)))
+           (VP  
+                 (NP  세제/ncn+가/jcs)
+                 (V    남/pvg+아/ecs))
+           (VP  
+                 (NP  이것/npd+이/jcs)
+                 (NP  습진/ncn+을/jco)
+                 (V    일으키/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 반지를 끼었을 경우, 그 틈에 세제의 성분이 남아 있어 손가락 사이와 반지를 낀  자리를 중심으로 습진이 번지기도 합니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  반지/ncn+를/jco)
+                       (AP  끼/pvg+었/ep+ㄹ/etm))
+                 (N 경우/ncn))+,/sp
+           (VP  
+                 (PP   
+                       (AP  그/mmd)
+                       (PP   틈/ncn+에/jca))
+                 (NP  
+                       (AP  세제/ncn+의/jcm)
+                       (NP  성분/ncn+이/jcs))
+                 (V    (V 남/pvg+아/ecx)
+                       (AUXP  있/px+어/ecs)))
+           (VP  
+                 (PP   
+                       (NP  
+                             (AP  손가락/ncn)
+                             (NP  사이/ncn+와/jcj))
+                       (NP  
+                             (AP  
+                                   (NP  반지/ncn+를/jco)
+                                   (AP  끼/pvg+ㄴ/etm))
+                             (NP  자리/ncn+를/jco))
+                       (PP   중심/ncn+으로/jca))
+                 (NP  습진/ncn+이/jcs)
+                 (NP  번지/pvg+기/etn+도/jxc)
+                 (V 하/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 샴푸도 세제와 같은 성분이므로 예민한 피부의 경우엔 깨끗이 씻지 않으면 간혹 손가락 끝에 습진이 생겨 번지기도 합니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  샴푸/ncn+도/jxc)
+                 (VP  
+                       (AP  
+                             (PP   세제/ncn+와/jct)
+                             (AP  같/paa+ㄴ/etm))
+                       (V    성분/ncn+이/jp+므로/ecs)))   
+           (VP  
+                 (PP   
+                       (AP  예민/ncps+하/xsm+ㄴ/etm)
+                       (AP  피부/ncn+의/jcm)
+                       (PP   경우/ncn+에/jca+ㄴ/jxc))
+                 (VP  
+                       (ADVP  깨끗이/mag)
+                       (V (V 씻/pvg+지/ecx)
+                          (AUXP  않/px+으면/ecs)))
+                 (VP  
+                       (ADVP  간혹/mag)
+                       (PP   
+                             (AP  손가락/ncn)
+                             (PP   끝/ncn+에/jca))
+                       (NP  습진/ncn+이/jcs)
+                       (V    생기/pvg+어/ecs)
+                 (VP  
+                       (NP  번지/pvg+기/etn+도/jxc)
+                       (V    하/pvg+ㅂ니다/ef)))))+./sf)
+
+
+; 핸드크림은 혈행을 좋게 하고 피부를  촉촉한 상태로 유지하는 데에는  효과가 있지만 근본적인 치료는 되지 않고 증상만 약간 경감시키므로  치료를 철저히 하지 않게 되어  오히려 습진증상을 악화시킬 수도 있다는 것입니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  핸드크림/ncn+은/jxc)
+                 (PP   
+                       (VP  
+                             (NP  혈행/ncn+을/jco)
+                             (V    (V 좋/paa+게/ecx)
+                                   (AUXP  하/px+고/ecc)))
+                       (AP  
+                             (NP  피부/ncn+를/jco)
+                             (PP   
+                                   (AP  촉촉/ncps+하/xsm+ㄴ/etm)
+                                   (PP   상태/ncn+로/jca))
+                             (AP  유지/ncpa+하/xsv+는/etm))
+                       (PP   데/nbn+에/jca+는/jxc))
+                 (NP  효과/ncn+가/jcs)
+                 (V    있/paa+지만/ecs))
+           (VP  
+                 (NP  
+                       (AP  근본/ncn+적/xsn+이/jp+ㄴ/etm)
+                       (NP  치료/ncn+는/jxc))
+                 (V    (V 되/pvg+지/ecx)
+                       (AUXP  않/px+고/ecc)))
+           (VP  
+                 (NP  증상/ncn+만/jxc)
+                 (ADVP  약간/mag)
+                 (V 경감/ncpa+시키/xsv+므로/ecs))
+           (VP  
+                 (NP  치료/ncn+를/jco)
+                 (ADVP  철저/ncn+히/xsa)
+                 (V    (V 하/pvg+지/ecx)
+                       (AUXP  않/px+게/ecx)
+                       (AUXP  되/px+어/ecs)))
+           (VP  
+                 (AP  
+                       (NP  
+                             (AP  
+                                   (ADVP  오히려/mag)
+                                   (NP  습진/ncn+증상/ncn+을/jco)
+                                   (AP  악화/ncpa+시키/xsv+ㄹ/etm))
+                             (NP  수/nbn+도/jxc))
+                       (AP  있/paa+다/ef+는/etm))
+                 (VP  것/nbn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 생리적으로 거칠어진 피부와 주부습진은 비전문가가 보기엔 구별하기 어려우므로 핸드크림을 꼭 발라도 낫지 않으면 즉시 중단하고 전문의에게 보이는 것이 바람직합니다.
+(S   
+     (VP  
+           (NP  
+                 (NP  
+                       (ADVP  생리/ncn+적/xsn+으로/jca)
+                       (AP  거칠/paa+어/ecx+지/px+ㄴ/etm)
+                       (NP  피부/ncn+와/jcj))
+                 (NP  주부/ncn+습진/ncn+은/jxc))
+           (VP  
+                 (PP   
+                       (NP  비전문가/ncn+가/jcs)
+                       (PP   보/pvg+기/etn+에/jca+ㄴ/jxc))
+                 (N 구별/ncpa+하/xsv+기/etn)
+                 (V    어렵/paa+으므로/ecs))
+           (VP  
+                 (NP  핸드크림/ncn+을/jco)
+                 (ADVP  꼭/mag)
+                 (V 바르/pvg+아도/ecs))
+           (V    (V 낫/pvg+지/ecx)
+                 (AUXP  않/px+으면/ecs))
+           (VP  (ADVP   즉시/mag)
+                 (V 중단/ncpa+하/xsv+고/ecc))
+           (VP  
+                 (NP  
+                       (AP  
+                             (PP   전문의/ncn+에게/jca)
+                             (AP  보이/pvg+는/etm))
+                       (NP  것/nbn+이/jcs))
+                 (V 바람직/ncps+하/xsm+ㅂ니다/ef)))+./sf)
+
+
+; 합성세제와 녹는 상태 합성세제의 종류와 녹는 상태에 대하여 간단히 설명하겠습니다.
+(S   
+     (VP  
+           (VP  
+                 (AP  합성세제/ncn+와/jcj)
+                 (NP  
+                       (AP  녹/pvg+는/etm)
+                       (AP  상태/ncn)
+                       (AP  합성세제/ncn+의/jcm)
+                       (NP  종류/ncn+와/jcj))
+                 (PP   
+                       (AP  녹/pvg+는/etm)
+                       (PP   상태/ncn+에/jca))
+                 (V 대하/pvg+어/ecs))
+           (ADVP  간단/ncn+히/xsa)
+           (V 설명/ncpa+하/xsv+겠/ep+습니다/ef))+./sf)
+
+
+; 세제는 계면활성제와 조제로 이루어지며, 세척을 목적으로 하여 사용되는 계면활성제를 세제라고 합니다.
+(S   
+     (VP  
+           (NP  세제/ncn+는/jxc)
+           (VP  
+                 (PP   
+                       (AP  계면활성제/ncn+와/jcj)
+                       (PP   조제/ncn+로/jca))
+                 (V 이루/pvg+어/ecx+지/px+며/ecc))+,/sp
+           (VP  
+                 (NP  
+                       (AP  
+                             (VP  
+                                   (NP  세척/ncn+을/jco)
+                                   (PP   목적/ncn+으로/jca)
+                                   (V 하/pvg+어/ecs))
+                             (AP  사용/ncpa+되/xsv+는/etm))
+                       (NP  계면활성제/ncn+를/jco))
+                 (VP  (V 세제/ncn+라/ef+고/jcr)
+                       (V 하/pvg+ㅂ니다/ef))))+./sf)
+
+
+; 세제의 세척작용은 주로 계면활성제의 역할에 의한 것으로 빨래에  붙어 있는 때와 세척액 사이의 표면장력을 줄여 세제의 습윤침투작용에 의해 때를 분리시킵니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  세제/ncn+의/jcm)
+                 (NP  세척/ncn+작용/ncn+은/jxc))
+           (PP   
+                 (AP  
+                       (ADVP  주로/mag)
+                       (PP   
+                             (AP  계면활성제/ncn+의/jcm)
+                             (PP   역할/ncn+에/jca))
+                       (AP  의하/pvg+ㄴ/etm))
+                 (PP   것/nbn+으로/jca))
+           (VP  
+                 (NP  
+                       (AP  
+                             (PP   빨래/ncn+에/jca)
+                             (AP  (V 붙/pvg+어/ecx)
+                                   (AP  있/px+는/etm)))
+                       (NP  
+                             (AP  (NP   때/ncn+와/jcj)
+                                   (AP  세척액/ncn))
+                             (NP  사이/ncn+의/jcm)))
+                 (NP  표면/ncn+장력/ncn+을/jco)
+                 (V    줄이/pvg+어/ecs))
+           (VP  
+                 (PP   
+                       (AP  세제/ncn+의/jcm)
+                       (PP   습윤침투작용/ncn+에/jca))
+                 (V    의하/pvg+어/ecs))
+           (VP  
+                 (NP  때/ncn+를/jco)
+                 (V    분리/ncpa+시키/xsv+ㅂ니다/ef)))+./sf)
+
+
+; 중성세제 조제로 가해 주는 성분을 중성에 가깝도록 만들어 탈지성이 적고 세척력이 우수합니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  
+                             (PP   
+                                   (AP  중성/ncn+세제/ncn)
+                                   (PP   조제/ncn+로/jca))
+                             (AP  (V    가하/pvg+어/ecx)
+                                   (AP  주/px+는/etm)))
+                       (NP  성분/ncn+을/jco))
+                 (PP   중성/ncn+에/jca)
+                 (V    (V 가깝/paa+도록/ecs)
+                       (V 만들/pvg+어/ecs)))
+           (VP  
+                 (NP  탈지성/ncn+이/jcs)
+                 (V 적/paa+고/ecc))
+           (VP  
+                 (NP  세척력/ncn+이/jcs)
+                 (V 우수/ncps+하/xsm+ㅂ니다/ef)))+./sf)
+
+
+; 비인온성 세제는 경수 바닷물에서도 안정하고  저농도에서도 침투력, 세척력이 우수하며  거품이 크게 일지 않아 드라이 클리닝의 차지  비누(charge soap)나 벤젠 비누를 만들기 쉬우나,  가격이 비싸고 분말로 만들기가 어려워 대규모로 쓰이지는 못하고 있습니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  비인온성/ncn)
+                 (NP  세제/ncn+는/jxc))
+           (VP  
+                 (PP   
+                       (AP  경수/ncn)
+                       (PP   바닷물/ncn+에서/jca+도/jxc))
+                 (V    안정/ncpa+하/xsv+고/ecc))
+           (VP  
+                 (PP   저농도/ncn+에서/jca+도/jxc)
+                 (NP  
+                       (N 침투력/ncn)+,/sp
+                       (NP  세척력/ncn+이/jcs))
+                 (V    우수/ncps+하/xsm+며/ecc))
+           (VP  
+                 (NP  거품/ncn+이/jcs)
+                 (V    (V 크/paa+게/ecs)
+                       (V 일/pvg+지/ecx)
+                       (AUXP  않/px+아/ecs)))
+           (VP  
+                 (NP  
+                       (VP  
+                             (NP  
+                                   (AP  드라이/ncn  클리닝/ncn+의/jcm)
+                                   (NP  차지/ncn+비누/ncn+(/sl+charge/f+soap/f+)/sr+나/jcj)
+                                   (NP  벤젠/ncn+비누/ncn+를/jco))
+                             (N 만들/pvg+기/etn)))
+                 (V 쉽/paa+으나/ecc))+,/sp
+           (VP  
+                 (NP  가격/ncn+이/jcs)
+                 (V 비싸/paa+고/ecc))
+           (VP  
+                 (PP   분말/ncn+로/jca)
+                 (NP  만들/pvg+기/etn+가/jcs)
+                 (V 어렵/paa+어/ecs))
+           (VP  
+                 (PP   대규모/ncn+로/jca)
+                 (V    (V 쓰이/pvg+지/ecx+는/jxc)
+                       (AUXP  못하/px+고/ecx)
+                       (AUXP  있/px+습니다/ef))))+./sf)
+
+
+; 역시 비누는 알칼리성을 띠는 센물에는 잘 녹지 않지만, 단물에는 잘 녹아듭니다.
+(S   
+     (VP  
+           (ADVP  역시/mag)
+           (NP  비누/ncn+는/jxc)
+           (VP  
+                 (PP   
+                       (AP  
+                             (NP  알칼리성/ncn+을/jco)
+                             (AP  띠/pvg+는/etm))
+                       (PP   센물/ncn+에/jca+는/jxc))
+                 (ADVP  잘/mag)
+                 (V    (V 녹/pvg+지/ecx)
+                       (AUXP  않/px+지만/ecs)))+,/sp
+           (VP  
+                 (PP   단물/ncn+에/jca+는/jxc)
+                 (ADVP  잘/mag)
+                 (V    (V 녹/pvg+아/ecx)
+                       (AUXP  들/px+ㅂ니다/ef))))+./sf)
+
+
+; 세제는 용도에 맞는 것을 선택해서 사용해야 하고, 사용량의 최적농도 및 최적온도에서 사용해야 합니다.
+(S   
+     (VP  
+           (NP  세제/ncn+는/jxc)
+           (VP  
+                 (NP  (AP   
+                             (PP   용도/ncn+에/jca)
+                             (AP     맞/pvg+는/etm))
+                       (NP  것/nbn+을/jco))
+                 (V    (V   선택/ncpa+하/xsv+어서/ecs)
+                       (V    사용/ncpa+하/xsv+어야/ecs)
+                       (V    하/pvg+고/ecc)))+,/sp
+           (VP  
+                 (PP   
+                       (AP  사용량/ncn+의/jcm)
+                       (PP   최적/ncn+농도/ncn 및/maj  최적/ncn+온도/ncn+에서/jca))
+                 (V    (V 사용/ncpa+하/xsv+어야/ecs)
+                       (V 하/pvg+ㅂ니다/ef))))+./sf)
+
+
+; 또 세제의 독성을 고려해서 충분히 헹구고 사용할 때는 반드시 고무장갑을 끼고 해야 합니다.
+(S   
+     (VP  
+           (IP 또/maj)
+           (VP  
+                 (VP  
+                       (NP  
+                             (AP  세제/ncn+의/jcm)
+                             (NP  독성/ncn+을/jco))
+                       (V 고려/ncpa+하/xsv+어서/ecs))
+                 (VP  
+                       (ADVP  충분/ncn+히/xsa)
+                       (V 헹구/pvg+고/ecc))
+                 (VP  
+                       (NP  
+                             (AP  사용/ncpa+하/xsv+ㄹ/etm)
+                             (NP  때/ncn+는/jxc))
+                       (ADVP  반드시/mag)
+                       (NP  고무장갑/ncn+을/jco)
+                       (V    (V 끼/pvg+고/ecc)
+                             (V 하/pvg+어야/ecs)
+                             (V 하/pvg+ㅂ니다/ef)))))+./sf)
+
+
+; ABS계 합성세제는 미생물이 분해할 수 없으므로 수질을 오염시켜 간접적인 인체 오염을 가져오므로 자연분해되는 LAS계 합성세제 개발이 필요합니다.
+(S   
+     (VP  
+           (VP  
+                 (NP  
+                       (AP  ABS/f+계/xsn)
+                       (NP  합성세제/ncn+는/jxc))
+                 (VP  
+                       (NP  
+                             (AP  
+                                   (NP  미생물/ncn+이/jcs)
+                                   (AP  분해/ncpa+하/xsv+ㄹ/etm))
+                             (N 수/nbn))
+                       (V 없/paa+으므로/ecs))
+                 (VP  
+                       (NP  수질/ncn+을/jco)
+                       (V    오염/ncpa+시키/xsv+어/ecs))
+                 (VP  
+                       (NP  
+                             (AP  간접/ncn+적/xsn+이/jp+ㄴ/etm)
+                             (AP  인체/ncn)
+                             (NP  오염/ncn+을/jco))
+                       (V    가져오/pvg+므로/ecs)))
+           (VP  
+                 (NP  
+                       (AP  자연/ncn+분해/ncpa+되/xsv+는/etm)
+                       (AP  LAS/f+계/xsn)
+                       (AP  합성세제/ncn)
+                       (NP  개발/ncn+이/jcs))
+                 (VP  필요/ncps+하/xsm+ㅂ니다/ef)))+./sf)
+
+
+; 그러나 LAS계도 하천 밑바닥의 히드라나 어패류의 체내 축적이 일어나는 것이 밝혀져 앞으로의 연구개발이 더 필요하다고 합니다.
+(S   
+     (VP  
+           (IP 그러나/maj)
+           (VP  
+                 (PP   LAS/f+계/xsn+도/jxc)
+                 (NP  
+                       (AP  
+                             (NP  
+                                   (AP  (AP   하천/ncn)
+                                         (AP  밑바닥/ncn+의/jcm))
+                                   (AP  (AP   히드라/ncn+나/jcj)
+                                         (AP  어패류/ncn+의/jcm))
+                                   (AP  체내/ncn)    
+                                   (NP  축적/ncn+이/jcs))
+                             (AP  일어나/pvg+는/etm))
+                       (NP  것/nbn+이/jcs))
+                 (V 밝히/pvg+어/ecx+지/px+어/ecs))
+           (VP  
+                 (NP  
+                       (AP  앞/ncn+으로/jca+의/jcm)
+                       (NP  연구/ncn+개발/ncn+이/jcs))
+                 (VP  
+                       (ADVP  더/mag)
+                       (V 필요/ncps+하/xsm+다/ef+고/jcr)
+                       (V 하/pvg+ㅂ니다/ef))))+./sf)
+
+
+; 비누를 쓰임새에 따라 분류하면 먼저 알칼리 비누, 금속 비누, 잡종 비누 등으로 나눌 수 있지요.
+(S   
+     (VP  
+           (VP  
+                 (NP  비누/ncn+를/jco)
+                 (PP   쓰임새/ncn+에/jca)
+                 (V    (V 따르/pvg+아/ecs)
+                       (V 분류/ncpa+하/xsv+면/ecs)))
+           (VP  
+                 (ADVP  먼저/mag)
+                 (NP  
+                       (AP  
+                             (PP   
+                                   (NP  
+                                         (AP  알칼리/ncn)
+                                         (N 비누/ncn))+,/sp
+                                   (NP  
+                                         (AP  금속/ncn)
+                                         (N 비누/ncn))+,/sp
+                                   (NP  
+                                         (AP  잡종/ncn)
+                                         (N 비누/ncn))
+                                   (PP   등/nbn+으로/jca))
+                             (AP  나누/pvg+ㄹ/etm))
+                       (N 수/nbn))
+                 (V 있/paa+지/ef+요/jxf)))+./sf)
+
+
+; 먼저 알칼리 비누는 우리가 보통 비누라고 부르는 것인데  각종 지방산에 알칼리로 중화하여 얻습니다.
+(S   
+     (VP  
+           (ADVP  먼저/mag)
+           (NP  
+                 (AP  알칼리/ncn)
+                 (NP  비누/ncn+는/jxc))
+           (VP  
+                 (AP  
+                       (NP  우리/npp+가/jcs)
+                       (ADVP  보통/mag)
+                       (AP  (V    비누/ncn+라/ef+고/jcr)
+                             (V    부르/pvg+는/etm)))
+                 (V 것/nbn+이/jp+ㄴ데/ecs))
+           (VP  
+                 (PP   
+                       (AP  각종/ncn)
+                       (PP   지방산/ncn+에/jca))
+                 (PP   알칼리/ncn+로/jca)
+                 (V    (V 중화/ncpa+하/xsv+어/ecs)
+                       (V 얻/pvg+습니다/ef))))+./sf)
+
+
+; 비누는 물에 녹아 고루 분산되어 농도가 진해지면 기름을  중심으로 미셸이라는 구조를 갖게 됩니다.
+(S   
+     (VP  
+           (NP  비누/ncn+는/jxc)
+           (VP  
+                 (PP   물/ncn+에/jca)
+                 (V 녹/pvg+아/ecs))
+           (VP  
+                 (ADVP  고루/mag)
+                 (V    분산/ncpa+되/xsv+어/ecs))
+           (VP  
+                 (NP  농도/ncn+가/jcs)
+                 (V    (V 진하/paa+어/ecx)
+                       (AUXP  지/px+면/ecs)))
+           (VP  
+                 (PP   
+                       (AP  기름/ncn+을/jco)
+                       (PP   중심/ncn+으로/jca))
+                 (NP  
+                       (AP  미셸/ncn+이/jp+라/ef+는/etm)
+                       (NP  구조/ncn+를/jco))
+                 (V    (V 갖/pvg+게/ecx)
+                       (AUXP  되/px+ㅂ니다/ef))))+./sf)
+
+
+; 비누의 원료유지로는 우지, 야자유, 팜유,  미강유가 주로 쓰이며, 쓰인  연료에 따라 고체지방과 불건성유를 사용한 경성비누, 반건성유를 일부 배합해서 만드는 연성비누 등으로 나눕니다.
+(S   
+     (VP  
+           (VP  
+                 (PP   
+                       (AP  비누/ncn+의/jcm)
+                       (PP   원료/ncn+유지/ncn+로/jca+는/jxc))
+                 (NP  
+                       (N 우지/ncn)+,/sp
+                       (N 야자유/ncn)+,/sp
+                       (N 팜유/ncn)+,/sp
+                       (NP  미강유/ncn+가/jcs))
+                 (ADVP  주로/mag)
+                 (V 쓰이/pvg+며/ecc))+,/sp
+           (VP  
+                 (VP  
+                       (PP   
+                             (AP  쓰이/pvg+ㄴ/etm)
+                             (PP   연료/ncn+에/jca))
+                       (V 따르/pvg+아/ecs))
+                 (PP   
+                       (NP  
+                             (AP  
+                                   (NP  고체/ncn+지방/ncn+과/jcj)
+                                   (NP  불건성유/ncn+를/jco)
+                                   (AP  사용/ncpa+하/xsv+ㄴ/etm))
+                             (N 경성/ncn+비누/ncn))+,/sp
+                       (NP  
+                             (AP  
+                                   (NP  반건성유/ncn+를/jco)
+                                   (N 일부/ncn)
+                                   (AP  (V 배합/ncpa+하/xsv+어서/ecs)
+                                         (AP  만들/pvg+는/etm)))
+                             (N 연성/ncn+비누/ncn))
+                       (PP   등/nbn+으로/jca))
+                 (V 나누/pvg+ㅂ니다/ef)))+./sf)
+
+
+; 화장비누는 비누 중에서 값도 비싸고 특성도 우수하며, 수용액은 알칼리성입니다.
+(S   
+     (VP  
+           (NP  화장/ncn+비누/ncn+는/jxc)
+           (PP   
+                 (AP  비누/ncn)
+                 (PP   중/nbn+에서/jca))
+           (VP  
+                 (NP  값/ncn+도/jxc)
+                 (V 비싸/paa+고/ecc))
+           (VP  
+                 (NP  특성/ncn+도/jxc)
+                 (V    우수/ncps+하/xsm+며/ecc))+,/sp
+           (VP  
+                 (NP  수용액/ncn+은/jxc)
+                 (V 알칼리성/ncn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 겔 상태이며 피마자유나 로진, 글리세린 등을 이용해 투명한 상태로 만든 것도 있습니다.
+(S   
+     (VP  
+           (VP  
+                 (AP  겔/ncn)
+                 (V    상태/ncn+이/jp+며/ecc))
+           (VP  
+                 (NP  피마자유/ncn+나/jcj)
+                 (N 로진/ncn)+,/sp
+                 (NP  글리세린/ncn   등/nbn+을/jco)
+                 (V    이용/ncpa+하/xsv+어/ecs))
+           (VP  
+                 (PP   
+                       (AP  투명/ncps+하/xsm+ㄴ/etm)
+                       (PP   상태/ncn+로/jca))
+                 (NP  
+                       (AP  만들/pvg+ㄴ/etm)
+                       (NP  것/nbn+도/jxc))
+                 (V 있/paa+습니다/ef)))+./sf)
+
+
+; 화장비누는 세수나 목욕용이므로, 그 원료에도 매우 주의를 기울인 비누입니다.
+(S   
+     (VP  
+           (NP  화장/ncn+비누/ncn+는/jxc)
+           (VP  
+                 (AP  세수/ncn+나/jcj)
+                 (V 목욕용/ncn+이/jp+므로/ecs))+,/sp
+           (VP  
+                 (AP  
+                       (PP   
+                             (AP  그/mmd)
+                             (PP   원료/ncn+에/jca+도/jxc))
+                       (ADVP  매우/mag)
+                       (NP  주의/ncn+를/jco)
+                       (AP  기울이/pvg+ㄴ/etm))
+                 (V 비누/ncn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 세탁비누는 비누 중에서 가장 값이 싸고 세척력이 크며, 찬물에 잘 녹고 빨리 헹구어집니다.
+(S   
+     (VP  
+           (NP  세탁/ncn+비누/ncn+는/jxc)
+           (PP   
+                 (AP  비누/ncn)
+                 (PP   중/nbn+에서/jca))
+           (VP  
+                 (ADVP  가장/mag)
+                 (NP  값/ncn+이/jcs)
+                 (V    싸/paa+고/ecc))
+           (VP  
+                 (NP  세척력/ncn+이/jcs)
+                 (V 크/paa+며/ecc))+,/sp
+           (VP  
+                 (PP   찬물/ncn+에/jca)
+                 (ADVP  잘/mag)
+                 (V 녹/pvg+고/ecc))
+           (VP  
+                 (ADVP  빠르/paa+이/xsa)
+                 (V    (V 헹구/pvg+어/ecx)
+                       (AUXP  지/px+ㅂ니다/ef))))+./sf)
+
+
+; 손이 거칠어지지 않게 하거나 빨래감을 상하게 하지 않아야 좋은 비누입니다.
+(S   
+     (VP  
+           (VP  
+                 (VP  
+                       (NP  손/ncn+이/jcs)
+                       (V    (V 거칠/paa+어/ecx+지/px+지/ecx)
+                             (AUXP  않/px+게/ecs)
+                             (V 하/pvg+거나/ecc)))
+                 (VP  
+                       (NP  빨래감/ncn+을/jco)
+                       (V (V 상하/pvg+게/ecs)
+                          (V 하/pvg+지/ecx)
+                          (AUXP  않/px+아야/ecs))))
+           (VP  
+                 (AP  좋/paa+ㄴ/etm)
+                 (V 비누/ncn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 물에 빨리 녹는 소금보다 설탕은 물에 천천히 녹지만 잘 녹여 보면 훨씬 많이 녹습니다.
+(S   
+     (VP  
+           (PP   
+                 (AP  
+                       (PP   물/ncn+에/jca)
+                       (ADVP  빠르/paa+이/xsa)
+                       (AP  녹/pvg+는/etm))
+                 (PP   소금/ncn+보다/jca))
+           (NP  설탕/ncn+은/jxc)
+           (VP  
+                 (PP   물/ncn+에/jca)
+                 (ADVP  천천히/mag)
+                 (V 녹/pvg+지만/ecs))
+           (VP  
+                 (ADVP  잘/mag)
+                 (V    (V 녹이/pvg+어/ecx)
+                       (AUXP  보/px+면/ecs)))
+           (VP  
+                 (ADVP  훨씬/mag)
+                 (ADVP  많/paa+이/xsa)
+                 (V 녹/pvg+습니다/ef)))+./sf)
+
+
+; 보통 200을 섞은 뒤, 사나흘이 지나서 설탕 한 숟갈 정도를 넣으면 큰 비눗방울을  만들 수 있습니다.
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (ADVP  보통/mag)
+                       (NP  200/nnc+을/jco)
+                       (AP  섞/pvg+은/etm))
+                 (N 뒤/ncn))+,/sp
+           (VP  
+                 (NP  사나흘/ncn+이/jcs)
+                 (V 지나/pvg+서/ecs))
+           (VP  
+                 (NP  
+                       (AP  설탕/ncn)
+                       (AP  한/nnc   숟갈/nbu)
+                       (NP  정도/ncn+를/jco))
+                 (V 넣/pvg+으면/ecs))
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  
+                                   (AP  크/paa+ㄴ/etm)
+                                   (NP  비눗방울/ncn+을/jco))
+                             (AP  만들/pvg+ㄹ/etm))
+                       (N 수/nbn))
+                 (V 있/paa+습니다/ef)))+./sf)
+
+
+; 설탕은 끈기가 있어 오래가는 비눗방울을 만들어 줄 뿐 아니라  아름다움을 더 잘 감상할 수 있게 해 줍니다.
+(S   
+     (VP  
+           (NP  설탕/ncn+은/jxc)
+           (VP  
+                 (VP  
+                       (NP  끈기/ncn+가/jcs)
+                       (V 있/paa+어/ecs))
+                 (VP  
+                       (NP  
+                             (AP  
+                                   (NP  
+                                         (AP  오래/mag+가/pvg+는/etm)
+                                         (NP  비눗방울/ncn+을/jco))
+                                   (AP  (V    만들/pvg+어/ecx)
+                                         (AP  주/px+ㄹ/etm)))
+                             (N 뿐/nbn))
+                       (V 아니/paa+라/ecs)))
+           (VP  
+                 (NP  
+                       (AP  
+                             (NP  아름다움/ncn+을/jco)
+                             (ADVP  더/mag)
+                             (ADVP  잘/mag)
+                             (AP  감상/ncpa+하/xsv+ㄹ/etm))
+                       (N 수/nbn))
+                 (V    (V 있/paa+게/ecx)
+                       (AUXP  하/px+어/ecx)
+                       (AUXP  주/px+ㅂ니다/ef))))+./sf)
+
+
+; 설탕으로 절인 식품은 오랫동안 썩지  않으며, 비눗방울도 오래 유지시킨다는 사실은  재미 있지요.
+(S   
+     (VP  
+           (NP  
+                 (AP  
+                       (NP  
+                             (AP  
+                                   (PP   설탕/ncn+으로/jca)
+                                   (AP  절이/pvg+ㄴ/etm))
+                             (NP  식품/ncn+은/jxc))
+                       (AP  
+                             (VP  
+                                   (N 오랫동안/ncn)
+                                   (V    (V 썩/pvg+지/ecx)
+                                         (AUXP  않/px+으며/ecs)))+,/sp
+                             (AP  
+                                   (NP  비눗방울/ncn+도/jxc)
+                                   (ADVP  오래/mag)
+                                   (AP  유지/ncpa+시키/xsv+ㄴ다/ef+는/etm))))
+                 (NP  사실/ncn+은/jxc))
+           (VP  
+                 (N 재미/ncn)
+                 (V 있/paa+지/ef+요/jxf)))+./sf)
+
+
+; 송진은 소나무과 등의 나무가 손상을  입었을 때 분비되는 발삼으로  무색투명하고 점성이 있는 액체입니다.
+(S   
+     (VP  
+           (NP  송진/ncn+은/jx)
+           (PP   
+                 (AP  
+                       (NP  
+                             (AP  소나무과/ncn   등/nbn+의/jcm)
+                             (NP  나무/ncn+가/jcs))
+                       (PP   
+                             (AP  
+                                   (NP  손상/ncn+을/jco)
+                                   (AP  입/pvg+었/ep+ㄹ/etm))
+                             (PP   때/ncn))
+                       (AP  분비/ncpa+되/xsv+는/etm))
+                 (PP   발삼/ncn+으로/jca))
+           (VP  
+                 (AP  
+                       (VP  무색/ncn+투명/ncps+하/xsm+고/ecc)
+                       (NP  점성/ncn+이/jcs)
+                       (AP  있/paa+는/etm))
+     (V 액체/ncn+이/jp+ㅂ니다/ef)))+./sf)
+
+
+; 이것에 수증기를 날려 보내서 테레빈유를 얻고 나면 로진이 고체로 남습니다.
+(S   
+     (VP  
+           (VP  
+                 (PP   이/mmd+것/nbn+에/jca)
+                 (NP  수증기/ncn+를/jco)
+                 (V    (V 날리/pvg+어/ecs)
+                       (V 보내/pvg+서/ecs)))
+           (VP  
+                 (NP  테레빈유/ncn+를/jco)
+                 (V    (V 얻/pvg+고/ecx)
+                       (AUXP  나/px+면/ecs)))
+           (VP  
+                 (NP  로진/ncn+이/jcs)
+                 (PP   고체/ncn+로/jca)
+                 (V 남/pvg+습니다/ef)))+./sf)
+
+
+; 성분은 로진이 70 정유는 18 물, 기타 불순물이 5이며, 그 중 송진산은 전체의 60 차지합니다.
+(S   
+     (VP  
+           (NP  성분/ncn+은/jxc)
+           (VP  
+                 (NP  로진/ncn+이/jcs)
+                 (V 70/nnc))
+           (VP  
+                 (NP  정유/ncn+는/jxc)
+                 (V 18/nnc))
+           (VP  
+                 (N 물/ncn)+,/sp
+                 (NP  
+                       (AP  기타/ncn) 
+                       (NP  불순물/ncn+이/jcs))
+                 (V 5/nnc+이/jp+며/ecc))+,/sp
+           (VP  
+                 (NP  
+                       (AP  그/mmd  중/nbn)
+                       (NP  송진산/ncn+은/jxc))
+                 (NP  
+                       (AP  전체/ncn+의/jcm)
+                       (NP  60/nnc))
+                 (V 차지/ncpa+하/xsv+ㅂ니다/ef)))+./sf)
+</tdmsfile>

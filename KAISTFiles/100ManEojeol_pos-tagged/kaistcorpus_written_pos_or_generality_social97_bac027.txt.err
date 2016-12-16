@@ -1,0 +1,117 @@
+notag:59	40	6	0	*	고	.
+notag:87	4	3	0	*		+
+notag:122	13	7	0	*	고	.
+notag:228	4	7	0	*	으	.
+notag:243	4	7	0	*	ㄴ	.
+notag:264	15	8	0	*		.
+notag:290	13	7	0	*	ㄴ	.
+notag:304	5	7	0	*	으나	.
+notag:335	4	8	0	*	지만	.
+notag:345	5	8	0	*		.
+notag:351	10	2	0	*	고ecc	.
+replace tag:351	10	2	0	*	고	ecc	.
+notag:371	12	7	0	*	주	.
+notag:462	4	7	0	*	기	.
+notag:524	7	7	0	*	주	.
+notag:564	5	1	0			-
+notag:746	4	8	0	*		.
+notag:791	7	7	0	*	ㄹ	.
+notag:1145	8	2	0	*	ㄴ은etm	.
+replace tag:1145	8	2	0	*	ㄴ은	etm	.
+notag:1287	4	7	0	*	었	.
+notag:1294	3	7	0	*	가	.
+notag:1355	1	2	0	*		.
+notag:1400	10	7	0	*	보	.
+notag:1414	28	7	0	*	어	.
+notag:1415	7	6	0	*		.
+notag:1420	10	6	0	*		.
+notag:1439	1	5	0	*	균	.
+notag:1465	10	6	0	*	ㄴ	.
+notag:1470	20	8	0	*		.
+notag:1504	14	7	0	*	로	.
+notag:1519	1	1	0	이렇게	이렇pad	+
+replace tag:1519	1	1	0	이렇게	이렇	pad	+
+notag:1519	1	2	0	*		.
+notag:1569	4	7	0	*	ㄴ	.
+notag:1593	11	8	0	*	지	.
+notag:1664	3	7	0	*	의	.
+notag:1697	10	7	0	*	에	.
+notag:1701	3	7	0	*	종	.
+notag:1800	16	6	0	*	육지	.
+notag:1836	24	2	0	*	에서jca	+
+replace tag:1836	24	2	0	*	에서	jca	+
+notag:1836	24	3	0	*		.
+notag:1860	2	7	0	*	도	.
+notag:1915	14	6	0	*	시험	.
+notag:1994	14	7	0	*	ㄴ	.
+notag:2067	14	7	0	*		.
+notag:2069	1	5	0	*	민들레	.
+notag:2144	16	8	0	*		.
+notag:2177	9	8	0	*	다	.
+notag:2384	6	2	0	*	로jca	.
+replace tag:2384	6	2	0	*	로	jca	.
+notag:2461	15	7	0	*	다	.
+notag:2471	14	7	0	*	이	.
+notag:2511	3	7	0	*		.
+notag:2587	6	2	0	*	인xsn	.
+replace tag:2587	6	2	0	*	인	xsn	.
+notag:2684	6	4	0	*	은etm	+
+replace tag:2684	6	4	0	*	은	etm	+
+notag:2684	6	5	0	*		.
+notag:2748	8	7	0	*	면	.
+notag:2750	4	1	0	한국식품사전	한국식품사전	-
+notag:2778	10	7	0	*	이	.
+notag:2882	11	8	0	*	는	.
+notag:2905	3	7	0	*	은	.
+notag:2974	6	7	0	*	고	.
+notag:3007	5	8	0	*	라	.
+notag:3033	5	8	0	*	ㄴ	.
+notag:3153	3	5	0	*		.
+notag:3199	8	7	0	*	의	.
+notag:3239	8	7	0	*	도	.
+notag:3486	2	7	0	*	도	.
+notag:3611	9	8	0	*	ㄴ	.
+notag:3636	28	7	0	*	이	.
+notag:3638	2	6	0	*	라	.
+notag:3706	1	7	0	*	을	.
+notag:3726	9	7	0	*	하	.
+notag:3801	6	4	0	*	물질	.
+notag:3887	9	3	0	*	가축	+
+notag:3887	9	4	0	*	ncn	+
+replace tag:3887	9	4	0	*		ncn	+
+notag:3887	9	5	0	*		.
+notag:3889	3	7	0	*	에	.
+notag:3906	11	7	0	*	으로	.
+notag:3943	5	6	0	*		.
+notag:3991	15	7	0	*	이	.
+notag:3992	8	6	0	*	었	.
+notag:4050	11	8	0	*		.
+notag:4088	6	7	0	*	는	.
+notag:4111	2	6	0	*		.
+notag:4137	4	7	0	*	히	.
+notag:4174	7	7	0	*	만	.
+notag:4184	3	7	0	*	의	.
+notag:4187	6	7	0	*		.
+notag:4202	3	5	0	*	에서	.
+notag:4203	15	8	0	*		.
+notag:4235	14	2	0	*		.
+notag:4254	16	7	0	*	ㄴ	.
+notag:4260	3	5	0	*	ㄹ지라	.
+notag:4287	3	8	0	*		.
+notag:4318	10	5	0	*	검은부리까치	.
+notag:4322	11	8	0	*	는	.
+notag:4351	5	3	0	*	ㄴetm	+
+replace tag:4351	5	3	0	*	ㄴ	etm	+
+notag:4351	5	4	0	*		.
+notag:4361	10	7	0	*	던	.
+notag:4394	11	7	0	*	내	.
+notag:4418	4	7	0	*	았	.
+notag:4442	4	8	0	*	기	.
+notag:4473	1	7	0	*	에	.
+notag:4504	8	7	0	*	ㄴ가	.
+notag:4562	6	7	0	*	를	.
+notag:4576	4	1	0	장터순례	장터순례nq	-
+replace tag:4576	4	1	0	장터순례	장터순례	nq	-
+notag:4620	12	8	0	*		.
+notag:4656	9	7	0	*	이나	.
+notag:4658	4	6	0	*	부족	.

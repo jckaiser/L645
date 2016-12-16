@@ -1,0 +1,10 @@
+notag:287	15	3	0	*	다	.
+notag:342	15	2	0	*	아ecs	+
+replace tag:342	15	2	0	*	아	ecs	+
+notag:342	15	3	0	*		.
+notag:376	8	3	0	*		+
+notag:615	5	1	0			-
+notag:681	8	5	0	*	ㅂ니다	.
+notag:747	3	1	0	그건	그거npd	+
+replace tag:747	3	1	0	그건	그거	npd	+
+notag:747	3	2	0	*		.

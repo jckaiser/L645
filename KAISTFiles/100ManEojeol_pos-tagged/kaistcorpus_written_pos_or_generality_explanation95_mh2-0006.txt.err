@@ -1,0 +1,8 @@
+notag:412	2	2	0	*		+
+notag:426	8	2	0	*	중심	+
+notag:525	4	3	0	*		+
+notag:725	10	2	0	*	같.paa	+
+replace tag:725	10	2	0	*	같.	paa	+
+notag:725	10	3	0	*		.
+notag:984	12	2	0	*		+
+notag:1022	12	3	0	*		+

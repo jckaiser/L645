@@ -1,0 +1,37 @@
+notag:377	1	1	0			-
+notag:377	2	1	0			-
+notag:377	3	1	0			-
+notag:377	4	1	0	<10월	6일>	-
+notag:377	5	1	0			-
+notag:377	6	1	0			-
+notag:393	10	3	0	*	주ncn	+
+replace tag:393	10	3	0	*	주	ncn	+
+notag:393	10	4	0	*		.
+notag:407	12	2	0	*		+
+notag:432	4	1	0	문체공보위원회와	문체공보위원회nq	+
+replace tag:432	4	1	0	문체공보위원회와	문체공보위원회	nq	+
+notag:432	4	2	0	*		.
+notag:432	5	1	0	보건복지위원회의	보건복지위원회nq	+
+replace tag:432	5	1	0	보건복지위원회의	보건복지위원회	nq	+
+notag:432	5	2	0	*		.
+notag:434	6	2	0	*	사	+
+notag:643	10	2	0	*		+
+notag:651	4	2	0	*		+
+notag:651	12	2	0	*	면ecs	.
+replace tag:651	12	2	0	*	면	ecs	.
+notag:677	2	3	0	*		.
+notag:727	1	1	0			-
+notag:727	2	1	0			-
+notag:727	3	1	0			-
+notag:727	4	1	0	<11월	5일>	-
+notag:727	5	1	0			-
+notag:727	6	1	0			-
+notag:727	7	1	0			-
+notag:727	8	1	0			-
+notag:727	9	1	0			-
+notag:993	2	2	0	*	어ecs	+
+replace tag:993	2	2	0	*	어	ecs	+
+notag:993	2	3	0	*		.
+notag:1004	25	1	0	한해평균	한.nnc	+
+replace tag:1004	25	1	0	한해평균	한.	nnc	+
+notag:1004	25	2	0	*		.

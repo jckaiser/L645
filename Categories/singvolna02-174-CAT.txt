@@ -1,0 +1,3033 @@
+NP	AP	
+AP	pvg	etm	
+AP	V	
+AP	paa	etm	
+AP	AP	
+AP	nbu	
+NP	ncn	jco	
+AP	pvg	etm	,sp	
+IP	maj	
+PP	ncn	xsn	jca	
+AP	V	
+AP	px	etm	
+N	ncn	.sf	
+IP	maj	
+NP	npp	jxc	
+VP	NP	
+ADVP	mag	
+V	paa	ecc	,sp	
+PP	npd	jca	
+ADVP	mag	
+AP	mag	pvg	etm	
+NP	ncn	jco	
+AP	V	
+AP	px	ecx	px	etm	
+NP	nbn	jxc	
+V	paa	ef	jxf	?sf	
+AP	V	
+V	paa	ecc	
+V	ncps	xsm	ecc	
+V	V	
+AUXP	px	ecc	
+AP	mag	pvg	etm	
+NP	ncn	jco	
+NP	pvg	etn	
+V	pvg	ecs	jxc	
+AP	PP	
+AP	paa	etm	
+PP	ncn	jca	
+V	ncpa	xsv	ecs	
+V	pvg	ef	.sf	
+VP	NP	
+V	paa	ecs	
+VP	PP	
+V	pvg	ecs	
+AP	pvg	etm	
+PP	ncn	
+NP	AP	
+NP	ncn	jco	
+V	pvg	ecs	
+PP	NP	
+PP	ncn	jca	
+NP	ncn	jco	
+V	pvg	ecc	
+ADVP	mag	
+V	V	
+AUXP	px	ecs	
+NP	ncn	jcs	
+V	V	
+AUXP	px	ef	.sf	
+NP	AP	
+NP	ncn	xsn	jcs	
+NP	NP	
+N	ncn	
+NP	nbn	jco	
+AP	V	
+AP	px	etm	
+PP	ncn	
+V	pvg	ecs	jxc	
+AUXP	px	ecc	
+VP	NP	
+V	pvg	ecs	
+V	pvg	ecs	
+NP	ncn	jxc	
+NP	AP	
+NP	ncn	jco	
+V	V	
+AUXP	px	ef	.sf	
+V	V	
+V	pvg	ecx	
+AUXP	px	ecs	
+NP	ncn	jco	
+ADVP	mag	
+V	V	
+V	pvg	ef		
+V	V	
+AUXP	px	ep	ef	.sf	
+ADVP	mag	
+NP	AP	
+NP	ncn	jxc	
+NP	ncn	jxc	
+V	paa	ecs	
+NP	AP	
+NP	ncn	jco	
+AP	ncpa	xsv	etm	
+PP	nbn	jxc	
+ADVP	mag	
+NP	ncn	jcc	
+V	V	
+AUXP	px	ef	.sf	
+VP	PP	
+V	pvg	ecs	
+PP	AP	
+PP	nbn	jca	
+AP	paa	etm	
+NP	NP	
+NP	ncn	jcs	
+ADVP	mag	
+V	V	
+NP	px	etn	
+PP	nbn	jca	
+VP	NP	
+ADVP	mag	
+V	pvg	ecx	px	ecc	
+ADVP	mag	
+AP	ncpa	xsv	etm	
+PP	nbn	
+NP	ncn	jco	
+V	V	
+AUXP	px	ef	.sf	
+NP	AP	
+N	ncn	ncn	
+PP	nbn	jca	
+NP	AP	
+N	nbn	
+V	paa	ecs	
+NP	ncn	jcj	
+NP	ncn	jxc	
+PP	ncn	jca	
+N	paa	etn	
+PP	nbn	jca	
+AP	N	
+AP	pvg	etm	
+N	nbn	
+V	paa	ef	.sf	
+NP	AP	
+NP	ncn	jcj	
+AP	ncn	
+PP	ncn	jca	jxc	
+AP	pvg	ecx	px	etm	
+N	nbn	
+V	paa	ecs	jxc	
+NP	AP	
+NP	ncn	jcc	
+AP	pvg	etm	
+N	nbn	
+V	paa	ef	jxf	.sf	
+NP	ncn	jxc	
+ADVP	mag	
+V	pvg	ecc	
+NP	ncn	jxc	
+ADVP	mag	
+V	pvg	ep	ecs	
+AP	ADVP	
+ADVP	mag	
+AP	pvg	ecx	px	etm	
+NP	ncn	jcs	
+V	paa	ef	.sf	
+N	ncn	
+AP	ncpa	xsv	etm	
+NP	AP	
+N	ncn	
+NP	nbn	jxc	
+ADVP	mag	
+V	paa	ecs	
+V	pvg	ecs	
+PP	AP	
+PP	ncn	jca	
+NP	AP	
+NP	ncn	jcs	
+AP	pvg	ep	etm	
+NP	nbn	jxc	
+N	paa	etn	
+V	nbn	jp	ef	jxf	.sf	
+PP	ncn	jca	
+AP	V	
+AP	px	etm	
+PP	AP	
+PP	ncn	jxc	
+AP	N	
+NP	AP	
+NP	nbu	
+AP	ncpa	xsv	etm	
+NP	ncn	jxc	
+PP	ncn	jca	
+NP	ncn	jco	
+V	pvg	ecs	
+V	pvg	ecs	,sp	
+NP	ncn	jcs	
+ADVP	mag	
+V	V	
+AUXP	px	ecx	
+AP	px	etm	
+NP	ncn	jcs	
+V	paa	ef	.sf	
+NP	AP	
+AP	paa	etm	
+NP	ncn	jcj	
+NP	AP	
+NP	nbn	xsn	jcs	
+AP	V	
+AP	paa	ecx	px	etm	
+PP	ncn	jxc	jxc	
+NP	ncn	jcs	
+ADVP	mag	
+V	V	
+AUXP	px	ef	.sf	
+NP	AP	
+NP	ncn	jcj	
+NP	ncn	jco	
+V	ncpa	xsv	ecs	
+V	pvg	ecc	
+AP	PP	
+PP	ncn	jca	
+AP	V	
+AP	pvg	ef	etm	
+NP	nbn	jxc	
+V	pvg	ep	ef	.sf	
+VP	NP	
+ADVP	paa	xsa	
+V	pvg	ecs	
+V	pvg	ecs	
+VP	NP	
+PP	ncn	jca	
+V	pvg	ecs	
+AP	NP	
+AP	pvg	etm	
+NP	nbn	jco	
+AP	pvg	etm	
+NP	nbn	
+AP	paa	ep	ef	etm	
+N	ncn	
+PP	nbn	jca	
+NP	AP	
+NP	ncn	jcs	
+AP	V	
+AP	pvg	ecx	px	etm	
+N	nbn	
+V	paa	ef	jxf	.sf	
+NP	ncn	jcs	
+ADVP	mag	
+NP	AP	
+NP	nbn	jco	
+AP	paa	ecx	px	ef	jcr	jxc	
+NP	ncn	jco	
+V	pvg	ecs	
+AP	mma	
+AP	ncn	
+NP	ncn	jco	
+V	pvg	ef	ef	jxf	?sf	
+NP	AP	
+NP	ncn	ncn	jco	
+V	pvg	ecs	
+V	pvg	ecs	
+NP	AP	
+NP	ncn	jco	
+AP	pvg	etm	
+NP	nbn	jxc	
+ADVP	mag	
+V	ncn	jp	ef	.sf	
+AP	V	
+AP	ncpa	xsv	etm	
+NP	nbn	jco	
+ADVP	mag	
+AP	pvg	ecx	px	etm	
+NP	nbn	jxc	
+AP	ADVP	
+NP	npp	jcs	
+AP	ncpa	xsv	ecs	etm	
+PP	ncn	jct	
+NP	AP	
+NP	ncn	jcs	
+AP	paa	etm	
+NP	nbn	jcc	
+V	paa	ef	jxf	?sf	
+NP	npp	jcs	
+NP	AP	
+NP	nbu	
+NP	pvg	etn	jxc	
+AP	pvg	ep	ep	etm	
+NP	ncn	xsn	jxc	
+NP	AP	
+NP	ncn	jcs	
+V	ncps	xsm	ecc	
+V	ncps	xsm	ecs	
+NP	pvg	etn	jcs	
+AP	paa	ep	etm	
+V	nbn	ef	.sf	
+NP	ncn	jxc	
+PP	ncn	jca	jca	
+NP	NP	
+NP	ncn	jcs	
+ADVP	ncn	xsn	jca	
+V	V	
+AUXP	px	ecs	
+NP	AP	
+NP	ncn	jcs	
+V	V	
+AUXP	px	ecs	
+NP	AP	
+NP	ncn	jcs	
+V	V	
+AUXP	px	ef	.sf	
+V	pad	ecx	
+AUXP	px	ecs	
+NP	NP	
+NP	ncn	jcs	
+ADVP	mag	
+AP	V	
+AP	pvg	ecx	px	etm	
+NP	AP	
+NP	ncn	jco	
+AP	pvg	etm	
+N	nbn	
+V	V	
+AUXP	px	ef	.sf	
+NP	ncn	jco	
+ADVP	mag	
+V	paa	ecs	
+V	pvg	ecc	
+ADVP	mag	
+ADVP	paa	xsa	
+V	pvg	ecs	
+NP	ncn	jxc	
+ADVP	mag	
+ADVP	mag	
+V	pvg	ecx	
+AUXP	px	ef	.sf	
+PP	ncn	jca	
+NP	ncn	jco	
+ADVP	ncn	xsn	
+V	pvg	ecc	
+NP	ncn	jcs	
+ADVP	mag	
+ADVP	mag	
+ADVP	mag	
+NP	pvg	ecx	px	ef	jco	
+V	V	
+AUXP	px	ef	.sf	
+NP	ncn	jxc	
+PP	ncn	jca	
+ADVP	mag	
+V	pvg	ecs	,sp	
+NP	ncn	jco	
+PP	ncn	jca	
+V	pvg	ecs	
+PP	AP	
+PP	ncn	jca	
+V	pvg	ecx	px	ecc	
+V	pvg	ecs	
+ADVP	mag	
+ADVP	paa	xsa	
+V	pvg	ef	.sf	
+ADVP	mag	
+NP	ncn	jxc	
+AP	AP	
+AP	nq	jcj	
+AP	nq	jcm	
+PP	ncn	jca	jxc	
+PP	AP	
+PP	nbn	jca	
+V	pvg	ecs	
+AP	ADVP	
+ADVP	mag	
+AP	ncn	jp	etm	
+AP	ncn	ncn	
+PP	1000nnc	nbu	jxc	
+AP	ncpa	xsv	ep	etm	
+VP	V	
+V	pvg	ef	.sf	
+VP	PP	
+V	pvg	ecs	
+ADVP	mag	
+NP	ncn	xsn	jca	
+NP	ncn	jco	
+AP	pvg	etm	
+NP	ncn	jxc	
+AP	nq	sl	Chevreulf	,sp	1786nnc	sr	jp	ef	etm	
+AP	nq	jcm	
+V	ncn	jp	ef	.sf	
+NP	npp	jxc	
+AP	NP	
+NP	ncn	jco	
+AP	pvg	etm	
+PP	nbn	jca	
+NP	AP	
+NP	ncn	jcj	
+NP	ncn	jco	
+AP	paa	etm	
+PP	ncn	jca	
+AP	V	
+AP	pvg	HH	
+NP	ncn	jco	
+V	pvg	ecs	
+V	pvg	ecs	
+VP	NP	
+V	pvg	ep	ef	.sf	
+AP	V	
+AP	ncpa	xsv	etm	
+NP	ncn	jxc	
+PP	AP	
+PP	ncn	jca	
+V	paa	ecs	jxc	
+ADVP	mag	
+AP	pvg	etm	
+AP	ncps	xsm	etm	
+NP	nbn	jcc	
+V	pvg	ep	ef	.sf	
+IP	maj	
+PP	AP	
+AP	ncn	ncn	
+PP	nbn	jca	
+NP	N	
+IP	mag	
+AP	mmd	
+NP	ncn	jcs	
+PP	ncn	ncn	jca	
+V	pvg	ecc	
+VP	ADVP	
+V	pvg	ecx	
+AUXP	px	ecs	,sp	
+PP	nq	jca	
+PP	ncn	jca	
+PP	ncn	jca	
+NP	ncn	jco	
+V	ncpa	xsv	ep	ef	.sf	
+NP	PP	
+NP	ncn	jco	
+N	ncpa	xsv	etn	
+AP	ncpa	xsv	etm	
+NP	nbn	jxc	
+V	1967nnc	nbu	jxc	jp	ecc	,sp	
+PP	AP	
+PP	ncn	jct	
+ADVP	mag	
+NP	AP	
+NP	ncn	jxc	
+ADVP	ncn	xsa	
+V	ncn	pvg	ep	ef	.sf	
+AP	NP	
+AP	ncpa	xsv	etm	
+N	nbn	
+NP	AP	
+NP	nbu	jcs	
+V	pvg	ep	ecs	
+VP	NP	
+V	ncpa	xsv	ef	ecc	
+AP	PP	
+AP	pvg	ef	etm	
+NP	nbn	jxc	
+N	pvg	ecx	px	etn	
+V	paa	ef	.sf	
+AP	npd	xsn	jcm	
+NP	ncn	jxc	
+ADVP	mag	
+V	pvg	ecx	px	ecx	
+AUXP	px	ecs	
+AP	NP	
+AP	ncn	pvg	etm	
+PP	ncn	jca	
+V	V	
+AUXP	px	ep	ef	.sf	
+PP	AP	
+PP	ncn	jca	
+V	pvg	ecs	
+NP	AP	
+NP	ncn	jco	
+PP	ncn	jca	
+V	pvg	ecs	
+VP	PP	
+PP	ncn	jca	
+V	pvg	ef	
+PP	jcr	jcc	
+NP	AP	
+NP	ncn	jco	
+PP	ncn	jca	
+V	pvg	ep	ecs	
+NP	ncn	jxc	
+ADVP	mag	
+AP	PP	
+AP	V	
+AP	px	ep	etm	
+PP	ncn	jxc	jxc	
+V	pvg	ep	ef	
+AP	jcr	etm	
+NP	ncn	jco	
+AP	V	
+AP	px	etm	
+NP	nbn	jcs	
+V	paa	ef	?sf	
+PP	npd	jca	
+NP	AP	
+NP	ncn	jxc	
+PP	ncn	jca	
+AP	ncps	xsm	ef	etm	
+NP	nbn	jco	
+PP	AP	
+PP	ncn	jca	
+AP	pvg	etm	
+PP	ncn	jca	
+ADVP	ncn	jxc	
+NP	ncn	jco	
+V	pvg	ecs	
+AP	V	
+AP	pvg	etm	
+N	nbn	
+V	paa	ef	.sf	
+NP	AP	
+AP	ncps	xsm	etm	
+NP	ncn	jxc	
+VP	NP	
+PP	ncn	jca	
+V	pvg	ecs	
+V	pvg	ecs	
+NP	AP	
+NP	ncn	jcs	
+ADVP	mag	
+AP	ncpa	xsv	ef	etm	
+AP	ncn	jcm	
+NP	ncn	jco	
+AP	V	
+AUXP	px	ecs	
+AP	pvg	etm	
+N	nbn	
+V	paa	ef	.sf	
+AP	ncn	
+NP	ncn	jco	
+AP	pvg	etm	
+N	nbn	
+AP	paa	etm	
+NP	ncn	jcs	
+V	pad	ecs	
+V	ncps	xsm	ef	
+V	px	ecc	
+AP	pvg	etm	
+NP	ncn	jxc	
+V	paa	ep	ecs	
+VP	NP	
+V	ncn	jp	ef	.sf	
+NP	AP	
+AP	ncps	xsm	etm	
+NP	ncn	jxc	
+NP	AP	
+AP	ncn	jcm	
+NP	ncn	nbn	jxc	
+V	paa	ecs	
+PP	ncn	jxc	
+AP	pvg	ecx	px	etm	
+N	nbn	
+PP	ncn	jca	
+NP	ncn	jco	
+V	pvg	ef	.sf	
+IP	maj	
+PP	N	
+N	ncn	,sp	
+N	ncn	
+PP	nbn	jca	
+V	paa	ecs	
+PP	ncn	jca	
+V	pvg	ecs	
+NP	AP	
+N	ncn	,sp	
+NP	AP	
+N	ncn	,sp	
+NP	AP	
+N	ncn	ncn	
+NP	nbn	jco	
+V	pvg	ecc	
+NP	ncn	jco	
+V	paa	ecx	
+AUXP	px	ecc	
+NP	ncn	ncn	jco	
+V	ncpa	xsv	ef	ecs	
+V	paa	ef	jxf	?sf	
+ADVP	mag	
+PP	1956nnc	nbu	
+PP	nq	jca	
+AP	pvg	etm	
+PP	nq	jca	
+AP	NP	
+NP	ncn	jco	
+AP	pvg	etm	
+VP	V	
+V	ncpa	xsv	ep	ef	.sf	
+PP	AP	
+PP	nbn	jca	
+NP	AP	
+AP	ncn	
+NP	ncn	jxc	
+AP	PP	
+AP	pvg	etm	
+NP	ncn	jcs	
+ADVP	mag	
+V	paa	ecs	
+PP	NP	
+PP	ncn	jca	
+V	pvg	ecs	
+NP	ncn	jco	
+V	pvg	ecs	
+NP	ncn	jcj	
+NP	ncn	jco	
+V	ncpa	xsv	ef	.sf	
+PP	AP	
+PP	ncn	jxc	
+NP	AP	
+NP	ncn	jco	
+AP	ncpa	xsv	etm	
+N	nbn	
+AP	paa	etm	
+NP	ncn	jcs	
+V	paa	ecs	,sp	
+NP	npp	xsn	jxc	
+AP	N	
+PP	ncn	jca	
+AP	pvg	etm	
+N	nbn	
+AP	paa	etm	
+AP	ncps	xsm	etm	
+PP	ncn	jca	
+V	pvg	ecx	
+AUXP	px	ep	ef	.sf	
+VP	PP	
+V	pvg	ecs	
+PP	ncn	jca	
+NP	AP	
+NP	ncn	jcs	
+AP	paa	etm	
+PP	nbn	jca	
+V	ncps	xsv	ecs	
+V	pvg	ef	.sf	
+PP	AP	
+PP	ncn	jca	
+ADVP	ncn	jxc	
+NP	pvg	etn	jco	
+AP	paa	ecx	px	etm	
+NP	ncn	xsn	jxc	
+VP	ADVP	
+V	paa	ecs	
+AP	PP	
+AP	pvg	etm	
+PP	nbn	
+NP	ncn	jcs	
+V	pvg	ecs	
+NP	AP	
+NP	nbn	jxc	
+V	pvg	ecc	
+V	V	
+V	pvg	ef	.sf	
+AP	ADVP	
+AP	pvg	etm	
+N	ncn	
+NP	ncn	xsn	jxc	
+PP	AP	
+PP	ncn	jca	
+V	pvg	ecs	
+NP	AP	
+NP	ncn	jco	
+V	pvg	ef	.sf	
+AP	NP	
+AP	pvg	ecx	px	etm	
+PP	ncn	jca	
+NP	pvg	etn	jxc	
+V	pvg	ecc	
+PP	AP	
+PP	ncn	jca	jxc	
+NP	AP	
+AP	ncn	
+NP	ncn	jco	
+VP	NP	
+V	pvg	ecc	
+NP	pvg	etn	jxc	
+V	pvg	ef	.sf	
+V	ncpa	xsv	ecs	
+AP	NP	
+ADVP	mag	
+AP	V	
+AP	pvg	etm	
+N	nbn	
+AP	paa	etm	
+NP	ncn	jco	
+V	pvg	ep	ef	.sf	
+N	ncn	
+NP	ncn	jcs	
+PP	AP	
+AP	pvg	etm	
+PP	ncn	
+AP	pvg	etm	
+NP	ncn	jco	
+ADVP	mag	
+V	ncpa	xsv	ecs	jxc	
+VP	ADVP	
+V	pvg	ef	.sf	
+PP	AP	
+PP	ncn	jca	
+NP	AP	
+NP	ncn	jco	
+NP	AP	
+NP	nbu	
+V	pvg	ecs	
+NP	AP	
+NP	ncn	jco	
+PP	ncn	jca	
+V	pvg	ecs	
+V	pvg	ef	.sf	
+ADVP	mag	
+AP	NP	
+AP	paa	etm	
+NP	ncn	jxc	
+AP	V	
+AP	pvg	etm	
+N	nbn	
+V	paa	ecs	
+V	V	
+AUXP	px	ep	ef	.sf	
+AP	ncps	xsm	etm	
+N	nbn	
+NP	NP	
+V	paa	ecs	
+V	pvg	ecs	,sp	
+AP	NP	
+PP	ncn	jca	
+NP	mmd	nbn	jco	
+AP	V	
+AP	pvg	etm	
+NP	ncn	jcs	
+V	paa	ecs	
+NP	ncn	jcs	
+V	paa	ecs	
+V	pvg	ecx	px	ecs	
+V	pvg	ep	ef	.sf	
+AP	PP	
+NP	ncn	jco	
+AP	pvg	etm	
+NP	ncn	jxc	
+NP	ncn	jco	
+PP	AP	
+PP	ncn	jca	
+ADVP	mag	
+V	pvg	ecx	
+AUXP	px	ecc	
+ADVP	mag	
+ADVP	paa	xsa	
+V	pvg	ef	.sf	
+AP	20nnc	lsu	
+PP	NP	
+PP	ncn	jca	
+AP	pvg	etm	
+NP	ncn	ncn	
+VP	PP	
+NP	ncn	jca	
+N	ncpa	xsv	etn	sr	
+NP	8nnc	
+V	pvg	ecs	
+V	pvg	ef	.sf	
+AP	NP	
+PP	ncn	jca	
+NP	ncn	jco	
+AP	pvg	etm	
+PP	ncn	,sp	
+NP	AP	
+AP	nbu	
+AP	ncn	jcm	
+NP	ncn	jco	
+V	pvg	ecs	
+AP	NP	
+AP	pvg	etm	
+NP	ncn	jco	
+AP	pvg	etm	
+NP	nbn	jxc	
+V	paa	ef	.sf	
+NP	ncn	jco	
+V	ncpa	xsv	ecs	
+AP	NP	
+AP	pvg	etm	
+N	ncn	,sp	
+NP	ncn	xsn	jxc	
+AP	ADVP	
+NP	AP	
+NP	ncn	jco	
+AP	V	
+AP	pvg	etm	
+PP	ncn	jca	
+PP	ncn	xsn	jca	
+V	pvg	ecx	
+AUXP	px	ep	ef	.sf	
+IP	maj	
+AP	PP	
+AP	pvg	etm	
+AP	ncn	
+NP	ncn	jco	
+AP	pvg	etm	
+N	ncn	
+AP	NP	
+AP	pvg	etm	
+AP	nbn	jcm	
+VP	ncn	jcs	
+V	pvg	ecx	
+AUXP	px	ecs	
+ADVP	ncn	xsa	
+NP	ncn	jco	
+V	pvg	ep	ef	.sf	
+VP	NP	
+V	paa	ecs	
+VP	PP	
+NP	ncn	jco	
+NP	pvg	etn	jcs	
+V	paa	ecc	,sp	
+PP	AP	
+PP	ncn	jca	
+AP	V	
+AP	pvg	etm	
+NP	ncps	jcs	
+V	paa	ef	.sf	
+VP	NP	
+V	ncpa	xsv	ecs	
+VP	NP	
+V	pvg	ecs	
+NP	AP	
+NP	ncn	jxc	
+AP	ncpa	xsv	ep	etm	
+PP	nbn	jca	
+ADVP	mag	
+NP	AP	
+NP	ncn	jco	
+AP	ncpa	xsv	etm	
+NP	ncps	jcs	
+V	paa	ecx	
+AUXP	px	ef	.sf	
+V	ncps	xsm	ecs	
+AP	PP	
+AP	paa	etm	
+NP	ncn	jco	
+AP	pvg	etm	
+NP	nbn	jxc	
+V	pvg	ecx	
+AUXP	px	ecc	
+NP	AP	
+NP	ncn	jcs	
+ADVP	ncn	jxc	
+PP	ncn	ncn	jca	
+AP	ncpa	xsv	etm	
+NP	nbn	jxc	
+AP	paa	etm	
+V	nbn	jp	ef	
+AP	pvg	etm	
+NP	nbn	jco	
+V	pvg	ecx	jxc	
+AUXP	px	ef	.sf	
+VP	NP	
+PP	ncn	jca	
+V	pvg	ecc	
+AP	AP	
+AP	nbu	
+AP	ncn	jcm	
+AP	ncn	
+AP	ncn	jco	
+AP	V	
+AP	px	etm	
+NP	nbn	jxc	
+AP	paa	etm	
+V	nbn	ef	.sf	
+NP	ncn	jcj	
+PP	ncn	jct	
+ADVP	paa	xsa	
+AP	AP	
+AP	nbu	
+AP	ncn	jcm	
+AP	ncn	
+NP	ncn	jco	
+AP	V	
+V	pvg	ecx	
+AP	px	etm	
+NP	nbn	jxc	
+V	ncn	paa	ef	jxf	.sf	
+AP	AP	
+AP	nbu	
+AP	ncn	jcm	
+NP	ncn	jco	
+V	pvg	ecs	
+NP	AP	
+AP	ncn	jcm	
+NP	ncn	jcs	
+NP	ADVP	
+AP	paa	etm	
+NP	ncn	jco	
+AP	pvg	etm	
+N	nbn	
+VP	paa	ef	
+V	pvg	ecx	
+AUXP	px	ef	.sf	
+PP	ncn	jca	jxc	
+PP	AP	
+AP	ncn	
+PP	ncn	jca	
+PP	%su	
+AP	pvg	etm	
+NP	nbn	jxc	
+V	paa	ecc	,sp	
+PP	npd	jca	jxc	
+AP	PP	
+PP	nbn	jca	
+PP	AP	
+AP	ncn	jcm	
+PP	ncn	jca	
+AP	V	
+AP	px	etm	
+NP	nbn	jcs	
+AP	paa	etm	
+N	nbn	
+V	pvg	ef	.sf	
+AP	NP	
+AP	60nnc	%su	jp	etm	
+AP	AP	
+AP	ncn	jcm	
+NP	ncn	jco	
+V	pvg	ecs	
+NP	AP	
+NP	ncn	jcs	
+ADVP	mag	
+V	pvg	ecx	px	ecc	
+ADVP	mag	
+NP	pvg	ef	jco	
+PP	ncn	jca	
+V	pvg	ecs	
+V	pvg	ecx	
+AUXP	px	ef	.sf	
+VP	NP	
+V	pvg	ecs	
+NP	AP	
+NP	ncn	jco	
+V	pvg	ecs	
+AP	NP	
+ADVP	mag	
+ADVP	mag	
+AP	pvg	ecx	px	etm	
+NP	ncn	jco	
+AP	pvg	etm	
+N	nbn	
+V	paa	ep	ef	?sf	
+NP	ncn	jcs	
+ADVP	mag	
+ADVP	mag	
+AP	pvg	etm	
+AP	ncn	jcm	
+PP	ncn	jca	
+AP	mma	
+AP	nbu	
+NP	ncn	jco	
+V	V	
+AUXP	px	ef	.sf	
+ADVP	mag	
+NP	ncn	jco	
+V	paa	ecc	
+V	mag	pvg	ecx	
+AUXP	px	ecs	
+NP	ncn	jcs	
+ADVP	mag	
+NP	ncn	jco	
+V	pvg	ecx	
+AUXP	px	ecs	ep	ef	jxf	.sf	
+NP	N	
+AP	AP	
+AP	ncn	jcm	
+AP	mma	
+NP	ncn	jco	
+V	pvg	ecs	
+PP	AP	
+AP	pvg	etm	
+PP	ncn	
+NP	AP	
+AP	AP	
+AP	ncpa	xsv	etm	
+NP	ncn	jco	
+AP	pvg	etm	
+N	nbn	
+AP	paa	etm	
+V	nbn	ef	.sf	
+PP	mmd	ncn	jxc	
+VP	N	
+V	pvg	ef	
+VP	N	
+V	pvg	ef	
+NP	AP	
+NP	ncps	jcs	
+V	paa	ecs	
+AP	ADVP	
+AP	V	
+AP	px	etm	
+NP	nbn	jcs	
+AP	paa	etm	
+N	nbn	
+V	pvg	ef	.sf	
+IP	maj	
+PP	AP	
+PP	ncn	jca	
+V	pvg	ecs	
+PP	AP	
+PP	ncn	xsn	jca	
+NP	AP	
+NP	ncn	jco	
+V	pvg	ecx	
+NP	px	ef	jxc	
+V	pvg	ecs	
+AP	ADVP	
+NP	ncn	jxc	
+NP	ncn	jco	
+AP	V	
+AP	px	etm	
+N	nbn	
+AP	paa	etm	
+NP	AP	
+AP	ncn	
+NP	ncn	jco	
+AP	V	
+AP	px	etm	
+NP	nbn	jxc	
+V	ncps	xsm	ef	.sf	
+ADVP	mag	
+AP	NP	
+AP	V	
+V	pvg	ecx	
+AP	px	etm	
+NP	ncn	jxc	
+VP	NP	
+ADVP	nnc	nbu	
+N	pvg	etn	
+V	pvg	ecs	jxc	
+NP	ADVP	
+AP	paa	etm	
+NP	ncn	jcs	
+V	pvg	ecs	jxc	
+V	pvg	ecs	
+AP	NP	
+AP	V	
+AP	ncpa	xsv	etm	
+N	nbn	
+V	paa	ecs	
+NP	AP	
+N	ncn	
+AP	nbn	jcm	
+NP	ncn	jco	
+AP	V	
+AP	px	etm	
+NP	nbn	jcs	
+V	paa	ep	ef	jxf	.sf	
+AP	PP	
+AP	pvg	etm	
+N	ncn	
+PP	nbn	jca	jxc	
+NP	AP	
+NP	ncn	ncn	jcs	
+V	paa	ecs	
+ADVP	AP	
+N	nbu	
+V	pvg	ecx	
+AUXP	px	ep	ef	.sf	
+N	ncn	
+NP	ncn	jcc	
+V	pvg	ecc	
+NP	ncn	xsn	jxc	
+NP	ncn	xsn	jco	
+ADVP	mag	
+V	paa	ecs	
+N	pvg	etn	
+V	ncpa	xsv	ecc	
+AP	PP	
+AP	pvg	etm	
+AP	ADVP	
+AP	paa	xsn	paa	etm	
+VP	ncn	jco	
+V	pvg	ecx	
+AUXP	px	ef	.sf	
+VP	PP	
+PP	ncn	jca	
+V	pvg	ecs	
+NP	ADVP	
+AP	ncn	xsn	jp	etm	
+NP	ncn	jco	
+AP	pvg	etm	
+N	nbn	
+AP	paa	etm	
+NP	ncn	jcc	
+AP	pvg	etm	
+V	nbn	jp	ef	.sf	
+IP	ncn	jco	
+NP	AP	
+NP	ncn	jxc	
+PP	ncn	jca	
+ADVP	mag	
+V	pvg	ecc	,sp	
+NP	NP	
+NP	ncn	jxc	
+PP	ncn	jca	
+ADVP	mag	
+V	pvg	ecx	
+AUXP	px	ef	.sf	
+IP	maj	
+ADVP	PP	
+ADVP	mag	
+NP	[sl	
+V	V	
+AUXP	px	ecs	
+V	ncps	xsm	ef	.sf	
+N	ncn	
+VP	NP	
+V	pvg	ecs	
+AP	NP	
+AP	ncpa	xsv	etm	
+NP	nbn	jxc	
+AP	ADVP	
+ADVP	mag	
+AP	V	
+AP	ncpa	xsv	etm	
+N	nbn	
+V	paa	ef	.sf	
+AP	PP	
+AP	pvg	etm	
+NP	ncn	jxc	
+PP	AP	
+PP	ncn	jca	
+V	pvg	ecc	
+NP	ADVP	
+AP	ncn	xsn	jp	etm	
+NP	ncn	jcs	
+V	ncpa	xsv	ecx	
+AUXP	px	ef	.sf	
+PP	AP	
+PP	ncn	jca	
+AP	pvg	etm	
+AP	ncn	jcm	
+AP	ncn	jcj	
+PP	ncn	ncn	jca	
+V	pvg	ecs	
+AP	V	
+AP	px	etm	
+NP	nbn	jxc	
+V	paa	ef	.sf	
+PP	AP	
+PP	ncn	jca	
+AP	pvg	etm	
+AP	ncn	ncn	
+NP	ncn	jco	
+V	ncpa	xsv	ecs	
+AP	ADVP	
+ADVP	mag	
+AP	pvg	etm	
+N	nbn	
+AP	paa	etm	
+NP	ncn	jco	
+AP	pvg	etm	
+NP	nbn	jxc	
+V	paa	ef	.sf	
+PP	AP	
+PP	ncn	jca	
+NP	AP	
+AP	ncn	
+NP	ncn	jct	
+V	ncpa	xsv	ecs	
+NP	AP	
+NP	ncn	jco	
+V	pvg	ecx	
+AUX	P	
+AP	NP	
+AP	ncpa	xsv	etm	
+AP	nbn	jcm	
+AP	ncn	paa	etm	
+V	ncn	jp	ecs	,sp	
+VP	NP	
+V	ncps	xsm	ecs	
+V	ncpa	xsv	ecc	
+V	pvg	ecs	
+V	ncpa	xsv	ef	.sf	
+AP	AP	
+N	nbn	
+AP	ncps	xsm	etm	
+NP	ncn	ncn	jco	
+V	ncpa	xsv	ecs	
+PP	AP	
+AP	paa	etm	
+PP	ncn	jca	
+V	pvg	ef	.sf	
+V	pad	ecs	
+V	pvg	ecs	
+AP	V	
+AP	px	etm	
+NP	ncn	jxc	
+V	ncpa	xsv	ecc	,sp	
+NP	ncn	jco	
+NP	AP	
+NP	nbu	
+V	ncpa	xsv	ecx	
+AUXP	px	ef	
+PP	AP	
+PP	ncn	jca	
+V	pvg	ecs	jxf	
+VP	PP	
+V	ncpa	xsv	ep	ef	sr	
+PP	ncn	sl	ncn	jcm	ncn	sr	jca	
+AP	PP	
+AP	pvg	etm	
+AP	ncn	
+NP	ncn	jco	
+NP	ncpa	xsv	etn	jxc	
+V	pvg	ecc	,sp	
+PP	ncn	ncn	jca	
+N	ncn	
+V	pvg	ecx	
+AUXP	px	ef	.sf	
+PP	AP	
+PP	ncn	jca	
+NP	AP	
+AP	ncn	jcm	
+NP	ncn	jcs	
+VP	PP	
+V	pvg	ecx	px	ecx	
+AUXP	px	ecs	
+VP	PP	
+V	pvg	ecx	
+NP	px	ef	jco	
+NP	V	
+N	px	etn	
+AP	pvg	etm	
+PP	ncn	jca	
+AP	ncpa	xsv	etm	
+NP	nbn	jxc	
+V	paa	ef	.sf	
+IP	maj	
+AP	NP	
+ADVP	ncn	xsa	
+AP	V	
+AP	pvg	etm	
+N	nbn	
+V	paa	ef	
+AP	nbn	jcm	
+NP	ncn	jco	
+V	pvg	ecx	
+PP	px	etn	jca	
+AP	PP	
+AP	pvg	etm	
+AP	ncn	xsn	jp	etm	
+NP	ncn	jco	
+AP	V	
+AP	px	etm	
+N	nbn	
+V	paa	ef	
+sl+	AP	
+NP	ncn	jxc	
+PP	ncn	jca	sr	.sf	
+IP	maj	
+NP	AP	
+AP	NP	
+AP	AP	
+AP	ncn	xsn	jcm	
+NP	ncn	jco	
+V	ncpa	xsv	ecc	
+AP	NP	
+NP	ncn	jco	
+AP	pvg	etm	
+N	nbn	
+NP	paa	ef	jco	
+V	pvg	ecx	
+AUXP	px	ef	.sf	
+PP	AP	
+AP	nbu	
+AP	ncn	
+PP	ncn	jca	
+AP	V	
+AP	px	etm	
+AP	ncn	jcm	
+NP	ncn	jco	
+V	ncpa	xsv	ecx	
+AUXP	px	ecc	,sp	
+NP	ADVP	
+V	pad	ecs	
+NP	pvg	ef	jco	
+V	ncpa	xsv	ecx	
+AUXP	px	ef	.sf	
+IP	maj	
+NP	AP	
+AP	nbu	
+AP	ncn	
+NP	ncn	jco	
+V	ncpa	xsv	ecs	
+AP	V	
+AP	ncps	xsm	etm	
+AP	ncn	ncn	jcm	
+NP	ncn	jco	
+AP	V	
+AP	px	etm	
+N	nbn	
+V	paa	ef	.sf	
+AP	NP	
+PP	1959nnc	nbu	jca	
+AP	ncpa	xsv	ep	ep	etm	
+AP	nq	
+PP	ncn	jca	jxc	
+AP	pvg	etm	
+N	nbn	
+V	paa	ecs	
+PP	AP	
+PP	ncn	jca	
+AP	pvg	ecx	px	etm	
+NP	ncn	jxc	
+AP	NP	
+V	pvg	ecs	
+V	ncpa	xsv	ecs	
+AP	pvg	etm	
+N	nbn	
+AP	V	
+AP	ncn	xsm	etm	
+PP	ncn	ncn	jca	
+ADVP	mag	
+V	pvg	ecx	
+AUXP	px	ef	.sf	
+PP	AP	
+NP	ncn	jca	jxc	
+NP	AP	
+NP	ncn	jcs	
+V	paa	ecc	,sp	
+PP	ncn	jca	jxc	
+NP	AP	
+AP	nbu	
+NP	ncn	jcs	
+V	ncpa	xsv	ecx	
+AUXP	px	ef	.sf	
+NP	AP	
+NP	ncn		
+VP	ADVP	
+NP	AP	
+NP	ncn	jcs	
+AP	pvg	etm	
+PP	ncn	jca	
+V	paa	ecx	jxf	
+AUXP	px	ep	ecs	
+V	V	
+V	ncpa	xsv	ecs	
+V	pvg	ef	.sf	
+PP	ncn	jca	
+N	pvg	etn	
+NP	PP	
+AP	pvg	etm	
+NP	ncn	jco	
+PP	ncn	xsn	jca	
+V	pvg	ecx	
+AUXP	px	ecs	
+ADVP	mag	
+VP	PP	
+V	pvg	ecs	
+ADVP	ncn	xsa	
+V	pvg	ecx	
+AUXP	px	ecs	
+V	pvg	ef	.sf	
+IP	maj	
+NP	AP	
+AP	ncn	
+NP	ncn	jcs	
+ADVP	mag	
+V	ncps	xsm	ecs	jxc	
+NP	AP	
+NP	ncn	jcj	
+NP	ncn	jco	
+N	ncpa	xsv	etn	
+V	paa	ecx	
+AUXP	px	ep	ef	jxf	.sf	
+NP	AP	
+N	ncn	
+NP	AP	
+NP	ncn	jxc	
+V	paa	ecs	
+PP	AP	
+PP	ncn	jca	
+V	pvg	ecs	
+NP	NP	
+ADVP	paa	xsa	
+N	ncps	xsm	etn	
+PP	nbn	jca	
+NP	AP	
+NP	ncn	jcs	
+ADVP	nnc	xsn	
+V	pvg	ecs	
+AP	PP	
+V	pvg	ecx	
+AP	px	ecx	
+NP	px	etn	jxc	
+V	paa	ecx	
+AUXP	px	ef	.sf	
+IP	maj	
+PP	ncn	jca	
+NP	ncn	jco	
+V	pvg	ecs	
+NP	ncn	jxc	
+PP	ncn	jca	
+V	pvg	ecs	
+NP	ncn	jco	
+PP	AP	
+PP	ncn	jca	
+V	pvg	ecc	
+NP	ncn	jcs	
+PP	ncn	ncn	jca	
+AP	paa	etm	
+AP	mmd	
+NP	ncn	jco	
+V	pvg	ecx	
+AUXP	px	ef	.sf	
+NP	ncn	ncn	jcs	
+NP	AP	
+NP	nbu	
+V	pvg	ecs	
+NP	ncn	jco	
+PP	ncn	jca	
+V	pvg	ecc	
+NP	ncn	jxc	
+PP	ncn	jca	
+V	pvg	ecs	
+AP	NP	
+AP	V	
+AP	px	etm	
+N	nbn	
+AP	paa	etm	
+NP	ncn	
++sl			
+VP	V	
+V	pvg	ef	
+V	pvg	ef	.sf	
+NP	AP	
+NP	ncn	jco	
+V	pvg	ecs	
+AP	NP	
+ADVP	mag	
+PP	ncn	jca	
+AP	pvg	ecx	px	etm	
+NP	nbn	jxc	
+AP	pvg	etm	
+NP	nbn	jxc	
+ADVP	mag	
+VP	AP	
+V	nbn	jp	ef	.sf	
+PP	AP	
+PP	ncn	jca	
+N	pvg	etn	
+NP	AP	
+NP	ncn	jco	
+V	pvg	ecx	
+AUXP	px	ecs	
+NP	AP	
+N	ncn	,sp	
+IP	mag	
+NP	ncn	jcs	
+AP	V	
+AUXP	paa	ecx	
+AP	px	etm	
+NP	ncn	jco	
+V	ncpa	xsv	ecs	jxc	
+V	pvg	ef	.sf	
+PP	AP	
+PP	ncn	jca	
+ADVP	mag	
+AP	ncpa	xsv	etm	
+AP	ncn	jcm	
+V	nnc	jp	ef	
+NP	ncn	jxc	
+V	C18H34O2f	jp	ecc	,sp	
+AP	NP	
+NP	1nnc	nbu	
+AP	pvg	etm	
+PP	ncn	ncn	jca	
+AP	ncn	
+AP	ncn	ncn	jcm	
+AP	AP	
+AP	ncn	jcm	
+V	ncn	jp	ef	.sf	
+NP	ncn	jcj	
+NP	ncn	
+AP	ncn	
+PP	ncn	jca	
+ADVP	mag	
+ADVP	paa	xsa	
+V	ncpa	xsv	ecx	
+AUXP	px	ecc	,sp	
+PP	AP	
+AP	ncn	jcm	
+PP	ncn	jca	
+ADVP	paa	xsa	
+V	pvg	ecx	
+AUXP	px	ef	.sf	
+NP	AP	
+AP	ncn	
+NP	ncn	jco	
+PP	AP	
+PP	ncn	jca	
+AP	V	
+AP	pvg	ecx	px	etm	
+AP	ncn	jp	etm	
+NP	ncn	jxc	
+AP	NP	
+AP	V	
+AP	px	etm	
+PP	ncn	jca	jxc	
+AP	PP	
+ADVP	mag	
+AP	V	
+AP	px	etm	
+NP	ncn	jco	
+N	pvg	etn	
+PP	nbn	jca	
+NP	ncn	jcs	
+V	pvg	ef	.sf	
+IP	maj	
+AP	NP	
+PP	ncn	jca	
+AP	ncpa	xsv	etm	
+N	nbn	
+V	paa	ecs	
+NP	AP	
+NP	nbn	jcs	
+V	ncn	
+NP	ncn	jcs	
+PP	AP	
+PP	ncn	jca	
+V	pvg	ecs	
+NP	ncn	jco	
+AP	ncps	xsm	etm	
+V	paa	ecx	
+AUXP	px	ecx	
+N	px	etn	
+PP	nbn	jca	
+PP	ncn	jca	
+AP	ncn	jcm	
+NP	ncn	ncn	jcs	
+V	V	
+AUXP	px	ef	.sf	
+PP	AP	
+PP	nbn	jca	
+PP	ncn	jca	
+V	pvg	ecs	
+NP	AP	
+NP	ncn	jcs	
+NP	ncn	jcc	
+AP	pvg	etm	
+NP	ncn	jco	
+AP	ncn	
+VP	V	
+V	pvg	ef	.sf	
+PP	ncn	jca	
+NP	ncn	jco	
+V	ncpa	xsv	ecc	,sp	
+NP	ncn	jcj	
+NP	AP	
+NP	ncn	jco	
+V	pvg	ef	.sf	
+ADVP	mag	
+PP	ncn	jca	
+V	pvg	ecx	
+AUXP	px	ecs	
+V	pvg	ecc	,sp	
+ADVP	mag	
+PP	ncn	jca	
+V	pvg	ecs	
+ADVP	mag	
+V	pvg	ecs	
+V	pvg	ep	ef	.sf	
+PP	ncn	,sp	
+PP	AP	
+PP	ncn	
+NP	ncn	jco	
+V	pvg	ecc	
+AP	NP	
+AP	V	
+AUXP	px	ecx	
+AP	paa	etm	
+NP	ncn	jcs	
+V	paa	ef	jxf	?sf	
+PP	AP	
+PP	ncn	jca	
+AP	pvg	etm	
+NP	ncn	jxc	
+NP	ncn	jcs	
+V	ncpa	xsv	ecx	
+ADVP	mag	
+V	pvg	ecx	
+AUXP	px	ecx	
+AUXP	px	ef	.sf	
+PP	mmd	ncn	
+NP	ncn	jco	
+ADVP	mag	
+AP	V	
+AP	pvg	etm	
+N	nbn	
+V	paa	ecs	
+NP	ncn	jco	
+ADVP	mag	
+AP	V	
+AP	px	etm	
+N	nbn	
+V	paa	ef	.sf	
+V	pad	ecs	
+PP	AP	
+PP	ncn	jca	
+AP	V	
+V	pvg	ecx	
+AP	px	etm	
+NP	ncn	jco	
+V	pvg	ecs	
+NP	AP	
+NP	ncn	jco	
+V	ncpa	xsv	ecs	
+V	pvg	ef	jxf	?sf	
+PP	AP	
+PP	ncn	jca	
+NP	ncn	jco	
+V	pvg	ecc	,sp	
+PP	npd	jca	
+NP	AP	
+NP	ncn	ncn	jco	
+PP	AP	
+PP	ncn	jca	
+NP	AP	
+AP	nbu	
+N	ncn	
+V	pvg	ef	.sf	
+AP	V	
+AP	pvg	etm	
+NP	ncn	jxc	
+ADVP	mag	
+V	paa	ecx	jxc	
+AUXP	px	ecs	
+ADVP	mag	
+V	ncpa	xsv	ecs	
+ADVP	mag	
+V	mag	pvg	ef	.sf	
+PP	AP	
+AP	ncn	
+PP	ncn	jca	
+AP	pvg	etm	
+PP	ncn	jca	
+NP	AP	
+N	ncn	,sp	
+AP	NP	
+NP	ncn	jco	
+AP	V	
+AP	pvg	etm	
+PP	ncn	jca	
+V	pvg	ecc	
+AP	ncn	
+AP	mma	
+PP	ncn	jca	
+AP	pvg	etm	
+N	nbn	
+V	paa	ef	.sf	
+NP	AP	
+NP	ncn	jco	
+V	ncpa	xsv	ecs	
+NP	ncn	jco	
+N	pvg	etn	
+AP	pvg	etm	
+AP	ncn	jcm	
+NP	ncn	jxc	
+V	V	
+V	pvg	ef	.sf	
+AP	paa	etm	
+V	ncn	jp	ecs	
+NP	AP	
+AP	ncn	jcm	
+NP	ncn	jcj	
+NP	ncn	jcs	
+V	ncps	xsm	ecx	
+AUXP	px	ecs	
+NP	ncn	ncn	jcs	
+ADVP	mag	
+V	pvg	ecs	
+NP	AP	
+NP	ncn	jco	
+AP	ncpa	xsv	etm	
+N	nbn	
+V	paa	ef	jxf	.sf	
+NP	mmd	nbn	jxc	
+VP	ADVP	
+V	paa	ecs	
+AP	NP	
+ADVP	ncn	jx	
+AP	pvg	etm	
+PP	ncn	jca	jxc	
+NP	ncn	jco	
+V	pvg	ecc	
+ADVP	mag	
+PP	mag	jxc	
+V	pvg	ef	.sf	
+ADVP	mag	
+AP	NP	
+NP	ncn	jco	
+AP	pvg	etm	
+PP	ncn	jca	jxc	
+NP	N	
+N	ncn	,sp	
+NP	ncn	jco	
+PP	AP	
+PP	ncn	ncn	jca	
+V	pvg	ecs	
+AP	V	
+AP	paa	etm	
+NP	ncn	jco	
+AP	V	
+AP	pvg	etm	
+N	nbn	
+V	paa	ef	.sf	
+AP	paa	etm	
+AP	ncn	
+AP	ncn	
+NP	ncn	jco	
+N	pvg	etn	
+PP	pvg	ecs	jxc	
+AP	ncn	jcj	
+AP	ncn	
+NP	ncn	jco	
+V	ncpa	xsv	ef	.sf	
+AP	PP	
+NP	ncn	jco	
+ADVP	ncn	xsa	
+AP	pvg	etm	
+N	nbn	
+ADVP	mag	
+V	pvg	ecs	
+NP	ncn	jcs	
+PP	30nnc	cmsu	jxc	
+V	pvg	ecs	
+V	pvg	ef	.sf	
+N	ncn		sy	
+NP	AP	
+N	ncn		sy	
+NP	AP	
+N	ncn		sy	
+NP	NP	
+N	ncn	
+AP	V	
+AP	px	etm	
+N	ncn	
+N	ncn	sr	
+N	ncn		sy	
+NP	AP	
+AP	ncn	
+N	ncn		sy	
+NP	AP	
+N	ncn	,sp	
+N	ncn	
+NP	AP	
+NP	30nnc	
+AP	ncn	jcm	
+AP	ncn	jcm	
+V	ncn	jp	ef	.sf	
+AP	PP	
+NP	ncn	jco	
+AP	pvg	etm	
+NP	nbn	jxc	,sp	
+PP	AP	
+PP	ncn	jca	
+AP	pvg	ef	etm	
+NP	nbn	jcc	
+V	paa	ecs	
+PP	NP	
+PP	ncn	jxc	jca	
+AP	V	
+AP	pvg	ef	etm	
+V	nbn	jp	ef	.sf	
+AP	mmd	
+PP	ncn	jca	
+AP	ncn	
+NP	ncn	jxc	
+PP	ncn	jca	jxc	
+NP	AP	
+NP	ncn	jcs	
+V	pvg	ecs	
+AP	PP	
+AP	ncpa	xsv	etm	
+NP	nbn	jxc	
+V	paa	ecs	,sp	
+AP	ncn	paa	etm	
+V	ncn	ncn	jp	ef	.sf	
+AP	ncn	
+AP	ncn	jcm	
+NP	ncn	jco	
+V	pvg	ecc	
+V	pvg	ecs	
+V	pvg	ecs	
+NP	ncn	jco	
+V	pvg	ecs	
+NP	ncn	jcs	
+PP	AP	
+PP	ncn	jca	
+V	pvg	ef	.sf	
+AP	mmd	
+NP	ncn	jca	jxc	
+NP	ncn	jcs	
+V	paa	ecs	
+PP	ncn	jca	jxc	
+V	paa	ecs	,sp	
+NP	AP	
+NP	ncn	jco	
+ADVP	mag	
+V	pvg	ecs	
+ADVP	mag	
+V	paa	ef	.sf	
+PP	npd	jca	
+NP	ncn	jco	
+NP	AP	
+NP	nbu	
+AP	pvg	etm	
+N	ncn	,sp	
+NP	ncn	jco	
+V	pvg	ecc	
+NP	AP	
+N	ncn	
+V	pvg	ecx	
+AUXP	px	ef	.sf	
+AP	nq	
+AP	nq	jcm	
+PP	ncn	jca	
+V	ncps	xsm	ecc	
+PP	ncn	jca	jxc	
+PP	AP	
+AP	ncn	
+PP	ncn	jca	
+NP	AP	
+NP	ncn	jcs	
+V	paa	ef	.sf	
+AP	PP	
+AP	pvg	etm	
+NP	ncn	jxc	
+NP	ncn	jco	
+N	pvg	etn	
+V	paa	ef	jcr	
+AP	paa	etm	
+NP	ncn	jcj	
+NP	ncn	xsn	jxc	
+V	ncpa	xsv	ef	jxc	
+NP	ncn	jxc	
+PP	AP	
+PP	nbu	jca	
+V	paa	ecx	
+AUXP	px	ecs	
+ADVP	ncn	xsa	
+V	ncpa	xsv	ecs	
+V	pvg	ef	.sf	
+NP	ncn	jcs	
+NP	AP	
+NP	ncn	jco	
+PP	ncn	jca	
+V	pvg	ecs	
+VP	NP	
+ADVP	mag	
+V	pvg	ecs	
+ADVP	mag	
+AP	pvg	ef	tm	
+NP	ncn	jco	
+V	pvg	ep	ef	.sf	
+NP	ncn	jco	
+ADVP	mag	
+V	ncpa	xsv	ecs	
+NP	AP	
+NP	ncn	jxc	
+V	ncn	xsm	ecs	
+ADVP	mag	
+V	pvg	ecx	px	ecs	
+V	paa	ef	.sf	
+VP	ADVP	
+V	pvg	ecx	
+AUXP	px	ecc	
+AP	paa	pvg	etm	
+NP	ncn	jco	
+V	pvg	ecs	
+AP	NP	
+ADVP	mag	
+AP	pvg	etm	
+NP	nbn	jxc	
+V	paa	ecs	
+PP	npd	jca	jxc	
+AP	NP	
+ADVP	mag	
+AP	ncpa	xsv	etm	
+PP	ncn	jca	
+AP	NP	
+AP	pvg	etm	
+NP	nbn	jcs	
+V	ncps	xsm	ef	.sf	
+AP	pad	etm	
+NP	ncn	jxc	
+NP	ncn	jco	
+V	ncpa	xsv	ef	ecc	,sp	
+NP	ncn	jco	
+V	pvg	ecs	
+AP	NP	
+AP	V	
+AP	px	etm	
+NP	nbn	jcs	
+V	paa	ef	.sf	
+VP	NP	
+V	paa	ecs	
+ADVP	mag	
+ADVP	mag	
+AP	pvg	etm	
+NP	nbn	jxc	
+AP	NP	
+AP	pvg	etm	
+NP	ncn	jcs	
+AP	ncps	xsm	etm	
+NP	nbn	jp	ef	
+ADVP	AP	
+N	nbu	
+ADVP	mag	
+V	pvg	ecx	
+N	px	ep	etn	
+V	pvg	ef	.sf	
+PP	NP	
+PP	ncn	jca	
+AP	V	
+AP	px	etm	
+NP	ncn	jcj	
+NP	ncn	jcs	
+AP	paa	etm	
+NP	ncn	jco	
+V	ncpa	xsv	ecs	
+ADVP	mag	
+ADVP	mag	
+V	pvg	ecx	
+AUXP	px	ef	.sf	
+NP	ncn	jco	
+V	pvg	ecx	px	ef	
+AP	NP	
+AP	pvg	ecx	px	etm	
+NP	ncn	jxc	
+V	ncn	paa	ecs	
+VP	N	
+ADVP	mag	
+V	pvg	ecc	
+NP	V	
+AUXP	px	ecx	
+NP	px	etn	jxc	
+VP	pvg	ef	jxf	.sf	
+IP	pvg	ecs	
+VP	NP	
+PP	ncn	jca	
+V	pvg	ecx	px	ecc	
+N	ncn	
+AP	pvg	etm	
+N	nbn	
+AP	paa	etm	
+NP	ncn	jco	
+V	V	
+AUXP	px	ecs	
+V	pvg	ef	.sf	
+NP	AP	
+NP	ncn	jco	
+V	pvg	ecs	
+AP	NP	
+ADVP	mag	
+AP	pvg	etm	
+N	nbn	
+V	paa	ecs	
+V	pvg	ecx	
+AUXP	px	ecs	
+VP	pad	ef	jxf	?sf	
+ADVP	mag	
+IP	maj	
+V	ncpa	xsm	ecs	
+V	pvg	ecx	
+AUXP	px	ecs	
+NP	ncn	jcs	
+V	pvg	ecx	
+AUXP	px	ef	.sf	
+ADVP	mag	
+N	ncn	
+V	pvg	ecx	
+AUXP	px	ecs	
+V	pvg	ecs	
+NP	AP	
+NP	ncn	jco	
+AP	ncpa	xsv	etm	
+N	nbn	
+V	paa	ecs	
+AP	paa	etm	
+PP	ncn	jca	
+NP	ncn	jco	
+V	pvg	ecc	
+NP	ncn	jco	
+AP	V	
+AP	px	etm	
+NP	nbn	jcs	
+V	paa	ep	ef	jxf	.sf	
+NP	ncn	jco	
+ADVP	mag	
+V	ncpa	xsv	ecs	
+NP	ncn	jxc	
+PP	ncn	jca	
+V	pvg	ecs	
+VP	ADVP	
+NP	pvg	ecx	px	etn	jxc	
+V	pvg	ecc	
+V	pad	ecx	
+NP	px	etn	jxc	
+V	pvg	ef	.sf	
+NP	ADVP	
+AP	pvg	ecx	px	etm	
+NP	ncn	jco	
+V	ncpa	xsv	ecs	
+AP	N	
+AP	pvg	etm	
+NP	ncn	jco	
+V	V	
+AUXP	px	ecs	
+PP	AP	
+PP	nbu	jca	
+AP	ncpa	xsv	etm	
+PP	ncn	
+NP	ncn	jcs	
+V	ncpa	xsv	ef	.sf	
+NP	ncn	jxc	
+V	ncps	xsm	ecs	
+VP	N	
+V	paa	ecs	
+AP	NP	
+AP	V	
+AP	px	etm	
+PP	ncn	ncn	
+V	pvg	ecs	
+V	ncpa	xsv	ep	ef	.sf	
+AP	PP	
+AP	V	
+V	pvg	ecx	
+AP	px	ep	etm	
+NP	ncn	jcs	
+PP	ncn	jca	jxc	
+AP	pvg	etm	
+NP	ncn	jcs	
+V	paa	ecs	
+ADVP	mag	
+V	pvg	ecs	
+V	pvg	ef	.sf	
+ADVP	mag	
+AP	NP	
+AP	pvg	ep	etm	
+NP	ncn	jxc	
+NP	ncn	jcs	
+V	pvg	ecx	
+AUXP	px	ecs	
+ADVP	ncps	xsm	ecs	
+NP	ncn	jco	
+PP	ncn	jca	
+V	pvg	ecx	
+AUXP	px	ef	.sf	
+NP	ncn	jco	
+AP	pvg	etm	
+NP	ncn	jxc	
+NP	ncn	jco	
+AP	V	
+AP	pvg	etm	
+PP	ncn	jca	
+NP	ncn	jco	
+V	V	
+V	pvg	ef	.sf	
+NP	N	
+N	ncn	
+N	pvg	ecx	px	etn	
+NP	AP	
+N	nbu	
+NP	AP	
+N	ncn	
+NP	AP	
+NP	ncn	jco	
+NP	V	
+V	pvg	etn	jx	
+V	pvg	ep	ef	
+VP	PP	
+V	pad	ecs	
+V	pvg	ecs	
+NP	pvg	ef	
+V	ncps	xsm	ef	jxf	.sf	
+PP	AP	
+PP	ncn	jca	
+NP	AP	
+NP	nbn	jco	
+V	pvg	ecx	
+AUXP	px	ecs	
+ADVP	mag	
+PP	ncn	jca	
+V	ncps	xsm	ecs	
+NP	ncn	jco	
+V	pvg	ecc	
+V	V	
+V	ncpa	xsv	ecx	
+AUXP	px	ecs	
+V	pvg	ef	.sf	
+AP	V	
+AP	ncpa	xsv	etm	
+V	ncn	xsn	jp	ecs	
+AP	ncn	jcm	
+V	ncn	jxc	
+AP	V	
+AP	ncpa	xsv	etm	
+N	nbn	
+AP	paa	etm	
+V	nbn	ef	.sf	
+NP	AP	
+NP	ncn	jcs	
+NP	AP	
+NP	ncn	jco	
+V	pvg	ecx	
+AUXP	px	ecs	
+ADVP	ncn	xsa	
+V	pvg	ecx	
+AUXP	px	ef	jxf	?sf	
+PP	ncn	jca	
+AP	pvg	etm	
+NP	ncn	jxc	
+AP	ADVP	
+AP	PP	
+AP	paa	etm	
+AP	ncn	jcj	
+PP	AP	
+PP	ncn	ncn	jca	
+AP	pvg	ecx	px	etm	
+NP	nbn	jco	
+PP	ncn	jca	
+V	pvg	ecx	
+AUXP	px	ecc	,sp	
+NP	ADVP	
+AP	paa	etm	
+NP	nbn	jcs	
+AP	ncps	xsm	etm	
+NP	ncn	jxc	
+PP	AP	
+PP	ncn	jca	
+V	pvg	ecs	
+AP	PP	
+NP	ncn	jco	
+AP	pvg	etm	
+N	ncn	
+NP	AP	
+AP	px	etm	
+NP	nbn	jxc	
+AP	paa	etm	
+N	nbn	
+V	xsm	ef	.sf	
+IP	maj	
+NP	AP	
+NP	[sl	
+ADVP	ncn	xsa	
+V	ncpa	xsv	ecx	
+AUXP	px	ecs	
+V	ncpa	xsv	ecs	
+V	pvg	ep	ef	.sf	
+AP	*sy	
+NP	ncn	jxc	
+AP	ncn	
+AP	ncn	
+NP	ncn	jxc	
+AP	nq	ncn	
+AP	ncn	ncn	
+PP	ncn	jca	jxc	
+V	paa	ecs	,sp	
+NP	AP	
+NP	ncn	jco	
+PP	ncn	jca	
+AP	ncpa	xsv	etm	
+PP	ncn	jca	jxc	
+V	paa	ef	.sf	
+AP	AP	
+AP	ncn	jcm	
+NP	ncn	jxc	
+ADVP	nnc	nbu	jca	
+ADVP	paa	xsa	
+V	pvg	ecx	
+AUXP	px	ecc	,sp	
+AP	ADVP	
+AP	pvg	etm	
+NP	nbn	jco	
+V	pvg	ef	.sf	
+ADVP	mag	
+AP	pvg	etm	
+NP	nbn	jcs	
+PP	ncn	jca	
+V	ncpa	xsv	ecx	
+AUXP	px	ecs	,sp	
+AP	N	
+AP	pvg	etm	
+PP	nbn	
+AP	ncpa	xsv	etm	
+NP	nbn	jxc	
+N	paa	etn	
+V	nbn	jp	ef	.sf	
+PP	ncn	xsn	jca	
+NP	ncn	jxc	
+AP	ncn	,sp	
+AP	ncn	,sp	
+AP	ncn	,sp	
+AP	ncps	xsm	etm	
+V	ncn	jp	ecs	,sp	
+AP	PP	
+AP	ncpa	xsv	etm	
+NP	nbn	jcj	
+AP	V	
+AP	px	etm	
+NP	nbn	jcs	
+V	paa	ef	.sf	
+AP	mmd	
+PP	ncn	jcs	
+PP	ncn	jca	
+V	pvg	ecs	
+PP	AP	
+PP	ncn	jca	
+V	pvg	ecs	
+NP	ncn	jco	
+PP	ncn	jca	
+V	pvg	ecs	
+PP	AP	
+PP	ncn	jca	
+NP	ncn	jcs	
+V	V	
+AUXP	px	ecx	
+AUXP	px	ecx	
+AUXP	px	ef	.sf	
+IP	maj	
+PP	ncn	jca	jxc	
+NP	NP	
+AP	paa	etm	
+NP	ncn	jcs	
+ADVP	paa	xsa	
+V	pvg	ecx	
+AUXP	px	ecs	
+NP	ncn	jcs	
+PP	ncn	jca	
+AP	V	
+AP	pvg	etm	
+PP	ncn	jcT	
+V	ncpa	xsv	ecs	
+PP	ncn	jca	
+ADVP	mag	
+ADVP	mag	
+AP	pvg	etm	
+NP	ncn	jco	
+V	pvg	ef	.sf	
+NP	ncn	xsn	jxc	
+AP	PP	
+AP	V	
+AP	px	etm	
+AP	Caf	
+AP	ncn	jcm	
+NP	ncn	jxc	
+V	pvg	ecs	
+PP	AP	
+PP	ncn	jca	
+V	ncpa	xsv	ef	.sf	
+IP	maj	
+AP	ncn	
+PP	nbn	jca	jxc	
+NP	ncn	jxc	
+V	pvg	ecs	
+AP	V	
+PP	ncn	jca	
+AP	pvg	etm	
+NP	ncn	jcs	
+V	paa	ef	.sf	
+NP	ncn	
+NP	ncn	
+AP	ncpa	xsv	etm	
+NP	ncn	jcs	
+ADVP	mag	
+AP	mmd	
+PP	ncn	jca	
+V	ncpa	xsv	ecs	
+AP	mmd	
+NP	ncn	jco	
+VP	V	
+V	pvg	ef	.sf	
+IP	ncn	jco	
+NP	ncn	
+NP	ncn	
+AP	V	
+AP	px	etm	
+NP	ncn	jco	
+V	ncpa	xsv	ecs	
+AP	mmd	
+NP	ncn	jxc	
+VP	V	
+V	pvg	ef	.sf	
+ADVP	mag	
+AP	ncn	jcj	
+NP	ncn	jxc	
+NP	ncn	jcs	
+V	paa	ecc	,sp	
+AP	mmd	
+PP	ncn	jca	
+NP	ncn	jco	
+V	V	
+V	pvg	ecs	
+ADVP	mag	
+V	pvg	ecx	
+AUXP	px	ef	.sf	
+PP	ncn	jca	
+V	ncpa	xsv	ep	ecs	
+PP	ncn	jca	
+AP	V	
+AP	px	etm	
+NP	ncn	jcj	
+NP	ncn	jcs	
+AP	ncn	jcm	
+NP	ncn	jcta	
+V	ncpa	xsv	ecs	
+PP	ncn	jca	
+V	pvg	ecx	
+N	px	etn	
+V	nbn	jp	ef	.sf	
+NP	AP	
+NP	ncn	jco	
+ADVP	ncn	xsa	
+V	pvg	ecx	
+AUXP	px	ecs	
+AP	NP	
+N	pvg	etn	
+AP	nbn	jp	ef	etm	
+NP	nbn	jco	
+AP	pvg	etm	
+N	nbn	
+V	paa	ef	.sf	
+NP	Ca2f		sy		sy	2nnc	CH3f	sl	CH2f	sr	16nnc	COOf	-sd	Caf	
+AP	pad	etm	
+NP	ncn	jxc	
+NP	ncn	jco	
+V	pvg	ecs	
+V	pvg	ecx	px	ecc	
+V	paa	ecs	
+AP	mma	
+NP	ncn	jco	
+AP	V	
+AUXP	px	ecs	
+AP	pvg	etm	
+V	nbn	jp	ef	.sf	
+AP	PP	
+ADVP	mag	
+AP	pvg	etm	
+NP	ncn	jco	
+N	pvg	etn	
+AP	pvg	etm	
+NP	ncn	jxc	
+AP	ncn	jcm	
+NP	ncn	jcs	
+V	V	
+AUXP	px	ecs	
+NP	ncn	jco	
+AP	pvg	ep	ep	etm	
+PP	nq	jca	
+V	ncpa	xsv	ep	ef	.sf	
+PP	ncn	jca	
+AP	paa	ep	etm	
+PP	ncn	jca	
+NP	ncn	jco	
+V	pvg	ecx	
+NP	px	etn	jcs	
+V	paa	ecs	
+PP	ncn	jca	jxc	
+NP	ncn	jcs	
+ADVP	mag	
+AP	V	
+AP	px	ef	etm	
+NP	nbn	jco	
+V	pvg	ep	ef	.sf	
+PP	ncn	jca	
+AP	ncpa	xsv	etm	
+NP	nbn	jco	
+N	pvg	etn	
+V	pvg	ecs	jxc	
+AP	ncn	jcj	
+AP	ncn	
+AP	ncn	jcj	
+NP	ncn	jco	
+ADVP	mag	
+AP	V	
+AP	px	etm	
+NP	ncn	jco	
+V	ncpa	xsv	ecs	
+V	pvg	ef	.sf	
+NP	ncn	jxc	
+AP	ncn	
+AP	mma	
+NP	ncn	jxc	
+V	ncn	jp	ecc	
+ADVP	ncn	jca	
+V	pvg	ecs	
+ADVP	mag	
+NP	ncn	jcc	
+V	pvg	ef	.sf	
+NP	ncn	jcs	
+AP	AP	
+AP	ncn	
+PP	ncn	jca	
+AP	V	
+AP	px	ep	etm	
+NP	ncn	ncn	jco	
+V	pvg	ecx	px	ecs	
+PP	ncn	jca	
+AP	paa	etm	
+AP	ncn	jcm	
+NP	Ca2f		sy	jcj	
+NP	Mgf		sy	2nnc	jco	
+N	ncpa	xsv	etn	
+V	nbn	jp	ef	.sf	
+NP	ncn	jxc	
+AP	ncn	nbn	jcm	
+AP	ncn	ncn	jcm	
+NP	ncn	jcs	
+V	paa	ecx	px	ecs	
+PP	VP	
+AP	ncn	
+PP	ncn	jca	
+AP	V	
+AP	px	ep	etm	
+NP	ncn	jcs	
+AP	V	
+AP	pvg	etm	
+NP	ncn	jcs	
+ADVP	mag	
+N	paa	ecx	px	ep	etn	
+PP	nbn	jca	
+NP	AP	
+NP	ncn	jxc	
+ADVP	mag	
+V	ncpa	xsv	ecx	
+AUXP	px	ep	ef	.sf	
+AP	ncn	jcm	
+AP	ncpa	xsn	jp	etm	
+NP	ncn	jca	
+NP	ncn	jco	
+V	ncpa	xsv	ecx	
+AUXP	px	ecs	
+AP	ncn	
+PP	1nnc	nbu	jca	jxc	
+PP	ncn	xsn	jca	,sp	
+AP	V	
+AP	mag	pvg	etm	
+NP	ncn	jco	
+V	pvg	ecs	
+PP	ncn	jca	jxc	
+AP	V	
+AP	pvg	ef	etm	
+V	nbn	jp	ef	.sf	
+ADVP	ncn	xsa	
+V	ncpa	xsv	ecs	,sp	
+PP	ncn	jca	
+AP	V	
+AP	px	etm	
+AP	mma	
+NP	ncn	ncn	jco	
+AP	mmd	
+NP	ncn	jco	
+AP	V	
+AP	ncpa	xsv	etm	
+V	nbn	jp	ef	.sf	
+AP	ncn	
+PP	ncn	jca	
+V	pvg	ecs	
+PP	ncn	xsn	jca	
+PP	ncn	jca	jxc	
+NP	ncn	jcj	
+NP	ncn	jco	
+V	V	
+AUXP	px	ef	.sf	
+NP	ncn	jxc	
+AP	mma	
+PP	nbu	jca	
+V	ncpa	xsv	ecs	
+V	V	
+V	ncps	xsm	ecs	
+NP	ncn	jxc	
+ADVP	mag	
+V	pvg	ecx	px	ecs	,sp	
+AP	ncn	jcm	
+NP	ncn	jcj	
+PP	ncn	jca	
+V	pvg	ecs	
+AP	paa	etm	
+NP	ncn	jco	
+V	pvg	ef	.sf	
+AP	mma	
+AP	10nnc	xsn	nbu	
+AP	ncn	jcm	
+V	ncn	jp	ecs	
+NP	npp	jxc	
+NP	ncn	ncn	jco	
+PP	ncn	jca	
+V	ncpa	xsv	ecs	
+NP	ncn	jco	
+V	pvg	ep	ef	.sf	
+AP	nnc	nbu	
+N	ncn	
+ADVP	paa	xsa	
+NP	ncn	jco	
+V	V	
+AUXP	px	ecs	
+VP	ADVP	
+V	pvg	ecs	
+VP	NP	
+V	pvg	ecc	
+AP	nnc	
+AP	ncn	
+NP	ncn	jcs	
+V	V	
+AUXP	px	ecx	
+AUXP	px	ep	ef	.sf	
+PP	AP	
+PP	nbn	jca	
+VP	NP	
+V	paa	ecs	
+V	ncps	xsm	ecx	px	ecc	
+VP	NP	
+V	paa	ecx	px	ecc	
+NP	AP	
+NP	ncn	jcs	
+AP	V	
+AUXP	px	ecx	
+AP	px	ep	ep	etm	
+V	nbn	jp	ef	.sf	
+NP	ncn	jxc	
+PP	AP	
+PP	ncn	ncn	jca	
+V	pvg	ecs	
+V	pad	ef	
+ADVP	mag	
+AP	NP	
+AP	pvg	etm	
+NP	ncn	jcs	
+V	paa	ef	.sf	
+AP	NP	
+ADVP	mag	
+AP	pvg	etm	
+NP	nbn	jco	
+NP	ncn	jcs	
+V	ncpa	xsv	ecs	
+V	pvg	ef	ecs	
+NP	AP	
+NP	ncn	jco	
+V	pvg	ep	ef	jxf	.sf	
+IP	nno	,sp	
+AP	PP	
+AP	ncpa	xsv	etm	
+AP	ncn	jcm	
+NP	AP	
+NP	ncn	jco	
+AP	ncpa	xsv	etm	
+N	nbn	
+V	paa	ecs	
+NP	AP	
+NP	ncn	jco	
+V	pvg	ecs	
+NP	ncn	jco	
+V	ncpa	xsv	ef	.sf	
+AP	mmd	
+PP	ncn	jca	jxc	
+NP	ncn	jcs	
+V	ncpa	xsv	ecs	
+AP	ncn	jcm	
+AP	ncn	jcm	
+NP	ncn	jcs	
+V	pvg	ecx	px	ecs	
+N	ncn	,sp	
+NP	ncn	
+AP	pvg	etm	
+N	nbn	
+V	paa	ef	.sf	
+IP	maj	
+NP	ncn	jco	
+AP	pvg	etm	
+NP	ncn	jxc	
+NP	ncn	jcs	
+ADVP	mag	
+V	paa	ecx	
+AUXP	px	ecs	
+PP	ncn	jca	
+NP	ncn	jco	
+AP	ncpa	xsv	etm	
+NP	nbn	jcs	
+V	paa	ef	.sf	
+PP	ncn	ncn	jca	
+AP	pvg	etm	
+N	ncn	
+NP	ncn	jco	
+AP	ncpa	xsv	etm	
+N	ncn	
+NP	ncn	jco	
+ADVP	mag	
+V	V	
+AUXP	px	ecs	
+NP	ncn	jcs	
+V	pvg	ecs	
+NP	npd	jcs	
+NP	ncn	jco	
+V	pvg	ef	.sf	
+NP	ncn	jco	
+AP	pvg	ep	etm	
+N	ncn	,sp	
+AP	mmd	
+PP	ncn	jca	
+AP	ncn	jcm	
+NP	ncn	jcs	
+V	V	
+AUXP	px	ecs	
+AP	ncn	
+NP	ncn	jcj	
+NP	ncn	jco	
+AP	pvg	etm	
+NP	ncn	jco	
+PP	ncn	jca	
+NP	ncn	jcs	
+NP	pvg	etn	jxc	
+V	pvg	ef	.sf	
+NP	ncn	jxc	
+PP	ncn	jct	
+AP	paa	etm	
+V	ncn	jp	ecs	
+AP	ncps	xsm	etm	
+AP	ncn	jcm	
+PP	ncn	jca	jxc	
+ADVP	mag	
+V	pvg	ecx	
+AUXP	px	ecs	
+ADVP	mag	
+AP	ncn	
+PP	ncn	jca	
+NP	ncn	jcs	
+V	pvg	ecs	
+NP	pvg	etn	jxc	
+V	pvg	ef	.sf	
+NP	ncn	jxc	
+NP	ncn	jco	
+V	V	
+AUXP	px	ecc	
+NP	ncn	jco	
+AP	ncps	xsm	etm	
+PP	ncn	jca	
+AP	ncpa	xsv	etm	
+PP	nbn	jca	jxc	
+NP	ncn	jcs	
+V	paa	ecs	
+AP	ncn	xsn	jp	etm	
+NP	ncn	jxc	
+V	V	
+AUXP	px	ecc	
+NP	ncn	jxc	
+ADVP	mag	
+V	ncpa	xsv	ecs	
+NP	ncn	jco	
+ADVP	ncn	xsa	
+V	V	
+AUXP	px	ecx	
+AUXP	px	ecs	
+ADVP	mag	
+NP	ncn	ncn	jco	
+AP	ncpa	xsv	etm	
+NP	nbn	jxc	
+AP	paa	ef	etm	
+VP	nbn	jp	ef	.sf	
+ADVP	ncn	xsn	jca	
+AP	paa	ecx	px	etm	
+NP	ncn	jcj	
+NP	ncn	ncn	jxc	
+NP	ncn	jcs	
+PP	pvg	etn	jca	jxc	
+N	ncpa	xsv	etn	
+V	paa	ecs	
+NP	ncn	jco	
+ADVP	mag	
+V	pvg	ecs	
+V	V	
+AUXP	px	ecs	
+VP	ADVP	
+V	ncpa	xsv	ecc	
+PP	ncn	jca	
+AP	pvg	etm	
+NP	nbn	jcs	
+V	ncps	xsm	ef	.sf	
+AP	ncn	jcj	
+AP	pvg	etm	
+AP	ncn	
+AP	ncn	jcm	
+NP	ncn	jcj	
+AP	pvg	etm	
+PP	ncn	jca	
+V	pvg	ecs	
+ADVP	ncn	xsa	
+V	ncpa	xsv	ep	ef	.sf	
+NP	ncn	jxc	
+AP	ncn	jcj	
+PP	ncn	jca	
+V	pvg	ecx	px	ecc	,sp	
+NP	ncn	jco	
+PP	ncn	jca	
+V	pvg	ecs	
+AP	ncpa	xsv	etm	
+NP	ncn	jco	
+VP	V	
+V	pvg	ef	.sf	
+AP	ncn	jcm	
+NP	ncn	ncn	jxc	
+ADVP	mag	
+AP	ncn	jcm	
+PP	ncn	jca	
+AP	pvg	etm	
+PP	nbn	jca	
+PP	ncn	jca	
+AP	V	
+AP	px	etm	
+AP	NP	
+AP	ncn	
+NP	ncn	jcm	
+NP	ncn	ncn	jco	
+V	pvg	ecs	
+AP	ncn	jcm	
+PP	ncn	jca	
+V	pvg	ecs	
+NP	ncn	jco	
+V	ncpa	xsv	ef	.sf	
+AP	ncn	ncn	
+PP	ncn	jca	
+AP	V	
+AP	px	etm	
+NP	ncn	jco	
+PP	ncn	jca	
+V	V	
+V	pvg	ecs	
+NP	ncn	jcs	
+V	paa	ecc	
+NP	ncn	jcs	
+V	ncps	xsm	ef	.sf	
+AP	ncn	
+NP	ncn	jxc	
+AP	ncn	
+PP	ncn	jca	jxc	
+V	ncpa	xsv	ecc	
+PP	ncn	jca	jxc	
+N	ncn	,sp	
+NP	ncn	jcs	
+V	ncps	xsm	ecc	
+NP	ncn	jcs	
+V	V	
+V	pvg	ecx	
+AUXP	px	ecs	
+AP	ncn	
+NP	ncn	ncn	sl	chargef	soapf	sr	jcj	
+NP	ncn	ncn	jco	
+N	pvg	etn	
+V	paa	ecc	,sp	
+NP	ncn	jcs	
+V	paa	ecc	
+PP	ncn	jca	
+NP	pvg	etn	jcs	
+V	paa	ecs	
+PP	ncn	jca	
+V	V	
+AUXP	px	ecx	
+AUXP	px	ef	.sf	
+ADVP	mag	
+NP	ncn	jxc	
+NP	ncn	jco	
+AP	pvg	etm	
+PP	ncn	jca	jxc	
+ADVP	mag	
+V	V	
+AUXP	px	ecs	,sp	
+PP	ncn	jca	jxc	
+ADVP	mag	
+V	V	
+AUXP	px	ef	.sf	
+NP	ncn	jxc	
+PP	ncn	jca	
+AP	pvg	etm	
+NP	nbn	jco	
+V	V	
+V	ncpa	xsv	ecs	
+V	pvg	ecc	,sp	
+AP	ncn	jcm	
+PP	ncn	ncn	
+V	V	
+V	pvg	ef	.sf	
+IP	maj	
+AP	ncn	jcm	
+NP	ncn	jco	
+V	ncpa	xsv	ecs	
+ADVP	ncn	xsa	
+V	pvg	ecc	
+AP	ncpa	xsv	etm	
+NP	ncn	jxc	
+ADVP	mag	
+NP	ncn	jco	
+V	V	
+V	pvg	ecs	
+V	pvg	ef	.sf	
+AP	ABSf	xsn	
+NP	ncn	jxc	
+NP	ncn	jcs	
+AP	ncpa	xsv	etm	
+N	nbn	
+V	paa	ecs	
+NP	ncn	jco	
+V	ncpa	xsv	ecs	
+AP	ncn	xsn	jp	etm	
+AP	ncn	
+NP	ncn	jco	
+V	pvg	ecs	
+AP	ncn	ncpa	xsv	etm	
+AP	LASf	xsn	
+AP	ncn	
+NP	ncn	jcs	
+VP	ncps	xsm	ef	.sf	
+IP	maj	
+PP	LASf	xsn	jxc	
+AP	AP	
+AP	ncn	jcm	
+AP	AP	
+AP	ncn	jcm	
+AP	ncn	
+NP	ncn	jcs	
+AP	pvg	etm	
+NP	nbn	jcs	
+V	pvg	ecx	px	ecs	
+AP	ncn	jca	jcm	
+NP	ncn	ncn	jcs	
+ADVP	mag	
+V	ncps	xsm	ef	jcr	
+V	pvg	ef	.sf	
+NP	ncn	jco	
+PP	ncn	jca	
+V	V	
+V	ncpa	xsv	ecs	
+ADVP	mag	
+AP	ncn	
+N	ncn	,sp	
+AP	ncn	
+N	ncn	,sp	
+AP	ncn	
+N	ncn	
+PP	nbn	jca	
+AP	pvg	etm	
+N	nbn	
+V	paa	ef	jxf	.sf	
+ADVP	mag	
+AP	ncn	
+NP	ncn	jxc	
+NP	npp	jcs	
+ADVP	mag	
+AP	V	
+V	pvg	etm	
+V	nbn	jp	ecs	
+AP	ncn	
+PP	ncn	jca	
+PP	ncn	jca	
+V	V	
+V	pvg	ef	.sf	
+NP	ncn	jxc	
+PP	ncn	jca	
+V	pvg	ecs	
+ADVP	mag	
+V	ncpa	xsv	ecs	
+NP	ncn	jcs	
+V	V	
+AUXP	px	ecs	
+AP	ncn	jco	
+PP	ncn	jca	
+AP	ncn	jp	ef	etm	
+NP	ncn	jco	
+V	V	
+AUXP	px	ef	.sf	
+AP	ncn	jcm	
+PP	ncn	ncn	jca	jxc	
+N	ncn	,sp	
+N	ncn	,sp	
+N	ncn	,sp	
+NP	ncn	jcs	
+ADVP	mag	
+V	pvg	ecc	,sp	
+AP	pvg	etm	
+PP	ncn	jca	
+V	pvg	ecs	
+NP	ncn	ncn	jcj	
+NP	ncn	jco	
+AP	ncpa	xsv	etm	
+N	ncn	ncn	,sp	
+NP	ncn	jco	
+N	ncn	
+AP	V	
+AP	pvg	etm	
+N	ncn	ncn	
+PP	nbn	jca	
+V	pvg	ef	.sf	
+NP	ncn	ncn	jxc	
+AP	ncn	
+PP	nbn	jca	
+NP	ncn	jxc	
+V	paa	ecc	
+NP	ncn	jxc	
+V	ncps	xsm	ecc	,sp	
+NP	ncn	jxc	
+V	ncn	jp	ef	.sf	
+AP	ncn	
+V	ncn	jp	ecc	
+NP	ncn	jcj	
+N	ncn	,sp	
+NP	ncn	
+V	ncpa	xsv	ecs	
+AP	ncps	xsm	etm	
+PP	ncn	jca	
+AP	pvg	etm	
+NP	nbn	jxc	
+V	paa	ef	.sf	
+NP	ncn	ncn	jxc	
+AP	ncn	jcj	
+V	ncn	jp	ecs	,sp	
+AP	mmd	
+PP	ncn	jca	jxc	
+ADVP	mag	
+NP	ncn	jco	
+AP	pvg	etm	
+V	ncn	jp	ef	.sf	
+NP	ncn	ncn	jxc	
+AP	ncn	
+PP	nbn	jca	
+ADVP	mag	
+NP	ncn	jcs	
+V	paa	ecc	
+NP	ncn	jcs	
+V	paa	ecc	,sp	
+PP	ncn	jca	
+ADVP	mag	
+V	pvg	ecc	
+ADVP	paa	xsa	
+V	V	
+AUXP	px	ef	.sf	
+NP	ncn	jcs	
+V	V	
+AUXP	px	ecs	
+V	pvg	ecc	
+NP	ncn	jco	
+V	pvg	ecs	
+V	pvg	ecx	
+AUXP	px	ecs	
+AP	paa	etm	
+V	ncn	jp	ef	.sf	
+PP	ncn	jca	
+ADVP	paa	xsa	
+AP	pvg	etm	
+PP	ncn	jca	
+NP	ncn	jxc	
+PP	ncn	jca	
+ADVP	mag	
+V	pvg	ecs	
+ADVP	mag	
+V	V	
+AUXP	px	ecs	
+ADVP	mag	
+ADVP	paa	xsa	
+V	pvg	ef	.sf	
+ADVP	mag	
+NP	200nnc	jco	
+AP	pvg	etm	
+N	ncn	,sp	
+NP	ncn	jcs	
+V	pvg	ecs	
+AP	ncn	
+AP	nnc	
+NP	ncn	jco	
+V	pvg	ecs	
+AP	paa	etm	
+NP	ncn	jco	
+AP	pvg	etm	
+N	nbn	
+V	paa	ef	.sf	
+NP	ncn	jxc	
+NP	ncn	jcs	
+V	paa	ecs	
+AP	mag	pvg	etm	
+NP	ncn	jco	
+AP	V	
+AP	px	etm	
+N	nbn	
+V	paa	ecs	
+NP	ncn	jco	
+ADVP	mag	
+ADVP	mag	
+AP	ncpa	xsv	etm	
+N	nbn	
+V	V	
+AUXP	px	ecx	
+AUXP	px	ef	.sf	
+PP	ncn	jca	
+AP	pvg	etm	
+NP	ncn	jxc	
+N	ncn	
+V	V	
+AUXP	px	ecs	,sp	
+NP	ncn	jxc	
+ADVP	mag	
+AP	ncpa	xsv	ef	etm	
+NP	ncn	jxc	
+N	ncn	
+V	paa	ef	jxf	.sf	
+NP	ncn	jx	
+AP	ncn	
+NP	ncn	jcs	
+NP	ncn	jco	
+AP	pvg	ep	etm	
+PP	ncn	
+AP	ncpa	xsv	etm	
+PP	ncn	jca	
+VP	ncn	ncps	xsm	ecc	
+NP	ncn	jcs	
+AP	paa	etm	
+V	ncn	jp	ef	.sf	
+PP	mmd	nbn	jca	
+NP	ncn	jco	
+V	V	
+V	pvg	ecs	
+NP	ncn	jco	
+V	V	
+AUXP	px	ecs	
+NP	ncn	jcs	
+PP	ncn	jca	
+V	pvg	ef	.sf	
+NP	ncn	jxc	
+NP	ncn	jcs	
+NP	ncn	jxc	
+N	ncn	,sp	
+AP	ncn	
+NP	ncn	jcs	
+V	5nnc	jp	ecc	,sp	
+AP	mmd	
+NP	ncn	jxc	
+AP	ncn	jcm	
+V	ncpa	xsv	ef	.sf	

@@ -1,0 +1,5760 @@
+<tdmsfile>
+
+
+; 머리는 작고 배가 부르며 , 꼬리는 뾰족하고 꼬리지느러미는 끝이 둘로 갈라진다 .
+(S
+    (VP
+        (VP
+            (NP 머리/ncn+는/jxc)
+            (V 작/paa+고/ecc))
+        (VP
+            (NP 배/ncn+가/jcs)
+            (V 부르/pvg+며/ecc))+,/sp
+        (VP
+            (NP 꼬리/ncn+는/jxc)
+            (V 뾰족/ncps+하/xsm+고/ecc))
+        (VP
+            (NP 꼬리/ncn+지느러미/ncn+는/jxc)
+            (NP 끝/ncn+이/jcs)
+            (PP 둘/nnc+로/jca)
+            (V (V 가르/pvg+아/ecx)+(AUXP 지/px+ㄴ다/ef))))+./sf)
+
+
+; 몸의 생긴 모양이 돼지 새끼와 비슷하다고 해서 돗고기라는 이름이 붙은 것이다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 몸/ncn+의/jcm)
+                (AP 생기/pvg+ㄴ/etm)
+                (NP 모양/ncn+이/jcs))
+            (NP
+                (PP
+                    (AP 돼지/ncn)
+                    (PP 새끼/ncn+와/jct))
+                (NP 비슷/ncps+하/xsm+다/ef+고/jcr))
+            (V 하/pvg+어서/ecs))
+        (VP
+            (AP
+                (NP
+                    (AP 돗고기/ncn+라/ef+는/etm)
+                    (NP 이름/ncn+이/jcs))
+                (AP 붙/pvg+ㄴ/etm))
+            (V 것/nbn+이/jp+다/ef)))+./sf)
+
+
+; 서유구가 기록한 돗고기란 어떤 물고기인가 ?
+(S
+    (VP
+        (NP
+            (AP
+                (NP 서유구/nq+가/jcs)
+                (AP 기록/ncpa+하/xsv+ㄴ/etm))
+            (NP 돗고기/ncn+란/jxc))
+        (VP
+            (AP 어떤/mmd)
+            (V 물고기/ncn+이/jp+ㄴ가/ef)))+?/sf)
+
+
+; 20 세기 후반에 사는 우리들은 이 글을 읽고 놀라움을 금할 수 없다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP
+                    (PP
+                        (AP 20/nno)
+                        (AP 세기/nbu)
+                        (PP 후반/ncn+에/jca))
+                    (AP 살/pvg+는/etm))
+                (NP 우리/npp+들/xsn+은/jxc))
+            (NP
+                (AP 이/mmd)
+                (NP 글/ncn+을/jco))
+            (V 읽/pvg+고/ecc))
+        (VP
+            (NP
+                (AP
+                    (NP 놀랍/paa+ㅁ/xsn+을/jco)
+                    (AP 금하/pvg+ㄹ/etm))
+                (NP 수/nbn))
+            (V 없/paa+다/ef)))+./sf)
+
+
+; 우리가 이런 조상을 가졌다는 사실이 자랑스럽고 , 긍지와 자부를 느낀다 .
+(S
+    (VP
+        (VP
+            (NP 우리/npp+가/jcs)
+            (NP
+                (AP
+                    (NP
+                        (AP 이런/mmd)
+                        (NP 조상/ncn+을/jco))
+                    (AP 가지/pvg+었/ep+다/ef+는/etm))
+                (NP 사실/ncn+이/jcs))
+            (V 자랑/ncps+스럽/xsm+고/ecc))+,/sp
+        (VP
+            (NP
+                (NP 긍지/ncn+와/jcj)
+                (NP 자부/ncn+를/jco))
+            (V 느끼/pvg+ㄴ다/ef)))+./sf)
+
+
+; 첫째 그분은 이 세상에서 가장 먼저 그 물고기에 대하여 기록을 한 사람이다 .
+(S
+    (VP
+        (VP
+            (IP 첫째/nno)
+            (NP 그분/npp+은/jxc)
+            (PP
+                (AP 이/mmd)
+                (PP 세상/ncn+에서/jca))
+            (ADVP 가장/mag)
+            (ADVP 먼저/mag)
+            (PP
+                (AP 그/mmd)
+                (PP 물고기/ncn+에/jca))
+            (V 대하/pvg+어/ecs))
+        (VP
+            (AP
+                (NP 기록/ncn+을/jco)
+                (AP 하/pvg+ㄴ/etm))
+            (V 사람/ncn+이/jp+다/ef)))+./sf)
+
+
+; 헤르첸슈타인 ( Herzenstein ) 은  1872 년 한국에 와서 ,  중부에 위치한 풍중 이라는 곳에서  민물고기를 채집하여 그중 한 종에  Pungtungia herzi Herzenstein 이라는 이름을 붙였다 .
+(S
+    (VP
+        (VP
+            (NP 헤르첸슈타인/nq+(/sl++Herzenstein/f+)/sr+은/jxc)
+            (NP
+                (AP 1872/nno)
+                (NP 년/nbu))
+            (PP 한국/nq+에/jca)
+            (V 오/pvg+아서/ecs))+,/sp
+        (VP
+            (PP
+                (AP
+                    (AP
+                        (PP 중부/ncn+에/jca)
+                        (AP 위치/ncpa+하/xsv+ㄴ/etm))
+                    (AP 풍중/nq+이/jp+라/ef+는/etm))
+                (PP 곳/ncn+에서/jca))
+            (NP 민물고기/ncn+를/jco)
+            (V 채집/ncpa+하/xsv+어/ecs))
+        (VP
+            (PP
+                (AP 그/mmd+중/nbn)
+                (AP 한/nnc)
+                (PP 종/ncn+에/jca))
+            (NP
+                (AP Pungtungia/f)
+                (AP herzi/f)
+                (AP Herzenstein/f+이/jp+라/ef+는/etm)
+                (NP 이름/ncn+을/jco))
+            (V 붙이/pvg+었/ep+다/ef)))+./sf)
+
+
+; Pungtungia 는 풍중 ( Pungtung ) 이라는 지방명을 딴 것이고 herzi 는 자신의 이름을 붙인 것이다 .
+(S
+    (VP
+        (VP
+            (NP Pungtungia/f+는/jxc)
+            (VP
+                (AP
+                    (NP
+                        (AP 풍중/nq+(/sl+Pungtung/f+)/sr+이/jp+라/ef+는/etm)
+                        (NP 지방명/ncn+을/jco))
+                    (AP 따/pvg+ㄴ/etm))
+                (V 것/nbn+이/jp+고/ecc)))
+        (VP
+            (NP herzi/f+는/jxc)
+            (VP
+                (AP
+                    (NP
+                        (AP 자신/ncn+의/jcm)
+                        (NP 이름/ncn+을/jco))
+                    (AP 붙이/pvg+ㄴ/etm))
+                (V 것/nbn+이/jp+다/ef))))+./sf)
+
+
+; 서유구가 헤르첸슈타인보다 적어도 30 년 이상이나 먼저 이 물고기에 관해 기록해서 책으로 펴냈다는 것을 생각할 때 분통이 터진다 .
+(S
+    (VP
+        (VP
+            (NP 서유구/nq+가/jcs)
+            (PP 헤르첸슈타인/nq+보다/jca)
+            (ADVP 적어도/mag)
+            (VP
+                (AP 30/nnc)
+                (AP 년/nbu)
+                (V 이상/ncn+이/jp+나/ecs)))
+        (VP
+            (ADVP 먼저/mag)
+            (PP
+                (AP 이/mmd)
+                (PP 물고기/ncn+에/jca))
+            (V (V 관하/pvg+어/ecs)
+                (V 기록/ncpa+하/xsv+어서/ecs)))
+        (VP
+            (PP
+                (AP
+                    (NP
+                        (AP
+                            (PP 책/ncn+으로/jca)
+                            (AP
+                                (V 펴/pvg+어/ecx)+(AP 내/px+ㅆ/ep+다/ef+는/etm)))
+                        (NP 것/nbn+을/jco))
+                    (AP 생각/ncpa+하/xsv+ㄹ/etm))
+                (PP 때/ncn))
+            (NP 분통/ncn+이/jcs)
+            (V 터지/pvg+ㄴ다/ef)))+./sf)
+
+
+; 서유구 , 그분이 이 사실을 알았다면 아마도 땅을 치고 울었을 것이다 .
+(S
+    (VP
+        (VP
+            (NP 서유구/nq)+,/sp
+            (NP 그분/npp+이/jcs)
+            (NP
+                (AP 이/mmd)
+                (NP 사실/ncn+을/jco))
+            (V 알/pvg+았/ep+다/ef+면/ecs))
+        (VP
+            (ADVP 아마도/mag)
+            (NP 땅/ncn+을/jco)
+            (V 치/pvg+고/ecc))
+        (VP
+            (AP 울/pvg+었/ep+ㄹ/etm)
+            (V 것/nbn+이/jp+다/ef)))+./sf)
+
+
+; [ 전어지 ] 를 비롯하여 많은 고서들을 볼 때마다 그런 생각에 잠기게 된다 .
+(S
+    (VP
+        (VP
+            (NP [/sl+전어지/nq+]/sr+를/jco)
+            (V 비롯/ncps+하/xsm+어/ecs))
+        (VP
+            (NP
+                (AP
+                    (NP
+                        (AP 많/paa+ㄴ/etm)
+                        (NP 고서/ncn+들/xsn+을/jco))
+                    (AP 보/pvg+ㄹ/etm))
+                (NP 때/ncn+마다/jxc))
+            (PP
+                (AP 그런/mmd)
+                (PP 생각/ncpa+에/jca))
+            (V (V 잠기/pvg+게/ecx)
+                (AUXP 되/px+ㄴ다/ef))))+./sf)
+
+
+; 서양인들의 손에서 일본인들의 손으로 넘어갔을 뿐 , 우리는 팔짱을 끼고 구경만 할 수밖에 없었다 .
+(S
+    (VP
+        (VP
+            (PP
+                (AP 서양인/ncn+들/xsn+의/jcm)
+                (PP 손/ncn+에서/jca))
+            (NP
+                (AP
+                    (PP
+                        (AP 일본인/ncn+들/xsn+의/jcm)
+                        (PP 손/ncn+으로/jca))
+                    (AP 넘어가/pvg+ㅆ/ep+ㄹ/etm))
+                (NP 뿐/nbn))+,/sp
+            (NP 우리/npp+는/jxc)
+            (NP 팔짱/ncn+을/jco)
+            (V 끼/pvg+고/ecc))
+        (VP
+            (PP
+                (AP
+                    (NP 구경/ncn+만/jxc)
+                    (AP 하/pvg+ㄹ/etm))
+                 (PP 수/nbn+밖에/jxc))
+            (V 없/paa+었/ep+다/ef)))+./sf)
+
+
+; 그분은 1872 년부터 1945 년까지의 74 년 동안 어류학계에 어떤 일이 있었는지 후배들에게 알리기 위하여 책 세 권을 썼다 .
+(S
+    (VP
+        (VP
+            (NP 그분/npp+은/jxc)
+            (PP
+                (AP 1872/nno)
+                (PP 년/nbu+부터/jxc))
+            (NP
+                (AP 1945/nno)
+                (AP 년/nbu+까지/jxc+의/jcm)
+                (AP 74/nnc)
+                (AP 년/nbu)
+                (NP 동안/ncn))
+            (PP 어류학계/ncn+에/jca)
+            (NP
+                (AP 어떤/mmd)
+                (NP 일/ncn+이/jcs))
+            (V 있/paa+었/ep+는지/ecs))
+        (VP
+            (NP
+                (PP 후배/ncn+들/xsn+에게/jca)
+                (NP 알리/pvg+기/etn))
+            (V 위하/pvg+어/ecs))
+        (VP
+            (NP
+                (AP 책/ncn)
+                (AP 세/nnc)
+                (NP 권/nbu+을/jco))
+            (V 쓰/pvg+었/ep+다/ef)))+./sf)
+
+
+; 1972 년 이전에 우리 조상들이 쌓아올린 업적에도 눈을 돌리게 했고 방언 조사의 중요성을 강조하기도 했다 .
+(S
+    (VP
+        (VP
+            (PP
+                (AP 1972/nno)
+                (AP 년/nbu)
+                (PP 이전/ncn+에/jca))
+            (NP
+                (AP
+                    (NP
+                        (AP 우리/npp)
+                        (NP 조상/ncn+들/xsn+이/jcs))
+                    (AP
+                        (V 쌓/pvg+아/ecx)+(AP 올리/px+ㄴ/etm)))
+                (NP 업적/ncn+에/jca+도/jxc))
+            (NP 눈/ncn+을/jco)
+            (V (V 돌리/pvg+게/ecx)
+                (AUXP 하/px+었/ep+고/ecc)))
+        (VP
+            (NP
+                (NP
+                    (AP 방언/ncn)
+                    (AP 조사/ncn+의/jcm)
+                    (NP 중요성/ncn+을/jco))
+                (NP 강조/ncpa+하/xsv+기/etn+도/jxc))
+            (V 하/pvg+었/ep+다/ef)))+./sf)
+
+
+; 그들은 1945 년까지 우리의 선배들과 외국 학자들의 손으로 축적된 업적들에 대하여 지대한 경의를 표하는 한편 날카로운 비판을 가하기 시작했다 .
+(S
+    (VP
+        (VP
+            (NP 그/npp+들/xsn+은/jxc)
+            (PP
+                (AP 1945/nno)
+                (PP 년/nbu+까지/jxc))
+            (VP
+                (PP
+                    (AP 우리/npp+의/jcm)
+                    (PP 선배/ncn+들/xsn+과/jct))
+                (PP
+                    (AP
+                        (PP
+                            (AP 외국/ncn)
+                            (AP 학자/ncn+들/xsn+의/jcm)
+                            (PP 손/ncn+으로/jca))
+                        (AP 축적/ncpa+되/xsv+ㄴ/etm))
+                    (PP 업적/ncn+들/xsn+에/jca))
+                (V 대하/pvg+어/ecs)))
+        (VP
+            (NP
+                (AP
+                    (NP
+                        (AP 지대/ncps+하/xsm+ㄴ/etm)
+                        (NP 경의/ncn+를/jco))
+                    (AP 표하/pvg+는/etm))
+                (NP 한편/nbn))
+            (VP
+                (NP
+                    (NP
+                        (AP 날카롭/paa+ㄴ/etm)
+                        (NP 비판/ncpa+을/jco))
+                    (NP 가하/pvg+기/etn))
+                (V 시작/ncpa+하/xsv+었/ep+다/ef))))+./sf)
+
+
+; 그들의 손에 의해 1945 년까지 등록되지 않았던 종들이 추가되기 시작했다 .
+(S
+    (VP
+        (VP
+            (PP
+                (AP 그/npp+들/xsn+의/jcm)
+                (PP 손/ncn+에/jca))
+            (V 의하/pvg+어/ecs))
+        (VP
+            (PP
+                (AP 1945/nno)
+                (PP 년/nbu+까지/jxc))
+            (NP
+                (NP
+                    (AP
+                        (V 등록/ncpa+되/xsv+지/ecx)
+                        (AP 않/px+았/ep+더/ep+ㄴ/etm))
+                    (NP 종/ncn+들/xsn+이/jcs))
+                (NP 추가/ncpa+되/xsv+기/etn))
+            (V 시작/ncpa+하/xsv+었/ep+다/ef)))+./sf)
+
+
+; 많은 소장학자들이 민물고기의 미세한 분포에 관심을 표시하면서 업적을 쌓아갔다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 많/paa+ㄴ/etm)
+                (NP 소장/ncn+학자/ncn+들/xsn+이/jcs))
+            (PP
+                (AP 민물고기/ncn+의/jcm)
+                (AP 미세/ncps+하/xsm+ㄴ/etm)
+                (PP 분포/ncn+에/jca))
+            (NP 관심/ncn+을/jco)
+            (V 표시/ncpa+하/xsv+면서/ecs))
+        (VP
+            (NP 업적/ncn+을/jco)
+            (V (V 쌓/pvg+아/ecx)+(AUXP 가/px+ㅆ/ep+다/ef))))+./sf)
+
+
+; 그뿐 아니라 , 민물고기의 분포상을 지질사적 입장에서 분석하는 일도 개척하기 시작했다 .
+(S
+    (VP
+        (IP
+            (NP 그/npd+뿐/jxc)
+            (V 아니/paa+라/ecs))+,/sp
+        (VP
+            (NP
+                (AP 민물고기/ncn+의/jcm)
+                (NP 분포상/ncn+을/jco))
+            (NP
+                (NP
+                    (AP
+                        (PP
+                            (AP 지질사/ncn+적/xsn)
+                            (PP 입장/ncn+에서/jca))
+                        (AP 분석/ncpa+하/xsv+는/etm))
+                    (NP 일/ncn+도/jxc))
+                (NP 개척/ncpa+하/xsv+기/etn))
+            (V 시작/ncpa+하/xsv+었/ep+다/ef)))+./sf)
+
+
+; 이들소장 학자들의 활동은 1970 년대 , 1980 년대로 해를 거듭할수록 활발해지고 , 신진 학자들이 속출하고 있다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 이/npd+들/xsn+소장/ncn)
+                (AP 학자/ncn+들/xsn+의/jcm)
+                (NP 활동/ncn+은/jxc))
+            (PP
+                (AP 1970/nno)
+                (AP 년대/nbu)+,/sp
+                (AP 1980/nno)
+                (PP 년대/nbu+로/jca))
+            (NP 해/ncn+를/jco)
+            (V (V 거듭/ncpa+하/xsv+ㄹ수록/ecs)
+                (V 활발/ncps+하/xsm+어/ecx)+(AUXP 지/px+고/ecc)))+,/sp
+        (VP
+            (NP
+                (AP 신진/ncn)
+                (NP 학자/ncn+들/xsn+이/jcs))
+            (V (V 속출/ncpa+하/xsv+고/ecx)
+                (AUXP 있/px+다/ef))))+./sf)
+
+
+; 머리 끝에서 꼬리지느러미 끝까지의 길이가 10내지 15센티미터 정도의 개체들은 많지만 20센티미터를 넘는 개체는 매우 드물다.
+(S
+    (VP
+        (VP
+            (PP
+                (AP 머리/ncn)
+                (PP 끝/ncn+에서/jca))
+            (NP
+                (AP 꼬리/ncn+지느러미/ncn)
+                (AP 끝/ncn+까지/jxc+의/jcm)
+                (NP 길이/ncn+가/jcs))
+            (NP
+                (AP 10/nnc)
+                (AP 내지/maj)
+                (AP 15/nnc)
+                (AP 센티미터/nbu)
+                (AP 정도/ncn+의/jcm)
+                (NP 개체/ncn+들/xsn+은/jxc))
+            (V 많/paa+지만/ecs))
+        (VP
+            (NP
+                (AP
+                    (NP
+                        (AP 20/nnc)
+                        (NP 센티미터/nbu+를/jco))
+                    (AP 넘/pvg+는/etm))
+                (NP 개체/ncn+는/jxc))
+            (ADVP 매우/mag)
+            (V 드물/paa+다/ef)))+./sf)
+
+
+; 머리 끝에서 꼬리 끝까지 폭이 넓은 까만 줄이 몸의 양측을 달리고 있어서 다른 종과 간단히 구별할 수 있다 .
+(S
+    (VP
+        (VP
+            (PP
+                (AP 머리/ncn)
+                (PP 끝/ncn+에서/jca))
+            (PP
+                (AP 꼬리/ncn)
+                (PP 끝/ncn+까지/jxc))
+            (NP
+                (AP
+                    (AP
+                        (NP 폭/ncn+이/jcs)
+                        (AP 넓/paa+ㄴ/etm))
+                    (AP 까맣/paa+ㄴ/etm))
+                (NP 줄/ncn+이/jcs))
+            (NP
+                (AP 몸/ncn+의/jcm)
+                (NP 양측/ncn+을/jco))
+            (V (V 달리/pvg+고/ecx)
+                (AUXP 있/px+어서/ecs)))
+        (VP
+            (PP
+                (AP 다르/paa+ㄴ/etm)
+                (PP 종/ncn+과/jct))
+            (NP
+                (AP
+                    (ADVP 간단/ncn+히/xsa)
+                    (AP 구별/ncpa+하/xsv+ㄹ/etm))
+                (NP 수/nbn))
+            (V 있/paa+다/ef)))+./sf)
+
+
+; 몸이 검고 지느러미에 검은 무늬들이 있어서 돌고기와 구별하는 것은 어렵지 않다 .
+(S
+    (VP
+        (VP
+            (NP 몸/ncn+이/jcs)
+            (V 검/paa+고/ecc))
+        (VP
+            (PP 지느러미/ncn+에/jca)
+            (NP
+                (AP 검/paa+ㄴ/etm)
+                (NP 무늬/ncn+들/xsn+이/jcs))
+            (V 있/paa+어서/ecs))
+        (VP
+            (NP
+                (AP
+                    (PP 돌고기/ncn+와/jct)
+                    (AP 구별/ncpa+하/xsv+는/etm))
+                (NP 것/nbn+은/jxc))
+           (V (V 어렵/paa+지/ecx)
+               (AUXP 않/px+다/ef))))+./sf)
+
+
+; 모리 는 충청북도 영동군의 황간과 전라북도 진안에서 채집하여 1935 년에 신종으로 발표한 종이다 .
+(S
+    (VP
+        (VP
+            (NP 모리/nq+는/jxc)
+            (PP
+                (AP 충청북도/nq)
+                (AP 영동군/nq+의/jcm)
+                (PP 황간/nq+과/jct))
+            (PP
+                (AP 전라북도/nq)
+                (PP 진안/nq+에서/jca))
+            (V 채집/ncpa+하/xsv+어/ecs))
+        (VP
+            (PP
+                (AP 1935/nno)
+                (PP 년/nbu+에/jca))
+            (VP
+                (AP
+                    (PP 신종/ncn+으로/jca)
+                    (AP 발표/ncpa+하/xsv+ㄴ/etm))
+                (V 종/ncn+이/jp+다/ef))))+./sf)
+
+
+; Pungtungia 와 유사하지만 그것은 아니라는 뜻에서 사용한 것이고 , nigra 는 검다는 뜻이다 .
+(S
+    (VP
+        (VP
+            (PP Pungtungia/f+와/jct)
+            (V 유사/ncps+하/xsm+지만/ecs))
+        (VP
+            (AP
+                (PP
+                    (AP
+                        (NP 그것/npd+은/jxc)
+                        (AP 아니/paa+라/ef+는/etm))
+                    (PP 뜻/ncn+에서/jca))
+                (AP 사용/ncpa+하/xsv+ㄴ/etm))
+            (V 것/nbn+이/jp+고/ecc))+,/sp
+        (VP
+            (AP
+                (NP nigra/f+는/jxc)
+                (AP 검/paa+다/ef+는/etm))
+            (V 뜻/ncn+이/jp+다/ef)))+./sf)
+
+
+; 전박사는 기쁨이 넘치는 얼굴로 필자를 보고 신종 을 발견했다며 좋아했다 .
+(S
+    (VP
+        (VP
+            (NP nq[전/nq+박사/ncn]nq+는/jxc)
+            (PP
+                (AP
+                    (NP 기쁨/ncn+이/jcs)
+                    (AP 넘치/pvg+는/etm))
+                (PP 얼굴/ncn+로/jca))
+            (NP 필자/ncn+를/jco)
+            (V 보/pvg+고/ecc))
+        (VP
+            (NP 신종/ncn+을/jco)
+            (V (V 발견/ncpa+하/xsv+었/ep+다/ef+며/ecs)
+                (V 좋/paa+아/ecx)+(AUXP 하/px+었/ep+다/ef))))+./sf)
+
+
+; 그러나 자세히 보면 외형에서 많은 차이를 발견할 수 있다 .
+(S
+    (VP
+        (VP
+            (IP 그러나/maj)
+            (ADVP 자세/ncn+히/xsa)
+            (V 보/pvg+면/ecs))
+        (VP
+            (PP 외형/ncn+에서/jca)
+            (NP
+                (AP
+                    (NP
+                        (AP 많/paa+ㄴ/etm)
+                        (NP 차이/ncn+를/jco))
+                    (AP 발견/ncpa+하/xsv+ㄹ/etm))
+                (NP 수/nbn))
+            (V 있/paa+다/ef)))+./sf)
+
+
+; 돌고기는 입이 주둥이의 끝에 있고 입술의 양쪽 끝이 두툼하지만 , 본종은 입이 주둥이의 밑에 있고 말굽형이며 , 입술이 두툼하지도 않다 .
+(S
+    (VP
+        (VP
+            (NP 돌고기/ncn+는/jxc)
+            (NP 입/ncn+이/jcs)
+            (PP
+                (AP 주둥이/ncn+의/jcm)
+                (PP 끝/ncn+에/jca))
+            (V 있/paa+고/ecc))
+        (VP
+            (NP
+                (AP 입술/ncn+의/jcm)
+                (AP 양쪽/ncn)
+                (NP 끝/ncn+이/jcs))
+            (V 두툼/ncps+하/xsm+지만/ecs))+,/sp
+        (VP
+            (NP
+                (AP 본/mmd)
+                (NP 종/ncn+은/jxc))
+            (NP 입/ncn+이/jcs)
+            (PP
+                (AP 주둥이/ncn+의/jcm)
+                (PP 밑/ncn+에/jca))
+            (V (V 있/paa+고/ecc)
+                (V 말굽형/ncn+이/jp+며/ecs)))+,/sp
+        (VP
+            (NP 입술/ncn+이/jcs)
+            (V (V 두툼/ncps+하/xsm+지도/ecs)
+                (V 않/pvg+다/ef))))+./sf)
+
+
+; 전박사는 1980 년에 본종을 Pseudopungtungia tenuicorpus Jeon et Choi 라는 학명을 붙여서 신종으로 발표했다 .
+(S
+    (VP
+        (VP
+            (NP nq[전/nq+박사/ncn]nq+는/jxc)
+            (PP
+                (AP 1980/nno)
+                (PP 년/nbu+에/jca))
+            (NP
+                (AP 본/mmd)
+                (NP 종/ncn+을/jco))
+            (NP
+                (AP Pseudopungtungia/f)
+                (AP tenuicorpus/f)
+                (AP Jeon/f)
+                (AP et/f)
+                (AP Choi/f+라/ef+는/etm)
+                (NP 학명/ncn+을/jco))
+            (V 붙이/pvg+어서/ecs))
+        (VP
+            (PP 신종/ncn+으로/jca)
+            (V 발표/ncpa+하/xsv+었/ep+다/ef)))+./sf)
+
+
+; 이름을 붙인 사람 중에 필자의 이름이 얹혀 있으나 , 실은 전박사에게 조금도 도움을 드리지 못했었다 .
+(S
+    (VP
+        (VP
+            (PP
+                (AP
+                    (NP 이름/ncn+을/jco)
+                    (AP 붙이/pvg+ㄴ/etm))
+                (AP 사람/ncn)
+                (PP 중/nbn+에/jca))
+            (NP
+                (AP 필자/ncn+의/jcm)
+                (NP 이름/ncn+이/jcs))
+            (V (V 얹히/pvg+어/ecx)
+                (AUXP 있/px+으나/ecs)))+,/sp
+        (VP
+            (ADVP 실은/mag)
+            (PP nq[전/nq+박사/ncn]nq+에게/jca)
+            (ADVP 조금도/mag)
+            (NP 도움/ncn+을/jco)
+            (V (V 드리/pvg+지/ecx)
+                 (AUXP 못하/px+었었/ep+다/ef))))+./sf)
+
+
+; 가는돌고기는 그후 여기저기에서 발견되었으나 , 임진강을 포함한 한강 수계 이외에서는 아직 발견되지 않았다 .
+(S
+    (VP
+        (VP
+            (NP 가/paa+는/etm+돌고기/ncn+는/jxc)
+            (NP 그/mmd+후/ncn)
+            (PP 여기저기/mad+에서/jca)
+            (V 발견/ncpa+되/xsv+었/ep+으나/ecs))+,/sp,
+        (VP
+            (NP
+                (AP
+                    (NP 임진강/nq+을/jco)
+                    (AP 포함/ncpa+하/xsv+ㄴ/etm))
+                (AP 한강/nq)
+                (AP 수계/ncn)
+                (NP 이외/ncn+에서/jca+는/jxc))
+            (ADVP 아직/mag)
+            (V (V 발견/ncpa+되/xsv+지/ecx)
+                (AUXP 않/px+았/ep+다/ef))))+./sf)
+
+
+; 돌고기에 맺힌 천추의 한은 좀체로 풀리지 않겠지만 , 감돌고기의 분포판도 개편과 생활사 구명 , 가는돌고기의 발견으로 조상들의 넋을 달래고 싶다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP
+                    (AP
+                        (PP 돌고기/ncn+에/jca)
+                        (AP 맺히/pvg+ㄴ/etm))
+                    (AP 천추/ncn+의/jcm))
+                (NP 한/ncn+은/jxc))
+            (ADVP 좀체로/mag)
+            (V (V 풀리/pvg+지/ecx)
+                (AUXP 않/px+겠/ep+지만/ecs)))+,/sp
+        (VP
+            (NP
+                (NP
+                    (AP 감돌고기/ncn+의/jcm)
+                    (AP 분포/ncn+판도/ncn)
+                    (NP 개편/ncpa+과/jcj))
+                (NP
+                    (AP 생활사/ncn)
+                    (NP 구명/ncn)))+,/sp
+            (PP
+                (AP 가/paa+는/etm)
+                (AP 돌고기/ncn+의/jcm)
+                (PP 발견/ncn+으로/jca))
+            (NP
+                (AP 조상/ncn+들/xsn+의/jcm)
+                (NP 넋/ncn+을/jco))
+            (V (V 달래/pvg+고/ecx)
+                (AUXP 싶/px+다/ef))))+./sf)
+
+
+; 실물을 아는 사람은 적고 이름만 아는 사람이 더 많은 것 같다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP
+                    (NP 실물/ncn+을/jco)
+                    (AP 알/pvg+는/etm))
+                (NP 사람/ncn+은/jxc))
+            (V 적/paa+고/ecc))
+        (VP
+            (NP
+                (AP
+                    (NP 이름/ncn+만/jxc)
+                    (AP 알/pvg+는/etm))
+                (NP 사람/ncn+이/jcs))
+            (ADVP 더/mag)
+            (NP
+                (AP 많/paa+ㄴ/etm)
+                (NP 것/nbn))
+            (V 같/paa+다/ef)))+./sf)
+
+
+; 문화재보호법에 따라 천연기념물로 지정을 받게 되면 지정된 구역내에서는 자유롭게 잡지 못한다 .
+(S
+    (VP
+        (VP
+            (PP 문화재보호법/ncn+에/jca)
+            (V 따르/pvg+아/ecc))
+        (VP
+            (PP 천연기념물/ncn+로/jca)
+            (NP 지정/ncn+을/jco)
+            (V (V 받/pvg+게/ecx)
+                (AUXP 되/px+면/ecs)))
+        (VP
+            (NP
+                (AP 지정/ncpa+되/xsv+ㄴ/etm)
+                (NP 구역/ncn+내/nbn+에서/jca+는/jxc))
+            (V (V 자유/ncps+롭/xam+게/ecc)
+                (V 잡/pvg+지/ecx)
+                (AUXP 못하/px+ㄴ다/ef))))+./sf)
+
+
+; 머리 끝에서 꼬리 끝까지의 길이가 40 센티미터에서 70 센티미터 되는 것은 보통이고 , 때로는 1 미터 이상 되는 것도 발견된다 .
+(S
+    (VP
+        (VP
+            (PP
+                (AP 머리/ncn)
+                (PP 끝/ncn+에서/jca))
+            (NP
+                (AP 꼬리/ncn)
+                (AP 끝/ncn+까지/jxc+의/jcm)
+                (NP 길이/ncn+가/jcs))
+            (PP
+                (AP 40/nnc)
+                (PP 센티미터/nbu+에서/jca))
+            (NP
+                (AP
+                    (NP
+                        (AP 70/nnc)
+                        (NP 센티미터/nbu))
+                    (AP 되/pvg+는/etm))
+                (NP 것/nbn+은/jxc))
+            (V 보통/ncn+이/jp+고/ecc))+,/sp
+        (VP
+            (PP 때/ncn+로/jca+는/jxc)
+            (NP
+                (AP
+                    (NP
+                        (AP 1/nnc)
+                        (AP 미터/nbu)
+                        (NP 이상/ncn))
+                    (AP 되/pvg+는/etm))
+                (NP 것/nbn+도/jxc))
+            (V 발견/ncpa+되/xsv+ㄴ다/ef)))+./sf)
+
+
+; 등지느러미와 꼬리지느러미 사이에 기름지느러미가 따로 있고 , 눈보다 작은 흑갈색 반점이 온몸에 흩어져 있어서 다른 물고기와 쉽게 구별할 수 있다 .
+(S
+    (VP
+        (VP
+            (NP 등/ncn+지느러미/ncn+와/jcj)
+            (PP
+                (AP 꼬리/ncn+지느러미/ncn)
+                (PP 사이/ncn+에/jca))
+            (NP 기름/ncn+지느러미/ncn+가/jcs)
+            (ADVP 따로/mag)
+            (V 있/paa+고/ecc))+,/sp
+        (VP
+            (NP
+                (AP
+                    (AP
+                        (PP 눈/ncn+보다/jca)
+                        (AP 작/paa+ㄴ/etm))
+                    (AP 흑갈색/ncn))
+                (NP 반점/ncn+이/jcs))
+            (PP 온/mma+몸/ncn+에/jca)
+            (V (V 흩어지/pvg+어/ecx)
+                (AUXP 있/px+어서/ecs)))
+        (VP
+            (PP
+                (AP 다르/paa+ㄴ/etm)
+                (PP 물고기/ncn+와/jca))
+            (NP
+                (AP
+                    (V 쉽/paa+게/ecs)
+                    (AP 구별/ncpa+하/xsv+ㄹ/etm))
+                (NP 수/nbn))
+            (V 있/paa+다/ef)))+./sf)
+
+
+; 이런 조건을 갖추려면 주변에 나무가 우거져서 수면이 태양의 직사광선을 받지 않는 곳이어야 한다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 이런/mmd)
+                (NP 조건/ncn+을/jco))
+            (V 갖추/pvg+려면/ecs))
+        (VP
+            (PP 주변/ncn+에/jca)
+            (NP 나무/ncn+가/jcs)
+            (V 우거지/pvg+어서/ecs))
+        (VP
+            (NP 수면/ncn+이/jcs)
+            (NP
+                (AP 태양/ncn+의/jcm)
+                (NP 직사/ncn+광선/ncn+을/jco))
+            (VP
+                (AP
+                    (V 받/pvg+지/ecx)
+                    (AP 않/px+는/etm))
+                (V (V 곳/ncn+이/jp+어야/ecs)
+                    (V 하/pvg+ㄴ다/ef)))))+./sf)
+
+
+; 열목어는 육식성이어서 물 속에 사는 곤충의 유충이나 어린 물고기들을 잡아먹는다 .
+(S
+    (VP
+        (VP
+            (NP 열목어/ncn+는/jxc)
+            (V 육식성/ncn+이/jp+어서/ecs))
+        (VP
+            (AP
+                (AP
+                    (PP
+                       (AP 물/ncn)
+                       (PP 속/ncn+에/jca))
+                    (AP 살/pvg+는/etm))
+                (AP 곤충/ncn+의/jcm))
+            (V 유충/ncn+이/jp+나/ecs))
+        (VP
+            (NP
+                (AP 어리/paa+ㄴ/etm)
+                (NP 물고기/ncn+들/xsn+을/jco))
+            (V (V 잡/pvg+아/ecx)+(AUXP 먹/px+는다/ef))))+./sf)
+
+
+; 눈이 녹으면 암컷과 수컷이 한 군데 모여서 온통 소란을 피운다 .
+(S
+    (VP
+        (VP
+            (NP 눈/ncn+이/jcs)
+            (V 녹/pvg+으면/ecs))
+        (VP
+            (NP
+                (NP 암컷/ncn+과/jcj)
+                (NP 수컷/ncn+이/jcs))
+            (NP
+                (AP 한/nnc)
+                (NP 군데/nbu))
+            (V 모이/pvg+어서/ecs))
+        (VP
+            (ADVP 온통/mag)
+            (NP 소란/nccn+을/jco)
+            (V 피우/pvg+ㄴ다/ef)))+./sf)
+
+
+; 백두산 기슭 , 사람의 출입이 드문 곳에 사는 열목어들은 사람을 보아도 피할 줄을 모르고 , 그물을 사용하지 않아도 지팡이로 쳐서 손으로 잡을 수 있다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 백두산/nq)
+                (NP 기슭/ncn))+,/sp
+            (NP
+                (AP
+                    (PP
+                        (AP
+                            (NP
+                                (AP 사람/ncn+의/jcm)
+                                (NP 출입/ncpa+이/jcs))
+                            (AP 드물/pvg+ㄴ/etm))
+                        (PP 곳/ncn+에/jca))
+                    (AP 살/pvg+는/etm))
+                (NP 열목어/ncn+들/xsn+은/jxc))
+            (NP 사람/ncn+을/jco)
+            (V 보/pvg+아도/ecs))
+        (VP
+            (NP
+                (AP 피하/pvg+ㄹ/etm)
+                (NP 줄/nbn+을/jco))
+            (V 모르/pvg+고/ecc))+,/sp
+        (VP
+            (NP 그물/ncn+을/jco)
+            (V (V 사용/ncpa+하/xsv+지/ecx)
+                (AUXP 않/px+아도/ecs)))
+        (VP
+            (PP 지팡이/ncn+로/jca)
+            (V 치/pvg+어서/ecs))
+        (VP
+            (NP
+                (AP
+                    (PP 손/ncn+으로/jca)
+                    (AP 잡/pvg+ㄹ/etm))
+                (NP 수/nbn))
+            (V 있/paa+다/ef)))+./sf)
+
+
+; 1985 년 8 월 어느 날 , 설악산 백담사 계곡에서 많은 열목어들이 줄기차게 폭포를 뛰어오르는 광경을 넋을 잃고 지켜볼 때도 그 기록을 생각하고 있었다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 1985/nno)
+                (NP 년/nbu))
+            (NP
+                (AP 8/nno)
+                (NP 월/nbu))
+            (NP
+                (AP 어느/mmd)
+                (NP 날/ncn))+,/sp
+            (PP
+                (AP 설악산/nq)
+                (AP 백담사/nq)
+                (PP 계곡/ncn+에서/jca))
+            (NP
+                (AP 많/paa+ㄴ/etm)
+                (NP 열목어/ncn+들/xsn+이/jcs))
+            (V 줄기차/paa+게/ecs))
+        (VP
+            (NP
+                (AP
+                    (NP 폭포/ncn+를/jco)
+                    (AP
+                        (V 뛰/pvg+어/ecx)+(AUXP 오르/px+는/etm)))
+                (NP 광경/ncn+을/jco))
+            (NP
+                (AP
+                    (NP 넋/ncn+을/jco)
+                    (AP
+                        (V 잃/pvg+고/ecc)
+                        (V 지키/pvg+어/ecx)
+                        (AP 보/px+ㄹ/etm)))
+                (NP 때/ncn+도/jxc))
+            (NP
+                (AP 그/mmd)
+                (NP 기록/ncn+을/jco))
+            (V (V 생각/ncpa+하/xsv+고/ecx)
+                (AUXP 있/px+었/ep+다/ef))))+./sf)
+
+
+; 얼마나 큰 것이었느냐고 했더니 , 그 청년은 자기의 키보다 커서 끈으로 꿰어 어깨에 메었더니 땅에 끌리더라고 했다 .
+(S
+    (VP
+        (VP
+            (ADVP 얼마나/mag)
+            (NP
+                (AP 크/paa+ㄴ/etm)
+                (NP 것/nbn+이/jp+었/ep+느냐/ef+고/jcr))
+            (V 하/pvg+었/ep+더니/ecs))+,/sp
+        (VP
+            (NP
+                (AP 그/mmd)
+                (NP 청년/ncn+은/jxc))
+            (PP
+                (AP 자기/npp+의/jcm)
+                (PP 키/ncn+보다/jca))
+            (V 크/paa+어서/ecs))
+        (VP
+            (PP 끈/ncn+으로/jca)
+            (V 꿰/pvg+어/ecs))
+        (VP
+            (PP 어깨/ncn+에/jca)
+            (V 메/pvg+었/ep+더니/ecs))
+        (VP
+            (NP
+                (PP 땅/ncn+에/jca)
+                (NP 끌리/pvg+더/ep+라/ef+고/jcr))
+            (V 하/pvg+었/ep+다/ef)))+./sf)
+
+
+; 땅에 끌렸다는 것을 보면 , 적어도 몸길이가 1 미터 이상은 되었을 듯싶다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP
+                    (PP 땅/ncn+에/jca)
+                    (AP 끌리/pvg+었/ep+다/ef+는/etm))
+                (NP 것/nbn+을/jco))
+            (V 보/pvg+면/ecs))+,/sp
+        (VP
+            (ADVP 적어도/mag)
+            (NP 몸/ncn+길이/ncn+가/jcs)
+            (VP
+                (AP
+                    (NP
+                        (AP 1/nnc)
+                        (AP 미터/nbu)
+                        (NP 이상/ncn+은/jxc))
+                    (AP 되/pvg+었/ep+ㄹ/etm))
+                (V 듯/nbn+싶/paa+다/ef))))+./sf)
+
+
+; 지금은 탄광 개발로 먹물이 흐르고 있는 지장천에서 있었던 일이라고 하니 , 신기하게 들리기만 했다 .
+(S
+    (VP
+        (VP
+            (NP 지금/ncn+은/jxc)
+            (PP
+                (AP 탄광/ncn)
+                (PP 개발/ncn+로/jca))
+            (NP
+                (AP
+                    (PP
+                        (AP
+                            (NP 먹물/ncn+이/jcs)
+                            (AP
+                                (V 흐르/pvg+고/ecx)
+                                (AP 있/px+는/etm)))
+                        (PP 지장천/nq+에서/jca))
+                    (AP 있/paa+었/ep+더/ep+ㄴ/etm))
+                (NP 일/ncn+이/jp+라/ef+고/jcr))
+            (V 하/pvg+니/ecc))+,/sp
+        (VP
+            (NP
+                (V 신기/ncps+하/xsm+게/ecs)
+                (NP 들리/pvg+기/etn+만/jxc))
+            (V 하/pvg+었/ep+다/ef)))+./sf)
+
+
+; 해빙기가 되면 골짜기마다 소마다 장작만큼이나 큰 열목어들이 몰려들어 소란을 피우는 광경이 장관이었다고 ,  말만 해도 흥분이 되는지 얼굴이 상기된다 .
+(S
+    (VP
+        (VP
+            (NP 해빙기/ncn+가/jcc)
+            (V 되/pvg+면/ecs))
+        (VP
+            (NP
+                (AP
+                    (PP 골짜기/ncn+마다/jxc)
+                    (PP 소/ncn+마다/jxc)
+                    (PP 장작/ncn+만큼/jxc+이나/jxc)
+                    (AP 크/paa+ㄴ/etm))
+                (NP 열목어/ncn+들/xsn+이/jcs))
+            (V (V 몰리/pvg+어/ecx)+(AUXP 들/px+어/ecs)))
+        (VP
+            (NP
+                (NP
+                    (AP
+                        (NP 소란/ncn+을/jco)
+                        (AP 피우/pvg+는/etm))
+                    (NP 광경/ncn+이/jcs))
+                (NP 장관/ncn+이/jp+었/ep+다/ef+고/jcr))+,/sp
+            (NP 말/ncn+만/jxc)
+            (V 하/pvg+어도/ecs))
+        (VP
+            (NP 흥분/ncn+이/jcc)
+            (V 되/pvg+는지/ecs))
+        (VP
+            (NP 얼굴/ncn+이/jcs)
+            (V 상기/ncpa+되/xsv+ㄴ다/ef)))+./sf)
+
+
+; 그분의 설명이 어찌나 실감이 나는지 , 물방울이 튀는 소리까지 들리는 것 같았다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 그분/npp+의/jcm)
+                (NP 설명/ncn+이/jcs))
+            (ADVP 어찌나/mag)
+            (NP 실감/ncn+이/jcs)
+            (V 나/pvg+는지/ecs))+,/sp
+        (VP
+            (NP
+                (AP
+                    (PP
+                        (AP
+                            (NP 물방울/ncn+이/jcs)
+                            (AP 튀/pvg+는/etm))
+                        (PP 소리/ncn+까지/jxc))
+                    (AP 들리/pvg+는/etm))
+                (NP 것/nbn))
+            (V 같/paa+았/ep+다/ef)))+./sf)
+
+
+; 몸의 길이 , 생긴 모양 , 색채 , 반문 등을 자세히 물어보고 , 사진도 보여주었다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 몸/ncn+의/jcm)
+                (NP 길이/ncn))+,/sp
+            (NP
+                (AP 생기/pvg+ㄴ/etm)
+                (AP 모양/ncn)+,/sp
+                (AP 색채/ncn)+,/sp
+                (AP 반문/ncn)
+                (NP 등/nbn+을/jco))
+            (ADVP 자세/ncn+히/xsa)
+            (V (V 묻/pvg+어/ecx)+(AUXP 보/px+고/ecc)))+,/sp
+        (VP
+            (NP 사진/ncn+도/jxc)
+            (V (V 보이/pvg+어/ecx)+(AUXP 주/px+었/ep+다/ef))))+./sf)
+
+
+; 강원도 서부 산악지대에서 충북과 경북의 깊은 산악지대에 걸쳐서 널리 살았던 것으로 생각된다 .
+(S
+    (VP
+        (VP
+            (PP
+                (AP 강원도/nq)
+                (AP 서부/ncn)
+                (PP 산악지대/ncn+에서/jca))
+            (PP
+                (AP
+                    (NP 충북/nq+과/jcj)
+                    (AP 경북/nq+의/jcm))
+                (PP
+                    (AP 깊/paa+ㄴ/etm)
+                    (PP 산악지대/ncn+에/jca)))
+            (V 걸치/pvg+어서/ecs))
+        (VP
+            (PP
+                (AP
+                    (ADVP 널리/mag)
+                    (AP 살/pvg+았/ep+더/ep+ㄴ/etm))
+                (PP 것/nbn+으로/jca))
+            (V 생각/ncpa+되/xsv+ㄴ다/ef)))+./sf)
+
+
+; 열목어가 한강 상류에서 발견된 것도 기적적인 사실인데 낙동강에서 발견되다니 , 있을 수 없는 일 같았다 .
+(S
+    (VP
+        (VP
+            (NP 열목어/ncn+가/jcs)
+            (NP
+                (AP
+                    (PP
+                        (AP 한강/nq)
+                        (PP 상류/ncn+에서/jca))
+                    (AP 발견/ncpa+되/xsv+ㄴ/etm))
+                (NP 것/nbn+도/jxc))
+            (VP
+                (AP 기적/ncn+적/xsn+이/jp+ㄴ/etm)
+                (V 사실/ncn+이/jp+ㄴ데/ecs)))
+        (VP
+            (PP 낙동강/nq+에서/jca)
+            (V 발견/ncpa+되/xsv+다/ef+니/ecs))+,/sp
+        (VP
+            (NP
+                (AP
+                    (NP
+                        (AP 있/paa+ㄹ/etm)
+                        (NP 수/nbn))
+                    (AP 없/paa+는/etm))
+                (NP 일/ncn))
+            (V 같/paa+았/ep+다/ef)))+./sf)
+
+
+; 그만큼 희귀한 종이 낙동강에서 발견되었다고 해서 매일같이 신문에 대서특필했고 , 각종 잡지에도 보도되었다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP
+                    (NP 그/npd+만큼/jxc)
+                    (AP 희귀/ncps+하/xsm+ㄴ/etm))
+                (NP 종/ncn+이/jcs))
+            (NP
+                (PP 낙동강/nq+에서/jca)
+                (NP 발견/ncpa+되/xsv+었/ep+다/ef+고/jcr))
+            (V 하/pvg+어서/ecs))
+        (VP
+            (ADVP 매일/ncn+같/paa+이/xsa)
+            (PP 신문/ncn+에/jca)
+            (V 대서특필/ncpa+하/xsv+었/ep+고/ecc))+,/sp
+        (VP
+            (ADVP 각종/mag)
+            (PP 잡지/ncn+에/jca+도/jxc)
+            (V 보도/ncpa+되/xsv+었/ep+다/ef)))+./sf)
+
+
+; 학술 잡지에까지 이 사실이 게재되어 학계에서도 인정을 받게 되었다 .
+(S
+    (VP
+        (VP
+            (PP
+                (AP 학술/ncn)
+                (PP 잡지/ncn+에/jca+까지/jxc))
+            (NP
+                (AP 이/mmd)
+                (NP 사실/ncn+이/jcs))
+            (V 게재/ncpa+되/xsv+어/ecs))
+        (VP
+            (PP 학계/ncn+에서/jca+도/jxc)
+            (NP 인정/ncn+을/jco)
+            (V (V 받/pvg+게/ecx)
+                (AUXP 되/px+었/ep+다/ef))))+./sf)
+
+
+; 이런 사실을 최근에 안 필자는 웃어야 할지 울어야 할지 , 서글픈 생각과 함께 엄습해 오는 울분을 참기 힘들었다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 이런/mmd)
+                (NP 사실/ncn+을/jco))
+            (NP
+                (AP
+                    (PP 최근/ncn+에/jca)
+                    (AP 알/pvg+ㄴ/etm))
+                (NP 필자/ncn+는/jxc))
+            (VP
+                (V (V 웃/pvg+어야/ecs)
+                    (V 하/pvg+ㄹ지/ecs))
+                (V (V 울/pvg+어야/ecs)
+                    (V 하/pvg+ㄹ지/ecs))))+,/sp
+        (VP
+            (ADVP
+                (PP
+                    (AP 서글프/paa+ㄴ/etm)
+                    (PP 생각/ncn+과/jct))
+                (ADVP 함께/mag))
+            (VP
+                (NP
+                    (NP
+                        (AP
+                            (V 엄습/ncps+하/xsm+어/ecs)
+                            (AP 오/pvg+는/etm))
+                        (NP 울분/ncn+을/jco))
+                    (NP 참/pvg+기/etn))
+                (V 힘들/pvg+었/ep+다/ef))))+./sf)
+
+
+; 어떤 형태로든 이 사실이 국민에게 알려졌었다면 1937 년의 열목어 발견 사건과 같은 해프닝은 일어나지 않았을 것이다 .
+(S
+    (VP
+        (VP
+            (PP
+                (AP 어떤/mmd)
+                (PP 형태/ncn+로/jca+든/jxc))
+            (NP
+                (AP 이/mmd)
+                (NP 사실/ncn+이/jcs))
+            (PP 국민/ncn+에게/jca)
+            (V (V 알리/pvg+어/ecx)+(AUXP 지/px+었었/ep+다/ef+면/ecs)))
+        (VP
+            (NP
+                (AP
+                    (PP
+                        (AP 1937/nno)
+                        (AP 년/nbu+의/jcm)
+                        (AP 열목어/ncn)
+                        (AP 발견/ncn)
+                        (PP 사건/ncn+과/jct))
+                    (AP 같/paa+ㄴ/etm))
+                (NP 해프닝/ncn+은/jxc))
+            (VP
+                (AP
+                    (V 일어나/pvg+지/ecx)
+                    (AP 않/px+았/ep+ㄹ/etm))
+                (V 것/nbn+이/jp+다/ef))))+./sf)
+
+
+; 그것이 4 세기 동안이나 햇빛을 보지 못하고 숨겨져 있었던 것이다 .
+(S
+    (VP
+        (VP
+            (NP 그것/npd+이/jcs)
+            (VP
+                (AP 4/nnc)
+                (AP 세기/nbu)
+                (V 동안/ncn+이/jp+나/ecs)))
+        (VP
+            (NP 햇빛/ncn+을/jco)
+            (V (V 보/pvg+지/ecx)
+                (AUXP 못하/px+고/ecc)))
+        (VP
+            (AP
+                (V 숨기/pvg+어/ecx)
+                (AUXP 지/px+어/ecx)
+                (AP 있/px+었/ep+더/ep+ㄴ/etm))
+            (V 것/nbn+이/jp+다/ef)))+./sf)
+
+
+; 그런데도 4 세기 동안이나 숨겨져 있었다는 데 대해서는 변명의 여지가 없다 .
+(S
+    (VP
+        (VP
+            (ADVP 그런데도/mag)
+            (VP
+                (AP 4/nnn)
+                (AP 세기/nbu)
+                (V 동안/ncn+이/jp+나/ecs)))
+        (VP
+            (NP
+                (PP
+                    (AP
+                        (V 숨기/pvg+어/ecx)
+                        (AUXP 지/px+어/ecx)
+                        (AP 있/px+었/ep+다/ef+는/etm))
+                    (PP 데/nbn))
+                (NP 대하/pvg+어서/ecs+는/jxc))
+            (NP
+                (AP 변명/ncn+의/jcm)
+                (NP 여지/ncn+가/jcs))
+            (V 없/paa+다/ef)))+./sf)
+
+
+; 앞에 소개한 고서들에 기록된 다음과 같은 열목어의 산지만 보아도 알 수 있다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP
+                    (PP
+                        (AP
+                            (PP 앞/ncn+에/jca)
+                            (AP 소개/ncpa+하/xsv+ㄴ/etm))
+                        (PP 고서/ncn+들/xsn+에/jca))
+                    (AP 기록/ncpa+되/xsv+ㄴ/etm))
+                (NP
+                    (AP
+                        (AP
+                            (PP 다음/ncn+과/jct)
+                            (AP 같/paa+ㄴ/etm))
+                        (AP 열목어/ncn+의/jcm))
+                    (NP 산지/ncn+만/jxc)))
+            (V 보/pvg+아도/ecs))
+        (VP
+            (NP
+                (AP 알/pvg+ㄹ/etm)
+                (NP 수/nbn))
+            (V 있/paa+다/ef)))+./sf)
+
+
+; 강릉대도호부 , 원주목 , 춘천도호부 , 정선군 , 영월군 , 평창군 , 인제군 , 횡성현 , 홍천현 , 금성현 , 양구현 만일 이런 기록들이 남아 있지 않았다면 , 400 년 내지 500 년 동안의 열목어의 분포상황을 우리가 어떻게 알 수 있겠는가 .
+(S
+    (VP
+        (VP
+            (NP 강릉대도호부/nq)+,/sp
+            (NP 원주목/nq)+,/sp
+            (NP 춘천도호부/nq)+,/sp
+            (NP 정선군/nq)+,/sp
+            (NP 영월군/nq)+,/sp
+            (NP 평창군/nq)+,/sp
+            (NP 인제군/nq)+,/sp
+            (NP 횡성현/nq)+,/sp
+            (NP 홍천현/nq)+,/sp
+            (NP 금성현/nq)+,/sp
+            (NP 양구현/nq)
+            (ADVP 만일/mag)
+            (NP
+                (AP 이런/mmd)
+                (NP 기록/ncn+들/xsn+이/jcs))
+            (V (V 남/pvg+아/ecx)
+                (AUXP 있/px+지/ecx)
+                (AUXP 않/px+았/ep+다/ef+면/ecs)))+,/sp
+        (VP
+            (NP
+                (AP 400/nnc)
+                (NP 년/nbu))
+            (IP 내지/maj)
+            (NP
+                (AP 500/nnc)
+                (AP 년/nbu)
+                (AP 동안/ncn+의/jcm)
+                (AP 열목어/ncn+의/jcm)
+                (NP 분포/ncn+상황/ncn+을/jco))
+            (NP 우리/npp+가/jcs)
+            (NP
+                (AP
+                    (V어떻/pad+게/ecs)
+                    (AP 알/pvg+ㄹ/etm))
+                (NP 수/nbn))
+            (V 있/paa+겠/ep+는가/ef)))+./sf)
+
+
+; 생각하면 할수록 조상들에게 감사한 마음이 생기고 그분들의 훈기가 피부로 느껴진다 .
+(S
+    (VP
+        (VP
+            (V (V 생각/ncpa+하/xsv+면/ecs)
+                (V 하/pvg+ㄹ수록/ecs)))
+        (VP
+            (NP
+                (AP
+                    (PP 조상/ncn+들/xsn+에게/jca)
+                    (AP 감사/ncpa+하/xsv+ㄴ/etm))
+                (NP 마음/ncn+이/jcs))
+            (V 생기/pvg+고/ecc))
+        (VP
+            (NP
+                (AP 그분/npp+들/xsn+의/jcm)
+                (NP 훈기/ncn+가/jcs))
+            (PP 피부/ncn+로/jca)
+            (V (V 느끼/pvg+어/ecx)+(AUXP 지/px+ㄴ다/ef))))+./sf)
+
+
+; 이 기사가 강릉대도호부의 명승지를 소개하는 난에 올라 있는 것을 보면 오대산 일대가 강릉대도호부의 행정구역내에 있었던 것을 알 수 있다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 이/mmd)
+                (NP 기사/ncn+가/jcs))
+            (NP
+                (AP
+                    (PP
+                        (AP
+                            (NP
+                                (AP 강릉대도호부/nq+의/jcm)
+                                (NP 명승지/ncn+를/jco))
+                            (AP 소개/ncpa+하/xsv+는/etm))
+                        (PP 난/ncn+에/jca))
+                    (AP
+                        (V 오르/pvg+아/ecx)
+                        (AP 있/px+는/etm)))
+                (NP 것/nbn+을/jco))
+            (V 보/pvg+면/ecs))
+        (VP
+            (NP
+                (AP 오대산/nq)
+                (NP 일대/ncn+가/jcs))
+            (NP
+                (AP
+                    (NP
+                        (AP
+                            (PP
+                                (AP 강릉대도호부/nq+의/jcm)
+                                (PP 행정/ncn+구역/ncn+내/nbn+에/jca))
+                            (AP 있/paa+었/ep+더/ep+ㄴ/etm))
+                        (NP 것/nbn+을/jco))
+                    (AP 알/pvg+ㄹ/etm))
+                (NP 수/nbn))
+            (V 있/paa+다/ef)))+./sf)
+
+
+; 생각하면 할수록 조상들께 죄송하고 또 수치스러운 일이다 .
+(S
+    (VP
+        (VP
+            (V (V 생각/ncpa+하/xsv+면/ecs)
+                (V 하/pvg+ㄹ수록/ecs)))
+        (VP
+            (NP 조상/ncn+들/xsn+께/jcs)
+            (V 죄송/ncps+하/xsm+고/ecc))
+        (VP
+            (IP 또/maj)
+            (VP
+                (AP 수치/ncps+스럽/xsm+ㄴ/etm)
+                (V 일/ncn+이/jp+다/ef))))+./sf)
+
+
+; 그중 약 반수를 인공적으로 수정시킬 수 있었고 , 약 1 개월 후에는 90 퍼센트 내외를 부화시킬 수 있었다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 그/mmd+중/nbn)
+                (AP 약/mma)
+                (NP 반수/ncn+를/jco))
+            (NP
+                (AP
+                    (PP 인공/ncn+적/xsn+으로/jca)
+                    (AP 수정/ncpa+시키/xsv+ㄹ/etm))
+                (NP 수/nbn))
+            (V 있/paa+었/ep+고/ecc))+,/sp
+        (VP
+            (NP
+                (AP 약/mma)
+                (AP 1/nnc)
+                (AP 개월/nbu)
+                (NP 후/ncn+에/jca+는/jxc))
+            (NP
+                (AP
+                    (NP
+                        (AP 90/nnc)
+                        (AP 퍼센트/nbu)
+                        (NP 내외/ncn+를/jco))
+                    (AP 부화/ncpa+시키/xsv+ㄹ/etm))
+                (NP 수/nbn))
+            (V 있/paa+었/ep+다/ef)))+./sf)
+
+
+; 그뿐 아니라 , 실지렁이나 배합사료 등으로 전체 길이 6 센티미터 내외가 되기까지 사육할 수 있었다 .
+(S
+    (VP
+        (IP
+            (AP 그/npd+뿐/nbn)
+            (V 아니/paa+라/ecs))+,/sp
+        (VP
+            (PP
+                (AP
+                    (NP 실지렁이/ncn+나/jcj)
+                    (AP 배합/ncpa+사료/ncn))
+                (PP 등/nbn+으로/jca))
+            (NP
+                (AP 전체/ncn)
+                (AP 길이/ncn)
+                (AP 6/nnc)
+                (AP 센티미터/nbu)
+                (NP 내외/ncn+가/jcc))
+            (PP 되/pvg+기/etn+까지/jxc)
+            (NP
+                (AP 사육/ncpa+하/xsv+ㄹ/etm)
+                (NP 수/nbn))
+            (V 있/paa+었/ep+다/ef)))+./sf)
+
+
+; 그것이 1985년 3월까지는 전장 25센티미터 정도까지 컸고, 1986년에는 그중 세 마리에서 채란하는 데 성공하였다.
+(S
+    (VP
+        (VP
+            (NP 그것/npd+이/jcs)
+            (NP
+                (AP 1985/nno)
+                (AP 년/nbu)
+                (AP 3/nno)
+                (NP 월/nbu+까지/jxc+는/jxc))
+            (PP
+                (AP 전장/ncn)
+                (AP 25/nnc)
+                (AP 센티미터/nbu)
+                (PP 정도/ncn+까지/jxc))
+            (V 크/paa+었/ep+고/ecc))+,/sp
+        (VP
+            (NP
+                (AP 1986/nno)
+                (NP 년/nbu+에/jca+는/jxc))
+            (PP
+                (AP
+                    (PP
+                        (AP 그/mmd+중/nbn)
+                        (AP 세/nnc)
+                        (PP 마리/nbu+에서/jca))
+                    (AP 채란/ncpa+하/xsv+는/etm))
+                (PP 데/nbn))
+            (V 성공/ncpa+하/xsv+었/ep+다/ef)))+./sf)
+
+
+; 이 나루터는 처음에 nq[제 2 한강교라고 불렀다가 나중에 양화교라고 부르게 된 다리가 걸리기까지 쓰였다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 이/mmd)
+                (NP 나루터/ncn+는/jxc))
+            (PP 처음/ncn+에/jca)
+            (NP
+                (AP 제/xp)
+                (AP 2/nno)
+                (NP 한강교/ncn]nq+라/ef+고/jcr))
+            (V 부르/pvg+었/ep+다가/ecs))
+        (VP
+            (NP
+                (AP
+                    (NP
+                        (PP 나중/ncn+에/jca)
+                        (NP 양화교/nq+라/ef+고/jcr))
+                    (AP
+                        (V 부르/pvg+게/ecx)
+                        (AP 되/px+ㄴ/etm)))
+                (NP 다리/ncn+가/jcs))
+            (PP 걸리/pvg+기/etn+까지/jxc)
+            (V 쓰이/pvg+었/ep+다/ef)))+./sf)
+
+
+; 처음에 본 것은 중학생 때인 1920 년대이고 , 마지막으로 본 것은 1949 년이었다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP
+                    (PP 처음/ncn+에/jca)
+                    (AP 보/pvg+ㄴ/etm))
+                (NP 것/nbn+은/jxc))
+            (VP
+                (AP 중학생/ncn)
+                (AP 때/ncn+이/jp+ㄴ/etm)
+                (AP 1920/nno)
+                (V 년대/nbu+이/jp+고/ecc)))+,/sp
+        (VP
+            (NP
+                (AP
+                    (PP 마지막/ncn+으로/jca)
+                    (AP 보/pvg+ㄴ/etm))
+                (NP 것/nbn+은/jxc))
+            (VP
+                (AP 1949/nno)
+                (V 년/nbu+이/jp+었/ep+다/ef))))+./sf)
+
+
+; 처음에 그물을 실은 전마선이 빠른 속도로 달리면서 그물을 친다 .
+(S
+    (VP
+        (VP
+            (PP 처음/ncn+에/jca)
+            (NP
+                (AP
+                    (NP 그물/ncn+을/jco)
+                    (AP 싣/pvg+ㄴ/etm))
+                (NP 전마선/ncn+이/jcs))
+            (PP
+                (AP 빠르/paa+ㄴ/etm)
+                (PP 속도/ncn+로/jca))
+            (V 달리/pvg+면서/ecc))
+        (VP
+            (NP 그물/ncn+을/jco)
+            (V 치/pvg+ㄴ다/ef)))+./sf)
+
+
+; 강가에서 4 , 5 명씩 두 패로 갈라서서 기다리고 있던 장정들이 그물을 당기기 시작한다 .
+(S
+    (VP
+        (VP
+            (PP 강가/ncn+에서/jca)
+            (NP
+                (AP 4/nnc)+,/sp
+                (AP 5/nnc)
+                (NP 명/nbu+씩/xsn))
+            (NP
+                (AP
+                    (PP
+                        (AP 두/nnc)
+                        (PP 패/ncn+로/jca))
+                    (AP
+                        (V 갈라서/pvg+서/ecs)
+                        (V 기다리/pvg+고/ecx)
+                        (AP 있/px+더/ep+ㄴ/etm)))
+                (NP 장정/ncn+들/xsn+이/jcs))
+            (NP 그물/ncn+을/jco)
+            (VP
+                (AP 당기/pvg+기/etn)
+                (V 시작/ncpa+하/xsv+ㄴ다/ef))))+./sf)
+
+
+; 처음엔 장단을 맞추는 소리가 구슬프게 들리지만 , 그물이 좁혀짐에 따라 속도가 점점 빨라진다 .
+(S
+    (VP
+        (VP
+            (NP 처음/ncn+에/jca+ㄴ/jxc)
+            (NP
+                (AP
+                    (NP 장단/ncn+을/jco)
+                    (AP 맞추/pvg+는/etm))
+                (NP 소리/ncn+가/jcs))
+            (V (V 구슬프/paa+게/ecs)
+                (V 들리/pvg+지만/ecs)))+,/sp
+        (VP
+            (NP 그물/ncn+이/jcs)
+            (PP 좁혀지/pvg+ㅁ/etn+에/jca)
+            (V 따르/pvg+아/ecs))
+        (VP
+            (NP 속도/ncn+가/jcs)
+            (ADVP 점점/mag)
+            (V (V 빠르/paa+아/ecx)+(AUXP 지/px+ㄴ다/ef))))+./sf)
+
+
+; 은백색의 뱅어떼가 갈 곳을 잃고 우왕좌왕하는 모습이 보이면 구경꾼들까지 합세해서 그물을 끈다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 은백색/ncn+의/jcm)
+                (NP 뱅어/ncn+떼/xsn+가/jcs))
+            (NP
+                (AP 가/pvg+ㄹ/etm)
+                (NP 곳/ncn+을/jco))
+            (V 잃/pvg+고/ecc))
+        (VP
+            (NP
+                (AP 우왕좌왕/mag+하/xsv+는/etm)
+                (NP 모습/ncn+이/jcs))
+            (V 보이/pvg+면/ecs))
+        (VP
+            (PP 구경꾼/ncn+들/xsn+까지/jxc)
+            (V 합세/ncpa+하/xsv+어서/ecs))
+        (VP
+            (NP 그물/ncn+을/jco)
+            (V 끌/pvg+ㄴ다/ef)))+./sf)
+
+
+; 잡히는 양이 많지 않은 까닭인지 , 뱅어는 기다리고 있던 구매자들에게 그 자리에서 넘어가고 만다 .
+(S
+    (VP
+        (VP
+            (AP
+                (NP
+                    (AP 잡히/pvg+는/etm)
+                    (NP 양/ncn+이/jcs))
+                (AP
+                    (V 많/paa+지/ecx)
+                    (AP 않/px+ㄴ/etm)))
+                (V 까닭/ncn+이/jp+ㄴ지/ecs))+,/sp
+        (VP
+            (PP
+                (AP
+                    (NP 뱅어/ncn+는/jxc)
+                    (AP
+                        (V 기다리/pvg+고/ecx)
+                        (AP 있/px+더/ep+ㄴ/etm)))
+                (PP 구매자/ncn+들/xsn+에게/jca))
+            (PP
+                (AP 그/mmd)
+                (PP 자리/ncn+에서/jca))
+            (V (V 넘어가/pvg+고/ecx)
+                 (AUXP 말/px+ㄴ다/ef))))+./sf)
+
+
+; 어부들의 말에 따르면 , 붕퉁뱅어가 가장 많이 잡히는 것은 동지 전후라고 한다 .
+(S
+    (VP
+        (VP
+            (PP
+                (AP 어부/ncn+들/xsn+의/jcm)
+                (PP 말/ncn+에/jca))
+            (V 따르/pvg+면/ecs))+,/sp
+        (VP
+            (NP 붕퉁뱅어/ncn+가/jcs)
+            (NP
+                (AP
+                    (ADVP 가장/mag)
+                    (ADVP 많/paa+이/xsa)
+                    (AP 잡히/pvg+는/etm))
+                (NP 것/nbn+은/jxc))
+            (NP
+                (AP 동지/ncn)
+                (NP 전후/ncn+라고/jcr))
+            (V 하/pvg+ㄴ다/ef)))+./sf)
+
+
+; 이것을 보고 서글픈 생각에 잠기는 것은 필자 한 사람만은 아닐 것이다 .
+(S
+    (VP
+        (VP
+            (NP 이것/npd+을/jco)
+            (V 보/pvg+고/ecc))
+        (VP
+            (NP
+                (AP
+                    (PP
+                        (AP 서글프/paa+ㄴ/etm)
+                        (PP 생각/ncpa+에/jca))
+                    (AP 잠기/pvg+는/etm))
+                (NP 것/nbn+은/jxc))
+            (VP
+                (AP
+                    (NP
+                        (AP 필자/ncn)
+                        (AP 한/nnc)
+                        (NP 사람/ncn+만/jxc+은/jxc))
+                    (AP 아니/paa+ㄹ/etm))
+                (V 것/nbn+이/jp+다/ef))))+./sf)
+
+
+; 뱅어 , 국수뱅어 , 붕퉁뱅어 , 벚꽃뱅어 , 도화뱅어 , 젓뱅어 , 실뱅어 , 전문가가 아니면 7 종을 정확하게 구별하기는 어려울 것이다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 뱅어/ncn)+,/sp
+                (AP 국수뱅어/ncn)+,/sp
+                (AP 붕퉁뱅어/ncn)+,/sp
+                (AP 벚꽃뱅어/ncn)+,/sp
+                (AP 도화뱅어/ncn)+,/sp
+                (AP 젓뱅어/ncn)+,/sp
+                (AP 실뱅어/ncn)+,/sp
+                (NP 전문가/ncn+가/jcc))
+            (V 아니/paa+면/ecs))
+        (VP
+            (NP
+                (AP 7/nnc)
+                (NP 종/ncn+을/jco))
+            (VP
+                (AP
+                    (NP
+                        (V 정확/ncps+하/xsm+게/ecs)
+                        (NP 구별/ncpa+하/xsv+기/etn+는/jxc))
+                    (AP 어렵/paa+ㄹ/etm))
+                (V 것/nbn+이/jp+다/ef))))+./sf)
+
+
+; 등지느러미와 꼬리지느러미 사이에 기름지느러미가 있고 , 꼬리지느러미는 제비꼬리처럼 둘로 갈라진다 .
+(S
+    (VP
+        (VP
+            (PP
+                (AP
+                    (NP 등/ncn+지느러미/ncn+와/jcj)
+                    (AP 꼬리/ncn+지느러미/ncn))
+                (PP 사이/ncn+에/jca))
+            (NP 기름/ncn+지느러미/ncn+가/jcs)
+            (V 있/paa+고/ecc))+,/sp
+        (VP
+            (NP 꼬리/ncn+지느러미/ncn+는/jxc)
+            (PP 제비/ncn+꼬리/ncn+처럼/jca)
+            (PP 둘/nnc+로/jca)
+            (V (V 가르/pvg+아/ecx)+(AUXP 지/px+ㄴ다/ef))))+./sf)
+
+
+; 물속에서는 반투명이어서 잘 보이지는 않으나 , 잡아올리면 바로 백색으로 변한다 .
+(S
+    (VP
+        (VP
+            (NP 물속/ncn+에서/jca+는/jxc)
+            (V 반투명/ncn+이/jp+어서/ecs))
+        (VP
+            (ADVP 잘/mag)
+            (VP
+                (NP 보이/pvg+지/ecx+는/jxc)
+                (V 않/px+으나/ecs)+,/sp
+                (V 잡/pvg+아/ecx)
+                (AUXP 올리/px+면/ecs)))
+        (VP
+            (ADVP 바로/mag)
+            (PP 백색/ncn+으로/jca)
+            (V 변하/pvg+ㄴ다/ef)))+./sf)
+
+
+; 몸의 길이는 10 센티미터 내외의 붕퉁뱅어가 가장 큰 종이어서 15 내지 17 센티미터 , 젓뱅어가 가장 작아 6 센티미터를 넘지 못한다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 몸/ncn+의/jcm)
+                (NP 길이/ncn+는/jxc))
+            (NP
+                (AP 10/nnc)
+                (AP 센티미터/nbu)
+                (AP 내외/ncn+의/jcm)
+                (NP 붕퉁뱅어/ncn+가/jcs))
+            (VP
+                (ADVP 가장/mag)
+                (AP 크/paa+ㄴ/etm)
+                (V 종/ncn+이/jp+어서/ecs)))
+        (VP
+            (NP 15/nnc)
+            (IP 내지/maj)
+            (NP
+                (AP 17/nnc)
+                (AP 센티미터/nbu)+,/sp
+                (NP 젓뱅어/ncn+가/jcs))
+            (ADVP 가장/mag)
+            (V 작/paa+아/ecs))
+        (VP
+            (NP
+                (AP 6/nnc)
+                (NP 센티미터/nbu+를/jco))
+            (V (V 넘/pvg+지/ecx)
+                (AUXP 못하/px+ㄴ다/ef))))+./sf)
+
+
+; 주로 새우를 잡았으나 , 거기에 섞여서 심심찮게 뱅어가 잡혔다 .
+(S
+    (VP
+        (VP
+            (ADVP 주로/mag)
+            (NP 새우/ncn+를/jco)
+            (V 잡/pvg+았/ep+으나/ecs))+,/sp
+        (VP
+            (PP 거기/npd+에/jca)
+            (V (V 섞이/pvg+어서/ecs)
+                (V 심심찮/paa+게/ecs)))
+        (VP
+            (NP 뱅어/ncn+가/jcs)
+            (V 잡히/pvg+었/ep+다/ef)))+./sf)
+
+
+; 하성면에는 뱅어의 가공공장까지 있었는데 , 그것은 붕퉁뱅어를 비롯하여 겨울에서 봄에 걸쳐서 잡히는 종류들을 노린 것이라고 한다 .
+(S
+    (VP
+        (VP
+            (NP 하성면/nq+에/jca+는/jxc)
+            (PP
+                (AP 뱅어/ncn+의/jcm)
+                (PP 가공/ncn+공장/ncn+까지/jxc))
+            (V 있/paa+었/ep+는데/ecs))+,/sp
+        (VP
+            (NP 그것/npd+은/jxc)
+            (NP 붕퉁뱅어/ncn+를/jco)
+            (V 비롯/ncps+하/xsm+어/ecs))
+        (VP
+            (NP
+                (AP
+                    (NP
+                        (AP
+                            (PP 겨울/ncn+에서/jca)
+                            (PP 봄/ncn+에/jca)
+                            (AP
+                                (V 걸치/pvg+어서/ecs)
+                                (AP 잡히/pvg+는/etm)))
+                        (NP 종류/ncn+들/xsn+을/jco))
+                    (AP 노리/pvg+ㄴ/etm))
+                (NP 것/nbn+이/jp+라/ef+고/jcr))
+            (V 하/pvg+ㄴ다/ef)))+./sf)
+
+
+; 많이 잡히지는 않았으나 , 한 번에 열 마리씩만 잡혀도 돈벌이가 된다고 즐거워하고 있었다 .
+(S
+    (VP
+        (VP
+            (ADVP 많/paa+이/xsa)
+            (VP
+                (NP 잡히/pvg+지/ecx+는/jxc)
+                (V 않/px+았/ep+으나/ecs)))+,/sp
+        (VP
+            (PP
+                (AP 한/nnc)
+                (PP 번/nbu+에/jca))
+            (NP
+                (AP 열/nnc)
+                (NP 마리/nbu+씩/xsn+만/jxc))
+            (V 잡히/pvg+어도/ecs))
+        (VP
+            (NP
+                (NP 돈벌이/ncn+가/jcc)
+                (NP 되/pvg+ㄴ다/ef+고/jcr))
+            (V (V 즐겁/paa+어/ecx)
+                (AUXP 하/px+고/ecx)
+                (AUXP 있/px+었/ep+다/ef))))+./sf)
+
+
+; 1987 년 가을 , 전라남도 영광군을 방문했을 때는 젓뱅어에 관한 풍성한 이야기를 들었으나 , 제철이 아니어서 잡고 젓을 담는 광경을 보지는 못했다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 1987/nno)
+                (AP 년/nbu)
+                (NP 가을/ncn))+,/sp
+            (NP
+                (AP
+                    (NP
+                        (AP 전라남도/nq)
+                        (NP 영광군/nq+을/jco))
+                    (AP 방문/ncpa+하/xsv+었/ep+ㄹ/etm))
+                (NP 때/ncn+는/jxc))
+            (NP
+                (AP
+                    (AP
+                        (PP 젓뱅어/ncn+에/jca)
+                        (AP 관하/pvg+ㄴ/etm))
+                    (AP 풍성/ncps+하/xsm+ㄴ/etm))
+                (NP 이야기/ncpa+를/jco))
+            (V 듣/pvg+었/ep+으나/ecs))+,/sp
+        (VP
+            (NP 제철/ncn+이/jcc)
+            (V (V 아니/paa+어서/ecs)
+                (V 잡/pvg+고/ecc)))
+        (VP
+            (NP
+                (AP
+                    (NP 젓/ncn+을/jco)
+                    (AP 담/pvg+는/etm))
+                 (NP 광경/ncn+을/jco))
+            (VP
+                (NP 보/pvg+지/ecx+는/jxc)
+                (AUXP 못하/px+었/ep+다/ef))))+./sf)
+
+
+; 동지 전후에 얼음을 깨고 그물을 쳐서 잡으며 , 입춘 이후에는 몸색이 점점 파랗게 변하여 드물게 되고 , 얼음이 녹으면 볼 수 없게 된다고 해서 빙어라고 한다 .
+(S
+    (VP
+        (VP
+            (PP
+                (AP 동지/ncn)
+                (PP 전후/ncn+에/jca))
+            (NP 얼음/ncn+을/jco)
+            (V 깨/pvg+고/ecc))
+        (VP
+            (NP 그물/ncn+을/jco)
+            (V (V 치/pvg+어서/ecs)
+                (V 잡/pvg+으며/ecs)))+,/sp
+        (VP
+            (PP
+                (AP 입춘/ncn)
+                (PP 이후/ncn+에/jca+는/jxc))
+            (NP 몸색/ncn+이/jcs)
+            (ADVP 점점/mag)
+            (V (V 파랗/paa+게/ecs)
+                (V 변하/pvg+어/ecs)
+                (V 드물/pvg+게/ecx)
+                (AUXP 되/px+고/ecc)))+,/sp
+        (VP
+            (NP 얼음/ncn+이/jcs)
+            (V 녹/pvg+으면/ecs))
+        (VP
+            (NP
+                (NP
+                    (AP 보/pvg+ㄹ/etm)
+                    (NP 수/nbn))
+                (NP
+                    (V 없/paa+게/ecx)
+                    (NP 되/px+ㄴ다/ef+고/jcr)))
+            (V 하/pvg+어서/ecs))
+        (VP
+            (NP 빙어/ncn+라고/jcr)
+            (V 하/pvg+ㄴ다/ef)))+./sf)
+
+
+; 적어도 150 년 이전에 이미 얼음 밑에 그물을 치고 뱅어를 잡았다고 하니 , 조상들의 슬기로움에 감탄할 따름이다 .
+(S
+    (VP
+        (VP
+            (ADVP 적어도/mag)
+            (PP
+                (AP 150/nnc)
+                (AP 년/nbu)
+                (PP 이전/ncn+에/jca))
+            (ADVP 이미/mag)
+            (PP
+                (AP 얼음/ncn)
+                (PP 밑/ncn+에/jca))
+            (NP 그물/ncn+을/jco)
+            (V 치/pvg+고/ecc))
+        (VP
+            (NP
+                (NP 뱅어/ncn+를/jco)
+                (NP 잡/pvg+았/ep+다/ef+고/jcr))
+            (V 하/pvg+니/ecc))+,/sp
+        (VP
+            (PP
+                (AP 조상/ncn+들/xsn+의/jcm)
+                (PP 슬기/ncps+롭/xsm+ㅁ/etn+에/jca))
+            (VP
+                (AP 감탄/ncpa+하/xsv+ㄹ/etm)
+                (V 따름/nbn+이/jp+다/ef))))+./sf)
+
+
+; 오늘날 겨울이면 여기저기에서 얼음 밑에 그물을 치고 물고기를 잡는데 , 그때부터 맥을 이어온 일인 듯하다 .
+(S
+    (VP
+        (VP
+            (AP 오늘날/ncn)
+            (V 겨울/ncn+이/jp+면/ecs))
+        (VP
+            (PP 여기저기/mad+에서/jca)
+            (PP
+                (AP 얼음/ncn)
+                (PP 밑/ncn+에/jca))
+            (NP 그물/ncn+을/jco)
+            (V 치/pvg+고/ecc))
+        (VP
+            (NP 물고기/ncn+를/jco)
+            (V 잡/pvg+는데/ecs))+,/sp
+        (VP
+            (PP 그/mmd+때/ncn+부터/jxc)
+            (VP
+                (AP
+                    (AP
+                        (NP 맥/ncn+을/jco)
+                        (AP
+                            (V 잇/pvg+어/ecx)+(AUXP 오/px+ㄴ/etm)))
+                    (AP 일/ncn+이/jp+ㄴ/etm))
+                (V 듯/nbn+하/paa+다/ef))))+./sf)
+
+
+; 이렇게 검토해 보면 , 백어나 뱅어는 150 년 내지 300 년 이상이나 우리 민족이 사용해온 이름이다 .
+(S
+    (VP
+        (VP
+            (V (V 이렇/pad+게/ecc)
+                (V 검토/ncpa+하/xsv+어/ecx)
+                (AUXP 보/px+면/ecs)))+,/sp
+        (VP
+            (NP
+                (NP 백어/ncn+나/jcj)
+                (NP 뱅어/ncn+는/jxc))
+            (VP
+                (AP
+                    (NP
+                        (AP 150/nnc)
+                        (NP 년/nbn+내지/jcj))
+                    (AP
+                        (AP 300/nnc)
+                        (AP 년/nbu)))
+                    (V 이상/ncn+이/jp+나/ecs)))
+        (VP
+            (NP
+                (AP 우리/npp)
+                (NP 민족/ncn+이/jcs))
+            (VP
+                (AP
+                    (V 사용/ncpa+하/xsv+어/ecx)+(AUXP 오/px+ㄴ/etm))
+                (V 이름/ncn+이/jp+다/ef))))+./sf)
+
+
+; 은어 3 종 뱅어 무리는 바다에서 살다가 산란 시기가 되면 온 강의 하류에 나타난다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 은어/ncn)
+                (AP 3/nnc)
+                (AP 종/ncn)
+                (AP 뱅어/ncn)
+                (NP 무리/ncn+는/jxc))
+            (PP 바다/ncn+에서/jca)
+            (V 살/pvg+다가/ecs))
+        (VP
+            (NP
+                (AP 산란/ncn)
+                (NP 시기/ncn+가/jcc))
+            (V 되/pvg+면/ecs))
+        (VP
+            (PP
+                (AP 오/pvg+ㄴ/etm)
+                (AP 강/ncn+의/jcm)
+                (PP 하류/ncn+에/jca))
+            (V 나타나/pvg+ㄴ다/ef)))+./sf)
+
+
+; 우리 나라에 나타나는 종은 7 종이지만 , 중국의 경우는 21 종이나 된다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP
+                    (PP
+                        (AP 우리/npp)
+                        (PP 나라/ncn+에/jca))
+                    (AP 나타나/pvg+는/etm))
+                (NP 종/ncn+은/jxc))
+            (VP
+                (AP 7/nnc)
+                (V 종/ncn+이/jp+지만/ecs)))+,/sp
+        (VP
+            (NP
+                (AP 중국/nq+의/jcm)
+                (NP 경우/ncn+는/jxc))
+            (VP
+                (AP 21/nnc)
+                (V (V 종/ncn+이/jp+나/ecs)
+                    (V 되/pvg+ㄴ다/ef)))))+./sf)
+
+
+; 바다에서 클 대로 커서 어른이 되면 철을 따라 강의 하류에 나타난다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP
+                    (PP 바다/ncn+에서/jca)
+                    (AP 크/paa+ㄹ/etm))
+                (NP 대로/nbn))
+            (V 크/paa+어서/ecs))
+        (VP
+            (NP 어른/ncn+이/jcc)
+            (V 되/pvg+면/ecs))
+        (VP
+            (NP 철/ncn+을/jco)
+            (V 따르/pvg+아/ecs))
+        (VP
+            (PP
+                (AP 강/ncn+의/jcm)
+                (PP 하류/ncn+에/jca))
+            (V 나타나/pvg+ㄴ다/ef)))+./sf)
+
+
+; 옛날에는 압록강, 대동강, 청천강, 한강, 금강, 영산강, 낙동강 할 것 없이 뱅어가 구름떼처럼 몰려 뱅어어업이 이루어졌다.
+(S
+    (VP
+        (VP
+            (PP 옛날/ncn+에/jca+는/jxc)
+            (ADVP
+                (NP
+                    (AP 압록강/nq)+,/sp
+                    (AP 대동강/nq)+,/sp
+                    (AP 청천강/nq)+,/sp
+                    (AP 한강/nq)+,/sp
+                    (AP 금강/nq)+,/sp
+                    (AP 영산강/nq)+,/sp
+                    (AP 낙동강/nq)
+                    (AP 하/pvg+ㄹ/etm)
+                    (NP 것/nbn))
+                (ADVP 없/paa+이/xsa))
+            (NP 뱅어/ncn+가/jcs)
+            (PP 구름/ncn+떼/xsn+처럼/jca)
+            (V 몰리/pvg+어/ecs))
+        (VP
+            (NP 뱅어/ncn+어업/ncn+이/jcs)
+            (V (V 이루/pvg+어/ecx)
+                (AUXP 지/px+었/ep+다/ef))))+./sf)
+
+
+; 그들 3종의 산출량이 1950년대 초까지도 연산 120만근이나 되었던 것이 2, 3 만근으로 감소되었다고 하니 전멸 직전이라고 보아야 할 것이다.
+(S
+    (VP
+        (VP
+            (NP
+                (AP 그/npp+들/xsn)
+                (AP 3/nnc)
+                (AP 종/ncn+의/jcm)
+                (NP 산출량/ncn+이/jcs))
+            (NP
+                (AP 1950/nno)
+                (AP 년대/nbu)
+                (NP 초/ncn+까지/jxc+도/jxc))
+            (NP
+                (NP
+                    (AP 연산/ncn)
+                    (AP 120/nnc)
+                    (AP 만/nnc)
+                    (AP
+                        (V 근/nbu+이/jp+나/ecs)
+                        (AP 되/pvg+었/ep+더/ep+ㄴ/etm))
+                    (NP 것/nbn+이/jcs)))
+                (NP
+                    (PP
+                        (AP 2/nnc)+,/sp
+                        (AP 3/nnc)
+                        (AP 만/nnc)
+                        (PP 근/nbu+으로/jca))
+                    (NP 감소/ncpa+되/xsv+었/ep+다/ef+고/jcr))
+                (V 하/pvg+니/ecc))
+        (VP
+            (NP
+                (AP 전멸/ncn)
+                (NP 직전/ncn+이/jp+라/ef+고/jcr))
+            (VP
+                (AP
+                    (V 보/pvg+아야/ecx)
+                    (AP 하/px+ㄹ/etm))
+                (V 것/nbn+이/jp+다/ef))))+./sf)
+
+
+; 그 원인이 공장 폐수로 수질이 오염된 데에 있다고 하니 문제는 심각하다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 그/mmd)
+                (NP 원인/ncn+이/jcs))
+            (PP
+                (AP 공장/ncn)
+                (PP 폐수/ncn+로/jca))
+            (NP
+                (PP
+                    (AP
+                        (NP 수질/ncn+이/jcs)
+                        (AP 오염/ncpa+되/xsv+ㄴ/etm))
+                    (PP 데/nbn+에/jca))
+                (NP 있/paa+다/ef+고/jcr))
+            (V 하/pvg+니/ecc))
+        (VP
+            (NP 문제/ncn+는/jxc)
+            (V 심각/ncps+하/xsm+다/ef)))+./sf)
+
+
+; 한강을 비롯하여 남한의 각 하천의 경우도 별로 다를 것이 없다 .
+(S
+    (VP
+        (VP
+            (NP 한강/nq+을/jco)
+            (V 비롯/ncpa+하/xsv+어/ecs))
+        (VP
+            (NP
+                (AP 남한/nq+의/jcm)
+                (AP 각/mma)
+                (AP 하천/ncn+의/jcm)
+                (NP 경우/ncn+도/jxc))
+            (ADVP 별로/mag)
+            (NP
+                (AP 다르/paa+ㄹ/etm)
+                (NP 것/nbn+이/jcs))
+            (V 없/paa+다/ef)))+./sf)
+
+
+; 역사를 거꾸로 돌리려는 사람들의 소행이라고 생각하면 서글프다기보다는 참을 수 없는 분노를 느낀다 .
+(S
+    (VP
+        (VP
+            (NP 역사/ncn+를/jco)
+            (NP
+                (AP
+                    (AP
+                        (ADVP 거꾸로/mag)
+                        (AP 돌리/pvg+려/ecs+는/etm))
+                    (AP 사람/ncn+들/xsn+의/jcm))
+                (NP 소행/ncn+이/jp+라/ef+고/jcr))
+            (V 생각/ncpa+하/xsv+면/ecs))
+        (VP
+            (PP 서글프/paa+다/ef+기/etn+보다/jca+는/jxc)
+            (NP
+                (AP
+                    (NP
+                        (AP 참/pvg+ㄹ/etm)
+                        (NP 수/nbn))
+                    (AP 없/paa+는/etm))
+                (NP 분노/ncn+를/jco))
+            (V 느끼/pvg+ㄴ다/ef)))+./sf)
+
+
+; 서유구가 쓴 이런 글을 보지 못했다면 , 필자는 이 물고기에 대하여 큰 관심을 갖지 않았을 것이다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP
+                    (NP 서유구/nq+가/jcs)
+                    (AP 쓰/pvg+ㄴ/etm))
+                (NP
+                    (AP 이런/mmd)
+                    (NP 글/ncn+을/jco)))
+            (V (V 보/pvg+지/ecx)
+                (AUXP 못하/px+었/ep+다/ef+면/ecs)))+,/sp
+        (VP
+            (NP 필자/ncn+는/jxc)
+            (PP
+                (AP 이/mmd)
+                (PP 물고기/ncn+에/jca))
+            (V 대하/pvg+어/ecs))
+        (VP
+            (NP
+                (AP 크/paa+ㄴ/etm)
+                (NP 관심/ncn+을/jco))
+            (VP
+                (AP
+                    (V 갖/pvg+지/ecx)
+                    (AP 않/px+았/ep+ㄹ/etm))
+                (V 것/nbn+이/jp+다/ef))))+./sf)
+
+
+; 허미수는 어떤 사람인가 ? 시인이었던가 , 벼슬을 싫어한 선비였던가 , 그런 생각을 하면서 인명사전을 들추어보았다 .
+(S
+    (VP
+        (NP 허미수/nq+는/jxc)
+        (VP
+            (AP 어떤/mmd)
+            (V 사람/ncn+이/jp+ㄴ가/ef)))+?/sf)
+(S
+    (VP
+        (VP
+            (V 시인/ncn+이/jp+었/ep+더/ep+ㄴ가/ef))+,/sp
+        (VP
+            (AP
+                (NP 벼슬/ncn+을/jco)
+                (AP
+                    (V 싫/paa+어/ecx)+(AP 하/px+ㄴ/etm)))
+            (V 선비/ncn+이/jp+었/ep+더/ep+ㄴ가/ef))+,/sp
+        (VP
+            (NP
+                (AP 그런/mmd)
+                (NP 생각/ncn+을/jco))
+            (V 하/pvg+면서/ecs))
+        (VP
+            (NP 인명/ncn+사전/ncn+을/jco)
+            (V (V 들추/pvg+어/ecx)+(AUXP 보/px+았/ep+다/ef))))+./sf)
+
+
+; 미수감미어라는 방언이 어떤 형태로든 남아 있지 않을까 생각해서였다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 미수감미어/ncn+라/ef+는/etm)
+                (NP 방언/ncn+이/jcs))
+            (PP
+                (AP 어떤/mmd)
+                (PP 형태/ncn+로/jca+든/jxc))
+            (V (V 남/pvg+아/ecx)
+                (AUXP 있/px+지/ecx)
+                (AUXP 않/px+ㄹ까/ef)))
+        (V 생각/ncpa+하/xsv+어서/ecs+이/jp+었/ep+다/ef))+./sf)
+
+
+; 그러나 그로부터 10 여 년이 지난 1985 년에 와서야 겨우 미수개미 , 미수감이 , 미수갬이 등이 임진강 중.
+(S
+   (IP 그러나/maj)
+   (PP 그/npd+로/jca+부터/jxc)
+   (NP
+       (PP
+           (AP
+               (NP
+                   (AP 10/nnc+여/xsn)
+                   (NP 년/ncn+이/jcs))
+               (AP 지나/pvg+ㄴ/etm))
+           (PP
+               (AP 1985/nno)
+               (PP 년/nbu+에/jca)))
+       (NP 오/pvg+아서/ecs+야/jxc))
+   (ADVP 겨우/mag)
+   (NP
+       (AP 미수개미/ncn)+,/sp
+       (AP 미수감이/ncn)+,/sp
+       (AP 미수갬이/ncn)
+       (NP 등/nbn+이/jcs))
+   (NP
+       (AP 임진강/nq)
+       (NP 중/nbn))+./sf)
+
+
+; 그런 사실을 알고 나서도 미수감미어가 어떤 물고기인지 실물을 놓고 확인 할 수 있게 되기까지는 많은 시간이 흘렀다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 그런/mmd)
+                (NP 사실/ncn+을/jco))
+            (NP
+                (V 알/pvg+고/ecx)
+                (NP 나/px+서/ecs+도/jxc))
+            (NP 미수감미어/ncn+가/jcs)
+            (VP
+                (AP 어떤/mmd)
+                (V 물고기/ncn+이/jp+ㄴ지/ef)))
+        (VP
+            (NP 실물/ncn+을/jco)
+            (V 놓/pvg+고/ecc))
+        (VP
+            (NP
+                (AP 확인/ncn)
+                (AP 하/xsv+ㄹ/etm)
+                (NP 수/nbn))
+            (NP
+                (V 있/paa+게/ecx)
+                (NP 되/px+기/etn+까지/jxc+는/jxc))
+            (NP
+                (AP 많/paa+ㄴ/etm)
+                (NP 시간/ncn+이/jcs))
+            (V 흐르/pvg+었/ep+다/ef)))+./sf)
+
+
+; 통일로를 따라 파주군 문산을 지나 임진각 가까운 곳에 이르렀다 .
+(S
+    (VP
+        (VP
+            (NP 통일로/nq+를/jco)
+            (V 따르/pvg+아/ecs))
+        (VP
+            (NP
+                (AP 파주군/nq)
+                (NP 문산/nq+을/jco))
+            (V 지나/pvg+아/ecs))
+        (VP
+            (PP
+                (AP 임진각/nq)
+                (AP 가깝/paa+ㄴ/etm)
+                (PP 곳/ncn+에/jca))
+            (V 이르/pvg+었/ep+다/ef)))+./sf)
+
+
+; 툭 튀어나온 이마는 주둥이로 제대로 이어지지 못한 채 옴폭 꺼지고 , 두 눈은 크고 사이가 좁다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP
+                    (ADVP 툭/mag)
+                    (AP
+                        (V 튀/pvg+어/ecx)+(AUXP 나오/px+ㄴ/etm)))
+                (NP 이마/ncn+는/jxc))
+            (PP 주둥이/ncn+로/jca)
+            (ADVP 제대로/mag)
+            (NP
+                (AP
+                    (V 잇/pvg+어/ecx)+(AUXP 지/px+지/ecx)
+                    (AP 못하/px+ㄴ/etm))
+                (NP 채/nbn))
+            (ADVP 옴폭/mag)
+            (V 꺼지/pvg+고/ecc))+,/sp
+        (VP
+            (NP
+                (AP 두/nnc)
+                (NP 눈/ncn+은/jxc))
+            (V 크/paa+고/ecc))
+        (VP
+            (NP 사이/ncn+가/jcs)
+            (V 좁/paa+다/ef)))+./sf)
+
+
+; 일본 사람들이 뱀 대신 도마뱀을 붙여서 도마뱀모래무지라고 한 것도 오십보에 백보 , 찬양할 것이 못 된다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 일본/nq)
+                (NP 사람/ncn+들/xsn+이/jcs))
+            (NP
+                (AP 뱀/ncn)
+                (AP 대신/ncn)
+                (NP 도마뱀/ncn+을/jco))
+            (V 붙이/pvg+어서/ecs))
+        (VP
+            (NP
+                (AP
+                    (NP 도마뱀모래무지/ncn+라고/jcr)
+                    (AP 하/pvg+ㄴ/etm))
+                (NP 것/nbn+도/jxc))
+            (NP
+                (AP 오십/nnc+보/nbu+에/ja)
+                (NP 백/nnc+보/nbu))+,/sp
+            (NP
+                (AP 찬양/ncpa+하/xsv+ㄹ/etm)
+                (NP 것/nbn+이/jcs))
+            (ADVP 못/mag)
+            (V 되/pvg+ㄴ다/ef)))+./sf)
+
+
+; 해동하면서 상류로 이동을 한다는 것은 겨울을 하류에서 보냈다는 사실을 나타낸다 .
+(S
+    (VP
+        (VP
+            (V 해동/ncpa+하/xsv+면서/ecc))
+        (VP
+            (PP 상류/ncn+로/jca)
+            (NP
+                (AP
+                    (NP 이동/ncn+을/jco)
+                    (AP 하/pvg+ㄴ다/ef+는/etm))
+                (NP 것/nbn+은/jxc))
+            (NP 겨울/ncn+을/jco)
+            (NP
+                (AP
+                    (PP 하류/ncn+에서/jca)
+                    (AP 보내/pvg+ㅆ/ep+다/ef+는/etm))
+                (NP 사실/ncn+을/jco))
+            (V 나타내/pvg+ㄴ다/ef)))+./sf)
+
+
+; 미수개미가 상류로 이동하는 까닭은 산란을 하기 위해서라고 볼 수 밖에 없다 .
+(S
+    (VP
+        (NP 미수개미/ncn+가/jcs)
+        (NP
+            (AP
+                (PP 상류/ncn+로/jca)
+                (AP 이동/ncpa+하/xsv+는/etm))
+            (NP 까닭/ncn+은/jxc))
+        (PP
+            (AP
+                (NP
+                    (NP
+                        (NP 산란/ncn+을/jco)
+                        (NP 하/pvg+기/etn))
+                    (NP 위하/pvg+어서/ecs+라/ef+고/jcr))
+                (AP 보/pvg+ㄹ/etm))
+            (PP 수/nbn+밖에/jxc))
+        (V 없/paa+다/ef))+./sf)
+
+
+; 그렇다면 하류에서 산란을 하지 않고 상류에서 산란을 하는 이유는 무엇인가 ? 잉어와 어류들의 알은 일반적으로 물 밑에 가라앉는다 .
+(S
+    (VP
+        (VP
+            (IP 그렇다면/maj)
+            (PP 하류/ncn+에서/jca)
+            (NP 산란/ncn+을/jco)
+            (V (V 하/pvg+지/ecx)
+                (AUXP 않/px+고/ecc)))
+        (VP
+            (PP 상류/ncn+에서/jca)
+            (NP
+                (AP
+                    (NP 산란/ncn+을/jco)
+                    (AP 하/pvg+는/etm))
+                (NP 이유/ncn+는/jxc))
+            (V 무엇/npd+이/jp+ㄴ가/ef)))+?/sf)
+(S
+    (VP
+        (NP
+            (AP
+                (NP 잉어/ncn+와/jcj)
+                (AP 어류/ncn+들/xsn+의/jcm))
+            (NP 알/ncn+은/jxc))
+        (PP 일반/ncn+적/xsn+으로/jca)
+        (PP
+            (AP 물/ncn)
+            (PP 밑/ncn+에/jca))
+        (V 가라앉/pvg+는다/ef))+./sf)
+
+
+; 만일 물에 떠서 바다에까지 밀려가면 살아서 돌아올 수 없다 .
+(S
+    (VP
+        (VP
+            (ADVP 만일/mag)
+            (PP 물/ncn+에/jca)
+            (V 뜨/paa+어서/ecs))
+        (VP
+            (PP 바다/ncn+에/jca+까지/jxc)
+            (V (V 밀리/pvg+어/ecx)+(AUXP 가/px+면/ecs)))
+        (VP
+            (NP
+                (AP
+                    (V 살/pvg+아서/ecs)
+                    (AP 돌아오/pvg+ㄹ/etm))
+                (NP 수/nbn))
+            (V 없/paa+다/ef)))+./sf)
+
+
+; 그러므로 산란 장소가 바다에 가까우면 바다에까지 밀려가서 다시는 태어난 곳으로 돌아오지 못한다 .
+(S
+    (VP
+        (VP
+            (IP 그러므로/maj)
+            (NP
+                (AP 산란/ncn)
+                (NP 장소/ncn+가/jcs))
+            (PP 바다/ncn+에/jca)
+            (V 가깝/paa+으면/ecs))
+        (VP
+            (PP 바다/ncn+에/jca+까지/jxc)
+            (V (V 밀리/pvg+어/ecx)+(AUXP 가/px+서/ecs)))
+        (VP
+            (ADVP 다시는/mag)
+            (PP
+                (AP 태어나/pvg+ㄴ/etm)
+                (PP 곳/ncn+으로/jca))
+            (V (V 돌아오/pvg+지/ecx)
+                (AUXP 못하/px+ㄴ다/ef))))+./sf)
+
+
+; 상류까지 거슬러올라가서 산란을 하게 되면 그런 화를 모면할 수 있다 .
+(S
+    (VP
+        (VP
+            (PP 상류/ncn+까지/jxc)
+            (V (V 거스르/pvg+어/ecx)+(AUXP 오르/px+아/ecx+가/px+서/ecs)))
+        (VP
+            (NP 산란/ncn+을/jco)
+            (V (V 하/pvg+게/ecx)
+                (AUXP 되/px+면/ecs)))
+        (VP
+            (NP
+                (AP
+                    (NP
+                        (AP 그런/mmd)
+                        (NP 화/ncn+를/jco))
+                    (AP 모면/ncpa+하/xsv+ㄹ/etm))
+                (NP 수/nbn))
+            (V 있/paa+다/ef)))+./sf)
+
+
+; 지척이 천리란 이런 경우를 두고 하는 말일 것이다 .
+(S
+    (VP
+        (NP
+            (NP 지척/ncn+이/jcs)
+            (NP 천리/ncn+란/jxc))
+            (VP
+                (AP
+                    (AP
+                        (NP
+                            (AP 이런/mmd)
+                            (NP 경우/ncn+를/jco))
+                        (AP
+                            (V 두/pvg+고/ecc)
+                            (AP 하/pvg+는/etm)))
+                    (AP 말/ncpa+이/jp+ㄹ/etm))
+                (V 것/nbn+이/jp+다/ef)))+./sf)
+
+
+; 현대인들은 임진강과 한강 사이의 거리를 우습게 볼지 모르나 , 동력선이 나타나기 전의 어부들에게는 먼 거리였을 것이다 .
+(S
+    (VP
+        (VP
+            (NP 현대인/ncn+들/xsn+은/jxc)
+            (NP
+                (AP
+                    (NP 임진강/nq+과/jcj)
+                    (AP 한강/nq))
+                (NP
+                    (AP 사이/ncn+의/jcm)
+                    (NP 거리/ncn+를/jco)))
+            (VP
+                (V (V 우습/paa+게/ecx)
+                    (AUXP 보/px+ㄹ지/ecs))
+                (V 모르/pvg+나/ecs)))+,/sp
+        (VP
+            (NP
+                (NP 동력선/ncn+이/jcs)
+                (NP 나타나/pvg+기/etn))
+            (PP
+                (AP 전/ncn+의/jcm)
+                (PP 어부/ncn+들/xsn+에게/jca+는/jxc))
+            (VP
+                (AP 멀/paa+ㄴ/etm)
+                (AP 거리/ncn+이/jp+었/ep+ㄹ/etm)
+                (V 것/nbn+이/jp+다/ef))))+./sf)
+
+
+; 그 때문에 같은 종이면서 임진강에서는 미수개미 , 한강에서는 공지라고 부르게 된 것이리라 .
+(S
+    (VP
+        (VP
+            (PP
+                (AP 그/mmd)
+                (PP 때문/nbn+에/jca))
+            (VP
+                (AP 같/paa+ㄴ/etm)
+                (V 종/ncn+이/jp+면서/ecs)))
+        (VP
+            (PP 임진강/nq+에서/jca+는/jxc)
+            (NP 미수개미/ncn)+,/sp
+            (NP
+                (PP 한강/nq+에서/jca+는/jxc)
+                (NP 공지/ncn+라고/jcr))
+            (VP
+                (AP
+                    (V 부르/pvg+게/ecx)
+                    (AP 되/px+ㄴ/etm))
+                (V 것/nbn+이/jp+리라/ef))))+./sf)
+
+
+; 지난 30 년 동안 한강 여기저기에서 채집이 되기는 했지만 , 한 군데서 한번에 많이 잡힌 일은 없었다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 지나/pvg+ㄴ/etm)
+                (AP 30/nnc)
+                (AP 년/nbu)
+                (NP 동안/ncn))
+            (PP
+                (AP 한강/nq)
+                (PP 여기저기/mad+에서/jca))
+            (NP
+                (NP 채집/ncpa+이/jcc)
+                (NP 되/pvg+기/etn+는/jxc))
+            (V 하/pvg+었/ep+지만/ecs))+,/sp
+        (VP
+            (PP
+                (AP 한/nnc)
+                (PP 군데/nbu+서/jca))
+            (PP 한/nnc+번/nbu+에/jca)
+            (NP
+                (AP
+                    (ADVP 많/paa+이/xsa)
+                    (AP 잡히/pvg+ㄴ/etm))
+                (NP 일/ncn+은/jxc))
+            (V 없/paa+었/ep+다/ef)))+./sf)
+
+
+; 철에 따라 많이 잡히기도 하지만 , 다른 종들에 비하면 수량이 적은 편이라는 답을 얻었다 .
+(S
+    (VP
+        (VP
+            (PP 철/ncn+에/jca)
+            (V 따르/pvg+아/ecs))
+        (VP
+            (ADVP 많/paa+이/xsa)
+            (NP 잡히/pvg+기/etn+도/jxc)
+            (V 하/pvg+지만/ecs))+,/sp
+        (VP
+            (PP
+                (AP 다르/paa+ㄴ/etm)
+                (PP 종/ncn+들/xsn+에/jca))
+            (V 비하/pvg+면/ecs))
+        (VP
+            (NP
+                (AP
+                    (AP
+                        (NP 수량/ncn+이/jcs)
+                        (AP 적/paa+ㄴ/etm))
+                    (AP 편/nbn+이/jp+라/ef+는/etm))
+                (NP 답/ncn+을/jco))
+            (V 얻/pvg+었/ep+다/ef)))+./sf)
+
+
+; 경기도 가평군 청평지방에서 그렇게 부른다고 하나 , 이 사실을 확인하지는 못했다 .
+(S
+    (VP
+        (VP
+            (PP
+                (AP 경기도/nq)
+                (AP 가평군/nq)
+                (PP 청평/nq+지방/ncn+에서/jca))
+            (NP
+                (V 그렇/pad+게/ecs)
+                (NP 부르/pvg+ㄴ다/ef+고/jcr))
+            (V 하/pvg+나/ecs))+,/sp
+        (VP
+            (NP
+                (AP 이/mmd)
+                (NP 사실/ncn+을/jco))
+            (V (V 확인/ncpa+하/xsv+지/ecx+는/jxc)
+                (AUXP 못하/px+었/ep+다/ef))))+./sf)
+
+
+; 그중에서도 대동강의 산출량이 특히 많은지 , 평양에서는 생선가게에 나올 정도라고 한다 .
+(S
+    (VP
+        (VP
+            (PP 그/mmd+중/nbn+에서/jca+도/jxc)
+            (NP
+                (AP 대동강/nq+의/jcm)
+                (NP 산출량/ncn+이/jcs))
+            (ADVP 특히/mag)
+            (V 많/paa+ㄴ지/ecs))+,/sp
+        (VP
+            (NP 평양/nq+에서/jca+는/jxc)
+            (NP
+                (AP
+                    (PP 생선/ncn+가게/ncn+에/jca)
+                    (AP 나오/pvg+ㄹ/etm))
+                (NP 정도/ncn+라고/jcr))
+            (V 하/pvg+ㄴ다/ef)))+./sf)
+
+
+; 두우쟁이의 입은 모래무지의 경우처럼 주둥이의 밑에 붙어 있어서 모래 바닥에 잘 붙는다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 두우쟁이/ncn+의/jcm)
+                (NP 입/ncn+은/jxc))
+            (PP
+                (AP 모래/ncn+무지/ncn+의/jcm)
+                (PP 경우/ncn+처럼/jca))
+            (PP
+                (AP 주둥이/ncn+의/jcm)
+                (PP 밑/ncn+에/jca))
+            (V (V 붙/pvg+어/ecx)
+                (AUXP 있/px+어서/ecs)))
+        (VP
+            (PP
+                (AP 모래/ncn)
+                (PP 바닥/ncn+에/jca))
+            (ADVP 잘/mag)
+            (V 붙/pvg+는다/ef)))+./sf)
+
+
+; 쎄유하오의 논문에 따르면 , 압록강의 두우쟁이는 아예 목록에도 올라 있지 않다 .
+(S
+    (VP
+        (VP
+            (PP
+                (AP 쎄유하오/nq+의/jcm)
+                (PP 논문/ncn+에/jca))
+            (V 따르/pvg+면/ecs))+,/sp
+        (VP
+            (NP
+                (AP 압록강/nq+의/jcm)
+                (NP 두우쟁이/ncn+는/jxc))
+            (ADVP 아예/mag)
+            (PP 목록/ncn+에/jca+도/jxc)
+            (V (V 오르/pvg+아/ecx)
+                (AUXP 있/px+지/ecx)
+                (AUXP 않/px+다/ef))))+./sf)
+
+
+; 그렇다면 압록강의 두우쟁이는 전멸했다는 것인지 , 용암포의 두우쟁이만은 남았다는 것인지 궁금하다 .
+(S
+    (VP
+        (VP
+            (IP 그렇다면/maj)
+            (VP
+                (AP
+                    (NP
+                        (AP 압록강/nq+의/jcm)
+                        (NP 두우쟁이/ncn+는/jxc))
+                    (AP 전멸/ncpa+하/xsv+었/ep+다/ef+는/etm))
+                (V 것/nbn+이/jp+ㄴ지/ecs)))+,/sp
+        (VP
+            (VP
+                (AP
+                    (NP
+                        (AP 용암포/nq+의/jcm)
+                        (NP 두우쟁이/ncn+만/jxc+은/jxc))
+                    (AP 남/pvg+았/ep+다/ef+는/etm))
+                (V 것/nbn+이/jp+ㄴ지/ecs))
+            (V 궁금/ncpa+하/xsv+다/ef)))+./sf)
+
+
+; 금년 ( 1990 ) 에도 300 년 전과 다름없이 곡우가 되면 동면에서 깨어나 떼지어 산란장으로 향할 것이다 .
+(S
+    (VP
+        (VP
+            (PP 금년/ncn+(/sl`+1990/nno+)/sr'+에/jca+도/jxc)
+            (ADVP
+                (NP
+                    (PP
+                        (AP 300/nnc)
+                        (AP 년/nbu)
+                        (PP 전/ncn+과/jca))
+                    (NP 다르/paa+ㅁ/etn))
+                (ADVP 없/paa+이/xsa))
+            (NP 곡우/ncn+가/jcc)
+            (V 되/pvg+면/ecs))
+        (VP
+            (PP 동면/ncn+에서/jca)
+            (V (V 깨어나/pvg+아/ecs)
+                (V 떼짓/pvg+어/ecs)))
+        (VP
+            (AP
+                (PP 산란장/ncn+으로/jca)
+                (AP 향하/pvg+ㄹ/etm))
+            (V 것/nbn+이/jp+다/ef)))+./sf)
+
+
+; 한강의 두우쟁이가 안심하고 동면할 수 있는 곳은 어디이며 , 산란할 수 있는 곳은 어디인가 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 한강/nq+의/jcm)
+                (NP 두우쟁이/ncn+가/jcs))
+            (NP
+                (AP
+                    (NP
+                        (AP
+                            (V 안심/ncpa+하/xsv+고/ecc)
+                            (AP 동면/ncpa+하/xsv+ㄹ/etm))
+                        (NP 수/nbn))
+                    (AP 있/paa+는/etm))
+                (NP 곳/ncn+은/jxc))
+            (V 어디/npd+이/jp+며/ecc))+,/sp
+        (VP
+            (NP
+                (AP
+                    (NP
+                        (AP 산란/ncpa+하/xsv+ㄹ/etm)
+                        (NP 수/nbn))
+                    (AP 있/paa+는/etm))
+                (NP 곳/ncn+은/jxc))
+            (V 어디/npd+이/jp+ㄴ가/ef)))+./sf)
+
+
+; 인간은 두 개의 죽음의 장벽을 만들어놓고도 눈 하나 깜짝하지 않을 만큼 잔인한 존재가 된 것인지 , 아니면 그만큼 타락한 것인지 정말 알 수가 없다 .
+(S
+    (VP
+        (VP
+            (NP 인간/ncn+은/jxc)
+            (NP
+                (NP
+                    (AP 두/nnc)
+                    (AP 개/nbu+의/jcm)
+                    (AP 죽음/ncn+의/jcm)
+                    (NP 장벽/ncn+을/jco))
+                (NP
+                    (V 만들/pvg+어/ecx)+(AUXP 놓/px+고/ecs+도/jxc)))
+            (NP
+                (AP
+                    (NP
+                        (AP 눈/ncn)
+                        (NP 하나/nn))
+                    (AP
+                        (V 깜짝/ncps+하/xsm+지/ecx)
+                        (AP 않/px+ㄹ/etm)))
+                (NP 만큼/nbn))
+            (VP
+                (AP
+                    (NP
+                        (AP 잔인/ncps+하/xsm+ㄴ/etm)
+                        (NP 존재/ncpa+가/jcc))
+                    (AP 되/pvg+ㄴ/etm))
+                (V 것/nbn+이/jp+ㄴ지/ef)))+,/sp
+        (VP
+            (V 아니/paa+면/ecs))
+        (VP
+            (AP
+                (PP 그/npd+만큼/jca)
+                (AP 타락/ncpa+하/xsv+ㄴ/etm))
+            (V 것/nbn+이/jp+ㄴ지/ef))
+        (VP
+            (ADVP 정말/mag)
+            (NP
+                (AP 알/pvg+ㄹ/etm)
+                (NP 수/nbn+가/jcs))
+            (V 없/paa+다/ef)))+./sf)
+
+
+; 인간들이 크게 깨닫는 날이 오기까지 죽지 말고 살아달라고 빌 따름이다 .
+(S
+    (VP
+        (VP
+            (NP 인간/ncn+들/xsn+이/jcs)
+            (NP
+                (AP
+                    (V 크/paa+게/ecs)
+                    (AP 깨닫/pvg+는/etm))
+                (NP 날/ncn+이/jcs))
+            (PP 오/pvg+기/etn+까지/jxc)
+            (V (V 죽/pvg+지/ecx)
+                (AUXP 말/px+고/ecc)))
+        (VP
+            (NP
+                (V 살/pvg+아/ecx)+(AUXP 달/px+라/ef+고/jcr))
+            (VP
+                (AP 빌/pvg+ㄹ/etm)
+                (V 따름/nb+이/jp+다/ef))))+./sf)
+
+
+; 두우쟁이, 미수개미, 공지, 셋 중에서 하나를 고르라면, 필자는 서슴지 않고 미수개미를 택할 것이다.
+(S
+    (VP
+        (VP
+            (NP 두우쟁이/ncn)+,/sp
+            (NP 미수개미/ncn)+,/sp
+            (NP 공지/ncn)+,/sp
+            (PP
+                (AP 셋/nnc)
+                (PP 중/nbn+에서/jca))
+            (NP 하나/nnc+를/jco)
+            (V 고르/pvg+라/ef+면/ecs))+,/sp
+        (VP
+            (NP 필자/ncn+는/jxc)
+            (V (V 서슴/pvg+지/ecx)
+                (AUXP 않/px+고/ecc)))
+        (VP
+            (NP 미수개미/ncn+를/jco)
+            (VP
+                (AP 택하/pvg+ㄹ/etm)
+                (V 것/nbn+이/jp+다/ef))))+./sf)
+
+
+; 미수개미의 어원은 미수감미어로 , 허미수 선비의 고결한 인격과 덕망을 추모하기 위하여 백성들이 붙인 이름이다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 미수개미/ncn+의/jcm)
+                (NP 어원/ncn+은/jxc))
+            (PP 미수감미어/ncn+로/jca)+,/sp
+            (NP
+                (NP
+                    (AP
+                        (AP 허미수/nq)
+                        (AP 선비/ncn+의/jcm)
+                        (AP 고결/ncps+하/xsm+ㄴ/etm))
+                    (NP
+                        (NP 인격/ncn+과/jcj)
+                        (NP 덕망/ncn+을/jco)))
+                (NP 추모/ncpa+하/xsv+기/etn))
+            (V 위하/pvg+어/ecs))
+        (VP
+            (NP 백성/ncn+들/xsn+이/jcs)
+            (VP
+                (AP 붙이/pvg+ㄴ/etm)
+                (V 이름/ncn+이/jp+다/ef))))+./sf)
+
+
+; 넓적넓적한 바위가 층층으로 포개져 있는데 , 모두 깎아내린 것처럼 보인다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 넓적넓적/mag+하/xsm+ㄴ/etm)
+                (NP 바위/ncn+가/jcs))
+            (PP 층층/ncn+으로/jca)
+            (V (V 포개/pvg+어/ecx)
+                (AUXP 지/px+어/ecx)
+                (AUXP 있/px+는데/ecs)))+,/sp
+        (VP
+            (ADVP 모두/mag)
+            (PP
+                (AP
+                     (V 깎/pvg+아/ecx)+(AP 내리/px+ㄴ/etm))
+                (PP 것/nbn+처럼/jca))
+            (V 보이/pvg+ㄴ다/ef)))+./sf)
+
+
+; 어떤 것은 큰 옹기와 같이 깊어서 바닥이 보이지 않으며 , 어떤 것은 술단지처럼 생겨서 천태만상 변화무쌍하다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 어떤/mmd)
+                (NP 것/nbn+은/jxc))
+            (ADVP
+                (PP
+                    (AP 크/paa+ㄴ/etm)
+                    (PP 옹기/ncn+와/jct))
+                (ADVP 같/paa+이/xsa))
+            (V 깊/paa+어서/ecs))
+        (VP
+            (NP 바닥/ncn+이/jcs)
+            (V (V 보이/pvg+지/ecx)
+                (AUXP 않/px+으며/ecs)))+,/sp
+        (VP
+            (NP
+                (AP 어떤/mmd)
+                (NP 것/nbn+은/jxc))
+            (PP 술단지/ncn+처럼/jca)
+            (V 생기/pvg+어서/ecs))
+        (VP
+            (AP 천태만상/ncn)
+            (V 변화무쌍/ncps+하/xsm+다/ef)))+./sf)
+
+
+; 그 물 속에 사는 물고기가 있는데 , 등에 있는 무늬가 중들이 입는 가사와 같다고 해서 가사어라고 불린다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP
+                    (PP
+                        (AP 그/mmd)
+                        (AP 물/ncn)
+                        (PP 속/ncn+에/jca))
+                    (AP 살/pvg+는/etm))
+                (NP 물고기/ncn+가/jcs))
+            (V 있/paa+는데/ecs))+,/sp
+        (VP
+            (NP
+                (AP
+                    (PP 등/ncn+에/jca)
+                    (AP 있/paa+는/etm))
+                (NP 무늬/ncn+가/jcs))
+            (NP
+                (PP
+                    (AP
+                        (NP 중/ncn+들/xsn+이/jcs)
+                        (AP 입/pvg+는/etm))
+                    (PP 가사/ncn+와/jct))
+                (NP 같/paa+다/ef+고/jcr))
+            (V 하/pvg+어서/ecs))
+        (VP
+            (NP 가사어/ncn+라고/jcr)
+            (V 불리/pvg+ㄴ다/ef)))+./sf)
+
+
+; 그때 그물을 바위와 폭포 사이에 치면 가사어가 뛰어오르다가 그물 속에서 떨어진다.
+(S
+    (VP
+        (VP
+            (PP 그/mmd+때/ncn)
+            (NP 그물/ncn+을/jco)
+            (PP
+                (AP
+                    (NP 바위/ncn+와/jcj)
+                    (AP 폭포/ncn))
+                (PP 사이/ncn+에/jca))
+            (V 치/pvg+면/ecs))
+        (VP
+            (NP 가사어/ncn+가/jcs)
+            (V (V 뛰/pvg+어/ecx)+(AUXP 오르/px+다가/ecs)))
+        (VP
+            (PP
+                (AP 그물/ncn)
+                (PP 속/ncn+에서/jca))
+            (V 떨어지/pvg+ㄴ다/ef)))+./sf)
+
+
+; 가사와 같은 무늬를 가지고 있고, 봄에 상류로 올라갔다가 가을에 되돌아오는 물고기.
+(S
+    (VP
+        (VP
+            (NP
+                (AP
+                    (PP 가사/ncn+와/jct)
+                    (AP 같/paa+ㄴ/etm))
+                (NP 무늬/ncn+를/jco))
+            (V (V 가지/pvg+고/ecx)
+                 (AUXP 있/px+고/ecc)))+,/sp
+        (PP 봄/ncn+에/jca)
+        (PP 상류/ncn+로/jca)
+        (V 올라가/pvg+ㅆ/ep+다가/ecs)
+        (NP
+            (AP
+                (PP 가을/ncn+에/jca)
+                (AP
+                    (V 되돌/pvg+아/ecx)+(AUXP 오/px+는/etm)))
+            (NP 물고기/ncn)))+./sf)
+
+
+; 봄에 세줄의 붉은 띠를 걸치고 상류 쪽으로 이동하는 물고기라면 황어밖에 없다 .
+(S
+    (VP
+        (VP
+            (PP 봄/ncn+에/jca)
+            (NP
+                (AP 세/nnc+줄/nbu+의/jcm)
+                (AP 붉/paa+ㄴ/etm)
+                (NP 띠/ncn+를/jco))
+            (V 걸치/pvg+고/ecc))
+        (VP
+            (PP
+                (AP 상류/ncn)
+                (PP 쪽/nbn+으로/jca))
+            (VP
+                (AP 이동/ncpa+하/xsv+는/etm)
+                (V 물고기/ncn+라/ef+면/ecs)))
+        (VP
+            (PP 황어/ncn+밖에/jxc)
+            (V 없/paa+다/ef)))+./sf)
+
+
+; 주둥이 끝에서 배 쪽을 통과하여 꼬리의 끝까지 달리는 것이 한 줄, 어깨에서 시작해서 옆줄 위를 달리는 것이 한 줄, 다른 한 줄은 눈 뒤에서 시작해서 몸의 등쪽을 꼬리지느러미에 이르기까지 달린다.
+(S
+    (VP
+        (VP
+            (PP
+                (AP 주둥이/ncn)
+                (PP 끝/ncn+에서/jca))
+            (NP 배/ncn+쪽/xsn+을/jco)
+            (V 통과/ncpa+하/xsv+어/ecs))
+        (VP
+            (NP
+                (AP
+                    (NP
+                        (AP 꼬리/ncn+의/jcm)
+                        (NP 끝/ncn+까지/jxc))
+                    (AP 달리/pvg+는/etm))
+                (NP 것/nbn+이/jcs))
+            (NP
+                (AP 한/nnc)
+                (NP 줄/nbu))+,/sp
+            (PP 어깨/ncn+에서/jca)
+            (V 시작/ncpa+하/xsv+어서/ecs))
+        (VP
+            (NP
+                (AP
+                    (NP
+                        (AP 옆/ncn+줄/nbn)
+                        (NP 위/ncn+를/jco))
+                    (AP 달리/pvg+는/etm))
+                (NP 것/nbn+이/jcs))
+            (NP
+                (AP 한/nnc)
+                (NP 줄/nbu))+,/sp
+            (NP
+                (AP 다르/paa+ㄴ/etm)
+                (AP 한/nnc)
+                (NP 줄/nbu+은/jxc))
+            (PP
+                (AP 눈/ncn)
+                (PP 뒤/ncn+에서/jca))
+            (V 시작/ncpa+하/xsv+어서/ecs))
+        (VP
+            (NP
+                (AP 몸/ncn+의/jcm)
+                (NP 등/ncn+쪽/xsn+을/jco))
+            (PP
+                (PP 꼬리/ncn+지느러미/ncn+에/jca)
+                (PP 이르/pvg+기/etn+까지/jxc))
+            (V 달리/pvg+ㄴ다/ef)))+./sf)
+
+
+; 산란기가 끝나면 빨간색은 재빨리 퇴색이 되고 검은 띠만 남지만 , 나중에는 그것도 없어지고 원래의 황갈색을 되찾게 된다 .
+(S
+    (VP
+        (VP
+            (NP 산란기/ncn+가/jcs)
+            (V 끝나/pvg+면/ecs))
+        (VP
+            (NP 빨간색/ncn+은/jxc)
+            (ADVP 재빨리/mag)
+            (NP 퇴색/ncpa+이/jcc)
+            (V 되/pvg+고/ecc))
+        (VP
+            (NP
+                (AP 검/paa+ㄴ/etm)
+                (NP 띠/ncn+만/jxc))
+            (V 남/paa+지만/ecs))+,/sp
+        (VP
+            (PP 나중/ncn+에/jca+는/jxc)
+            (NP 그것/npd+도/jxc)
+            (V (V 없/paa+어/ecx)+(AUXP 지/px+고/ecc)))
+        (VP
+            (NP
+                (AP 원래/ncn+의/jcm)
+                (NP 황갈색/ncn+을/jco))
+            (V (V 되찾/pvg+게/ecx)
+                (AUXP 되/px+ㄴ다/ef))))+./sf)
+
+
+; 황어의 육봉형은 과연 없는가 황어는 산란을 하기 위하여 이른봄에 상류로 거슬러 올라간다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 황어/ncn+의/jcm)
+                (NP 육봉형/ncn+은/jxc))
+            (ADVP 과연/mag)
+            (V 없/paa+는가/ef))
+        (VP
+            (NP
+                (NP 황어/ncn+는/jxc)
+                (NP 산란/ncn+을/jco)
+                (NP 하/pvg+기/etn))
+            (V 위하/pvg+어/ecs))
+        (VP
+            (PP
+                (AP 이르/pvg+ㄴ/etm)
+                (PP 봄/ncn+에/jca))
+            (PP 상류/ncn+로/jca)
+            (V (V 거스르/pvg+어/ecs)
+                (V 올라가/pvg+ㄴ다/ef))))+./sf)
+
+
+; 눈이 녹기 시작하면 황어는 산란장을 찾아가기에 바쁘다 .
+(S
+    (VP
+        (VP
+            (NP
+                (NP 눈/ncn+이/jcs)
+                (NP 녹/pvg+기/etn))
+            (V 시작/ncpa+하/xsv+면/ecs))
+        (VP
+            (NP 황어/ncn+는/jxc)
+            (PP
+                (NP 산란장/ncn+을/jco)
+                (PP
+                    (V 찾/pvg+아/ecx)+(PP 가/px+기/etn+에/jca)))
+            (V 바쁘/paa+다/ef)))+./sf)
+
+
+; 진달래, 살구꽃, 벗꽃이 피는 시기를 놓치지 않겠다는 듯, 그때가 되면 황어는 이미 산란장에 와 있다.
+(S
+    (VP
+        (VP
+            (NP
+                (AP
+                    (NP
+                        (AP
+                            (NP 진달래/ncn)+,/sp
+                            (NP 살구꽃/ncn)+,/sp
+                            (NP 벗꽃/ncn+이/jcs)
+                            (AP 피/pvg+는/etm))
+                        (NP 시기/ncn+를/jco))
+                    (AP
+                        (V 놓치/pvg+지/ecx)
+                        (AP 않/px+겠/ep+다/ef+는/etm)))
+                (NP 듯/nbn))+,/sp
+            (NP 그/mmd+때/ncn+가/jcc)
+            (V 되/pvg+면/ecs))
+        (VP
+            (NP 황어/ncn+는/jxc)
+            (ADVP 이미/magt)
+            (PP 산란장/ncn+에/jca)
+            (V (V 오/pvg+아/ecx)
+                (AUXP 있/px+다/ef))))+./sf)
+
+
+; 마침내 암컷은 앞으로 달리면서 머리를 모래 속에 파묻을 듯이 강바닥을 스쳐 빠져나가 , 배를 자갈밭에 대고 산란을 한다 .
+(S
+    (VP
+        (VP
+            (ADVP 마침내/mag)
+            (NP 암컷/ncn+은/jxc)
+            (PP 앞/ncn+으로/jca)
+            (V 달리/pvg+면서/ecc))
+        (VP
+            (NP 머리/ncn+를/jco)
+            (NP
+                (AP
+                    (PP
+                        (AP 모래/ncn)
+                        (PP 속/ncn+에/jca))
+                    (AP 파묻/pvg+을/etm))
+                (NP 듯/nbn+이/jcs))
+            (NP 강바닥/ncn+을/jco)
+            (V (V 스치/pvg+어/ecs)
+                (V 빠지/pvg+어/ecx)+(AUXP 나가/px+아/ecs)))+,/sp
+        (VP
+            (NP 배/ncn+를/jco)
+            (PP 자갈밭/ncn+에/jca)
+            (V 대/pvg+고/ecc))
+        (VP
+            (NP 산란/ncn+을/jco)
+            (V 하/pvg+ㄴ다/ef)))+./sf)
+
+
+; 그들 중에는 암컷이 낳은 알을 시치미를 떼고 삼켜버리는 놈도 있다 .
+(S
+    (VP
+        (PP
+            (AP 그/npp+들/xsn)
+            (PP 중/nbn+에/jca+는/jxc))
+        (NP
+            (AP
+                (NP 암컷/ncn+이/jcs)
+                (AP 낳/pvg+은/etm))
+            (NP 알/ncn+을/jco))
+        (NP
+            (AP
+                (NP 시치미/ncn+를/jco)
+                (AP
+                    (V 떼/pvg+고/ecc)
+                    (V 삼키/pvg+어/ecx)
+                    (AUXP 버리/px+는/etm)))
+            (NP 놈/ncn+도/jxc))
+        (V 있/paa+다/ef))+./sf)
+
+
+; 용유담의 가사어는 과연 황어일까? 그렇다면 용유담보다 하류로 내려가지 않고 알을 낳기 위하여 저연까지 내왕한다는 이야기가 된다.
+(S
+    (VP
+        (NP
+            (AP 용유담/nq+의/jcm)
+            (NP 가사어/ncn+는/jxc))
+        (ADVP 과연/mag)
+        (V 황어/ncn+이/jp+ㄹ까/ef))+?/sf)
+(S
+    (VP
+        (VP
+            (IP 그렇다면/maj)
+            (PP 용유담/nq+보다/jca)
+            (PP 하류/ncn+로/jca)
+            (V (V 내리/pvg+어/ecx)
+                (AUXP 가/px+지/ecx)
+                (AUXP 않/px+고/ecc)))
+        (VP
+            (NP
+                (NP 알/ncn+을/jco)
+                (NP 낳/pvg+기/etn))
+            (V 위하/pvg+어/ecs))
+        (VP
+            (NP
+                (AP
+                    (PP 저연/nq+까지/jxc)
+                    (AP 내왕/ncpa+하/xsv+ㄴ다/ef+는/etm))
+                (NP 이야기/ncpa+가/jcc))
+            (V 되/pvg+ㄴ다/ef)))+./sf)
+
+
+; 담수형은 민물에서만 일생 동안을 사는 것들이고 , 강해형은 바다를 드나드는 것들이다 .
+(S
+    (VP
+        (VP
+            (NP 담수형/ncn+은/jxc)
+            (PP 민물/ncn+에서/jca+만/jxc)
+            (NP
+                (AP 일생/ncn)
+                (NP 동안/ncn+을/jco))
+            (VP
+                (AP 살/pvg+는/etm)
+                (V 것/nbn+들/xsn+이/jp+고/ecc)))+,/sp
+        (VP
+            (NP 강해형/ncn+은/jxc)
+            (NP 바다/ncn+를/jco)
+            (VP
+                (AP 드나들/pvg+는/etm)
+                (V 것/nbn+들/xsn+이/jp+다/ef))))+./sf)
+
+
+; 민물에 갇혀서 바다로 내려가지 못하게 되었다는 뜻에서 그렇게 말하는 것이다 .
+(S
+    (VP
+        (VP
+            (PP 민물/ncn+에/jca)
+            (V 갇히/pvg+어서/ecs))
+        (VP
+            (PP
+                (AP
+                    (PP 바다/ncn+로/jca)
+                    (AP
+                        (V 내리/pvg+어/ecx)
+                        (AUXP 가/px+지/ecx)
+                        (AUXP 못하/px+게/ecx)
+                        (AP 되/px+었/ep+다/ef+는/etm)))
+                (PP 뜻/ncn+에서/jca))
+            (VP
+                (AP
+                    (V 그렇/pad+게/ecs)
+                    (AP 말/ncpa+하/xsv+는/etm))
+                (V 것/nbn+이/jp+다/ef))))+./sf)
+
+
+; 황어의 산지 고전을 읽는다는 것은 젊음에 대한 반역도 아니고 수치도 아니다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 황어/ncn+의/jcm)
+                (NP 산지/ncn))
+            (NP
+                (AP
+                    (NP 고전/ncn+을/jco)
+                    (AP 읽/pvg+는다/ef+는/etm))
+                (NP 것/nbn+은/jxc))
+            (NP
+                (AP
+                    (PP 젊/paa+ㅁ/etn+에/jca)
+                    (AP 대하/pvg+ㄴ/etm))
+                (NP 반역/ncn+도/jxc))
+            (V 아니/paa+고/ecc))
+        (VP
+            (NP 수치/ncn+도/jxc)
+            (V 아니/paa+다/ef)))+./sf)
+
+
+; 필자는 이보다 앞서 황어의 산지를 소개한 고서가 있는지 없는지 모른다 .
+(S
+    (VP
+        (VP
+            (NP 필자/ncn+는/jxc)
+            (PP 이/npd+보다/jca)
+            (V 앞서/pvg+어/ecs))
+        (VP
+            (NP
+                (AP
+                    (NP
+                        (AP 황어/ncn+의/jcm)
+                        (NP 산지/ncn+를/jco))
+                    (AP 소개/ncpa+하/xsv+ㄴ/etm))
+                (NP 고서/ncn+가/jcs))
+            (V (V 있/paa+는지/ecs)
+                (V 없/paa+는지/ecs)
+                (V 모르/pvg+ㄴ다/ef))))+./sf)
+
+
+; 몸이 크고 , 식용으로 했으며 , 혼인색과 산란기의 행동이 특이했던 까닭이었을 것이다 .
+(S
+    (VP
+        (VP
+            (NP 몸/ncn+이/jcs)
+            (V 크/paa+고/ecc))+,/sp
+        (VP
+            (PP 식용/ncn+으로/jca)
+            (V 하/pvg+었/ep+으며/ecs))+,/sp
+        (VP
+            (NP
+                (AP
+                    (NP 혼인색/ncn+과/jcj)
+                    (AP 산란기/ncn+의/jcm))
+                (NP 행동/ncn+이/jcs))
+            (VP
+                (AP 특이/ncps+하/xsm+었/ep+던/etm)
+                (AP 까닭/ncn+이/jp+었/ep+ㄹ/etm)
+                (V 것/nbn+이/jp+다/ef))))+./sf)
+
+
+; 바다를 드나드는 강해형 황어는 부화 후 1 년 또는 수년간 살다가 다시 하천에 나타나서 산란하는 것으로 알려졌다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP
+                    (NP 바다/ncn+를/jco)
+                    (AP 드나들/pvg+는/etm))
+                (AP 강해형/ncn)
+                (NP 황어/ncn+는/jxc))
+            (PP
+                (AP 부화/ncn)
+                (PP 후/ncn))
+            (NP
+                (AP 1/nnc)
+                (NP 년/nbu))
+            (IP 또는/maj)
+            (NP 수년/ncn+간/xsn)
+            (V 살/pvg+다가/ecs))
+        (VP
+            (ADVP 다시/mag)
+            (PP 하천/ncn+에/jca)
+            (V 나타나/pvg+서/ecs))
+        (VP
+            (PP
+                (AP 산란/ncpa+하/xsv+는/etm)
+                (PP 것/nbn+으로/jca))
+            (V (V 알리/pvg+어/ecx)+(AUXP 지/px+었/ep+다/ef))))+./sf)
+
+
+; 대부분의 어류가 육상에서 보면 색채를 구별하기가 쉽지 않지만 , 황어가 떼지어 헤엄치는 것을 보면 황갈색이 완연하다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 대부분/ncn+의/jcm)
+                (NP 어류/ncn+가/jcs))
+            (PP 육상/ncn+에서/jca)
+            (V 보/pvg+면/ecs))
+        (VP
+            (NP
+                (NP 색채/ncn+를/jco)
+                (NP 구별/ncpa+하/xsv+기/etn+가/jcs))
+            (V (V 쉽/paa+지/ecx)
+                (AUXP 않/px+지만/ecs)))+,/sp
+        (VP
+            (NP 황어/ncn+가/jcs)
+            (NP
+                (AP
+                    (V 떼짓/pvg+어/ecs)
+                    (AP 헤엄치/pvg+는/etm))
+                (NP 것/nbn+을/jco))
+            (V 보/pvg+면/ecs))
+        (VP
+            (NP 황갈색/ncn+이/jcs)
+            (V 완연/ncps+하/xsm+다/ef)))+./sf)
+
+
+; 황해로 주입되는 하천이나 황해에서의 황어 산지가 거의 알려지지 않고 있는 것은 이 때문인 듯싶다 .
+(S
+    (VP
+        (VP
+            (AP
+                (PP 황해/nq+로/jca)
+                (AP 주입/ncpa+되/xsv+는/etm))
+            (V 하천/ncn+이/jp+나/ecs))
+        (VP
+            (NP
+                (AP 황해/nq+에서/jca+의/jcm)
+                (AP 황어/ncn)
+                (NP 산지/ncn+가/jcs))
+            (NP
+                (AP
+                    (ADVP 거의/mag)
+                    (AP
+                        (V 알리/pvg+어/ecx)
+                        (AUXP 지/px+지/ecx)
+                        (AUXP 않/px+고/ecx)
+                        (AP 있/px+는/etm)))
+                (NP 것/nbn+은/jxc))
+            (NP
+                (AP 이/npd)
+                (AP 때문/nbn+이/jp+ㄴ/etm)
+                (NP 듯/nbn))
+            (V 싶/paa+다/ef)))+./sf)
+
+
+; 바다를 드나드는 2 차 담수어이므로 , 물만 깨끗하면 황해라고 못 살 이유가 없다 .
+(S
+    (VP
+        (VP
+            (AP
+                (NP 바다/ncn+를/jco)
+                (AP 드나들/pvg+는/etm))
+            (AP 2/nno)
+            (AP 차/nbu)
+            (V 담수어/ncn+이/jp+므로/ecs))+,/sp
+        (VP
+            (NP 물/ncn+만/jxc)
+            (V 깨끗하/paa+면/ecs))
+        (VP
+            (NP 황해/nq+라고/jcr)
+            (NP
+                (AP
+                    (ADVP 못/mag)
+                    (AP 살/pvg+ㄹ/etm))
+                (NP 이유/ncn+가/jcs))
+            (V 없/paa+다/ef)))+./sf)
+
+
+; 동국여지승람 에는 김포반도에 위치한 통진현에서 산출된다고 나와 있고 , 1904 년에서 1911 년  사이에 출판된 한국수산지 에는 서울 용산에서 이다 ( Ida ) 가 나온다고 기록되어 있다 .
+(S
+    (VP
+        (VP
+            (PP 동국여지승람/nq+에/jca+는/jxc)
+            (NP
+                (PP
+                    (AP
+                        (PP 김포/nq+반도/ncn+에/jca)
+                        (AP 위치/ncpa+하/xsv+ㄴ/etm))
+                    (PP 통진현/nq+에서/jca))
+                (NP 산출/ncpa+되/xsv+ㄴ다/ef+고/jcr))
+            (V (V 나오/pvg+아/ecx)
+                (AUXP 있/px+고/ecc)))+,/sp
+        (VP
+            (PP
+                (AP 1904/nno)
+                (PP 년/nbu+에서/jca))
+            (NP
+                (AP
+                    (PP
+                        (AP 1911/nno)
+                        (AP 년/nbu)
+                        (PP 사이/ncn+에/jca))
+                    (AP 출판/ncpa+되/xsv+ㄴ/etm))
+                (PP 한국수산지/nq+에/jca+는/jxc))
+            (PP
+                (AP 서울/nq)
+                (PP 용산/nq+에서/jca))
+            (NP
+                (NP 이다/ncn+(/sl+Ida/f+)/sr+가/jcs)
+                (NP 나오/pvg+ㄴ다/ef+고/jcr))
+            (V (V 기록/ncpa+되/xsv+어/ecx)
+                (AUXP 있/px+다/ef))))+./sf)
+
+
+; 이색적인 물고기 동국여지승람 의 가사어 이야기는 아무리 생각해도 신기하기만 하다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 이색/ncn+적/xsn+이/jp+ㄴ/etm)
+                (NP 물고기/ncn))
+            (NP
+                (AP 동국여지승람/nq+의/jcm)
+                (AP 가사어/ncn)
+                (NP 이야기/ncn+는/jxc))
+            (ADVP 아무리/mag)
+            (V 생각/ncpa+하/xsv+어도/ecs))
+        (VP
+            (NP 신기/ncps+하/xsm+기/etn+만/jxc)
+            (V 하/pvg+다/ef)))+./sf)
+
+
+; 중이 가사를 입은 것 같은 모양을 하고 있어서 가사어라는 이름이 붙은 것이다 .
+(S
+    (VP
+        (VP
+            (NP 중/ncn+이/jcs)
+            (NP
+                (AP
+                    (NP
+                        (AP
+                            (NP 가사/ncn+를/jco)
+                            (AP 입/pvg+ㄴ/etm))
+                        (NP 것/nbn))
+                    (AP 같/paa+ㄴ/etm))
+                (NP 모양/ncn+을/jco))
+            (V (V 하/pvg+고/ecx)
+                (AUXP 있/px+어서/ecs)))
+        (VP
+            (AP
+                (NP
+                    (AP 가사어/ncn+라/ef+는/etm)
+                    (NP 이름/ncn+이/jcs))
+                (AP 붙/pvg+ㄴ/etm))
+            (V 것/nbn+이/jp+다/ef)))+./sf)
+
+
+; 산기슭에 사는 사람들은 수년 동안에 겨우 한 마리를 볼지 말지 하다고 한다 .
+(S
+    (VP
+        (NP
+            (AP
+                (PP 산기슭/ncn+에/jca)
+                (AP 살/pvg+는/etm))
+            (NP 사람/ncn+들/xsn+은/jxc))
+        (PP
+            (AP 수년/ncn)
+            (PP 동안/ncn+에/jca))
+        (ADVP 겨우/mag)
+        (NP
+            (NP
+                (AP 한/nnc)
+                (NP 마리/nbu+를/jco))
+            (NP
+                (V 보/pvg+ㄹ지/ecs)
+                (V 말/pvg+ㄹ지/ecs)
+                (NP 하/pvg+다/ef+고/ef)))
+        (V 하/pvg+ㄴ다/ef))+./sf)
+
+
+; 이들 고서에 나오는 가사어가 황어와 같은 종인지 아닌지 , 현대를 사는 우리에게는 이 문제를 규명하여야 할 의무가 있다고 생각한다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP
+                    (PP
+                        (AP 이/npd+들/xsn)
+                        (PP 고서/ncn+에/jca))
+                    (AP 나오/pvg+는/etm))
+                (NP 가사어/ncn+가/jcs))
+            (VP
+                (AP
+                    (PP 황어/ncn+와/jct)
+                    (AP 같/paa+ㄴ/etm))
+                (V (V 종/ncn+이/jp+ㄴ지/ecs)
+                    (V 아니/paa+ㄴ지/ecs))))+,/sp
+        (VP
+            (PP
+                (AP
+                    (NP 현대/ncn+를/jco)
+                    (AP 살/pvg+는/etm))
+                (PP 우리/npp+에게/jca+는/jxc))
+            (NP
+                (AP 이/mmd)
+                (NP 문제/ncn+를/jco))
+            (NP
+                (NP
+                    (AP
+                        (V 규명/ncpa+하/xsv+어야/ecs)
+                        (AP 하/pvg+ㄹ/etm))
+                    (NP 의무/ncn+가/jcs))
+                (NP 있/paa+다/ef+고/jcr))
+            (V 생각/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 그러려면 우선 용유담 부근에 사는 고로를 만나서 가사어라는 말이 지금까지 전해지고 있는지 알아보아야 한다 .
+(S
+    (VP
+        (VP
+            (IP 그러/pvd+려면/ecs)
+            (ADVP 우선/mag)
+            (NP
+                (AP
+                    (PP
+                        (AP 용유담/nq)
+                        (PP 부근/ncn+에/jca))
+                    (AP 살/pvg+는/etm))
+                (NP 고로/ncn+를/jco))
+            (V 만나/pvg+서/ecs))
+        (VP
+            (VP
+                (NP
+                    (AP 가사어/ncn+라/ef+는/etm)
+                    (NP 말/ncpa+이/jcs))
+                (PP 지금/ncn+까지/jxc)
+                (V (V 전하/pvg+어/ecx)
+                    (AUXP 지/px+고/ecx)
+                    (AUXP 있/px+는지/ecs)))
+            (V (V 알/pvg+아/ecx)
+                 (AUXP 보/px+아야/ecx)
+                 (AUXP 하/px+ㄴ다/ef))))+./sf)
+
+
+; 무엇보다도 용유담에서 현재도 가사어를 볼 수 있는지 확인하여야 한다 .
+(S
+    (VP
+        (VP
+            (PP 무엇/npd+보다/jca+도/jxc)
+            (PP 용유담/nq+에서/jca)
+            (NP 현재/ncn+도/jxc)
+            (NP
+                (AP
+                    (NP 가사어/ncn+를/jco)
+                    (AP 보/pvg+ㄹ/etm))
+                (NP 수/nbn))
+            (V 있/paa+는지/ecs))
+        (V (V 확인/ncpa+하/xsv+어야/ecs)
+            (V 하/pvg+ㄴ다/ef)))+./sf)
+
+
+; 동국여지승람 의 기록 내용으로 보아 가사어가 신화적인 존재는 아니라는 것이 필자의 추측이다 .
+(S
+    (VP
+        (VP
+            (PP
+                (AP 동국여지승람/nq+의/jcm)
+                (AP 기록/ncn)
+                (PP 내용/ncn+으로/jca))
+            (V 보/pvg+아/ecs))
+        (VP
+            (NP 가사어/ncn+가/jcs)
+            (NP
+                (AP
+                    (NP
+                        (AP 신화/ncpa+적/xsn+이/jp+ㄴ/etm)
+                        (NP 존재/ncn+는/jxc))
+                    (AP 아니/paa+라/ef+는/etm))
+                (NP 것/nbn+이/jcs))
+            (VP
+                (AP 필자/ncn+의/jcm)
+                (V 추측/ncpa+이/jp+다/ef))))+./sf)
+
+
+; 은구어와 은어 주둥이에 은백색의 뼈가 있는 은구어 서유구의 [ 전어지 ] 에는 은어에 관하여 다음과 같은 기록이 있다 .
+(S
+    (VP
+        (VP
+            (PP
+                (AP
+                    (NP 은구어/ncn+와/jcj)
+                    (AP 은어/ncn))
+                (PP 주둥이/ncn+에/jca))
+            (NP
+                (AP
+                    (NP
+                        (AP 은백색/ncn+의/jcm)
+                        (NP 뼈/ncn+가/jcs))
+                    (AP 있/paa+는/etm))
+                (NP 은구어/ncn))
+            (NP
+                (AP 서유구/nq+의/jcm)
+                (NP [/sl+전어지/nq+]/sr+에/jca+는/jxc))
+            (PP 은어/ncn+에/jca)
+            (V 관하/pvg+어/ecs))
+        (VP
+            (NP
+                (AP
+                    (PP 다음/ncn+과/jct)
+                    (AP 같/paa+ㄴ/etm))
+                (NP 기록/ncn+이/jcs))
+            (V 있/paa+다/ef)))+./sf)
+
+
+; 등뼈 사이에 지방분이 엉겨붙어서 맛이 담백하고 비린내가 나지 않는다 .
+(S
+    (VP
+        (VP
+            (PP
+                (AP 등뼈/ncn)
+                (PP 사이/ncn+에/jca))
+            (NP 지방분/ncn+이/jcs)
+            (V (V 엉기/pvg+어/ecx)+(AUXP 붙/px+어서/ecs)))
+        (VP
+            (NP 맛/ncn+이/jcs)
+            (V 담백/ncps+하/xsm+고/ecc))
+        (VP
+            (NP 비린내/ncn+가/jcs)
+            (V (V 나/pvg+지/ecx)
+                (AUXP 않/px+는다/ef))))+./sf)
+
+
+; 살아 있을 때는 오이 향기가 있어서 물고기 중에서는 맛이 특이하다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP
+                    (V 살/pvg+아/ecx)
+                    (AP 있/px+ㄹ/etm))
+                (NP 때/ncn+는/jxc))
+            (NP
+                (AP 오이/ncn)
+                (NP 향기/ncn+가/jcs))
+            (V 있/paa+어서/ecs))
+        (VP
+            (PP
+                (AP 물고기/ncn)
+                (PP 중/nbn+에서/jca+는/jxc))
+            (NP 맛/ncn+이/jcs)
+            (V 특이/ncps+하/xsm+다/ef)))+./sf)
+
+
+; 소금에 절여서 멀리 보내기도 하고 , 구워서 먹으면 향기가 있고 맛이 좋다 .
+(S
+    (VP
+        (VP
+            (PP 소금/ncn+에/jca)
+            (V 절이/pvg+어서/ecs))
+        (VP
+            (ADVP 멀리/mag)
+            (NP 보내/pvg+기/etn+도/jxc)
+            (V 하/pvg+고/ecc))+,/sp
+        (VP
+            (V (V 굽/pvg+어서/ecs)
+               (V 먹/pvg+으면/ecs)))
+        (VP
+            (NP 향기/ncn+가/jcs)
+            (V 있/paa+고/ecc))
+        (VP
+            (NP 맛/ncn+이/jcs)
+            (V 좋/paa+다/ef)))+./sf)
+
+
+; 고서 가운데서도 은어에 대해 가장 먼저 보고한 책은 하연의 경상도지리지 일 것이다 .
+(S
+    (VP
+        (VP
+            (PP
+                (AP 고서/ncn)
+                (PP 가운데/ncn+서/jca+도/jxc))
+            (PP 은어/ncn+에/jca)
+            (V 대하/pvg+어/ecs))
+        (VP
+            (NP
+                (AP
+                    (ADVP 가장/mag)
+                    (ADVP 먼저/mag)
+                    (AP 보고/ncpa+하/xsv+ㄴ/etm))
+                (NP 책/ncn+은/jxc))
+            (VP
+                (AP 하연/nq+의/jcm)
+                (AP 경상도지리지/nq+이/jp+ㄹ/etm)
+                (V 것/nbn+이/jp+다/ef))))+./sf)
+
+
+; 이 책에도 은구어로 나오는데 , 그 산지로 다음 각지를 소개하고 있다 .
+(S
+    (VP
+        (VP
+            (PP
+                (AP 이/mmd)
+                (PP 책/ncn+에/jca+도/jxc))
+            (PP 은구어/ncn+로/jca)
+            (V 나오/pvg+는데/ecs))+,/sp
+        (VP
+            (PP
+                (AP 그/mmd)
+                (PP 산지/ncn+로/jca))
+            (NP
+                (AP 다음/ncn)
+                (NP 각지/ncn+를/jco))
+            (V (V 소개/ncpa+하/xsv+고/ecx)
+                (AUXP 있/px+다/ef))))+./sf)
+
+
+; 그중 영해는 송천 , 영덕은 영덕 오십천 , 청하는 청하천 , 언양과 울산은 태화강 , 사천은  사천천 , 악양은 섬진강 수계에 속하지만 , 나머지는 모두 낙동강 수계에 속한다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 그/mmd+중/nbn)
+                (NP 영해/nq+는/jxc))
+            (NP 송천/nq)+,/sp
+            (NP 영덕/nq+은/jxc)
+            (NP
+                (AP 영덕/nq)
+                (NP 오십천/nq))+,/sp
+            (NP 청하/nq+는/jxc)
+            (NP 청하천/nq)+,/sp
+            (NP
+                (NP 언양/nq+과/jcj)
+                (NP 울산/nq+은/jxc))
+            (NP 태화강/nq)+,/sp
+            (NP 사천/nq+은/jxc)
+            (NP 사천천/nq)+,/sp
+            (NP 악양/nq+은/jxc)
+            (PP
+                (AP 섬진강/nq)
+                (PP 수계/ncn+에/jca))
+            (V 속하/pvg+지만/ecs))+,/sp
+        (VP
+            (NP 나머지/ncn+는/jxc)
+            (ADVP 모두/mag)
+            (PP
+                (AP 낙동강/nq)
+                (PP 수계/ncn+에/jca))
+            (V 속하/pvg+ㄴ다/ef)))+./sf)
+
+
+; 경상도지리지 에 기록되지 않은 산지들을 수계별로 소개하면 다음과 같다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP
+                    (PP 경상도지리지/nq+에/jca)
+                    (AP
+                        (V 기록/ncpa+되/xsv+지/ecx)
+                        (AP 않/px+ㄴ/etm)))
+                (NP 산지/ncn+들/xsn+을/jco))
+            (PP 수계/ncn+별/xsn+로/jca)
+            (V 소개/ncpa+하/xsv+면/ecs))
+        (VP
+            (PP 다음/ncn+과/jct)
+            (V 같/paa+다/ef)))+./sf)
+
+
+; 풍기 형산강 수계 : 영일 영덕 오십천 : 영덕 평해 남대천 : 평해 왕피천  : 울진 삼척 오십천 수계 : 삼척 강릉 남대천 수계 : 강릉 양양 남대천  수계 : 양양 간성 북천 수계 : 간성 이수광의 지봉유설 에는 은구어에 대하여 다음과 같이 기록하고 있다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 풍기/nq)
+                (AP 형산강/nq)
+                (NP 수계/ncn))+:/sy
+            (NP
+                (AP 영일/nq)
+                (AP 영덕/nq)
+                (NP 오십천/nq))+:/sy
+            (NP
+                (AP 영덕/nq)
+                (AP 평해/nq)
+                (NP 남대천/nq))+:/sy
+            (NP
+                (AP 평해/nq)
+                (NP 왕피천/nq))+:/sy
+            (NP
+                (AP 울진/nq)
+                (AP 삼척/nq)
+                (AP 오십천/nq)
+                (NP 수계/ncn))+:/sy
+            (NP
+                (AP 삼척/nq)
+                (AP 강릉/nq)
+                (AP 남대천/nq)
+                (NP 수계/ncn))+:/sy
+            (NP
+                (AP 강릉/nq)
+                (AP 양양/nq)
+                (AP 남대천/nq)
+                (NP 수계/ncn))+:/sy
+            (NP
+                (AP 양양/nq)
+                (AP 간성/nq)
+                (AP 북천/nq)
+                (NP 수계/ncn))+:/sy
+            (NP
+                (AP 간성/nq)
+                (AP 이수광/nq+의/jcm)
+                (NP 지봉유설/nq+에/jca+는/jxc))
+            (PP 은구어/ncn+에/jca)
+            (V 대하/pvg+어/ecs))
+        (VP
+            (ADVP
+                (PP 다음/ncn+과/jct)
+                (ADVP 같/paa+이/xsa))
+            (V (V 기록/ncpa+하/xsv+고/ecx)
+                (AUXP 있/px+다/ef))))+./sf)
+
+
+; 은구어는 봄에 바다로부터 상류 쪽으로 거슬러올라가서 여름 , 가을에 비대했다가 , 가을이 깊어지면 없어진다 .
+(S
+    (VP
+        (VP
+            (NP 은구어/ncn+는/jxc)
+            (PP 봄/ncn+에/jca)
+            (PP 바다/ncn+로/jca+부터/jxc)
+            (PP
+                (AP 상류/ncn)
+                (PP 쪽/nbn+으로/jca))
+            (V (V 거스르/pvg+어/ecx)
+                (AUXP 오르/px+아/ecx+가/px+서/ecs)))
+        (VP
+            (PP
+                (AP 여름/ncn)+,/sp
+                (PP 가을/ncn+에/jca))
+            (V 비대/ncps+하/xsm+었/ep+다가/ecs))
+        (VP
+            (NP 가을/ncn+이/jcs)
+            (V (V 깊/paa+어/ecx)+(AUXP 지/px+면/ecs)
+                (V 없/paa+어/ecx)+(AUXP 지/px+ㄴ다/ef))))+./sf)
+
+
+; 어떤 사람은 이 물고기가 남쪽의 흐르는 물에서만 산다고 말하지만 , 그것이 사실인지 아닌지는 알 수 없다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 어떤/mmd)
+                (NP 사람/ncn+은/jxc))
+            (NP
+                (AP 이/mmd)
+                (NP 물고기/ncn+가/jcs))
+            (NP
+                (PP
+                    (AP 남쪽/ncn+의/jcm)
+                    (AP 흐르/pvg+는/etm)
+                    (PP 물/ncn+에서/jca+만/jxc))
+                (NP 살/pvg+ㄴ다/ef+고/jcr))
+            (V 말/ncpa+하/xsv+지만/ecs))+,/sp
+        (VP
+            (NP 그것/npd+이/jcs)
+            (NP
+                (AP
+                    (NP
+                        (V 사실/ncn+이/jp+ㄴ지/ecs)
+                        (NP 아니/paa+ㄴ지/ecs+는/jxc))
+                    (AP 알/pvg+ㄹ/etm))
+                (NP 수/nbn))
+            (V 없/paa+다/ef)))+./sf)
+
+
+; 동국여지승람 에는 양주 , 고양 , 파주에서 산출된다고 되어 있지만 , 지금은 드물다 .
+(S
+    (VP
+        (VP
+            (NP 동국여지승람/nq+에/jca+는/jxc)
+            (NP
+                (PP
+                    (AP 양주/nq)+,/sp
+                    (AP 고양/nq)+,/sp
+                    (PP 파주/nq+에서/jca))
+                (NP 산출/ncpa+되/xsv+ㄴ다/ef+고/jcr))
+            (V (V 되/pvg+어/ecx)
+                (AUXP 있/px+지만/ecs)))+,/sp
+        (VP
+            (NP 지금/ncn+은/jxc)
+            (V 드물/paa+다/ef)))+./sf)
+
+
+; 그러나 몸은 파리하고 맛은 많이 떨어졌다 .
+(S
+    (VP
+        (VP
+            (IP 그러나/maj)
+            (NP 몸/ncn+은/jxc)
+            (V 파리하/paa+고/ecc))
+        (VP
+            (NP 맛/ncn+은/jxc)
+            (ADVP 많/paa+이/xsa)
+            (V 떨어지/pvg+었/ep+다/ef)))+./sf)
+
+
+; 이상의 고서들을 보고 몇 가지 추리할 수 있는 사실이 있다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 이상/ncn+의/jcm)
+                (NP 고서/ncn+들/xsn+을/jco))
+            (V 보/pvg+고/ecc))
+        (VP
+            (NP
+                (AP
+                    (NP
+                        (AP
+                            (NP
+                                (AP 몇/mma)
+                                (NP 가지/nbu))
+                            (AP 추리/ncpa+하/xsv+ㄹ/etm))
+                        (NP 수/nbn))
+                    (AP 있/paa+는/etm))
+                (NP 사실/ncn+이/jcs))
+            (V 있/paa+다/ef)))+./sf)
+
+
+; 첫째는 그 당시의 은어의 분포구역이 현재의 그것에 비해서 훨씬 넓었다는 것이다 .
+(S
+    (VP
+        (VP
+            (NP 첫째/nno+는/jxc)
+            (NP
+                (AP 그/mmd)
+                (AP 당시/ncn+의/jcm)
+                (AP 은어/ncn+의/jcm)
+                (NP 분포/ncn+구역/ncn+이/jcs))
+            (PP
+                (AP 현재/ncn+의/jcm)
+                (PP 그것/npd+에/jca))
+            (V 비하/pvg+어서/ecs))
+        (VP
+            (AP
+                (ADVP 훨씬/mag)
+                (AP 넓/paa+었/ep+다/ef+는/etm))
+            (V 것/nbn+이/jp+다/ef)))+./sf)
+
+
+; 정밀한 조사 결과를 기록한 것이 아닐 것이므로 , 이들 고서에 나오는 산지들은 은어의 다산지였을 것이다 .
+(S
+    (VP
+        (VP
+            (AP
+                (NP
+                    (AP
+                        (NP
+                            (AP 정밀/ncps+하/xsm+ㄴ/etm)
+                            (AP 조사/ncn)
+                            (NP 결과/ncn+를/jco))
+                        (AP 기록/ncpa+하/xsv+ㄴ/etm))
+                    (NP 것/nbn+이/jcc))
+                (AP 아니/paa+ㄹ/etm))
+            (V 것/nbn+이/jp+므로/ecs))+,/sp
+        (VP
+            (NP
+                (AP
+                    (PP
+                        (AP 이/npd+들/xsn)
+                        (PP 고서/ncn+에/jca))
+                    (AP 나오/pvg+는/etm))
+                (NP 산지/ncn+들/xsn+은/jxc))
+            (VP
+                (AP
+                    (AP 은어/ncn+의/jcm)
+                    (AP 다산지/ncn+이/jp+었/ep+ㄹ/etm))
+                (V 것/nbn+이/jp+다/ef))))+./sf)
+
+
+; 소금에 절이면 멀리 보낼 수도 있고 구워먹어도 좋다고 했으며 , 산지를 소상히 보고한 것으로 보아 그런 추측을 가능하게 한다 .
+(S
+    (VP
+        (VP
+            (PP 소금/ncn+에/jca)
+            (V 절이/pvg+면/ecs))
+        (VP
+            (NP
+                (AP
+                    (ADVP 멀리/mag)
+                    (AP 보내/pvg+ㄹ/etm))
+                (NP 수/nbn+도/jxc))
+            (V 있/paa+고/ecc))
+        (VP
+            (NP
+                (V 굽/pvg+어/ecx)+(AUXP 먹/px+어도/ecs)
+                (NP 좋/paa+다/ef+고/jcr))
+            (V 하/pvg+었/ep+으며/ecs))+,/sp
+        (VP
+            (NP 산지/ncn+를/jco)
+            (PP
+                (AP
+                    (ADVP 소상/ncn+히/xsa)
+                    (AP 보고/ncpa+하/xsv+ㄴ/etm))
+                (PP 것/nbn+으로/jca))
+            (V 보/pvg+아/ecs))
+        (VP
+            (NP
+                (AP 그런/mmd)
+                (NP 추측/ncn+을/jco))
+            (V (V 가능/ncpa+하/xsv+게/ecx)
+                (AUXP 하/px+ㄴ다/ef))))+./sf)
+
+
+; 다섯째는 은어가 몹시 아름답고 날씬하며 맛이 좋아 , 그 당시 사람들의 마음을 사로 잡았던 것이 아닌가 생각된다 .
+(S
+    (VP
+        (VP
+            (NP 다섯째/nno+는/jxc)
+            (NP 은어/ncn+가/jcs)
+            (ADVP 몹시/mag)
+            (V (V 아름답/paa+고/ecc)
+                (V 날씬/ncps+하/xsm+며/ecc)))
+        (VP
+            (NP 맛/ncn+이/jcs)
+            (V 좋/paa+아/ecs))+,/sp
+        (VP
+            (NP
+                (AP 그/mmd)
+                (NP 당시/ncn))
+            (NP
+                (AP 사람/ncn+들/xsn+의/jcm)
+                (NP 마음/ncn+을/jco))
+            (NP
+                (AP
+                    (ADVP 사로/mag)
+                    (AP 잡/pvg+았/ep+던/etm))
+                (NP 것/nbn+이/jcc))
+            (V (V 아니/paa+ㄴ가/ef)
+               (V 생각/ncpa+되/xsv+ㄴ다/ef))))+./sf)
+
+
+; 국민학교 어린이들이 물 속으로 뛰어들어 그물도 쓰지 않고 발로 차서 모래밭으로 쫓아냈다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 국민학교/ncn)
+                (NP 어린이/ncn+들/xsn+이/jcs))
+            (PP
+                (AP 물/ncn)
+                (PP 속/ncn+으로/jca))
+            (V 뛰어들/pvg+어/ecs))
+        (VP
+            (NP 그물/ncn+도/jxc)
+            (V (V 쓰/pvg+지/ecx)
+                (AUXP 않/px+고/ecc)))
+        (VP
+            (PP 발/ncn+로/jca)
+            (V 차/pvg+서/ecs))
+        (VP
+            (PP 모래밭/ncn+으로/jca)
+            (V (V 쫓/pvg+아/ecx)+(AUXP 내/px+ㅆ/ep+다/ef))))+./sf)
+
+
+; 그곳 주민들은 봄이 되면 은어가 바다에서 올라온다는 것을 잘 알고 있었다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 그곳/npd)
+                (NP 주민/ncn+들/xsn+은/jxc))
+            (NP 봄/ncn+이/jcc)
+            (V 되/pvg+면/ecs))
+        (VP
+            (NP 은어/ncn+가/jcs)
+            (NP
+                (AP
+                    (PP 바다/ncn+에서/jca)
+                    (AP
+                         (V 오르/pvg+아/ecx)
+                         (AP 오/px+ㄴ다/ef+는/etm)))
+                (NP 것/nbn+을/jco))
+            (ADVP 잘/mag)
+            (V (V 알/pvg+고/ecx)
+                (AUXP 있/px+었/ep+다/ef))))+./sf)
+
+
+; 물이 맑고 수량이 적은데다가 은어가 많았기 때문이다.
+(S
+    (VP
+        (VP
+            (NP 물/ncn+이/jcs)
+            (V 맑/paa+고/ecc))
+        (VP
+            (AP
+                (NP 수량/ncn+이/jcs)
+                (AP 적/paa+은/etm))
+            (V 데/nbn+다가/ecs))
+        (VP
+            (NP
+                (NP 은어/ncn+가/jcs)
+                (NP 많/paa+았/ep+기/etn))
+            (V 때문/nbn+이/jp+다/ef)))+./sf)
+
+
+; 은어는 이곳쯤 오면 무리에서 벗어나 각자가 개별행동을 하게 된다 .
+(S
+    (VP
+        (VP
+            (NP 은어/ncn+는/jxc)
+            (NP 이곳/npd+쯤/xsn)
+            (V 오/pvg+면/ecs))
+        (VP
+            (PP 무리/ncn+에서/jca)
+            (V 벗어나/pvg+아/ecs))
+        (VP
+            (NP 각자/ncn+가/jcs)
+            (NP 개별/ncn+행동/ncn+을/jco)
+            (V (V 하/pvg+게/ecx)
+                (AUXP 되/px+ㄴ다/ef))))+./sf)
+
+
+; 은어의 놀림낚기란 그들의 이런 성질을 역으로 이용해서 포로 은어를 써서 주인 은어를 잡아내는 것이다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 은어/ncn+의/jcm)
+                (NP 놀림낚기/ncn+란/jxc))
+            (NP
+                (AP 그/npp+들/xsn+의/jcm)
+                (AP 이런/mmd)
+                (NP 성질/ncn+을/jco))
+            (PP 역/ncn+으로/jca)
+            (V 이용/ncpa+하/xsv+어서/ecs))
+        (VP
+            (PP 포/ncn+로/jca)
+            (NP 은어/ncn+를/jco)
+            (V 쓰/pvg+어서/ecs))
+        (VP
+            (AP
+                (NP
+                    (AP 주인/ncn)
+                    (NP 은어/ncn+를/jco))
+                (AP
+                    (V 잡/pvg+아/ecx)
+                    (AP 내/px+는/etm)))
+            (V 것/nbn+이/jp+다/ef)))+./sf)
+
+
+; 한 마리의 은어가 확보하는 식량은 15 마리가 먹고 남을 만큼이나 된다 .
+(S
+    (VP
+        (NP
+            (AP
+                (NP
+                    (AP 한/nnc)
+                    (AP 마리/nbu+의/jcm)
+                    (NP 은어/ncn+가/jcs))
+                (AP 확보/ncpa+하/xsv+는/etm))
+            (NP 식량/ncn+은/jxc))
+        (NP
+            (AP 15/nnc)
+            (NP 마리/nbu+가/jcs))
+        (VP
+            (VP
+                (AP
+                    (V 먹/pvg+고/ecc)
+                    (AP 남/paa+ㄹ/etm))
+                (V 만큼/nbn+이/jp+나/ecs))
+            (V 되/pvg+ㄴ다/ef)))+./sf)
+
+
+; 9 월 중순까지 배부르게 먹고 , 화를 겪지만 않는다면 30 센티미터 내외가 되기까지 큰다 .
+(S
+    (VP
+        (VP
+            (PP
+                (AP 9/nno)
+                (AP 월/nbu)
+                (PP 중순/ncn+까지/jxc))
+            (V (V 배부르/pvg+게/ecs)
+                (V 먹/pvg+고/ecc)))+,/sp
+        (VP
+            (NP 화/ncn+를/jco)
+            (V (V 겪/pvg+지만/ecs)
+                (V 않/pvg+는다면/ecs)))
+        (VP
+            (NP
+                (AP 30/nnc)
+                (AP 센티미터/nbu)
+                (NP 내외/ncn+가/jcc))
+            (PP 되/pvg+기/etn+까지/jxc)
+            (V 크/paa+ㄴ다/ef)))+./sf)
+
+
+; 한 마리의 암컷에 여러 마리의 수컷이 구혼을 하는 사랑의 터전은 강의 하구에 가까운 모래밭이나 자갈밭이다 .
+(S
+    (VP
+        (PP
+            (AP 한/nnc)
+            (AP 마리/nbu+의/jcm)
+            (PP 암컷/ncn+에/jca))
+        (NP
+            (AP 여러/mma)
+            (AP 마리/nbu+의/jcm)
+            (NP 수컷/ncn+이/jcs))
+        (NP
+             (AP
+                 (NP 구혼/ncn+을/jco)
+                 (AP 하/pvg+는/etm))
+             (NP
+                 (AP 사랑/ncn+의/jcm)
+                 (NP 터전/ncn+은/jxc)))
+        (VP
+            (AP
+                (PP
+                    (AP 강/ncn+의/jcm)
+                    (PP 하구/ncn+에/jca))
+                (AP 가깝/paa+ㄴ/etm))
+            (VP
+                (AP 모래밭/ncn+이나/jcj)
+                (V 자갈밭/ncn+이/jp+다/ef))))+./sf)
+
+
+; 쫓고 쫓기고 , 물이 튀고 소리가 나는 활극이 벌어진 다음에야 산란을 하고 방정을 한다 .
+(S
+    (VP
+        (VP
+            (V (V 쫓/pvg+고/ecc)
+                (V 쫓기/pvg+고/ecc)))+,/sp
+        (VP
+            (NP 물/ncn+이/jcs)
+            (V 튀/pvg+고/ecc))
+        (VP
+            (PP
+                (AP
+                    (NP
+                        (AP
+                            (NP 소리/ncn+가/jcs)
+                            (AP 나/pvg+는/etm))
+                        (NP 활극/ncn+이/jcs))
+                    (AP
+                        (V 벌/pvg+어/ecx)
+                        (AP 지/px+ㄴ/etm)))
+                (PP 다음/ncn+에/jca+야/jxc))
+            (NP 산란/ncn+을/jco)
+            (V 하/pvg+고/ecc))
+        (VP
+            (NP 방정/ncn+을/jco)
+            (V 하/pvg+ㄴ다/ef)))+./sf)
+
+
+; 현재는 이런 사실들이 소상히 밝혀졌지만 , 그것을 처음으로 밝힌 사람은 이수광이다 .
+(S
+    (VP
+        (VP
+            (NP 현재/ncn+는/jxc)
+            (NP
+                (AP 이런/mmd)
+                (NP 사실/ncn+들/xsn+이/jcs))
+            (ADVP 소상/ncn+히/xsa)
+            (V (V 밝히/pvg+어/ecx)+(AUXP 지/px+었/ep+지만/ecs)))+,/sp
+        (VP
+            (NP 그것/npd+을/jco)
+            (NP
+                (AP
+                    (PP 처음/ncn+으로/jca)
+                    (AP 밝히/pvg+ㄴ/etm))
+                (NP 사람/ncn+은/jxc))
+            (V 이수광/nq+이/jp+다/ef)))+./sf)
+
+
+; 산란과 수정을 끝낸 은어는 죽는다는 일반상식을 깨고 , 그는 순천에 월동하는 친어가 있다는 사실을 밝혔다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP
+                    (NP
+                        (AP
+                            (NP
+                                (NP 산란/ncn+과/jcj)
+                                (NP 수정/ncn+을/jco))
+                            (AP 끝내/pvg+ㄴ/etm))
+                        (NP 은어/ncn+는/jxc))
+                    (AP 죽/pvg+는다/ef+는/etm))
+                (NP 일반/ncn+상식/ncn+을/jco))
+            (V 깨/pvg+고/ecc))+,/sp
+        (VP
+            (NP 그/npp+는/jxc)
+            (NP
+                (AP
+                    (NP
+                        (AP
+                            (PP 순천/nq+에/jca)
+                            (AP 월동/ncpa+하/xsv+는/etm))
+                        (NP 친어/ncn+가/jcs))
+                    (AP 있/paa+다/ef+는/etm))
+                (NP 사실/ncn+을/jco))
+            (V 밝히/pvg+었/ep+다/ef)))+./sf)
+
+
+; 한강에 나타나기 시작한 은어 1960 년대 들어서면서 한강의 은어에 관한 이상한 소문이 돌기 시작했다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP
+                    (NP
+                        (PP 한강/nq+에/jca)
+                        (NP 나타나/pvg+기/etn))
+                    (AP 시작/ncpa+하/xsv+ㄴ/etm))
+                (NP 은어/ncn))
+            (NP
+                (AP 1960/nno)
+                (NP 년대/nbu))
+            (V 들어서/pvg+면서/ecc))
+        (VP
+            (NP
+                (NP
+                    (AP
+                        (AP
+                            (PP
+                                (AP 한강/nq+의/jcm)
+                                (PP 은어/ncn+에/jca))
+                            (AP 관하/pvg+ㄴ/etm))
+                        (AP 이상/ncps+하/xsm+ㄴ/etm))
+                    (NP 소문/ncn+이/jcs))
+                (NP 돌/pvg+기/etn))
+            (V 시작/ncpa+하/xsv+었/ep+다/ef)))+./sf)
+
+
+; 고집이 세기로 이름난 한 문교부 직원은 한강에 은어가 있다고 장담하고 나섰다 .
+(S
+    (VP
+        (NP
+            (AP
+                (PP
+                    (NP 고집/ncn+이/jcs)
+                    (PP 세/paa+기/etn+로/jca))
+                (AP 이름나/pvg+ㄴ/etm))
+            (AP 한/nnc)
+            (AP 문교부/ncn)
+            (NP 직원/ncn+은/jxc))
+        (PP 한강/nq+에/jca)
+        (NP
+            (NP 은어/ncn+가/jcs)
+            (NP 있/paa+다/ef+고/jcr))
+        (V (V 장담/ncpa+하/xsv+고/ecx)
+            (AUXP 나서/px+ㅆ/ep+다/ef)))+./sf)
+
+
+; 그럴 리가 없다고 응수해 보았으나 , 화를 내며 소리를 높인다 .
+(S
+    (VP
+        (VP
+            (NP
+                (NP
+                    (AP 그렇/pad+ㄹ/etm)
+                    (NP 리/nbn+가/jcs))
+                (NP 없/paa+다/ef+고/jcr))
+            (V (V 응수/ncpa+하/xsv+어/ecx)
+                (AUXP 보/px+았/ep+으나/ecs)))+,/sp
+        (VP
+            (NP 화/ncn+를/jco)
+            (V 내/pvg+며/ecc))
+        (VP
+            (NP 소리/ncn+를/jco)
+            (V 높이/pvg+ㄴ다/ef)))+./sf)
+
+
+; 은어를 구별할 줄 모르는 줄 아나 ? 내가 낚았다면 낚은 줄 알아야지 .
+(S
+    (VP
+        (NP
+            (AP
+                (NP
+                    (AP
+                        (NP 은어/ncn+를/jco)
+                        (AP 구별/ncpa+하/xsv+ㄹ/etm))
+                    (NP 줄/nbn))
+                (AP 모르/pvg+는/etm))
+            (NP 줄/nbn))
+        (V 알/pvg+나/ef))+?/sf)
+(S
+    (VP
+        (VP
+            (NP 내/npp+가/jcs)
+            (V 낚/pvg+았/ep+다/ef+면/ecs))
+        (VP
+            (NP
+                (AP 낚/pvg+은/etm)
+                (NP 줄/nbn))
+            (V 알/pvg+아야지/ef)))+./sf)
+
+
+; 귀한 것이 아니라 없다고 대답을 했더니 , 가평군 상면 조종천에서 한 마리를 잡은 일이 있다고 장소와 시간을 밝혔다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 귀하/paa+ㄴ/etm)
+                (NP 것/nbn+이/jcc))
+            (V 아니/paa+라/ecs))
+        (VP
+            (NP 없/paa+다/ef+고/jcr)
+            (NP 대답/ncpa+을/jco)
+            (V 하/pvg+었/ep+더/ep+니/ecs))+,/sp
+        (VP
+            (PP
+               (AP 가평군/nq)
+               (AP 상면/nq)
+               (PP 조종천/nq+에서/jca))
+            (NP
+                (NP
+                    (AP
+                        (NP
+                            (AP 한/nnc)
+                            (NP 마리/nbu+를/jco))
+                        (AP 잡/pvg+ㄴ/etm))
+                    (NP 일/ncn+이/jcs))
+                (NP 있/paa+다/ef+고/jcr))
+            (NP
+                (NP 장소/ncn+와/jcj)
+                (NP 시간/ncn+을/jco))
+            (V 밝히/paa+었/ep+다/ef)))+./sf)
+
+
+; 1972 년 9 월 23 일 , 한국에서 가장 큰 잉어를 낚았다는 분과 뚝섬에서 같은 보트를 타고 그분의 낚시 솜씨를 구경한 일이 있었다 .
+(S
+    (VP
+        (VP
+            (PP
+                (AP 1972/nno)
+                (PP 년/nbu))
+            (PP
+                (AP 9/nno)
+                (PP 월/nbu))
+            (PP
+                (AP 23/nno)
+                (PP 일/nbu))+,/sp
+            (PP 한국/nq+에서/jca)
+            (ADVP 가장/mag)
+            (PP
+                (AP
+                    (NP
+                        (AP 크/paa+ㄴ/etm)
+                        (NP 잉어/ncn+를/jco))
+                    (AP 낚/pvg+았/ep+다/ef+는/etm))
+                (PP 분/nbn+과/jct))
+            (PP 뚝섬/nq+에서/jca)
+            (NP
+                (AP 같/paa+ㄴ/etm)
+                (NP 보트/ncn+를/jco))
+            (V 타/pvg+고/ecc))
+        (VP
+            (NP
+                (AP 그분/npp+의/jcm)
+                (AP 낚시/ncn)
+                (NP 솜씨/ncn+를/jco))
+            (NP
+                (AP 구경/ncpa+하/xsv+ㄴ/etm)
+                (NP 일/ncn+이/jcs))
+            (V 있/paa+었/ep+다/ef)))+./sf)
+
+
+; 은어가 살 수 있는 곳이라면 전국 어디에서든지 보게 된다면 얼마나 좋을까 .
+(S
+    (VP
+        (VP
+            (NP 은어/ncn+가/jcs)
+            (VP
+                (AP
+                    (NP
+                        (AP 살/pvg+ㄹ/etm)
+                        (NP 수/nbn))
+                    (AP 있/paa+는/etm))
+                (V 곳/ncn+이/jp+라면/ecs)))
+        (VP
+            (PP
+                (AP 전국/ncn)
+                (PP 어디/npd+에서/jca+든지/jxc))
+            (V (V 보/pvg+게/ecx)
+                 (AUXP 되/px+ㄴ다/ef+면/ecs)))
+        (VP
+            (ADVP 얼마나/mag)
+            (V 좋/paa+ㄹ까/ef)))+./sf)
+
+
+; 하돈의 정체 황복은 어떤 물고기인가 , 옛날 사람들은 황복을 어떻게 보고 있었는가 , 그리고 황복은 어디에서  산출되며 , 번창하는 종인가 소멸하는 종인가 알아보기로 하자 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 하돈/ncn+의/jcm)
+                (AP 정체/ncn)
+                (NP 황복/ncn+은/jxc))
+            (VP
+                (AP 어떤/mmd)
+                (V 물고기/ncn+이/jp+ㄴ가/ef)))+,/sp
+        (VP
+            (NP
+                (AP 옛날/ncn)
+                (NP 사람/ncn+들/xsn+은/jxc))
+            (NP 황복/ncn+을/jco)
+            (V (V 어떻/pad+게/ecs)
+               (V 보/pvg+고/ecx)
+               (AUXP 있/px+었/ep+는가/ef)))+,/sp
+        (VP
+            (IP 그리고/maj)
+            (NP 황복/ncn+은/jxc)
+            (PP 어디/npd+에서/jca)
+            (V 산출/ncpa+되/xsv+며/ecc))+,/sp
+        (VP
+            (AP 번창/ncpa+하/xsv+는/etm)
+            (V 종/ncn+이/jp+ㄴ가/ef))
+        (VP
+            (AP 소멸/ncpa+하/xsv+는/etm)
+            (V 종/ncn+이/jp+ㄴ가/ef))
+        (VP
+            (PP
+                (V 알/pvg+아/ecx)
+                (PP 보/px+기/etn+로/jca))
+            (V 하/pvg+자/ef)))+./sf)
+
+
+; 풍기 황복에 대하여 다음과 같이 기록하고 있다 .
+(S
+    (VP
+        (VP
+            (PP
+                (AP 풍기/nq)
+                (PP 황복/ncn+에/jca))
+            (V 대하/pvg+어/ecs))
+        (VP
+            (ADVP
+                (PP 다음/ncn+과/jct)
+                (ADVP 같/paa+이/xsa))
+            (V (V 기록/ncpa+하/xsv+고/ecx)
+                (AUXP 있/px+다/ef))))+./sf)
+
+
+; 등이 청흑색이고 노란 무늬가 있으며 , 배는 희고 광택이 없다 .
+(S
+    (VP
+        (VP
+            (NP 등/ncn+이/jcs)
+            (V 청흑색/ncn+이/jp+고/ecc))
+        (VP
+            (NP
+                (AP 노랗/paa+ㄴ/etm)
+                (NP 무늬/ncn+가/jcs))
+            (V 있/paa+으며/ecc))+,/sp
+        (VP
+            (NP 배/ncn+는/jxc)
+            (V 희/paa+고/ecc))
+        (VP
+            (NP 광택/ncn+이/jcs)
+            (V 없/paa+다/ef)))+./sf)
+
+
+; 한식 때는 이미 와 있고 , 복숭아꽃이 피면 독이 있어서 먹을 수 없다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 한식/ncn)
+                (NP 때/ncn+는/jxc))
+            (ADVP 이미/mag)
+            (V (V 오/pvg+아/ecx)
+                (AUXP 있/px+고/ecc)))+,/sp
+        (VP
+            (NP 복숭아꽃/ncn+이/jcs)
+            (V 피/pvg+면/ecs))
+        (VP
+            (NP 독/ncn+이/jcs)
+            (V 있/paa+어서/ecs))
+        (VP
+            (NP
+                (AP 먹/pvg+ㄹ/etm)
+                (NP 수/nbn))
+            (V 없/paa+다/ef)))+./sf)
+
+
+; 그러므로 참복과 어류를 총칭하는 말로 하돈이나 하둔이란 말이 나오는 것은 자연스럽다 .
+(S
+    (VP
+        (IP 그러므로/maj)
+        (PP
+            (AP
+                (NP
+                    (AP 참복과/ncn)
+                    (NP 어류/ncn+를/jco))
+                (AP 총칭/ncpa+하/xsv+는/etm))
+            (PP 말/ncn+로/jca))
+        (NP
+            (AP
+                (NP
+                    (NP 하돈/ncn+이나/jcj)
+                    (NP
+                        (AP 하둔/ncn+이/jp+라/ef+ㄴ/etm)
+                        (NP 말/ncpa+이/jcs)))
+                (AP 나오/pvg+는/etm))
+            (NP 것/nbn+은/jxc))
+        (V 자연/ncps+스럽/xsm+다/ef))+./sf)
+
+
+; 황복의 방언에 어떤 것들이 있으며 , 그것들이 어떻게 분포되어 있는지를 알아본다 .
+(S
+    (VP
+        (VP
+            (PP
+                (AP 황복/ncn+의/jcm)
+                (PP 방언/ncn+에/jca))
+            (NP
+                (AP 어떤/mmd)
+                (NP 것/nbn+들/xsn+이/jcs))
+            (V 있/paa+으며/ecs))+,/sp
+        (VP
+            (NP 그것/npd+들/xsn+이/jcs)
+            (NP
+                (V 어떻/pad+게/ecs)
+                (V 분포/ncpa+되/xsv+어/ecx)
+                (NP 있/paa+는지/ef+를/jco))
+            (V (V 알/pvg+아/ecx)
+                (AUXP 보/px+ㄴ다/ef))))+./sf)
+
+
+; ( 나주 ), 복징이 ( 양산 ), 황복 ( 익산 ), 황복어 ( 부여 ) 방언이 놀랄 만큼 단조롭고 수가 적다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP (/sl+나주/nq+)/sr)+,/sp
+                (AP 복징이/ncn+(/sl+양산/nq+)/sr)+,/sp
+                (AP 황복/ncn+(/sl+익산/nq+)/sr)+,/sp
+                (AP 황복어/ncn+(/sl+부여/nq+)/sr)
+                (NP 방언/ncn+이/jcs))
+            (NP
+                (AP 놀라/pvg+ㄹ/etm)
+                (NP 만큼/nbn))
+            (V 단조/ncps+롭/xsm+고/ecc))
+        (VP
+            (NP 수/ncn+가/jcs)
+            (V 적/paa+다/ef)))+./sf)
+
+
+; 1 년 중 봄에만 나타났다가 사라지는 종이고 , 먹으면 죽는 물고기라고 알고 기피했던 까닭이라고 생각된다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 1/nnc)
+                (AP 년/nbu)
+                (NP 중/nbn))
+            (PP 봄/ncn+에/jca+만/jxc)
+            (V 나타나/pvg+ㅆ/ep+다가/ecs))
+        (VP
+            (AP 사라지/pvg+는/etm)
+            (V 종/ncn+이/jp+고/ecc))+,/sp
+        (VP
+            (NP
+                (AP
+                    (V 먹/pvg+으면/ecs)
+                    (AP 죽/pvg+는/etm))
+                (NP 물고기/ncn+라고/jcr))
+            (V 알/pvg+고/ecc))
+        (VP
+            (NP
+                (AP 기피/ncpa+하/xsv+었/ep+던/etm)
+                (NP 까닭/ncn+이/jp+라/ef+고/jcr))
+            (V 생각/ncpa+되/xsv+ㄴ다/ef)))+./sf)
+
+
+; 강에 사는 복어라고 해서 강복 , 강복어 , 민물에서 사는 복어라고 민물복쟁이 , 몸에 노란 띠가 있다고 해서 황복 , 또는 황복어라고 부르고 있다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP
+                    (PP 강/ncn+에/jca)
+                    (AP 살/pvg+는/etm))
+                (NP 복어/ncn+라고/jcr))
+            (V 하/pvg+어서/ecs))
+        (VP
+            (NP 강복/ncn)+,/sp
+            (NP 강복어/ncn)+,/sp
+            (NP
+                (AP
+                    (PP 민물/ncn+에서/jca)
+                    (AP 살/pvg+는/etm))
+                (NP 복어/ncn+라고/jcr))
+            (NP 민물복쟁이/ncn)+,/sp
+            (PP 몸/ncn+에/jca)
+            (NP
+                (NP
+                    (AP 노랗/paa+ㄴ/etm)
+                    (NP 띠/ncn+가/jcs))
+                (NP 있/paa+다/ef+고/jcr))
+            (V 하/pvg+어서/ecs))
+        (VP
+            (NP 황복/ncn)+,/sp
+            (IP 또는/maj)
+            (NP 황복어/ncn+라고/jcr)
+            (V (V 부르/pvg+고/ecx)
+               (AUXP 있/px+다/ef))))+./sf)
+
+
+; 방언의 분포로 보면 , 황복은 한강 , 금강 , 낙동강 이외에 안성천 , 만경강 , 영산강에서도 산출된다는 것을 알 수 있다 .
+(S
+    (VP
+        (VP
+            (PP
+                (AP 방언/ncn+의/jcm)
+                (PP 분포/ncn+로/jca))
+            (V 보/pvg+면/ecs))+,/sp
+        (VP
+            (NP 황복/ncn+은/jxc)
+            (PP
+                (AP 한강/nq)+,/sp
+                (AP 금강/nq)+,/sp
+                (AP 낙동강/nq)
+                (PP 이외/ncn+에/jca))
+            (NP
+                (AP
+                    (NP
+                        (AP
+                            (PP
+                                (AP 안성천/nq)+,/sp
+                                (AP 만경강/nq)+,/sp
+                                (PP 영산강/nq+에서/jca+도/jxc))
+                            (AP 산출/ncpa+되/xsv+ㄴ다/ef+는/etm))
+                        (NP 것/nbn+을/jco))
+                    (AP 알/pvg+ㄹ/etm))
+                (NP 수/nbn))
+            (V 있/paa+다/ef)))+./sf)
+
+
+; 참복과에 속하는 종들은 많으나 대부분이 바다에서 일생을 보내는 종들이고 , 민물에 나타나는 종은 황복과 복섬이다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP
+                    (PP 참복과/ncn+에/jca)
+                    (AP 속하/pvg+는/etm))
+                (NP 종/ncn+들/xsn+은/jxc))
+            (V 많/paa+으나/ecs))
+        (VP
+            (NP 대부분/ncn+이/jcs)
+            (PP 바다/ncn+에서/jca)
+            (VP
+                (AP
+                    (NP 일생/ncn+을/jco)
+                    (AP 보내/pvg+는/etm))
+                (V 종/ncn+들/xsn+이/jp+고/ecc)))+,/sp
+        (VP
+            (NP
+                (AP
+                    (PP 민물/ncn+에/jca)
+                    (AP 나타나/pvg+는/etm))
+                (NP 종/ncn+은/jxc))
+            (VP
+                (NP 황복/ncn+과/jcj)
+                (V 복섬/ncn+이/jp+다/ef))))+./sf)
+
+
+; 등은 회갈색이나 청갈색이고 , 거기에 백점이 무수히 박혀 있어서 황복과는 간단히 구별할 수 있다 .
+(S
+    (VP
+        (VP
+            (NP 등/ncn+은/jxc)
+            (VP
+                (NP 회갈색/ncn+이나/jcj)
+                (V 청갈색/ncn+이/jp+고/ecc)))+,/sp
+        (VP
+            (PP 거기/npd+에/jca)
+            (NP 백점/ncn+이/jcs)
+            (ADVP 무수히/mag)
+            (V (V 박히/pvg+어/ecx)
+                (AUXP 있/px+어서/ecs)))
+        (VP
+            (NP 황복/ncn+과/jct+는/jxc)
+            (ADVP 간단/ncn+히/xsa)
+            (NP
+                (AP 구별/ncpa+하/xsv+ㄹ/etm)
+                (NP 수/nbn))
+            (V 있/paa+다/ef)))+./sf)
+
+
+; 복섬은 주로 동부와 남부에 분포되어 있고 , 황복은 동부에서는 찾아볼 수 없다 .
+(S
+    (VP
+        (VP
+            (NP 복섬/ncn+은/jxc)
+            (ADVP 주로/mag)
+            (PP
+                (NP 동부/ncn+와/jcj)
+                (PP 남부/ncn+에/jca))
+            (V (V 분포/ncpa+되/xsv+어/ecx)
+                 (AUXP 있/px+고/ecc)))+,/sp
+        (VP
+            (NP 황복/ncn+은/jxc)
+            (PP 동부/ncn+에서/jca+는/jxc)
+            (NP
+                (AP
+                    (V 찾/pvg+아/ecx)
+                    (AP 보/px+ㄹ/etm))
+                (NP 수/nbn))
+            (V 없/paa+다/ef)))+./sf)
+
+
+; 황복과 한식 황복은 4 월에서 5 월 사이에 산란을 하기 위하여 강에 나타난다 .
+(S
+    (VP
+        (VP
+            (NP
+                (NP 황복/ncn+과/jcj)
+                (NP
+                    (AP 한식/ncn)
+                    (NP 황복/ncn+은/jxc)))
+            (PP
+                (AP 4/nno)
+                (PP 월/nbu+에서/jca))
+            (PP
+                (AP 5/nno)
+                (AP 월/nbu)
+                (PP 사이/ncn+에/jca))
+            (NP
+                (NP 산란/ncn+을/jco)
+                (NP 하/pvg+기/etn))
+            (V 위하/pvg+어/ecs))
+        (VP
+            (PP 강/ncn+에/jca)
+            (V 나타나/pvg+ㄴ다/ef)))+./sf)
+
+
+; 산란장은 바닥에 자갈이 깔린 여울이고 , 조수의 영향을 받지 않는 곳이다 .
+(S
+    (VP
+        (VP
+            (NP 산란장/ncn+은/jxc)
+            (PP 바닥/ncn+에/jca)
+            (VP
+                (AP
+                    (NP 자갈/ncn+이/jcs)
+                    (AP 깔리/pvg+ㄴ/etm))
+                (V 여울/ncn+이/jp+고/ecc)))+,/sp
+        (VP
+            (NP
+                (AP 조수/ncn+의/jcm)
+                (NP 영향/ncn+을/jco))
+            (VP
+                (AP
+                    (V 받/pvg+지/ecx)
+                    (AP 않/px+는/etm))
+                (V 곳/ncn+이/jp+다/ef))))+./sf)
+
+
+; 알에서 부화한 어린 황복도 성어와 거의 같으며 , 1 센티미터 내외의 어린 것도 벌써 팽창시킬 수 있어서 얄미울 정도이다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP
+                    (PP 알/ncn+에서/jca)
+                    (AP 부화/ncpa+하/xsv+ㄴ/etm))
+                (AP 어리/paa+ㄴ/etm)
+                (NP 황복/ncn+도/jxc))
+            (PP 성어/ncn+와/jca)
+            (ADVP 거의/mag)
+            (V 같/paa+으며/ecs))+,/sp
+        (VP
+            (NP
+                (AP 1/nnc)
+                (AP 센티미터/nbu)
+                (AP 내외/ncn+의/jcm)
+                (AP 어리/paa+ㄴ/etm)
+                (NP 것/nbn+도/jxc))
+            (ADVP 벌써/mag)
+            (NP
+                (AP 팽창/ncpa+시키/xsv+ㄹ/etm)
+                (NP 수/nbn))
+            (V 있/paa+어서/ecs))
+        (VP
+            (AP 얄밉/paa+ㄹ/etm)
+            (V 정도/ncn+이/jp+다/ef)))+./sf)
+
+
+; 옛날 사람들은 황복이 철을 어기지 않고 강에 나타나는 것을 매우 신기하게 생각했던 것 같다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 옛날/ncn)
+                (NP 사람/ncn+들/xsn+은/jxc))
+            (NP 황복/ncn+이/jcs)
+            (NP 철/ncn+을/jco)
+            (V (V 어기/pvg+지/ecx)
+                (AUXP 않/px+고/ecc)))
+        (VP
+            (NP
+                (AP
+                    (PP 강/ncn+에/jca)
+                    (AP 나타나/pvg+는/etm))
+                (NP 것/nbn+을/jco))
+            (ADVP 매우/mag)
+            (NP
+                (AP
+                    (V 신기/ncps+하/xsm+게/ecs)
+                    (AP 생각/ncpa+하/xsv+었/ep+던/etm))
+                (NP 것/nbn))
+            (V 같/paa+다/ef)))+./sf)
+
+
+; 서유구는 한식 때는 황복이 이미 와 있다고 지적했지만 , 많은 시인들이 그것을 소재로 시를 썼다 .
+(S
+    (VP
+        (VP
+            (NP 서유구/nq+는/jxc)
+            (NP
+                (AP 한식/ncn)
+                (NP 때/ncn+는/jxc))
+            (NP 황복/ncn+이/jcs)
+            (NP
+                (ADVP 이미/mag)
+                (NP
+                    (V 오/pvg+아/ecx)
+                    (NP 있/px+다/ef+고/jcr)))
+            (V 지적/ncpa+하/xsv+었/ep+지만/ecs))+,/sp
+        (VP
+            (NP
+                (AP 많/paa+ㄴ/etm)
+                (NP 시인/ncn+들/xsn+이/jcs))
+            (NP 그것/npd+을/jco)
+            (PP 소재/ncn+로/jca)
+            (NP 시/ncn+를/jco)
+            (V 쓰/pvg+었/ep+다/ef)))+./sf)
+
+
+; 대밭 밖에는 봉숭아꽃이 두서너 가지 피었고 , 조용히 헤엄치는 오리의 발에도 봄의 강물이 따스하게 느껴지네 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 대밭/ncn)
+                (NP 밖/ncn+에/jca+는/jxc))
+            (NP 봉숭아꽃/ncn+이/jcs)
+            (NP
+                (AP 두서너/nnc)
+                (NP 가지/nbu))
+            (V 피/pvg+었/ep+고/ecc))+,/sp
+        (VP
+            (ADVP 조용히/mag)
+            (PP
+                (AP 헤엄치/pvg+는/etm)
+                (AP 오리/ncn+의/jcm)
+                (PP 발/ncn+에/jca+도/jxc))
+            (NP
+                (AP 봄/ncn+의/jcm)
+                (NP 강물/ncn+이/jcs))
+            (V (V 따스하/paa+게/ecs)
+                (V 느끼/pvg+어/ecx)
+                (AUXP 지/px+네/ef))))+./sf)
+
+
+; 쑥은 이미 싹이 나서 땅을 덮고 갈대의 눈은 아직 짧은데 , 이때가 바로 황복이 올라가고 싶어하는 때라네 .
+(S
+    (VP
+        (VP
+            (NP 쑥/ncn+은/jxc)
+            (ADVP 이미/mag)
+            (NP 싹/ncn+이/jcs)
+            (V 나/pvg+서/ecs))
+        (VP
+            (NP 땅/ncn+을/jco)
+            (V 덮/pvg+고/ecc))
+        (VP
+            (NP
+                (AP 갈대/ncn+의/jcm)
+                (NP 눈/ncn+은/jxc))
+            (ADVP 아직/mag)
+            (V 짧/paa+ㄴ데/ecs))+,/sp
+        (VP
+            (NP 이/mmd+때/ncn+가/jcs)
+            (ADVP 바로/mag)
+            (NP 황복/ncn+이/jcs)
+            (VP
+                (AP
+                    (V 오르/pvg+아/ecx)
+                    (AUXP 가/px+고/ecx)
+                    (AUXP 싶/px+어/ecx)
+                    (AP 하/px+는/etm))
+                (V 때/ncn+라네/ef))))+./sf)
+
+
+; 생물학자들이 호르몬의 분비로 황복이 충동을 받아 강에 나타난다고 해석하고 있는 동안 , 시인은 시적 감각으로 그것을 파악한다 .
+(S
+    (VP
+        (VP
+            (NP 생물학자/ncn+들/xsn+이/jcs)
+            (PP
+                (AP 호르몬/ncn+의/jcm)
+                (PP 분비/ncn+로/jca))
+            (NP 황복/ncn+이/jcs)
+            (NP 충동/ncn+을/jco)
+            (V 받/pvg+아/ecs))
+        (VP
+            (NP
+                (AP
+                    (NP
+                        (PP 강/ncn+에/jca)
+                        (NP 나타나/pvg+ㄴ다/ef+고/jcr))
+                    (AP
+                        (V 해석/ncpa+하/xsv+고/ecx)
+                        (AP 있/px+는/etm)))
+                (NP 동안/ncn))+,/sp
+            (NP 시인/ncn+은/jxc)
+            (PP
+                (AP 시/ncn+적/xsn)
+                (PP 감각/ncn+으로/jca))
+            (NP 그것/npd+을/jco)
+            (V 파악/ncpa+하/xsv+ㄴ다/ef)))+./sf)
+
+
+; 진달래 , 개나리 , 살구꽃 , 새소리 , 물소리 , 바람소리 , 물고기의 움직임까지도 시적 감각을 자극하는 요인이 된다고 하니 , 시의 세계는 참으로 신비로운 것이다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 진달래/ncn)+,/sp
+                (AP 개나리/ncn)+,/sp
+                (AP 살구꽃/ncn)+,/sp
+                (AP 새/ncn+소리/ncn)+,/sp
+                (AP 물/ncn+소리/ncn)+,/sp
+                (AP 바람/ncn+소리/ncn)+,/sp
+                (AP 물고기/ncn+의/jcm)
+                (NP 움직이/pvg+ㅁ/etn+까지/jxc+도/jxc))
+            (NP
+                (NP
+                    (AP
+                        (NP
+                            (AP 시/ncn+적/xsn)
+                            (NP 감각/ncn+을/jco))
+                        (AP 자극/ncpa+하/xsv+는/etm))
+                    (NP 요인/ncn+이/jcc))
+                (NP 되/pvg+ㄴ다/ef+고/jcr))
+            (V 하/pvg+니/ecc))+,/sp
+        (VP
+            (NP
+                (AP 시/ncn+의/jcm)
+                (NP 세계/ncn+는/jxc))
+            (ADVP 참으로/mag)
+            (VP
+                (AP 신비/ncps+롭/xsm+ㄴ/etm)
+                (V 것/nbn+이/jp+다/ef))))+./sf)
+
+
+; 황복의 전멸을 막아야 한다 황복은 우리의 문화재 자원이고 , 식량 자원이고 , 친구이기도 하다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 황복/ncn+의/jcm)
+                (NP 전멸/ncn+을/jco))
+            (V (V 막/pvg+아야/ecx)
+                (AUXP 하/px+ㄴ다/ef)))
+        (VP
+            (NP 황복/ncn+은/jxc)
+            (VP
+                (AP 우리/npp+의/jcm)
+                (AP 문화재/ncn)
+                (V 자원/ncn+이/jp+고/ecc)))+,/sp
+        (VP
+            (AP 식량/ncn)
+            (V 자원/ncn+이/jp+고/ecc))+,/sp
+        (VP
+            (NP 친구/ncn+이/jp+기/etn+도/jxc)
+            (V 하/pvg+다/ef)))+./sf)
+
+
+; 그들이 우리와 함께 번영할 수 있도록 하기 위하여 우리는 지금까지 무슨 일을 했는지 뒤돌아보자 .
+(S
+    (VP
+        (VP
+            (NP 그/npp+들/xsn+이/jcs)
+            (PP 우리/npp+와/jca)
+            (ADVP 함께/mag)
+            (NP
+                (NP
+                    (AP 번영/ncpa+하/xsv+ㄹ/etm)
+                    (NP 수/nbn))
+                (NP
+                    (V 있/paa+도록/ecs)
+                    (NP 하/pvg+기/etn)))
+            (V 위하/pvg+어/ecs))
+        (VP
+            (NP 우리/npp+는/jxc)
+            (NP 지금/ncn+까지/jxc)
+            (NP
+                (AP 무슨/mmd)
+                (NP 일/ncn+을/jco))
+            (V (V 하/pvg+었/ep+는지/ecs)
+                (V 뒤돌/pvg+아/ecx)
+                (AUXP 보/px+자/ef))))+./sf)
+
+
+; 황복이 봄에 우리의 곁으로 올라오는 것은 산란을 해서 그들의 종족을 유지하기 위한 필사적인 행동이다 .
+(S
+    (VP
+        (VP
+            (NP 황복/ncn+이/jcs)
+            (PP 봄/ncn+에/jca)
+            (NP
+                (AP
+                    (PP
+                        (AP 우리/npp+의/jcm)
+                        (PP 곁/ncn+으로/jca))
+                    (AP
+                        (V 오르/pvg+아/ecx)
+                        (AP 오/px+는/etm)))
+                (NP 것/nbn+은/jxc))
+            (NP 산란/ncn+을/jco)
+            (V 하/pvg+어서/ecs))
+        (VP
+            (NP
+                (AP 그/npp+들/xsn+의/jcm)
+                (NP 종족/ncn+을/jco))
+            (VP
+                (AP
+                    (AP
+                        (NP 유지/ncpa+하/xsv+기/etn)
+                        (AP 위하/pvg+ㄴ/etm))
+                    (AP 필사/ncn+적/xsn+이/jp+ㄴ/etm))
+                (V 행동/ncn+이/jp+다/ef))))+./sf)
+
+
+; 인간은 자신들의 행복을 위해서 잔인한 짓을 해도 되는 것인지 묻고 싶다 .
+(S
+    (VP
+        (VP
+            (NP 인간/ncn+은/jxc)
+            (NP
+                (AP 자신/npp+들/xsn+의/jcm)
+                (NP 행복/ncn+을/jco))
+            (V 위하/pvg+어서/ecs))
+        (VP
+            (NP
+                (AP 잔인/ncps+하/xsm+ㄴ/etm)
+                (NP 짓/ncn+을/jco))
+            (VP
+                (AP
+                    (V 하/pvg+어도/ecs)
+                    (AP 되/pvg+는/etm))
+                (V 것/nbn+이/jp+ㄴ지/ecs)))
+        (VP
+            (V (V 묻/pvg+고/ecx)
+                (AUXP 싶/px+다/ef))))+./sf)
+
+
+; 우리의 잔인한 행동은 따지고 보면 어리석은 짓이고 , 행복과도 통하지 않는다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 우리/npp+의/jcm)
+                (AP 잔인/ncps+하/xsm+ㄴ/etm)
+                (NP 행동/ncn+은/jxc))
+            (V (V 따지/pvg+고/ecx)
+                (AUXP 보/px+면/ecs)))
+        (VP
+            (AP 어리석/paa+ㄴ/etm)
+            (V 짓/nbn+이/jp+고/ecc))+,/sp
+        (VP
+            (NP 행복/ncn+과/jct+도/jxc)
+            (V (V 통하/pvg+지/ecx)
+                (AUXP 않/px+는다/ef))))+./sf)
+
+
+; 산란기에는 그들을 적극적으로 보호하고 , 새끼 황복은 절대로 잡지 말아야 한다 .
+(S
+    (VP
+        (VP
+            (PP 산란기/ncn+에/jca+는/jxc)
+            (NP 그/npp+들/xsn+을/jco)
+            (PP 적극/ncn+적/xsn+으로/jca)
+            (V 보호/ncpa+하/xsv+고/ecc)+,/sp
+        (VP
+            (AP 새끼/ncn)
+            (NP 황복/ncn+은/jxc))
+            (ADVP 절대로/mag)
+            (V (V 잡/pvg+지/ecx)
+                (AUXP 말/px+아야/ecx)
+                (AUXP 하/px+ㄴ다/ef))))+./sf)
+
+
+; 강의 하구를 막고 길도 터주지 않으면 황복은 어디서 알을 낳으라는 것인가 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 강/ncn+의/jcm)
+                (NP 하구/ncn+를/jco))
+            (V 막/pvg+고/ecc))
+        (VP
+            (NP 길/ncn+도/jxc)
+            (V (V 트/pvg+어/ecx)
+                (AUXP 주/px+지/ecx)
+                (AUXP 않/px+으면/ecs)))
+        (VP
+            (NP 황복/ncn+은/jxc)
+            (PP 어디/npd+서/jca)
+            (NP 알/ncn+을/jco)
+            (VP
+                (AP 낳/pvg+으라/ef+는/etm)
+                (V 것/nbn+이/jp+ㄴ가/ef))))+./sf)
+
+
+; 금강 , 안성천 , 영산강 , 낙동강의 경우는 강의 입구 가까운 곳에 둑을 쌓아 황복이 산란장으로 가는 길을 막아버렸다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 금강/nq)+,/sp
+                (AP 안성천/nq)+,/sp
+                (AP 영산강/nq)+,/sp
+                (AP 낙동강/nq+의/jcm)
+                (NP 경우/ncn+는/jxc))
+            (PP
+                (AP 강/ncn+의/jcm)
+                (AP 입구/ncn)
+                (AP 가깝/paa+ㄴ/etm)
+                (PP 곳/ncn+에/jca))
+            (NP 둑/ncn+을/jco)
+            (V 쌓/pvg+아/ecs))
+        (VP
+            (NP 황복/ncn+이/jcs)
+            (NP
+                (AP
+                    (PP 산란장/ncn+으로/jca)
+                    (AP 가/pvg+는/etm))
+                (NP 길/ncn+을/jco))
+            (V (V 막/pvg+아/ecx)
+                (AUXP 버리/px+었/ep+다/ef))))+./sf)
+
+
+; 한강이나 만경강은 또 수질오염으로 황복이 산란장으로 가는 것을 방해하고 있다 .
+(S
+    (VP
+        (VP
+            (NP
+                (NP 한강/nq+이나/jcj)
+                (NP 만경강/nq+은/jxc))
+            (IP 또/maj)
+            (PP 수질/ncn+오염/ncn+으로/jca)
+            (NP 황복/ncn+이/jcs)
+            (NP
+                (AP
+                    (PP 산란장/ncn+으로/jca)
+                    (AP 가/pvg+는/etm))
+                (NP 것/nbn+을/jco))
+            (V (V 방해/ncpa+하/xsv+고/ecx)
+                (AUXP 있/px+다/ef))))+./sf)
+
+
+; 황복이 자유롭게 살아가는 모습을 보고 시를 썼던 시대는 갔다 .
+(S
+    (VP
+        (VP
+            (NP 황복/ncn+이/jcs)
+            (NP
+                (AP
+                    (V 자유/ncps+롭/xsm+게/ecs)
+                    (V 살/pvg+아/ecx)
+                    (AP 가/px+는/etm))
+                (NP 모습/ncn+을/jco))
+            (V 보/pvg+고/ecc))
+        (VP
+            (NP 시/ncn+를/jco)
+            (NP
+                (AP 쓰/pvg+었/ep+던/etm)
+                (NP 시대/ncn+는/jxc))
+            (V 가/pvg+ㅆ/ep+다/ef)))+./sf)
+
+
+; 황복이 산란장에 가보지도 못하고 우리의 시야에서 사라지는 모습을 보아야 하니 참으로 슬픈 일이다 .
+(S
+    (VP
+        (VP
+            (NP 황복/ncn+이/jcs)
+            (NP
+                (PP 산란장/ncn+에/jca)
+                (NP
+                    (V 가/pvg+아/ecx)
+                    (AUXP 보/px+지/ecx+도/jxc)))
+            (V 못하/pvg+고/ecc))
+        (VP
+            (NP
+                (AP
+                    (PP
+                        (AP 우리/npp+의/jcm)
+                        (PP 시야/ncn+에서/jca))
+                    (AP 사라지/pvg+는/etm))
+                (NP 모습/ncn+을/jco))
+            (V (V 보/pvg+아야/ecx)
+                (AUXP 하/px+니/ecs)))
+        (VP
+            (ADVP 참으로/mag)
+            (VP
+                (AP 슬프/paa+ㄴ/etm)
+                (V 일/ncn+이/jp+다/ef))))+./sf)
+
+
+; 그때에 비하면 정치 , 경제 , 문화 , 교육 등 모든 분야에서 큰 발전을 했다고 사람들은 말하고 있다 .
+(S
+    (VP
+        (VP
+            (PP 그/mmd+때/ncn+에/jca)
+            (V 비하/pvg+면/ecs))
+        (VP
+            (NP
+                (AP 정치/ncn)+,/sp
+                (AP 경제/ncn)+,/sp
+                (AP 문화/ncn)+,/sp
+                (AP 교육/ncn)
+                (NP 등/nbn))
+            (PP
+                (AP 모든/mmd)
+                (PP 분야/ncn+에서/jca))
+            (NP
+                (NP
+                    (AP 크/paa+ㄴ/etm)
+                    (NP 발전/ncn+을/jco))
+                (NP 하/pvg+었/ep+다/ef+고/jcr))
+            (NP 사람/ncn+들/xsn+은/jxc)
+            (V (V 말/ncpa+하/xsv+고/ecx)
+                (AUXP 있/px+다/ef))))+./sf)
+
+
+; 황복을 비롯하여 우리 주변의 동식물들을 다 없애도 우리만은 잘 살게 될 것이라고 생각한다면 , 우리는 이 순간 큰 착각을 하고 있는 것이다 .
+(S
+    (VP
+        (VP
+            (NP 황복/ncn+을/jco)
+            (V 비롯/ncpa+하/xsv+어/ecs))
+        (VP
+            (NP
+                (AP 우리/npp)
+                (AP 주변/ncn+의/jcm)
+                (NP 동식물/ncn+들/xsn+을/jco))
+            (ADVP 다/mag)
+            (V 없애/pvg+도/ecs))
+        (VP
+            (NP 우리/npp+만/jxc+은/jxc)
+            (NP
+                (AP
+                    (ADVP 잘/mag)
+                    (AP
+                        (V 살/pvg+게/ecx)
+                        (AP 되/px+ㄹ/etm)))
+                (NP 것/nbn+이/jp+라/ef+고/jcr))
+            (V 생각/ncpa+하/xsv+ㄴ다/ef+면/ecs))+,/sp
+        (VP
+            (NP 우리/npp+는/jxc)
+            (NP
+                (AP 이/mmd)
+                (NP 순간/ncn))
+            (NP
+                (AP 크/paa+ㄴ/etm)
+                (NP 착각/ncn+을/jco))
+            (VP
+                (AP
+                    (V 하/pvg+고/ecx)
+                    (AP 있/px+는/etm))
+                (V 것/nbn+이/jp+다/ef))))+./sf)
+
+
+; 어떤 수단을 쓰든지 온 나라의 황복들을 임진강과 섬진강에 불러서 , 편안하게 살수 있도록 해주고 싶다 .
+(S
+    (VP
+        (VP
+            (NP
+                (AP 어떤/mmd)
+                (NP 수단/ncn+을/jco))
+            (V 쓰/pvg+든지/ecc))
+        (VP
+            (NP
+                (AP 온/mma)
+                (AP 나라/ncn+의/jcm)
+                (NP 황복/ncn+들/xsn+을/jco))
+            (PP
+                (NP 임진강/nq+과/jcj)
+                (PP 섬진강/nq+에/jca))
+            (V 부르/pvg+어서/ecs))+,/sp
+        (VP
+            (NP
+                (AP
+                    (V 편안/ncps+하/xsm+게/ecs)
+                    (AP 살/pvg+ㄹ/etm))
+                (NP 수/nbn))
+            (V (V 있/paa+도록/ecs)
+                (V 하/pvg+어/ecx)
+                (AUXP 주/px+고/ecx)
+                (AUXP 싶/px+다/ef))))+./sf)
+
+
+; 그렇게 하는 것이 역사가 잘못 흐르는 것을 막는 것이라고 생각하기 때문이다 .
+(S
+    (VP
+        (NP
+            (AP
+                (V 그렇/pad+게/ecx)
+                (AP 하/px+는/etm))
+            (NP 것/nbn+이/jcs))
+        (NP 역사/ncn+가/jcs)
+        (NP
+            (NP
+                (AP
+                    (NP
+                        (AP
+                            (ADVP 잘못/mag)
+                            (AP 흐르/pvg+는/etm))
+                        (NP 것/nbn+을/jco))
+                    (AP 막/pvg+는/etm))
+                (NP 것/nbn+이/jp+라/ef+고/jcr))
+            (NP 생각/ncpa+하/xsv+기/etn))
+        (V 때문/nbn+이/jp+다/ef))+./sf)
+</tdmsfile>

@@ -1,0 +1,23 @@
+notag:715	7	3	0	*		+
+notag:958	26	2	0	*	어ecx	+
+replace tag:958	26	2	0	*	어	ecx	+
+notag:958	26	3	0	*		.
+notag:1046	12	1	0	마련했습니다.	마련ncpa	+
+replace tag:1046	12	1	0	마련했습니다.	마련	ncpa	+
+notag:1046	12	2	0	*		.
+notag:1245	27	1	0	구속했습니다	구속ncpa	+
+replace tag:1245	27	1	0	구속했습니다	구속	ncpa	+
+notag:1245	27	2	0	*		.
+notag:1277	17	2	0	*	어.ecx	+
+replace tag:1277	17	2	0	*	어.	ecx	+
+notag:1277	17	3	0	*		.
+notag:1401	21	1	0	요구했습니다.	요구ncpa	+
+replace tag:1401	21	1	0	요구했습니다.	요구	ncpa	+
+notag:1401	21	2	0	*		.
+notag:1440	3	1	0	아르마니나	아르마니	+
+notag:1484	7	1	0	촉구했지만	촉구ncpa	+
+replace tag:1484	7	1	0	촉구했지만	촉구	ncpa	+
+notag:1484	7	2	0	*		.
+notag:1768	15	2	0	*	아ecs	+
+replace tag:1768	15	2	0	*	아	ecs	+
+notag:1768	15	3	0	*		.

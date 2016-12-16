@@ -1,0 +1,190 @@
+notag:1	18	1	0	<note>		-
+notag:12	16	1	0	형식의미론에	형식의미론	+
+notag:78	7	1	0	형식의미론적	형식의미론	+
+notag:112	10	1	0	+----		+
+notag:112	11	1	0	+----		+
+notag:112	12	1	0	---+--+	---	+
+notag:112	12	2	0	*	--	+
+notag:112	17	1	0	+---		+
+notag:112	52	1	0	+---		+
+notag:112	66	1	0	+--		+
+notag:112	67	1	0	+---		+
+notag:112	68	1	0	--+-+	--	+
+notag:112	68	2	0	*	-	+
+notag:112	121	1	0	+--		+
+notag:112	122	2	0	*		+
+notag:112	150	1	0	+--		+
+notag:112	158	1	0	+--		+
+notag:112	159	1	0	+--		+
+notag:112	199	1	0	+--		+
+notag:112	209	1	0	+--		+
+notag:112	216	1	0	+----		+
+notag:112	218	2	0	*		+
+notag:120	7	1	0	+--		+
+notag:121	11	1	0	+--		+
+notag:125	4	1	0	+---		+
+notag:125	14	1	0	+--		+
+notag:125	18	1	0	+---		+
+notag:125	33	1	0	+--		+
+notag:129	4	1	0	+--		+
+notag:129	5	1	0	+---		+
+notag:129	6	1	0	--+--+	--	+
+notag:129	6	2	0	*	--	+
+notag:129	40	1	0	+---		+
+notag:129	52	1	0	+--		+
+notag:183	7	2	0	*		+
+notag:189	18	2	0	*		+
+notag:189	22	2	0	*		+
+notag:189	41	2	0	*		+
+notag:220	16	1	0	Kuno	Kuno	-
+notag:232	14	1	0	Kuno	Kuno	-
+notag:235	2	1	0	Kuno	f	-
+notag:247	4	1	0	+------+		+
+notag:247	4	2	0	*	------	+
+notag:248	24	1	0	+-------+		+
+notag:248	24	2	0	*	-------	+
+notag:248	25	1	0	5772		+
+notag:250	4	1	0	+-------------------------+		+
+notag:250	4	2	0	*	-------------------------	+
+notag:251	29	1	0	5872		+
+notag:251	29	2	0	*	-------------------------------------------------	+
+notag:251	29	3	0	*		+
+notag:251	29	4	0	*	-	.
+notag:262	1	1	0	Kuno	f	-
+notag:267	1	1	0	Kore	f	-
+notag:285	1	1	0	Kuno	f	-
+notag:286	1	1	0	Kuno	f	-
+notag:321	1	1	0	Kuno	f	-
+notag:482	1	1	0	Kameyama	f	-
+notag:558	28	1	0	보문소	보문소	-
+notag:568	17	1	0	12047	관계	-
+notag:573	5	1	0	1983	1983	-
+notag:617	6	1	0	이	이jcs	-
+replace tag:617	6	1	0	이	이	jcs	-
+notag:660	5	2	0	*		+
+notag:660	25	2	0	*		+
+notag:660	31	2	0	*		+
+notag:660	33	2	0	*		+
+notag:660	55	1	0	13892	SUBCAT	-
+notag:660	68	2	0	*		+
+notag:732	10	1	0	Kameyama	Kameyama	-
+notag:795	30	2	2	*		+
+notag:795	30	5	2	*	sd	+
+replace tag:795	30	5	2	*		sd	+
+notag:795	30	6	2	*		.
+notag:795	47	2	1	*		+
+notag:795	49	1	0	16925	[	+
+notag:795	49	2	0	*		.
+notag:797	36	2	0	*		+
+notag:804	21	2	0	*		+
+notag:804	33	2	0	*		+
+notag:804	69	2	0	*		+
+notag:808	11	2	0	*		+
+notag:808	14	2	0	*		+
+notag:855	1	1	0	Keenan	Keenan	-
+notag:874	43	1	0	(	(	-
+notag:874	50	1	0	주제	주제	-
+notag:874	52	1	0	<	<	-
+notag:960	17	1	0	에서는	에서jca	+
+replace tag:960	17	1	0	에서는	에서	jca	+
+notag:960	17	2	0	*		.
+notag:961	9	2	0	*		+
+notag:964	13	2	0	*		+
+notag:966	4	2	0	*		+
+notag:977	8	2	0	*		+
+notag:981	4	2	0	*		+
+notag:982	6	2	0	*		+
+notag:991	6	2	0	*		+
+notag:1006	8	2	0	*		+
+notag:1025	18	1	0	21161	--------------------------------------	-
+notag:1151	48	1	0	이	이jcs	-
+replace tag:1151	48	1	0	이	이	jcs	-
+notag:1269	14	2	0	*		+
+notag:1314	23	1	0	공지시	공지시ncpa	-
+replace tag:1314	23	1	0	공지시	공지시	ncpa	-
+notag:1523	23	2	0	*		+
+notag:1523	28	2	0	*		+
+notag:1524	16	2	0	*		+
+notag:1533	6	2	0	*		+
+notag:1533	11	2	0	*		+
+notag:1623	18	2	0	*		+
+notag:1680	7	1	0	Keenan	Keenan	-
+notag:1935	1	1	0	이런	Kuno	-
+notag:1950	16	1	0	Condition	Korean	-
+notag:2092	13	1	0	Kuno	Kuno	-
+notag:2096	1	1	0	Kuno	Kuno	-
+notag:2113	20	1	0	Kuno	Kuno	-
+notag:2253	9	3	0	*		+
+notag:2253	16	3	0	*		+
+notag:2259	6	2	0	*		+
+notag:2314	14	2	0	*		+
+notag:2607	6	2	0	*		+
+notag:2607	6	5	0	*		+
+notag:2607	33	1	0	49452	1	-
+notag:2607	39	2	0	*		+
+notag:2607	48	2	0	*		+
+notag:2610	23	1	0	49515	"[	-
+notag:2639	1	1	0	Kimi	Kimi	-
+notag:2644	1	1	0	It	Kim	-
+notag:2646	1	1	0	[	Kim	-
+notag:2656	1	1	0	It	Kimi	-
+notag:2711	1	1	0	Kimi	Kimi	-
+notag:2711	2	1	0	We	Know	-
+notag:2713	27	1	0	51336	1	-
+notag:2723	26	1	0	51644	verb	-
+notag:2724	2	1	0	51660	-	-
+notag:2779	25	1	0	52667	BACKGROUND	-
+notag:2799	41	1	0	53055	]}	-
+notag:2806	28	2	0	*		+
+notag:2806	35	3	0	*		+
+notag:2806	47	2	0	*		+
+notag:2806	63	4	0	*		+
+notag:2816	37	2	0	*		+
+notag:2816	45	4	0	*		+
+notag:2816	98	1	0	|	Kim	-
+notag:2821	115	2	0	*		+
+notag:2821	123	4	0	*		+
+notag:2821	160	1	0	|	Kim	-
+notag:2824	56	1	0	53911	]}	-
+notag:2827	66	1	0	|	Kim	-
+notag:2865	1	1	0	(	Korean	-
+notag:2886	73	1	0	55204	-	-
+notag:2900	1	1	0	that	Kim	-
+notag:2901	1	1	0	that	Kim	-
+notag:2926	30	1	0	56294	red	-
+notag:2930	1	1	0	56395	이	-
+notag:2937	18	1	0	56572	RELN	-
+notag:2939	1	1	0	With	Kim	-
+notag:2942	1	1	0	'	Kim	-
+notag:2959	26	1	0	56948	SYNSEM	-
+notag:2959	71	1	0	56993	-	-
+notag:2987	28	1	0	57484	SYNSEM	-
+notag:2987	75	1	0	57531	-	-
+notag:3017	12	1	0	+--		+
+notag:3017	13	2	0	*		+
+notag:3019	16	2	0	*		+
+notag:3019	18	2	0	*		+
+notag:3022	70	1	0	Kim	f	-
+notag:3189	1	1	0	Kuno	f	-
+notag:3192	10	1	0	+--		+
+notag:3192	53	2	0	*		+
+notag:3192	89	2	0	*		+
+notag:3192	91	2	0	*		+
+notag:3192	111	1	0	+---		+
+notag:3192	114	2	0	*		+
+notag:3192	114	4	0	*		+
+notag:3192	115	2	0	*		+
+notag:3197	26	1	0	+--		+
+notag:3197	27	2	0	*		+
+notag:3197	61	2	0	*		+
+notag:3197	64	2	0	*		+
+notag:3197	84	1	0	+---		+
+notag:3197	87	1	0	--++	--	+
+notag:3197	87	2	0	*		+
+notag:3197	88	2	0	*		+
+notag:3225	10	2	0	*		+
+notag:3225	12	2	0	*		+
+notag:3225	44	2	0	*		+
+notag:3261	10	2	0	*		+
+notag:3261	12	2	0	*		+
+notag:3261	44	2	0	*		+
